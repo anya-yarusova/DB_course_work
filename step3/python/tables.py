@@ -1,7 +1,7 @@
 from python.base import *
 from faker import Faker
 
-fake = Faker('en_En')
+fake = Faker('en_Us')
 
 
 def generate_bool():
@@ -158,7 +158,7 @@ ROUTE_TABLE = RouteTable()
 
 class PlaceTable(Table):
     PlACE_ID = Field("place_id", SERIAL, [PK])
-    NAME = Field("name", TEXT, generate_callback=fake.street_title)
+    NAME = Field("name", TEXT, generate_callback=fake.text)
     DESCRIPTION = Field("description", TEXT, generate_callback=fake.text)
     LOCATION = Field("location", POINT,
                      generate_callback=lambda: "POINT" + "(" + str(fake.latitude()) + "," + str(fake.longitude()) + ")")

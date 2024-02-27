@@ -1,29997 +1,30000 @@
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1744,7599);
+VALUES (8995,8697);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4181,1890);
+VALUES (4831,5775);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9312,9964);
+VALUES (1498,8580);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7660,2197);
+VALUES (2853,6777);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3649,2734);
+VALUES (7081,5280);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8112,1938);
+VALUES (1046,6802);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3397,6158);
+VALUES (9228,2464);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (545,4555);
+VALUES (1642,4333);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1032,4562);
+VALUES (5013,3152);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4441,3065);
+VALUES (5973,7163);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7883,4926);
+VALUES (8368,2466);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8659,6191);
+VALUES (4382,2729);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (219,7753);
+VALUES (2676,9107);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6702,2040);
+VALUES (7364,7728);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (848,5720);
+VALUES (9805,479);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1466,7818);
+VALUES (7822,8424);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5243,227);
+VALUES (2743,4442);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2050,7750);
+VALUES (2521,3751);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (367,5088);
+VALUES (7383,8795);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (16,279);
+VALUES (9545,877);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4196,6897);
+VALUES (8566,8365);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5133,5263);
+VALUES (1587,1300);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3681,7691);
+VALUES (7194,3249);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5555,7463);
+VALUES (8988,8303);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8811,7914);
+VALUES (5152,7438);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (510,5513);
+VALUES (6040,1758);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9753,3114);
+VALUES (5069,3521);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7399,7654);
+VALUES (292,5453);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9422,107);
+VALUES (6181,3665);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6587,1053);
+VALUES (1268,7086);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (616,8042);
+VALUES (2438,4054);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3651,7363);
+VALUES (9204,2320);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5810,1362);
+VALUES (3577,330);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5107,3779);
+VALUES (9478,3887);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7630,9777);
+VALUES (9664,7720);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5549,8498);
+VALUES (7466,5366);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7846,6326);
+VALUES (7534,4203);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (328,3214);
+VALUES (6534,1527);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (204,3629);
+VALUES (7349,5300);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6449,6956);
+VALUES (8512,3198);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8801,8826);
+VALUES (5736,4079);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1979,2409);
+VALUES (2334,4260);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9562,1907);
+VALUES (9787,747);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2284,6734);
+VALUES (9988,1981);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3675,3249);
+VALUES (9308,9361);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (771,6935);
+VALUES (8891,6312);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1855,354);
+VALUES (563,9656);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8487,6540);
+VALUES (3542,4479);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5009,9213);
+VALUES (3883,8968);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5149,4761);
+VALUES (3971,7238);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6858,3910);
+VALUES (5932,3743);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8537,5524);
+VALUES (734,8541);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7554,5855);
+VALUES (5682,2568);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1042,4200);
+VALUES (312,4212);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (82,5364);
+VALUES (8735,6742);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2257,4248);
+VALUES (223,9302);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7304,6043);
+VALUES (1079,4015);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8536,8431);
+VALUES (3196,4819);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4891,3666);
+VALUES (2590,7350);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9365,6868);
+VALUES (5664,1186);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4283,349);
+VALUES (895,2637);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3629,9301);
+VALUES (2484,1113);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6774,3923);
+VALUES (4263,8871);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3873,2821);
+VALUES (6782,7764);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1397,3792);
+VALUES (1737,5401);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8416,6083);
+VALUES (8945,725);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7914,9688);
+VALUES (3655,9760);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (11,2888);
+VALUES (9265,4280);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3580,6555);
+VALUES (9076,8807);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (831,9977);
+VALUES (1875,9372);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3619,8330);
+VALUES (4666,7135);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8032,296);
+VALUES (1971,197);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8569,760);
+VALUES (6961,5526);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8186,7858);
+VALUES (8684,2973);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7063,9819);
+VALUES (7051,3122);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1441,1331);
+VALUES (9429,6139);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9534,1271);
+VALUES (8240,7684);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9808,5789);
+VALUES (3777,6852);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9247,7639);
+VALUES (4912,4371);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5202,3219);
+VALUES (1974,5290);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7750,6231);
+VALUES (7691,6079);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9743,8254);
+VALUES (8254,4376);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6214,7924);
+VALUES (3519,6640);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (880,3078);
+VALUES (745,8466);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6225,7082);
+VALUES (6859,2389);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1268,5592);
+VALUES (5362,1033);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2929,4837);
+VALUES (7933,930);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8826,336);
+VALUES (457,6160);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5501,4828);
+VALUES (5706,5247);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7287,3629);
+VALUES (5666,9570);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5563,5413);
+VALUES (3464,4113);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8023,4433);
+VALUES (8046,8431);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6834,3516);
+VALUES (3471,6082);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3932,66);
+VALUES (6269,5261);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5890,1822);
+VALUES (3106,6773);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6555,9578);
+VALUES (8308,4923);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4398,8230);
+VALUES (9928,5498);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (194,4912);
+VALUES (1549,3522);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8493,9598);
+VALUES (35,1759);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3523,5149);
+VALUES (1025,4072);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2706,9952);
+VALUES (8613,2154);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3624,5538);
+VALUES (5980,4819);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5916,2079);
+VALUES (319,8634);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5981,1142);
+VALUES (730,7498);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4432,4218);
+VALUES (8348,6348);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4097,2259);
+VALUES (5239,2640);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7809,8349);
+VALUES (9544,6987);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4295,8718);
+VALUES (8873,4756);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2450,7394);
+VALUES (5702,7050);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8791,1913);
+VALUES (4543,7788);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9920,4989);
+VALUES (2489,4987);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7215,2377);
+VALUES (4678,5837);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (657,9389);
+VALUES (5155,9893);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3875,8716);
+VALUES (2695,1611);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2985,627);
+VALUES (6701,5495);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9567,6438);
+VALUES (2404,3146);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3756,1881);
+VALUES (3806,1238);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4256,2952);
+VALUES (4583,7464);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1599,3753);
+VALUES (9113,6426);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7784,3928);
+VALUES (1929,7543);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (158,6518);
+VALUES (1314,5427);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9876,6766);
+VALUES (3675,1425);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (280,9827);
+VALUES (2854,8702);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1408,9726);
+VALUES (6409,9814);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9749,2240);
+VALUES (1741,7848);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5031,3883);
+VALUES (3687,4389);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3374,2914);
+VALUES (617,4130);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7725,9365);
+VALUES (6378,6816);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3380,3313);
+VALUES (9471,1492);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5100,5122);
+VALUES (7528,4350);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9828,4772);
+VALUES (3657,3566);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9128,3491);
+VALUES (1937,3857);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9454,3630);
+VALUES (406,5765);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1771,2957);
+VALUES (1392,4462);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3069,5448);
+VALUES (9432,2818);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5286,3592);
+VALUES (5875,4885);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1169,4060);
+VALUES (6725,1162);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7263,7660);
+VALUES (644,9041);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3341,8150);
+VALUES (2429,4724);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4423,6921);
+VALUES (5109,3344);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1370,7675);
+VALUES (3262,1262);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7777,938);
+VALUES (5837,2599);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7027,421);
+VALUES (2395,3432);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3767,5153);
+VALUES (680,5327);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8340,8178);
+VALUES (9283,5597);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1808,531);
+VALUES (9567,8987);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2462,9220);
+VALUES (8113,4626);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4111,8401);
+VALUES (5173,3724);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3248,3325);
+VALUES (9438,6512);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4426,1132);
+VALUES (5323,7374);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7124,3548);
+VALUES (8697,7128);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (313,6317);
+VALUES (8978,7757);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1929,6698);
+VALUES (9172,6903);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (704,1880);
+VALUES (3246,8627);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7017,2800);
+VALUES (2155,2841);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5529,2685);
+VALUES (5003,8969);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9984,2214);
+VALUES (6664,7497);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5925,9205);
+VALUES (1236,5793);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2707,9551);
+VALUES (5253,578);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7910,1208);
+VALUES (2917,2917);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1745,9179);
+VALUES (8875,6755);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7332,4979);
+VALUES (676,9357);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8930,9904);
+VALUES (4394,367);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1036,4564);
+VALUES (2776,9756);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8210,7152);
+VALUES (6954,5935);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4879,2780);
+VALUES (1208,2886);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5481,7154);
+VALUES (8685,3435);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9423,3246);
+VALUES (5503,162);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8246,2154);
+VALUES (597,210);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (225,4454);
+VALUES (7465,472);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6966,2081);
+VALUES (6953,3723);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2768,6610);
+VALUES (222,332);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7546,6032);
+VALUES (6288,7819);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6095,5823);
+VALUES (7254,8465);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5511,8243);
+VALUES (4786,4871);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (273,1202);
+VALUES (5034,9992);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4753,708);
+VALUES (5715,3322);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4912,6058);
+VALUES (3700,2544);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9078,2284);
+VALUES (8391,5813);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3010,1333);
+VALUES (2739,7059);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2192,3232);
+VALUES (8248,1287);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9776,9141);
+VALUES (69,6491);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8664,6028);
+VALUES (5557,7815);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9255,1920);
+VALUES (1687,2554);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (21,9699);
+VALUES (1412,6362);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6408,6646);
+VALUES (1148,7274);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (685,801);
+VALUES (2506,7873);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9644,2062);
+VALUES (7392,6786);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7326,6259);
+VALUES (7987,6209);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2377,2619);
+VALUES (4929,8975);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7097,9878);
+VALUES (6496,1433);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4030,8392);
+VALUES (2791,4515);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8970,6781);
+VALUES (8462,3582);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7929,4090);
+VALUES (1178,1730);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6746,7545);
+VALUES (9065,2285);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5,1248);
+VALUES (5731,4727);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8780,1852);
+VALUES (3084,6123);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6858,5558);
+VALUES (2582,7235);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (929,8545);
+VALUES (4770,8277);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2543,4680);
+VALUES (394,5890);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9673,3754);
+VALUES (9725,2280);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (109,5169);
+VALUES (4325,9175);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3071,9910);
+VALUES (546,4114);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6761,1725);
+VALUES (2033,4628);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (256,264);
+VALUES (3518,9521);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4536,5030);
+VALUES (1828,7028);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6211,6952);
+VALUES (1977,5232);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (521,9495);
+VALUES (7442,9403);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9700,3209);
+VALUES (6929,856);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (886,1873);
+VALUES (5849,1963);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5024,1096);
+VALUES (60,2211);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7052,959);
+VALUES (6512,4632);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6911,641);
+VALUES (7407,6020);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3652,1794);
+VALUES (9234,5126);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8094,9547);
+VALUES (6305,8352);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8263,9998);
+VALUES (9953,8004);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6375,1063);
+VALUES (5620,9870);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6677,7072);
+VALUES (8761,33);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5798,159);
+VALUES (1598,8999);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3004,4434);
+VALUES (9488,1464);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4922,3768);
+VALUES (3617,6135);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3660,2438);
+VALUES (8009,2304);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6079,955);
+VALUES (2862,6256);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6682,398);
+VALUES (2057,4564);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6979,6877);
+VALUES (7019,2118);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4179,8643);
+VALUES (4885,4954);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7155,3637);
+VALUES (7596,3553);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (761,8546);
+VALUES (5001,4037);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6939,2715);
+VALUES (2720,9395);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8590,6073);
+VALUES (6179,1787);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8125,4898);
+VALUES (5246,4843);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (125,7601);
+VALUES (3764,7843);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6349,5965);
+VALUES (3540,7048);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6175,3566);
+VALUES (3272,4549);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6981,6666);
+VALUES (3851,938);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1504,6617);
+VALUES (904,3999);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4147,4571);
+VALUES (5803,2594);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (911,499);
+VALUES (4086,5334);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2409,9001);
+VALUES (3596,1411);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (913,699);
+VALUES (4245,9790);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (762,7122);
+VALUES (3526,1752);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4863,2705);
+VALUES (6377,2769);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2144,4237);
+VALUES (2431,9828);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5615,520);
+VALUES (3546,944);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6336,3103);
+VALUES (2052,3534);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5764,4433);
+VALUES (7445,193);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5739,8070);
+VALUES (4245,1031);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6826,6460);
+VALUES (5757,8393);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1797,7809);
+VALUES (3868,2121);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3508,9470);
+VALUES (1673,2639);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9715,6033);
+VALUES (2833,585);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2458,8844);
+VALUES (9945,9683);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9347,5454);
+VALUES (9028,8433);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6443,2918);
+VALUES (1458,5417);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6050,1077);
+VALUES (7516,8727);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9051,3805);
+VALUES (3660,2740);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6251,3440);
+VALUES (3237,792);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8521,8203);
+VALUES (609,8308);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6449,7917);
+VALUES (9204,6904);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2357,4035);
+VALUES (2779,3161);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3532,2136);
+VALUES (366,6707);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1165,9989);
+VALUES (3179,2893);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7445,6124);
+VALUES (3268,7358);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4205,2685);
+VALUES (4198,4230);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9781,3596);
+VALUES (7095,7498);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2663,3858);
+VALUES (5408,3184);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2403,6624);
+VALUES (8695,894);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1464,4129);
+VALUES (3868,8415);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7235,4846);
+VALUES (8009,6936);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8111,2089);
+VALUES (9311,1321);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8110,5212);
+VALUES (8824,6590);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3813,445);
+VALUES (5417,4961);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9744,7860);
+VALUES (6648,3763);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8459,9703);
+VALUES (6172,8622);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4446,8599);
+VALUES (8182,5799);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (347,1379);
+VALUES (5241,3309);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9451,5496);
+VALUES (8472,9664);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4677,8794);
+VALUES (4636,3288);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5094,122);
+VALUES (9359,9183);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8297,1529);
+VALUES (1702,9850);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8267,7317);
+VALUES (1414,9580);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8477,8288);
+VALUES (2499,6603);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (53,5322);
+VALUES (2594,2955);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8813,3714);
+VALUES (8314,5267);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2823,4235);
+VALUES (2830,9426);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5678,7317);
+VALUES (5261,6605);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3694,2341);
+VALUES (3914,2048);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5685,9306);
+VALUES (1454,6572);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3649,1264);
+VALUES (1397,7776);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3839,4654);
+VALUES (2072,1804);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2593,7882);
+VALUES (178,1602);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8249,6312);
+VALUES (863,4363);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8816,9609);
+VALUES (2436,2005);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7682,927);
+VALUES (89,6381);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5931,9187);
+VALUES (6736,1219);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4782,8999);
+VALUES (8944,3025);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4220,8548);
+VALUES (7456,1355);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3077,3694);
+VALUES (9971,3126);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (694,4700);
+VALUES (2329,1996);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3411,701);
+VALUES (1280,3164);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6482,4628);
+VALUES (1616,3744);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3668,1155);
+VALUES (3982,2989);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4341,2840);
+VALUES (5060,5019);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9385,133);
+VALUES (7299,606);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4002,2949);
+VALUES (692,6523);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1658,9562);
+VALUES (9667,9934);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (791,5554);
+VALUES (1922,4828);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9666,3188);
+VALUES (4652,8638);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4034,9090);
+VALUES (7253,2847);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3439,6358);
+VALUES (6403,1990);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8366,5583);
+VALUES (8362,603);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (743,1554);
+VALUES (4629,1257);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5983,3559);
+VALUES (9263,6568);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (530,5935);
+VALUES (2942,3168);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (221,5315);
+VALUES (2243,3400);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7070,5827);
+VALUES (8497,8962);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4298,1805);
+VALUES (1042,9259);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9573,29);
+VALUES (49,7289);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (550,1502);
+VALUES (9766,4700);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (349,4965);
+VALUES (9837,6650);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8228,3112);
+VALUES (6799,6658);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7592,6953);
+VALUES (4569,2774);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (248,7092);
+VALUES (5520,888);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1441,7273);
+VALUES (4714,9768);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (313,770);
+VALUES (9932,280);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2930,8668);
+VALUES (4896,2323);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6750,221);
+VALUES (716,6270);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2300,6113);
+VALUES (2826,2794);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1299,7441);
+VALUES (8689,7401);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8613,4647);
+VALUES (6480,1854);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8154,4219);
+VALUES (3454,9222);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9414,6667);
+VALUES (1304,4362);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4630,5553);
+VALUES (898,7880);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4372,4525);
+VALUES (6222,2788);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5571,960);
+VALUES (9487,6018);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7931,2556);
+VALUES (3873,2170);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3533,6056);
+VALUES (718,9246);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2055,3503);
+VALUES (3136,3954);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7494,965);
+VALUES (4579,6087);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9678,6406);
+VALUES (9119,4083);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3485,3063);
+VALUES (2534,7162);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5182,562);
+VALUES (7599,60);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2168,7828);
+VALUES (6169,7587);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5385,7087);
+VALUES (8258,1361);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2557,8677);
+VALUES (6328,5350);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1519,5057);
+VALUES (3784,6891);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1469,1481);
+VALUES (2023,8884);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9031,7552);
+VALUES (613,5312);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (258,9058);
+VALUES (9717,9554);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4239,1793);
+VALUES (8292,1203);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8164,4813);
+VALUES (2384,6905);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3820,9677);
+VALUES (4910,4351);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7589,5340);
+VALUES (2517,8051);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2158,270);
+VALUES (133,4448);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (690,850);
+VALUES (6016,5032);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7029,867);
+VALUES (1611,5372);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (769,2442);
+VALUES (4910,60);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8418,4001);
+VALUES (3201,4776);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (986,3421);
+VALUES (2392,6988);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3562,7345);
+VALUES (9581,5936);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5261,3488);
+VALUES (2125,9353);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1737,4828);
+VALUES (9196,8991);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9410,2364);
+VALUES (131,3960);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5178,4574);
+VALUES (2888,746);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5910,3629);
+VALUES (5614,444);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5037,5431);
+VALUES (8362,6477);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4091,8774);
+VALUES (4469,5443);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6061,1781);
+VALUES (2746,1447);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9007,9246);
+VALUES (517,7162);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9242,2084);
+VALUES (4390,1150);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7372,1327);
+VALUES (2456,2671);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (379,8092);
+VALUES (1372,6081);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8488,1729);
+VALUES (6693,6892);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9328,1722);
+VALUES (6978,6482);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2207,3925);
+VALUES (6515,3208);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5199,2084);
+VALUES (5561,3377);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9190,7938);
+VALUES (6644,2037);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6067,973);
+VALUES (2263,8087);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2964,6816);
+VALUES (4694,20);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1822,9570);
+VALUES (6762,8818);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (44,2523);
+VALUES (2553,6268);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1912,7257);
+VALUES (4904,4512);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9048,7855);
+VALUES (754,1651);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6323,4370);
+VALUES (1994,7529);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3033,2262);
+VALUES (4962,3315);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1037,2961);
+VALUES (4524,4311);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8570,1232);
+VALUES (7174,1162);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9380,2751);
+VALUES (8615,5602);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5247,1701);
+VALUES (3156,3153);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7438,4590);
+VALUES (244,1636);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7245,5896);
+VALUES (5455,8698);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9157,13);
+VALUES (3534,705);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2789,9443);
+VALUES (2687,709);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (845,3214);
+VALUES (9534,8894);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (219,8458);
+VALUES (7257,3554);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1468,556);
+VALUES (9201,3153);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9593,2332);
+VALUES (9760,3342);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7431,4869);
+VALUES (2615,3869);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4518,5944);
+VALUES (6288,828);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3896,4878);
+VALUES (3085,8346);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7981,8792);
+VALUES (9645,1262);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (33,2000);
+VALUES (3236,6405);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (674,7999);
+VALUES (4768,2158);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6140,3152);
+VALUES (5839,150);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1662,6116);
+VALUES (4643,1477);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5327,4776);
+VALUES (4450,2617);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (662,4986);
+VALUES (3674,315);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7279,2386);
+VALUES (7869,9895);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2598,7413);
+VALUES (2348,9324);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1171,332);
+VALUES (6545,5415);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (150,4147);
+VALUES (5959,5602);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7815,9834);
+VALUES (2221,7167);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7713,3298);
+VALUES (6375,996);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8617,9222);
+VALUES (935,1033);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1775,4415);
+VALUES (8905,2550);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2074,664);
+VALUES (4315,6689);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1325,4123);
+VALUES (2380,5479);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8974,6638);
+VALUES (1982,9630);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5386,7314);
+VALUES (3945,3907);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4163,3937);
+VALUES (5090,9558);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9122,4563);
+VALUES (4554,2648);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5649,4650);
+VALUES (7144,5900);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8608,8314);
+VALUES (5400,2408);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3655,9155);
+VALUES (3880,4759);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7711,6840);
+VALUES (3202,1944);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1320,6459);
+VALUES (5995,7277);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9012,4018);
+VALUES (3391,5416);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4882,9023);
+VALUES (1327,913);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5329,7110);
+VALUES (9512,1987);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5149,868);
+VALUES (9387,4438);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9884,3850);
+VALUES (1783,6574);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4674,4713);
+VALUES (2598,829);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8906,7639);
+VALUES (9363,5649);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9840,3495);
+VALUES (6563,2207);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7548,1831);
+VALUES (2884,8054);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5031,9105);
+VALUES (9769,49);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4275,5145);
+VALUES (9733,9995);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (517,2170);
+VALUES (3854,7884);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5585,3355);
+VALUES (8415,3179);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8093,4849);
+VALUES (7492,9934);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (788,5255);
+VALUES (5629,4867);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7806,2176);
+VALUES (504,6778);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7741,3548);
+VALUES (9863,8);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2955,8484);
+VALUES (1267,3615);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9790,8273);
+VALUES (5316,860);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4923,3211);
+VALUES (5550,1139);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2307,6087);
+VALUES (3302,7377);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (123,6817);
+VALUES (2425,7861);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (772,5934);
+VALUES (1326,3241);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9958,174);
+VALUES (3365,9765);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2545,2208);
+VALUES (7962,8575);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7681,6358);
+VALUES (532,6775);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3401,2502);
+VALUES (9213,3323);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8310,721);
+VALUES (2373,6345);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7379,2165);
+VALUES (6108,4321);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1248,7935);
+VALUES (2272,3992);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8394,4708);
+VALUES (1332,3674);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6423,5441);
+VALUES (6277,9772);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3413,1266);
+VALUES (5625,5730);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5647,2772);
+VALUES (9383,3957);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7108,8862);
+VALUES (8495,4104);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (185,3852);
+VALUES (6605,3775);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4053,1189);
+VALUES (8811,968);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6433,2423);
+VALUES (497,6414);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7850,6086);
+VALUES (6911,415);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4778,325);
+VALUES (6477,2555);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5250,3101);
+VALUES (3034,3155);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6939,3061);
+VALUES (9,4160);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4275,1358);
+VALUES (9171,6314);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2986,6508);
+VALUES (3153,7954);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5072,1663);
+VALUES (1255,9346);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6084,7981);
+VALUES (9529,5179);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7500,3884);
+VALUES (3292,6937);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (747,8490);
+VALUES (7656,6913);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1483,1488);
+VALUES (5370,7505);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8493,8849);
+VALUES (182,5275);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7303,2716);
+VALUES (9485,8910);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2585,8573);
+VALUES (3356,4939);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6406,9488);
+VALUES (6325,6403);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5952,2913);
+VALUES (5572,5667);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1187,3281);
+VALUES (7334,9651);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9385,6249);
+VALUES (1169,9289);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2431,2722);
+VALUES (9208,4322);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2201,6409);
+VALUES (6522,7890);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9319,1614);
+VALUES (5091,2049);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4456,8384);
+VALUES (6925,2878);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6257,9607);
+VALUES (691,8041);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1760,4790);
+VALUES (4555,2720);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5835,2488);
+VALUES (5042,91);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (543,7366);
+VALUES (4287,3405);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4793,9194);
+VALUES (3846,9409);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (824,4823);
+VALUES (4466,2008);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (911,9520);
+VALUES (9929,8415);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6073,3540);
+VALUES (9265,5176);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5810,5421);
+VALUES (3000,7811);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7963,7496);
+VALUES (3872,1250);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9642,5762);
+VALUES (2609,1301);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6093,7591);
+VALUES (6742,8017);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1024,3042);
+VALUES (915,7157);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5185,410);
+VALUES (2423,9492);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4164,1033);
+VALUES (307,5195);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8124,471);
+VALUES (1732,7693);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (865,6647);
+VALUES (4036,3048);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1585,1050);
+VALUES (9305,8867);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8977,3329);
+VALUES (8663,2631);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6697,655);
+VALUES (1138,3955);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7443,8524);
+VALUES (2508,8897);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6653,9758);
+VALUES (5170,3219);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4264,2329);
+VALUES (9265,7100);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9975,2369);
+VALUES (2889,8983);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4701,6114);
+VALUES (2202,7662);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1632,2442);
+VALUES (22,91);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2203,360);
+VALUES (7241,2613);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9912,9611);
+VALUES (2284,7291);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4348,251);
+VALUES (5626,7734);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5830,7728);
+VALUES (8845,4577);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1594,2223);
+VALUES (5491,5962);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7214,2949);
+VALUES (4842,4087);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2333,5897);
+VALUES (9295,5459);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8355,2586);
+VALUES (2571,2241);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9755,7236);
+VALUES (3415,9465);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3184,270);
+VALUES (5111,8863);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8350,551);
+VALUES (8508,1337);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5409,6079);
+VALUES (9377,2826);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2438,4276);
+VALUES (3238,1259);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4561,9414);
+VALUES (7109,1943);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1840,112);
+VALUES (2871,4097);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7702,173);
+VALUES (5073,6326);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (728,1480);
+VALUES (7296,8883);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1961,8842);
+VALUES (1569,4248);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3634,1687);
+VALUES (8901,2011);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7194,4027);
+VALUES (6755,1570);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9329,3403);
+VALUES (7418,4168);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8455,21);
+VALUES (5878,9230);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8445,1429);
+VALUES (9853,8331);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5783,2923);
+VALUES (8395,6956);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (714,5320);
+VALUES (5840,4285);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2176,477);
+VALUES (8173,5897);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5405,1713);
+VALUES (3383,2800);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (258,5326);
+VALUES (7547,8112);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1009,4834);
+VALUES (1437,2179);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5505,7915);
+VALUES (9668,3737);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5859,7799);
+VALUES (7137,1764);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5609,6115);
+VALUES (7122,6225);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2518,1430);
+VALUES (8481,5624);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8574,244);
+VALUES (7017,8950);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8972,2888);
+VALUES (621,4248);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2490,1573);
+VALUES (6454,4163);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1772,7393);
+VALUES (6467,6391);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2465,8826);
+VALUES (9167,4232);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4021,1943);
+VALUES (2445,4864);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8265,8120);
+VALUES (5958,3608);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5058,5381);
+VALUES (7717,7569);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4347,2017);
+VALUES (7461,6350);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5377,5348);
+VALUES (7524,2422);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8172,7250);
+VALUES (5282,5847);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8988,3683);
+VALUES (2127,2426);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6883,7589);
+VALUES (695,4181);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6522,7679);
+VALUES (6852,7293);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1435,194);
+VALUES (1930,6922);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6657,5624);
+VALUES (7462,363);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (994,7351);
+VALUES (4780,5964);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (493,5860);
+VALUES (1780,7453);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7713,842);
+VALUES (4495,9599);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2325,2316);
+VALUES (9072,7983);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4549,4213);
+VALUES (5979,6487);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1546,5551);
+VALUES (5638,9519);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2579,4486);
+VALUES (1876,6129);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7268,5939);
+VALUES (2525,3556);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1385,5434);
+VALUES (9931,7271);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8371,7927);
+VALUES (7569,6764);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3755,6485);
+VALUES (7123,9058);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6191,2554);
+VALUES (5962,8492);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6523,8762);
+VALUES (6741,583);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7236,1632);
+VALUES (230,756);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9367,5402);
+VALUES (8073,708);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9301,8348);
+VALUES (6173,3347);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8580,2490);
+VALUES (3961,20);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8559,145);
+VALUES (8334,7173);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1513,4711);
+VALUES (1446,9751);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3608,7777);
+VALUES (1869,9995);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (162,53);
+VALUES (5847,6202);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8573,9546);
+VALUES (6352,7182);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7942,6604);
+VALUES (3895,2303);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2870,5482);
+VALUES (9679,70);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2505,1874);
+VALUES (7123,9167);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1149,7311);
+VALUES (2101,2337);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7898,4491);
+VALUES (9886,490);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2527,7158);
+VALUES (3258,6488);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2287,4487);
+VALUES (8840,4276);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5254,3116);
+VALUES (1001,5176);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3063,4677);
+VALUES (2926,4202);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8731,407);
+VALUES (8371,77);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4326,558);
+VALUES (2975,5906);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4050,5450);
+VALUES (3559,2416);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8390,9327);
+VALUES (7465,6028);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7716,6193);
+VALUES (769,3285);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8329,6616);
+VALUES (8226,6916);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7082,6142);
+VALUES (3228,9273);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2539,3326);
+VALUES (5000,4767);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4541,275);
+VALUES (44,8640);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7580,8738);
+VALUES (9337,1040);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1553,1071);
+VALUES (5358,353);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9821,3221);
+VALUES (9318,474);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2829,7123);
+VALUES (7672,6617);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3261,3861);
+VALUES (7077,4638);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1010,9002);
+VALUES (9986,9511);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1439,7424);
+VALUES (7973,4167);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (981,7290);
+VALUES (1832,2735);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5029,7458);
+VALUES (1622,4665);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7553,3653);
+VALUES (5995,4740);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2994,3103);
+VALUES (4820,5607);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4199,8118);
+VALUES (4687,6589);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2921,2357);
+VALUES (172,1985);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6150,1785);
+VALUES (7805,3651);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6676,1605);
+VALUES (8884,3704);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7846,9656);
+VALUES (8012,7877);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3296,6066);
+VALUES (5823,7640);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6376,8760);
+VALUES (6794,8725);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8456,4530);
+VALUES (3746,1234);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8074,2159);
+VALUES (5236,1080);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5292,4638);
+VALUES (7590,3416);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6337,1043);
+VALUES (7508,837);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4343,6456);
+VALUES (4293,8102);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1889,5707);
+VALUES (1208,5449);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8401,7157);
+VALUES (6898,6187);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7010,8494);
+VALUES (680,8537);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1475,5472);
+VALUES (6702,7116);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9203,9608);
+VALUES (9683,1692);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7234,5215);
+VALUES (2263,7104);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5961,6363);
+VALUES (9094,7350);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9150,8458);
+VALUES (6101,7961);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5479,9067);
+VALUES (8352,2145);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5618,8550);
+VALUES (9993,4326);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8456,3886);
+VALUES (6551,2797);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4907,7639);
+VALUES (790,5702);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3885,6427);
+VALUES (9452,3444);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9553,5570);
+VALUES (2586,1690);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (585,7141);
+VALUES (3557,5165);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3083,6920);
+VALUES (3642,7371);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (803,5566);
+VALUES (8570,2412);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6305,8036);
+VALUES (3633,4156);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1139,3931);
+VALUES (9053,3970);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8482,8133);
+VALUES (7846,9375);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (400,2836);
+VALUES (2155,4471);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8688,997);
+VALUES (5868,3961);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (619,801);
+VALUES (6260,2701);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9428,1544);
+VALUES (6935,4637);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9985,7383);
+VALUES (7658,3617);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3975,3557);
+VALUES (8736,8558);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9362,7632);
+VALUES (6827,6061);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3334,1427);
+VALUES (3477,880);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8098,5640);
+VALUES (9771,4476);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9089,1446);
+VALUES (8112,5823);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1051,502);
+VALUES (6057,4250);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (497,3967);
+VALUES (8512,6846);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4333,1954);
+VALUES (8456,1380);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5048,6123);
+VALUES (2728,2810);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1291,8691);
+VALUES (3839,3323);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6451,3978);
+VALUES (931,7362);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5557,9620);
+VALUES (2027,2725);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7130,1024);
+VALUES (1382,9663);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3287,5449);
+VALUES (4908,5350);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2888,8061);
+VALUES (5658,3937);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7922,388);
+VALUES (9246,6925);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4777,1000);
+VALUES (7290,6505);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (864,8259);
+VALUES (2700,7312);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7201,7272);
+VALUES (3838,1507);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (433,4878);
+VALUES (5799,8364);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (125,5509);
+VALUES (5329,9590);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6542,3224);
+VALUES (8020,1981);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4529,4890);
+VALUES (3472,9759);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6528,5221);
+VALUES (4626,7590);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1497,8634);
+VALUES (3509,3373);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4796,2675);
+VALUES (2360,7368);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4487,7478);
+VALUES (8780,2875);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7841,6843);
+VALUES (4879,3992);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5196,4332);
+VALUES (6539,9258);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7761,9610);
+VALUES (591,962);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8649,3872);
+VALUES (7731,4191);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8541,9297);
+VALUES (7774,5376);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3825,7168);
+VALUES (9278,6019);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8069,6674);
+VALUES (2968,8116);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8562,7559);
+VALUES (4355,9899);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2176,7713);
+VALUES (2122,6009);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2783,7317);
+VALUES (1368,4154);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1305,7471);
+VALUES (652,5749);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1119,4354);
+VALUES (6287,5969);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6410,6231);
+VALUES (5900,4018);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3332,2779);
+VALUES (4236,2758);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5641,3409);
+VALUES (2901,196);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (395,9980);
+VALUES (3195,5188);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7527,9257);
+VALUES (7209,6269);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4607,1014);
+VALUES (5014,4345);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2980,5854);
+VALUES (5053,3038);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2825,9934);
+VALUES (3614,1999);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7176,6752);
+VALUES (9581,7289);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2110,7095);
+VALUES (2724,1603);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8457,6775);
+VALUES (6197,894);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4822,5982);
+VALUES (5120,7462);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9802,3184);
+VALUES (1435,8572);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5907,4585);
+VALUES (9532,5637);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7590,5215);
+VALUES (2100,9683);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5293,1941);
+VALUES (6624,5625);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9868,1974);
+VALUES (5011,8018);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5524,3180);
+VALUES (7164,9618);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7847,3237);
+VALUES (3760,598);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7957,6802);
+VALUES (2074,2360);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1078,9450);
+VALUES (1555,7579);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7131,8107);
+VALUES (6052,9770);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8463,487);
+VALUES (3551,482);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4941,4799);
+VALUES (6251,9641);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1731,5763);
+VALUES (3390,8678);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5040,8437);
+VALUES (4898,3249);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5791,4215);
+VALUES (7657,5831);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2446,7240);
+VALUES (5827,3379);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1375,6390);
+VALUES (7984,6044);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8043,462);
+VALUES (952,5693);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8031,2986);
+VALUES (3311,3384);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1049,2673);
+VALUES (5016,8433);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2011,4201);
+VALUES (324,1817);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3162,3471);
+VALUES (2657,9423);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5322,6791);
+VALUES (6089,9925);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9997,7549);
+VALUES (5570,251);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6355,1507);
+VALUES (2285,3202);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3253,6578);
+VALUES (3223,5919);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8978,8120);
+VALUES (6346,8814);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7791,4463);
+VALUES (1217,5933);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3972,8375);
+VALUES (2154,8243);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5935,5449);
+VALUES (5055,1021);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4718,4846);
+VALUES (2896,7694);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1655,704);
+VALUES (9675,6308);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1421,6880);
+VALUES (9364,2831);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (919,5469);
+VALUES (4258,9888);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4406,9979);
+VALUES (2583,8839);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1054,2953);
+VALUES (1910,4148);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9371,3150);
+VALUES (1914,1327);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4861,6722);
+VALUES (977,1680);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9818,8578);
+VALUES (4531,1241);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (860,9824);
+VALUES (3830,893);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3094,1539);
+VALUES (6024,6026);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1585,2713);
+VALUES (6928,2354);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4179,6860);
+VALUES (7853,4639);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3276,892);
+VALUES (2187,5752);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5337,7772);
+VALUES (432,9162);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5285,1863);
+VALUES (6286,252);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1856,7496);
+VALUES (9261,8584);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7942,9438);
+VALUES (159,7346);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9342,9140);
+VALUES (9038,5145);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5402,246);
+VALUES (3328,6593);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4135,3460);
+VALUES (5578,3264);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5803,9049);
+VALUES (3673,7072);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3675,7727);
+VALUES (2829,9533);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3053,6053);
+VALUES (5148,7763);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5886,2077);
+VALUES (6043,5794);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3404,8533);
+VALUES (6016,2490);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (550,6265);
+VALUES (7918,9905);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7162,9977);
+VALUES (2801,5286);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7515,818);
+VALUES (5134,7058);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8737,3144);
+VALUES (5019,6833);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1168,478);
+VALUES (891,596);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6070,7847);
+VALUES (518,1468);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4338,621);
+VALUES (2854,6068);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7832,1560);
+VALUES (2300,13);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4783,4778);
+VALUES (4127,1444);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5417,7909);
+VALUES (8445,6705);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7917,1587);
+VALUES (3623,1607);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (739,1278);
+VALUES (3331,3863);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2654,4348);
+VALUES (1497,3663);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (375,1329);
+VALUES (6188,3081);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (133,8212);
+VALUES (9056,5813);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (98,7432);
+VALUES (7404,2195);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4735,3781);
+VALUES (9617,8707);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (419,8720);
+VALUES (1550,763);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8602,3747);
+VALUES (6545,2145);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3026,8202);
+VALUES (4669,2704);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2023,8653);
+VALUES (4289,7168);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7400,3238);
+VALUES (5083,3010);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (415,7336);
+VALUES (666,2091);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7716,5800);
+VALUES (6336,40);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (770,7713);
+VALUES (6293,4087);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5335,8618);
+VALUES (7552,3843);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7977,6744);
+VALUES (7403,7060);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4909,7889);
+VALUES (9422,8680);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5179,1634);
+VALUES (639,5684);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3281,460);
+VALUES (8796,3366);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9833,3505);
+VALUES (6686,7856);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6453,4033);
+VALUES (9841,6447);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3750,4994);
+VALUES (1118,4797);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8554,3208);
+VALUES (7108,340);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6148,1440);
+VALUES (1065,5562);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1037,6217);
+VALUES (7275,1965);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6781,6846);
+VALUES (8517,7724);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5464,1487);
+VALUES (3640,6868);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6493,8158);
+VALUES (3790,5253);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2724,8187);
+VALUES (7419,2657);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6289,4);
+VALUES (8222,743);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3761,7008);
+VALUES (432,3253);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1054,7951);
+VALUES (8843,9076);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4222,424);
+VALUES (3950,5405);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3584,6841);
+VALUES (2419,2362);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3246,6056);
+VALUES (2400,3133);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8468,7462);
+VALUES (3250,4972);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6459,2592);
+VALUES (7576,1772);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9849,9150);
+VALUES (6593,1630);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8849,5169);
+VALUES (9956,4804);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8471,676);
+VALUES (9600,6168);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6253,2241);
+VALUES (4553,793);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6484,134);
+VALUES (2197,1412);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (464,8083);
+VALUES (4921,96);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9594,1836);
+VALUES (4,4640);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7760,3986);
+VALUES (3855,1532);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7050,5477);
+VALUES (4419,2222);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4739,3918);
+VALUES (6652,9764);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8487,6410);
+VALUES (4507,7134);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8940,5220);
+VALUES (7843,935);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1536,1585);
+VALUES (6066,8560);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6907,6221);
+VALUES (5539,3323);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (965,6135);
+VALUES (8458,5665);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6104,5787);
+VALUES (6557,3162);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7832,7537);
+VALUES (7082,8295);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (579,6110);
+VALUES (8496,3475);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8122,9464);
+VALUES (555,2579);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9212,2971);
+VALUES (4142,6084);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4166,967);
+VALUES (5531,4139);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1797,5790);
+VALUES (351,746);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7512,7857);
+VALUES (5640,4613);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9852,6746);
+VALUES (7470,4013);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1404,8627);
+VALUES (9951,2477);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9920,8676);
+VALUES (107,8081);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8663,7494);
+VALUES (2083,1304);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9274,2918);
+VALUES (557,7395);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (104,5285);
+VALUES (1697,1498);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (873,160);
+VALUES (2541,9067);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5058,5622);
+VALUES (2514,1488);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8327,1935);
+VALUES (740,1633);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6371,597);
+VALUES (2407,3420);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2435,4481);
+VALUES (3551,1045);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4702,4402);
+VALUES (1408,7648);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5508,8665);
+VALUES (7785,294);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6638,758);
+VALUES (92,2963);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8364,3625);
+VALUES (2344,4095);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4219,6427);
+VALUES (6527,9994);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (654,1945);
+VALUES (7439,2713);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5243,1753);
+VALUES (2776,1611);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7489,3863);
+VALUES (2216,3686);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9619,1714);
+VALUES (6613,7205);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3987,9666);
+VALUES (5670,8144);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (716,5415);
+VALUES (3698,673);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7098,4432);
+VALUES (5166,8360);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4443,7917);
+VALUES (3273,600);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4451,4178);
+VALUES (5336,6236);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7716,5841);
+VALUES (2790,6368);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9054,70);
+VALUES (9771,9445);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8558,4423);
+VALUES (9732,2822);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9144,5714);
+VALUES (5185,3939);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4491,9686);
+VALUES (2370,241);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7441,7608);
+VALUES (1811,7035);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8295,1886);
+VALUES (7449,2947);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4036,8669);
+VALUES (4818,8839);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6688,8718);
+VALUES (7202,5904);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2255,1323);
+VALUES (9518,6934);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8392,5785);
+VALUES (2587,5641);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1295,5882);
+VALUES (1731,6937);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7080,6729);
+VALUES (9739,7405);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6315,1440);
+VALUES (3121,772);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3473,2552);
+VALUES (6507,2078);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8408,186);
+VALUES (5670,2242);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8864,6561);
+VALUES (9886,1870);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7850,5255);
+VALUES (8050,9599);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7162,6607);
+VALUES (9424,5302);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (581,1855);
+VALUES (1407,2937);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1921,2236);
+VALUES (7226,567);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8105,9471);
+VALUES (9112,7775);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6047,7213);
+VALUES (8786,9250);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5740,4989);
+VALUES (9680,4316);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (142,8234);
+VALUES (4105,4291);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6258,4624);
+VALUES (4188,5303);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1345,3065);
+VALUES (2391,8797);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7115,3237);
+VALUES (223,5358);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (858,7812);
+VALUES (3119,2416);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2649,9183);
+VALUES (2802,6040);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (574,3052);
+VALUES (8856,7748);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (691,7655);
+VALUES (3159,7785);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6788,1644);
+VALUES (851,7597);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4787,8296);
+VALUES (933,4388);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1580,1013);
+VALUES (6226,6704);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3554,688);
+VALUES (7381,5509);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6225,5261);
+VALUES (386,4294);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2409,5898);
+VALUES (1662,3449);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6664,9829);
+VALUES (8261,9846);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (564,9563);
+VALUES (914,6393);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3760,9722);
+VALUES (7629,6469);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3368,863);
+VALUES (7651,3815);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4076,7260);
+VALUES (3347,9055);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2389,5367);
+VALUES (3374,9811);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4643,4171);
+VALUES (3892,4116);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3993,1423);
+VALUES (1100,8040);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1755,3270);
+VALUES (1290,9637);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8723,5739);
+VALUES (9087,4195);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3356,4851);
+VALUES (4119,5348);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1868,7765);
+VALUES (9826,1364);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2338,8766);
+VALUES (2615,4453);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6876,1262);
+VALUES (9893,6828);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3274,388);
+VALUES (8297,800);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (424,9302);
+VALUES (9372,6841);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4940,9689);
+VALUES (7596,8151);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6639,3824);
+VALUES (5747,1431);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6299,3848);
+VALUES (9093,633);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3297,4891);
+VALUES (5335,4353);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7562,7576);
+VALUES (7004,6406);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1888,7223);
+VALUES (9845,2848);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6638,1150);
+VALUES (9924,8252);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7623,9988);
+VALUES (9079,8335);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3669,6631);
+VALUES (2954,1933);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3906,9389);
+VALUES (6998,6354);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8581,8175);
+VALUES (4304,2078);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8818,5775);
+VALUES (648,839);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (932,4835);
+VALUES (7357,9655);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7635,3935);
+VALUES (7554,5999);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2354,5324);
+VALUES (2966,4226);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3826,414);
+VALUES (1664,7729);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3756,4153);
+VALUES (4014,5308);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3831,1547);
+VALUES (3424,816);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (429,4941);
+VALUES (2695,9720);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5060,7157);
+VALUES (7474,4379);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2275,6896);
+VALUES (2833,4035);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4339,3692);
+VALUES (5677,7265);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2100,1056);
+VALUES (3351,1976);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2077,1301);
+VALUES (9414,7228);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9236,727);
+VALUES (82,2178);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (191,5111);
+VALUES (2166,1871);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1053,6741);
+VALUES (2083,6567);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (762,4300);
+VALUES (4266,3319);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5066,9098);
+VALUES (3750,8876);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (452,5630);
+VALUES (5780,8146);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2025,6783);
+VALUES (1633,6017);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9261,7657);
+VALUES (4535,4504);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8956,1077);
+VALUES (9912,5252);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9549,5218);
+VALUES (2501,4278);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3590,8679);
+VALUES (439,2611);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8035,600);
+VALUES (5562,698);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9368,566);
+VALUES (4221,1315);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9756,375);
+VALUES (823,6455);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3770,5778);
+VALUES (2221,6651);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2412,2876);
+VALUES (3786,1329);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3596,2928);
+VALUES (690,9185);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7514,2060);
+VALUES (5397,2362);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8897,5218);
+VALUES (9599,3390);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4398,2524);
+VALUES (9600,6677);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3891,1495);
+VALUES (3521,82);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9459,1765);
+VALUES (4511,4430);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3052,7715);
+VALUES (1726,2063);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6415,4722);
+VALUES (970,4149);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9049,6633);
+VALUES (8575,2365);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (983,8719);
+VALUES (9707,3140);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8283,9803);
+VALUES (9472,231);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3104,372);
+VALUES (3807,5776);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2937,9048);
+VALUES (261,3144);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6417,6452);
+VALUES (2665,4738);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3472,7091);
+VALUES (4974,8881);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5213,2425);
+VALUES (1879,1255);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4547,2204);
+VALUES (1754,876);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7562,8702);
+VALUES (8458,3899);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3409,6280);
+VALUES (8373,6884);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1782,2541);
+VALUES (7909,1857);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3818,5346);
+VALUES (155,3921);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1193,8326);
+VALUES (387,3040);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (842,4332);
+VALUES (2947,8906);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1937,5881);
+VALUES (857,2132);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6349,2399);
+VALUES (5171,5628);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5979,8246);
+VALUES (4800,6116);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8650,4512);
+VALUES (5093,152);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7541,794);
+VALUES (5272,8872);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9344,2132);
+VALUES (7567,9317);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4766,6547);
+VALUES (2671,8269);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7187,7973);
+VALUES (7781,4322);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9944,1943);
+VALUES (8864,5618);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6950,3173);
+VALUES (9376,5416);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1105,5008);
+VALUES (3119,8569);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (644,7088);
+VALUES (3514,6073);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5376,9765);
+VALUES (3428,8947);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7306,4045);
+VALUES (1014,4768);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6144,6034);
+VALUES (7272,633);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9725,2377);
+VALUES (2086,3877);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6971,2628);
+VALUES (702,321);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5330,4729);
+VALUES (1946,160);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2138,4923);
+VALUES (6566,2350);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9197,8577);
+VALUES (9013,141);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1014,322);
+VALUES (4964,8390);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7340,469);
+VALUES (2025,3238);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7808,5245);
+VALUES (8331,7925);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1847,8171);
+VALUES (8413,9593);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (752,2398);
+VALUES (2428,8373);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8974,4485);
+VALUES (9760,9266);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7167,8210);
+VALUES (9461,109);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2321,1283);
+VALUES (1828,1666);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (421,558);
+VALUES (5372,6767);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (255,276);
+VALUES (9405,1420);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2879,7419);
+VALUES (1212,6722);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2160,5035);
+VALUES (1318,4752);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3620,8819);
+VALUES (1541,4857);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9133,5691);
+VALUES (1969,3030);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4203,9678);
+VALUES (9161,5004);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5718,5270);
+VALUES (8228,7226);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2518,3022);
+VALUES (5475,4794);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (393,720);
+VALUES (2407,6112);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9849,4466);
+VALUES (3980,2477);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3342,1124);
+VALUES (2828,9015);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8645,2166);
+VALUES (7221,8994);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1168,9047);
+VALUES (2307,9133);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3055,577);
+VALUES (2491,3523);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5165,2094);
+VALUES (6547,8664);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2960,9463);
+VALUES (4277,9269);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4621,6625);
+VALUES (2437,8453);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2752,9608);
+VALUES (2244,9314);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9255,1309);
+VALUES (2548,6386);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (480,1419);
+VALUES (9022,2917);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2132,1991);
+VALUES (4367,8461);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4884,246);
+VALUES (2056,2526);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9191,5158);
+VALUES (4476,976);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4355,2737);
+VALUES (5013,9469);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4940,6859);
+VALUES (4335,6601);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5530,8739);
+VALUES (2484,3450);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8817,9916);
+VALUES (4982,7270);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5486,772);
+VALUES (5673,3803);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2309,9751);
+VALUES (9086,7463);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1172,3309);
+VALUES (2942,7939);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1518,9556);
+VALUES (4989,8372);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9673,3429);
+VALUES (9245,1871);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (901,6072);
+VALUES (2439,1966);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8289,6721);
+VALUES (5120,4955);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3920,754);
+VALUES (6375,1616);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6019,2119);
+VALUES (1428,4899);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2615,1975);
+VALUES (296,155);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4810,3414);
+VALUES (6535,1827);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9272,7686);
+VALUES (4460,1948);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1782,2653);
+VALUES (9771,6639);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2616,4992);
+VALUES (8806,9532);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8101,3725);
+VALUES (583,9608);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8553,9553);
+VALUES (9644,4118);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2568,4880);
+VALUES (7749,2940);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6078,6271);
+VALUES (3952,8388);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4792,57);
+VALUES (9352,490);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2739,3578);
+VALUES (324,5334);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9420,6032);
+VALUES (3757,9572);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3216,2102);
+VALUES (169,9325);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5503,1321);
+VALUES (5216,1459);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8245,1689);
+VALUES (6432,8756);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5394,8502);
+VALUES (3796,3670);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1731,6034);
+VALUES (8998,1645);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9418,7504);
+VALUES (2461,6539);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1520,3580);
+VALUES (1501,9378);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3245,4391);
+VALUES (5302,9705);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6130,1242);
+VALUES (2592,2011);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2159,7929);
+VALUES (702,3613);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8276,3463);
+VALUES (6644,4348);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9364,7967);
+VALUES (3577,2934);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1767,6875);
+VALUES (1385,9394);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8146,5475);
+VALUES (7319,8299);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4447,8912);
+VALUES (8836,2504);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5809,8176);
+VALUES (3972,4884);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3821,5475);
+VALUES (6479,1733);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1583,3567);
+VALUES (3282,175);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6396,9736);
+VALUES (5195,3430);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9831,9537);
+VALUES (661,6410);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7960,456);
+VALUES (8160,4319);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7567,7365);
+VALUES (6092,4374);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5781,1503);
+VALUES (375,8877);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6571,9052);
+VALUES (8910,9160);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (973,7406);
+VALUES (4620,7148);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7971,2566);
+VALUES (4463,3484);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1125,3662);
+VALUES (4196,182);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6893,6521);
+VALUES (2222,2973);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6010,430);
+VALUES (5618,1820);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2432,1346);
+VALUES (7333,9658);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3212,8876);
+VALUES (6899,3484);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3486,3051);
+VALUES (9228,4127);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7362,6923);
+VALUES (2523,9047);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8437,6441);
+VALUES (5490,998);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4312,664);
+VALUES (6133,9530);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8361,3802);
+VALUES (9688,4298);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (926,8951);
+VALUES (1066,3017);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6223,6919);
+VALUES (5735,8618);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9619,9829);
+VALUES (6346,8489);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6784,1069);
+VALUES (241,299);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1423,8819);
+VALUES (1320,7060);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1346,9886);
+VALUES (7119,5808);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5439,9971);
+VALUES (6659,944);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5954,8206);
+VALUES (9078,1515);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6085,5365);
+VALUES (9898,5821);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8614,8798);
+VALUES (9438,2816);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3064,5798);
+VALUES (4950,9652);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6388,2682);
+VALUES (3049,3521);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3423,9799);
+VALUES (9549,1994);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2309,4890);
+VALUES (7001,21);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7069,7424);
+VALUES (8469,8079);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8645,6945);
+VALUES (5147,2069);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (713,3785);
+VALUES (2282,5413);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3798,8413);
+VALUES (5775,1968);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6677,275);
+VALUES (2504,99);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7225,9606);
+VALUES (7673,9550);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3361,3988);
+VALUES (1802,1398);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8780,7690);
+VALUES (1473,578);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4030,2184);
+VALUES (4701,7291);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5419,9731);
+VALUES (9470,9118);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2494,3868);
+VALUES (2710,38);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (203,9434);
+VALUES (5924,7898);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9017,957);
+VALUES (3290,6113);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8509,1345);
+VALUES (59,3337);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8712,2409);
+VALUES (8257,4040);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1405,584);
+VALUES (6382,2688);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9691,6330);
+VALUES (7186,3801);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6993,5827);
+VALUES (1531,1391);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (512,2916);
+VALUES (6560,4042);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4899,3363);
+VALUES (7405,3743);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7898,8975);
+VALUES (6498,678);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5503,8191);
+VALUES (6423,3240);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (488,5610);
+VALUES (3652,729);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (138,7582);
+VALUES (7268,449);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6615,485);
+VALUES (1600,2432);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8436,7403);
+VALUES (4743,7762);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7761,1819);
+VALUES (6517,5090);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8566,2141);
+VALUES (9909,1212);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5200,1946);
+VALUES (2551,4862);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3099,5653);
+VALUES (8947,8241);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1249,1975);
+VALUES (7053,8519);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3947,209);
+VALUES (5683,8931);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9013,6121);
+VALUES (7365,9870);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (333,9880);
+VALUES (5633,5392);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8389,7729);
+VALUES (1329,999);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (360,8688);
+VALUES (8535,5667);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1012,7373);
+VALUES (8933,8088);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9804,7356);
+VALUES (2183,3621);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9381,7052);
+VALUES (1867,6238);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5324,9780);
+VALUES (4716,6506);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8101,6652);
+VALUES (3519,4905);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6311,8573);
+VALUES (8779,4352);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7238,9681);
+VALUES (4812,9930);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6068,6932);
+VALUES (4984,6429);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4129,3614);
+VALUES (7717,752);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2077,4566);
+VALUES (1837,3718);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1067,3272);
+VALUES (4533,7422);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6734,284);
+VALUES (2344,4918);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9377,5514);
+VALUES (2002,584);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3454,572);
+VALUES (5514,5644);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8426,8229);
+VALUES (2060,141);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5726,5418);
+VALUES (5587,3864);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3809,5345);
+VALUES (7534,1973);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (832,8069);
+VALUES (5323,484);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3546,2887);
+VALUES (8397,2822);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9192,3721);
+VALUES (7463,5236);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9883,8985);
+VALUES (3080,9748);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3025,1452);
+VALUES (5421,4820);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4133,5333);
+VALUES (8046,7221);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9967,6481);
+VALUES (1999,8222);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8611,8209);
+VALUES (5944,508);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1432,1498);
+VALUES (9956,7360);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6842,154);
+VALUES (382,2749);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3906,9060);
+VALUES (9387,5446);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6444,4960);
+VALUES (7253,4778);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3932,321);
+VALUES (402,7646);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3622,9435);
+VALUES (2622,8574);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4065,9825);
+VALUES (2037,3409);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5092,8328);
+VALUES (175,9506);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7467,3081);
+VALUES (7525,538);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5665,4594);
+VALUES (3755,8386);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2948,4961);
+VALUES (4081,5724);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3745,2233);
+VALUES (2513,3482);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4226,9974);
+VALUES (1681,7900);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (680,523);
+VALUES (4518,3213);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6656,2075);
+VALUES (7713,6363);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4690,1119);
+VALUES (4691,3834);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3139,9246);
+VALUES (6905,5216);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (994,7839);
+VALUES (6792,1490);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7806,8998);
+VALUES (1956,4281);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9018,8485);
+VALUES (5561,9359);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (224,615);
+VALUES (1564,9784);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4861,3190);
+VALUES (4629,3940);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1994,2552);
+VALUES (1234,5861);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7564,3352);
+VALUES (6875,8299);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7365,6248);
+VALUES (6631,6315);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7779,208);
+VALUES (3405,8737);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2166,4689);
+VALUES (6723,6694);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (943,1124);
+VALUES (8614,2500);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3854,4932);
+VALUES (1549,5305);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (610,6958);
+VALUES (6593,7286);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9715,584);
+VALUES (5966,9740);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9192,9887);
+VALUES (4679,998);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7954,9453);
+VALUES (4289,3405);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1935,3640);
+VALUES (813,1381);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9037,9601);
+VALUES (9861,6777);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5506,6990);
+VALUES (1332,2179);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5046,6736);
+VALUES (5171,4764);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8806,6078);
+VALUES (5713,2231);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (65,3954);
+VALUES (6797,6795);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5533,9756);
+VALUES (1078,8597);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7144,110);
+VALUES (1766,755);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1116,720);
+VALUES (873,2971);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8044,625);
+VALUES (3764,7589);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (751,2724);
+VALUES (3357,7581);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6268,3079);
+VALUES (338,9979);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9514,6012);
+VALUES (2355,4809);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8506,9318);
+VALUES (7202,1794);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1116,5528);
+VALUES (8567,5793);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4886,4222);
+VALUES (1730,5286);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3432,8918);
+VALUES (2853,3303);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9888,1148);
+VALUES (1607,5557);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5724,6967);
+VALUES (287,6541);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8305,9688);
+VALUES (5851,6814);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5688,441);
+VALUES (8606,5207);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3213,9353);
+VALUES (7838,1009);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3539,2998);
+VALUES (9614,3337);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8373,7391);
+VALUES (8851,9295);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6418,9011);
+VALUES (2897,3931);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6817,8106);
+VALUES (2851,1681);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2246,9426);
+VALUES (1877,7190);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3233,4240);
+VALUES (4565,7402);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4900,7926);
+VALUES (5218,4285);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6361,7391);
+VALUES (6500,312);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1284,2904);
+VALUES (2776,430);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1968,5538);
+VALUES (4456,6175);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8180,7264);
+VALUES (764,6);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4774,9725);
+VALUES (8504,7147);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6729,4581);
+VALUES (7055,3857);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7664,156);
+VALUES (7593,1162);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4772,2663);
+VALUES (205,2335);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3762,8241);
+VALUES (5311,2698);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3954,4427);
+VALUES (9340,3507);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2166,2204);
+VALUES (777,8959);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7578,4407);
+VALUES (7638,4867);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5105,1722);
+VALUES (6235,6428);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3289,9425);
+VALUES (3028,3263);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1942,6047);
+VALUES (1007,4035);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2722,1834);
+VALUES (9259,9634);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (25,9810);
+VALUES (567,5997);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7647,7210);
+VALUES (1391,4384);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (28,2319);
+VALUES (6696,4118);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5977,9774);
+VALUES (8321,4621);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9372,9286);
+VALUES (9118,7916);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7827,4316);
+VALUES (5726,475);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8892,8261);
+VALUES (9454,7986);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5112,9497);
+VALUES (7159,9711);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (741,4711);
+VALUES (8744,8981);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4792,6192);
+VALUES (9091,8162);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7616,2773);
+VALUES (6504,9746);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6216,3891);
+VALUES (4868,8233);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2076,1386);
+VALUES (9868,120);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (527,4050);
+VALUES (5249,2342);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (727,5442);
+VALUES (5971,4938);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (783,6265);
+VALUES (2022,3419);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1908,9940);
+VALUES (2983,7463);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1611,2754);
+VALUES (2537,2998);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6357,1386);
+VALUES (3588,2327);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1415,6164);
+VALUES (7763,2578);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3030,7181);
+VALUES (4536,4635);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3737,2524);
+VALUES (657,5613);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (363,7454);
+VALUES (548,9603);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6883,4757);
+VALUES (9933,5787);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3087,4850);
+VALUES (6544,95);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1784,172);
+VALUES (6788,7959);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7145,9926);
+VALUES (7357,4674);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3437,886);
+VALUES (4708,8048);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4245,3225);
+VALUES (7448,9211);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (211,2957);
+VALUES (3507,142);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (979,346);
+VALUES (3850,7736);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3399,4210);
+VALUES (3801,6235);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (517,55);
+VALUES (148,1103);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9371,5422);
+VALUES (9424,8639);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8078,8612);
+VALUES (7704,8781);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5484,4929);
+VALUES (3537,870);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3187,8441);
+VALUES (7798,1189);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5339,4825);
+VALUES (9665,8519);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9266,4231);
+VALUES (6175,7073);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1683,733);
+VALUES (3285,8357);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6297,4176);
+VALUES (5807,1371);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1293,8920);
+VALUES (5642,4469);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1547,6621);
+VALUES (4051,4892);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8846,2714);
+VALUES (4909,42);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1400,7816);
+VALUES (783,3422);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1360,9767);
+VALUES (5952,7996);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (716,1486);
+VALUES (8653,8037);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4393,4660);
+VALUES (8749,5086);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4942,1582);
+VALUES (4717,5233);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2584,9733);
+VALUES (2796,7708);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4877,9114);
+VALUES (9605,4910);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3762,7422);
+VALUES (9473,4583);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4831,9095);
+VALUES (7925,9562);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4271,4269);
+VALUES (9798,8596);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5277,3437);
+VALUES (9092,2636);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (157,3254);
+VALUES (3567,585);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3735,9498);
+VALUES (5114,4904);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2621,2479);
+VALUES (2238,6625);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (978,8867);
+VALUES (1678,7014);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2394,3780);
+VALUES (4949,8286);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8995,5929);
+VALUES (1807,6987);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7226,2920);
+VALUES (8136,6680);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2292,58);
+VALUES (4497,8178);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6032,8251);
+VALUES (2012,8333);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4691,8937);
+VALUES (5158,4529);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1572,652);
+VALUES (9033,999);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4957,9363);
+VALUES (8102,2413);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5836,2632);
+VALUES (371,4934);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3497,4304);
+VALUES (6913,5323);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5036,8972);
+VALUES (928,848);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6636,8073);
+VALUES (8918,5054);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4216,6174);
+VALUES (7234,5190);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7657,3421);
+VALUES (177,3244);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8589,2518);
+VALUES (3794,5807);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5607,9492);
+VALUES (551,3442);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (424,8371);
+VALUES (3593,9855);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4054,6431);
+VALUES (9397,9279);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9551,2672);
+VALUES (4179,4012);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4847,6470);
+VALUES (4119,4179);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3760,1031);
+VALUES (5900,3200);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (189,6741);
+VALUES (7202,6857);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2364,9036);
+VALUES (6394,9573);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4386,8362);
+VALUES (67,5357);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7677,2399);
+VALUES (2309,3203);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5159,4084);
+VALUES (8652,7707);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6571,5344);
+VALUES (3581,7852);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2689,9216);
+VALUES (6938,9551);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4023,9100);
+VALUES (4574,3762);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2196,7979);
+VALUES (3975,6558);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1771,2923);
+VALUES (7653,9364);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3479,5187);
+VALUES (3432,9522);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2580,2282);
+VALUES (7175,2348);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5370,2171);
+VALUES (5375,6385);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8379,6324);
+VALUES (3513,4438);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7156,6659);
+VALUES (2928,5842);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8474,60);
+VALUES (8269,2485);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3753,6530);
+VALUES (7430,4115);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8566,6957);
+VALUES (2939,3525);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2743,9545);
+VALUES (4842,8254);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4458,3624);
+VALUES (142,8474);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4372,5065);
+VALUES (3624,7379);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9361,6025);
+VALUES (3057,5930);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5410,5915);
+VALUES (4293,8833);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8881,5405);
+VALUES (8009,4745);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5067,4404);
+VALUES (5024,7885);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9770,3127);
+VALUES (1526,5015);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8088,1501);
+VALUES (4392,9129);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9452,8355);
+VALUES (9360,9258);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5061,9451);
+VALUES (585,846);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5375,3656);
+VALUES (7673,5906);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6567,8459);
+VALUES (9295,2611);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6783,7032);
+VALUES (3097,8310);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6748,880);
+VALUES (6971,632);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7773,8940);
+VALUES (6460,955);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5123,758);
+VALUES (3575,8375);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (101,7590);
+VALUES (3789,1764);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6435,173);
+VALUES (8982,5375);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8913,1690);
+VALUES (27,8179);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6895,6217);
+VALUES (3806,2310);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2154,9793);
+VALUES (4571,4124);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2352,5177);
+VALUES (5077,2724);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3369,1739);
+VALUES (1266,6222);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9653,240);
+VALUES (9475,3799);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (374,2981);
+VALUES (3542,5215);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8421,8961);
+VALUES (6909,9317);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2204,6816);
+VALUES (7225,343);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1813,6536);
+VALUES (6612,3975);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7465,7930);
+VALUES (2347,7846);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1896,542);
+VALUES (3073,8906);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3145,41);
+VALUES (1863,7698);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (672,773);
+VALUES (8515,4621);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9266,9225);
+VALUES (4341,1201);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6914,4324);
+VALUES (966,4540);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2993,4888);
+VALUES (2238,1041);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1363,6594);
+VALUES (1605,6120);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9235,1180);
+VALUES (5332,5231);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3132,2091);
+VALUES (2251,4193);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9956,9915);
+VALUES (6135,4635);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1015,4212);
+VALUES (2745,88);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5145,5178);
+VALUES (6105,1389);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (428,2101);
+VALUES (3712,9894);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6838,8067);
+VALUES (182,7633);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9815,3749);
+VALUES (4090,815);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7099,3498);
+VALUES (3129,3350);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (610,7882);
+VALUES (1666,3574);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7569,439);
+VALUES (3031,6852);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2434,1370);
+VALUES (1985,8390);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5802,6802);
+VALUES (1086,5275);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9849,9402);
+VALUES (5505,4788);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5654,4141);
+VALUES (9030,1775);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (937,3011);
+VALUES (8582,5785);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2104,291);
+VALUES (7319,8207);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8977,5684);
+VALUES (3830,4989);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3537,6277);
+VALUES (7669,1738);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9280,3998);
+VALUES (1706,4501);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6854,1311);
+VALUES (9523,1122);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2689,5311);
+VALUES (8991,2920);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4507,9911);
+VALUES (3303,9524);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8202,905);
+VALUES (7520,7507);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9636,6581);
+VALUES (1338,6166);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3499,1594);
+VALUES (6055,116);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8837,2893);
+VALUES (3132,48);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9839,8262);
+VALUES (7768,2955);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1994,4209);
+VALUES (2709,7474);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9801,9544);
+VALUES (9173,4108);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1801,4523);
+VALUES (2984,7602);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8636,2327);
+VALUES (8740,8647);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7793,534);
+VALUES (4100,5789);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (247,688);
+VALUES (4412,3463);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6825,5991);
+VALUES (1645,3974);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6018,3474);
+VALUES (8332,7367);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7910,3933);
+VALUES (3425,3203);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (360,4013);
+VALUES (9822,695);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9295,3016);
+VALUES (56,4902);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8433,6632);
+VALUES (1396,1652);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1925,5119);
+VALUES (4026,9760);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1373,3730);
+VALUES (6457,7196);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2994,3673);
+VALUES (5433,2701);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3730,7125);
+VALUES (5434,5070);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5235,4439);
+VALUES (3026,4022);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (662,2669);
+VALUES (2818,7923);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3987,1062);
+VALUES (3921,726);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2336,3449);
+VALUES (1443,1723);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6919,1089);
+VALUES (2444,2634);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5182,3133);
+VALUES (3977,6641);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4125,4393);
+VALUES (7048,3858);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3073,5807);
+VALUES (9348,4042);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3750,5513);
+VALUES (149,174);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (425,6142);
+VALUES (3989,5737);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (106,7813);
+VALUES (6321,9630);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2644,1364);
+VALUES (7339,2572);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1630,6872);
+VALUES (6469,6245);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2362,9390);
+VALUES (1698,4461);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2662,2490);
+VALUES (8370,4801);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1550,4856);
+VALUES (4900,7165);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6273,1206);
+VALUES (7038,5032);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7586,8979);
+VALUES (8956,575);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2364,861);
+VALUES (8809,4394);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4721,8977);
+VALUES (9479,1183);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6779,9145);
+VALUES (7975,5125);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4164,191);
+VALUES (4164,5340);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6329,5188);
+VALUES (3095,9687);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2768,3250);
+VALUES (7310,8057);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3943,5930);
+VALUES (9052,8666);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3684,6697);
+VALUES (9238,888);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9481,9106);
+VALUES (8378,6883);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (229,9018);
+VALUES (8791,8816);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2848,6951);
+VALUES (4471,9949);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (84,9888);
+VALUES (2304,5925);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8406,2321);
+VALUES (686,479);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3518,4947);
+VALUES (785,1169);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1786,4281);
+VALUES (8093,8021);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4135,8836);
+VALUES (9959,5520);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7762,6924);
+VALUES (7797,8596);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4884,7988);
+VALUES (5938,8967);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8897,2642);
+VALUES (2806,3519);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3442,2836);
+VALUES (6061,2488);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3187,8944);
+VALUES (530,1153);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5558,7389);
+VALUES (2538,6308);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2486,6416);
+VALUES (376,4066);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4114,9534);
+VALUES (5416,9967);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3533,7180);
+VALUES (5978,4179);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9678,3255);
+VALUES (1698,4146);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4198,3624);
+VALUES (5694,2517);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5988,6051);
+VALUES (6134,1339);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1023,5506);
+VALUES (7111,3134);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (863,6127);
+VALUES (2953,8960);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2896,8779);
+VALUES (8532,6089);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1050,2033);
+VALUES (2452,2609);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7448,8940);
+VALUES (9176,5844);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1888,1995);
+VALUES (9691,3180);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3239,8146);
+VALUES (1478,4234);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8799,6534);
+VALUES (6478,336);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1666,937);
+VALUES (2917,2941);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2881,4942);
+VALUES (1706,9394);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7459,4940);
+VALUES (5223,191);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9945,8229);
+VALUES (3709,6177);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7581,1175);
+VALUES (5112,4649);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (876,9038);
+VALUES (7176,3730);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1807,4166);
+VALUES (1746,3556);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9957,9991);
+VALUES (4931,7932);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6956,784);
+VALUES (9792,1031);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1871,5871);
+VALUES (4774,6203);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5647,6535);
+VALUES (7115,9865);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7117,5793);
+VALUES (8547,8624);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2526,6929);
+VALUES (925,9298);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6349,7192);
+VALUES (4411,7340);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (676,6025);
+VALUES (7719,8512);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1002,1970);
+VALUES (8678,1338);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9486,1655);
+VALUES (7099,828);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5763,6811);
+VALUES (5526,2979);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3893,6832);
+VALUES (4050,9923);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9273,1621);
+VALUES (2853,4238);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1295,3474);
+VALUES (5249,8073);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8430,9833);
+VALUES (1564,1969);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1235,3437);
+VALUES (239,1299);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7457,6444);
+VALUES (7955,3889);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6292,8379);
+VALUES (8151,7990);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8574,9967);
+VALUES (2243,1448);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3080,4617);
+VALUES (410,2573);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6033,8879);
+VALUES (3420,9289);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7236,5130);
+VALUES (1819,3419);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5729,226);
+VALUES (6147,3623);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1329,9018);
+VALUES (8273,6582);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (997,1386);
+VALUES (912,2557);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9575,6882);
+VALUES (3351,9525);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9629,6363);
+VALUES (9425,3409);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (980,786);
+VALUES (1401,669);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5719,8451);
+VALUES (8733,9267);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6155,138);
+VALUES (5511,687);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8507,5099);
+VALUES (1562,9288);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1177,5174);
+VALUES (6415,5305);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1674,1317);
+VALUES (4789,8154);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9046,994);
+VALUES (8488,5917);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2037,3156);
+VALUES (4152,3534);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (40,874);
+VALUES (3679,3342);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9813,1625);
+VALUES (3816,3878);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7772,6409);
+VALUES (556,4152);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6735,5289);
+VALUES (4832,9565);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2286,1242);
+VALUES (2803,1604);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2171,1753);
+VALUES (707,3022);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7610,8982);
+VALUES (2759,4675);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1510,2271);
+VALUES (3209,5010);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6175,3928);
+VALUES (909,3394);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1576,9942);
+VALUES (7586,1975);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1159,3748);
+VALUES (6280,2751);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8752,5542);
+VALUES (5128,5622);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (924,3477);
+VALUES (2742,7800);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6998,7932);
+VALUES (7574,2552);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2282,9366);
+VALUES (915,8262);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4025,7696);
+VALUES (1038,993);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4751,6648);
+VALUES (8046,7166);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4257,1975);
+VALUES (611,2997);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1039,5612);
+VALUES (1457,708);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6070,6744);
+VALUES (6835,7819);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (627,9297);
+VALUES (4729,958);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (685,9162);
+VALUES (7096,8842);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7505,7536);
+VALUES (2822,935);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1170,3611);
+VALUES (711,2526);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3104,9685);
+VALUES (898,6498);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (645,6715);
+VALUES (4017,6486);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (562,5895);
+VALUES (612,4378);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2294,2925);
+VALUES (5831,8177);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9113,3146);
+VALUES (5576,484);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4599,7340);
+VALUES (466,7629);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8619,9700);
+VALUES (4918,8038);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4436,2497);
+VALUES (1166,566);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5888,9478);
+VALUES (5926,5055);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5368,9023);
+VALUES (3810,7683);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9391,5903);
+VALUES (9539,8969);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8504,4190);
+VALUES (2981,5634);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1118,8874);
+VALUES (3748,8857);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (718,5232);
+VALUES (9420,2634);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (471,3668);
+VALUES (8378,771);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8781,5975);
+VALUES (3264,2965);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7499,9433);
+VALUES (7532,8970);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6906,8104);
+VALUES (4027,3166);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9180,896);
+VALUES (1116,1622);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5783,5423);
+VALUES (8206,1338);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1189,1803);
+VALUES (1756,285);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7007,2539);
+VALUES (2335,4494);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6924,8548);
+VALUES (5213,3152);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2842,8449);
+VALUES (8526,1941);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8737,6465);
+VALUES (7353,1908);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1731,541);
+VALUES (4976,2429);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2783,5073);
+VALUES (2042,5272);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3488,9287);
+VALUES (6267,7589);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5347,1614);
+VALUES (854,4170);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8227,3055);
+VALUES (8430,2350);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2045,934);
+VALUES (1260,4253);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3775,5763);
+VALUES (2705,1804);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9476,3052);
+VALUES (935,6229);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5234,4927);
+VALUES (7894,4255);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9412,5521);
+VALUES (4725,3504);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9338,534);
+VALUES (7274,4686);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6348,2128);
+VALUES (6812,641);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5481,5789);
+VALUES (979,9279);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1467,7908);
+VALUES (9634,530);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2860,9901);
+VALUES (2812,2918);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5243,7508);
+VALUES (3125,8810);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9258,3945);
+VALUES (6805,2070);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7605,349);
+VALUES (7792,7114);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (866,118);
+VALUES (1800,6862);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3983,7715);
+VALUES (5696,6645);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1599,6896);
+VALUES (8438,7533);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8378,7910);
+VALUES (5742,7685);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3484,4454);
+VALUES (5450,825);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7778,6841);
+VALUES (8899,3335);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7982,6162);
+VALUES (3753,9548);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1859,8978);
+VALUES (5277,5795);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4406,9123);
+VALUES (2733,6098);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7272,7106);
+VALUES (8988,8904);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7115,3051);
+VALUES (6312,6905);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9718,7459);
+VALUES (5780,3002);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3229,3477);
+VALUES (6946,9857);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (565,892);
+VALUES (1520,3688);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2083,5676);
+VALUES (508,1788);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8875,6306);
+VALUES (9111,6816);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8237,8384);
+VALUES (1715,3150);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4585,6705);
+VALUES (3048,8145);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7571,1427);
+VALUES (7625,2960);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6121,435);
+VALUES (5133,2051);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4545,8207);
+VALUES (251,4813);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6040,9864);
+VALUES (5396,949);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3787,9172);
+VALUES (4997,1054);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4354,9397);
+VALUES (5585,4660);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9323,2944);
+VALUES (9584,2948);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4685,3501);
+VALUES (2832,733);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (299,3906);
+VALUES (2707,5005);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3577,9891);
+VALUES (334,5901);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5773,958);
+VALUES (2485,5128);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (656,1680);
+VALUES (7862,110);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8894,1012);
+VALUES (2653,5089);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7539,6730);
+VALUES (8886,9717);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5267,484);
+VALUES (6932,3210);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8100,6194);
+VALUES (7431,9685);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4068,4482);
+VALUES (962,8297);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6131,6302);
+VALUES (5981,134);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3921,4895);
+VALUES (1950,8819);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7778,581);
+VALUES (8329,7112);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3341,2401);
+VALUES (1167,3748);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9454,8655);
+VALUES (8058,5314);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2938,4126);
+VALUES (2473,8203);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5230,6280);
+VALUES (1452,5493);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5196,1983);
+VALUES (3218,7252);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (935,9291);
+VALUES (8682,8704);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2277,4576);
+VALUES (7801,6690);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5444,652);
+VALUES (8543,6871);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1617,9249);
+VALUES (9278,2316);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8107,9715);
+VALUES (8783,9132);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2058,9204);
+VALUES (5778,5045);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4481,7288);
+VALUES (1786,8396);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9034,5816);
+VALUES (9423,1153);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9204,6539);
+VALUES (8284,4567);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4134,5061);
+VALUES (1642,7445);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1870,9452);
+VALUES (4090,7177);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9469,628);
+VALUES (8723,2313);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6712,9000);
+VALUES (1236,4828);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3591,4729);
+VALUES (4789,4541);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3441,8218);
+VALUES (2570,3815);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2652,3067);
+VALUES (5072,1043);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7922,8894);
+VALUES (4272,6012);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (930,7354);
+VALUES (3820,3310);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4890,9153);
+VALUES (6754,3895);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7436,5781);
+VALUES (8841,6524);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6960,8319);
+VALUES (6816,3689);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (837,222);
+VALUES (5903,2561);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2764,6060);
+VALUES (4545,8061);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (581,9072);
+VALUES (6702,7509);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2629,9778);
+VALUES (6890,5842);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9567,3637);
+VALUES (377,4960);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (834,607);
+VALUES (9669,3306);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4857,7044);
+VALUES (3120,4786);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6226,4491);
+VALUES (7956,1058);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9051,3852);
+VALUES (5179,4804);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1120,3115);
+VALUES (8245,9580);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3710,3539);
+VALUES (4762,3149);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (388,3444);
+VALUES (884,1);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4058,6481);
+VALUES (4519,2242);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1878,9257);
+VALUES (6404,1735);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2894,9126);
+VALUES (4144,8424);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8375,3265);
+VALUES (9146,5415);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1966,9586);
+VALUES (8212,3947);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7922,1352);
+VALUES (2390,3171);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6860,3916);
+VALUES (610,6306);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7062,4602);
+VALUES (8875,598);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8997,3991);
+VALUES (9404,8055);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3586,3817);
+VALUES (9088,7827);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8600,999);
+VALUES (6172,8755);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2755,9463);
+VALUES (578,5192);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4538,4876);
+VALUES (2025,6411);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5908,850);
+VALUES (6304,1551);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3716,9094);
+VALUES (5277,8571);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (41,1283);
+VALUES (4427,9845);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3190,3427);
+VALUES (2347,8676);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2976,4948);
+VALUES (5949,8491);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5050,3956);
+VALUES (119,1104);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5846,2039);
+VALUES (4503,9838);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3895,8327);
+VALUES (1759,5787);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1612,9941);
+VALUES (3466,9146);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9285,2893);
+VALUES (1240,7828);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1782,2114);
+VALUES (5771,8853);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7554,278);
+VALUES (7315,4979);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4726,9924);
+VALUES (1653,6675);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8508,2465);
+VALUES (3503,9620);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5521,61);
+VALUES (8470,6335);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7193,3731);
+VALUES (1425,3535);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7053,4278);
+VALUES (954,5347);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7821,8807);
+VALUES (193,7491);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9080,7538);
+VALUES (653,6664);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7553,2257);
+VALUES (1341,7803);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1430,1676);
+VALUES (5650,7550);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9818,4546);
+VALUES (7340,9452);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2983,785);
+VALUES (2000,3051);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4279,2180);
+VALUES (3971,1593);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8193,1134);
+VALUES (7925,1151);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1395,611);
+VALUES (9475,2172);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (427,8657);
+VALUES (5979,8417);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1576,7646);
+VALUES (9455,5397);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9530,3450);
+VALUES (8444,3976);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6836,6281);
+VALUES (5235,4676);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4440,6921);
+VALUES (6268,9647);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3956,4844);
+VALUES (7542,9706);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9565,9347);
+VALUES (2131,9269);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9710,5916);
+VALUES (4343,86);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8913,6183);
+VALUES (1372,4675);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7571,2230);
+VALUES (2916,4040);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5871,1000);
+VALUES (7066,7560);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9078,76);
+VALUES (452,3474);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4004,7127);
+VALUES (337,4264);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6286,9301);
+VALUES (1949,7551);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8094,8692);
+VALUES (4242,8978);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (858,4644);
+VALUES (2061,8684);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5667,1864);
+VALUES (9080,5412);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8057,2381);
+VALUES (1996,7511);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1940,1477);
+VALUES (7641,6347);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8886,8178);
+VALUES (5150,3371);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2835,1968);
+VALUES (1240,6060);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6012,3843);
+VALUES (7374,3907);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5600,7564);
+VALUES (5935,116);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7149,7822);
+VALUES (8320,4138);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2,3786);
+VALUES (4833,234);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (330,7310);
+VALUES (9444,3150);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3373,7449);
+VALUES (1792,5706);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3207,3920);
+VALUES (7662,1680);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (582,8936);
+VALUES (7662,6729);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5328,5274);
+VALUES (7193,2722);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9630,8829);
+VALUES (6995,1311);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5473,8930);
+VALUES (5143,9686);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8091,1322);
+VALUES (1709,824);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8637,7649);
+VALUES (9462,8862);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8791,4699);
+VALUES (7023,7244);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7133,5641);
+VALUES (4853,1228);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1578,3211);
+VALUES (6252,6518);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3905,7294);
+VALUES (4062,6607);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3475,8703);
+VALUES (295,1555);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5433,7460);
+VALUES (3050,68);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (616,9918);
+VALUES (4822,3424);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3369,3406);
+VALUES (1911,1562);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6025,9545);
+VALUES (5592,5090);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6370,5062);
+VALUES (3323,7680);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1238,5289);
+VALUES (5891,6609);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7003,7673);
+VALUES (8457,7426);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6673,8791);
+VALUES (9329,8047);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1135,6332);
+VALUES (1923,934);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (965,5837);
+VALUES (9976,9260);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9378,3521);
+VALUES (6416,5950);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8053,9856);
+VALUES (8169,7476);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7016,2305);
+VALUES (9215,4246);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6749,9097);
+VALUES (2685,5790);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (775,2680);
+VALUES (3865,5368);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9172,1691);
+VALUES (3989,484);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7003,8033);
+VALUES (8353,6165);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4028,931);
+VALUES (1190,3512);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8650,1586);
+VALUES (8316,7639);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (342,3334);
+VALUES (4527,8533);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8838,5501);
+VALUES (8015,2797);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6379,885);
+VALUES (1341,3986);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1566,2316);
+VALUES (1944,9921);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4896,3432);
+VALUES (2478,8668);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4277,4381);
+VALUES (1772,8944);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5219,769);
+VALUES (8645,4012);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2995,5045);
+VALUES (7234,247);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3651,705);
+VALUES (3963,5955);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8850,2027);
+VALUES (6237,1073);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7994,2996);
+VALUES (9372,9282);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4999,7452);
+VALUES (4286,8932);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1696,6842);
+VALUES (7080,2543);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3920,3869);
+VALUES (6529,9163);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8858,4846);
+VALUES (6219,715);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7730,8723);
+VALUES (4359,7805);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7390,9300);
+VALUES (2159,4815);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6857,8359);
+VALUES (682,4849);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3209,6691);
+VALUES (26,1196);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1850,5024);
+VALUES (9834,3393);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5505,2734);
+VALUES (7308,4876);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1743,144);
+VALUES (5234,6379);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2959,6381);
+VALUES (5731,2938);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1218,2501);
+VALUES (1836,4190);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1820,3636);
+VALUES (8126,3841);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8752,8308);
+VALUES (6235,661);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9736,4224);
+VALUES (6032,7357);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (503,8057);
+VALUES (4717,7112);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (582,4885);
+VALUES (825,612);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (184,451);
+VALUES (4743,2078);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2493,4011);
+VALUES (1999,2047);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6540,9127);
+VALUES (4098,6422);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9659,2785);
+VALUES (4513,6068);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3766,5574);
+VALUES (2036,1909);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8629,2462);
+VALUES (1657,8425);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (100,8828);
+VALUES (8104,4349);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5707,8695);
+VALUES (5758,6063);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5660,9194);
+VALUES (6479,2260);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1975,7868);
+VALUES (8461,4493);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4186,1991);
+VALUES (8655,7797);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8982,9009);
+VALUES (8532,552);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8370,7065);
+VALUES (7387,6876);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1308,9354);
+VALUES (2140,1528);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3610,884);
+VALUES (5429,6506);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7505,938);
+VALUES (4629,3057);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4337,2472);
+VALUES (6537,7420);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7477,8375);
+VALUES (963,1251);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3751,6613);
+VALUES (5525,71);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4919,658);
+VALUES (8005,3390);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5997,2063);
+VALUES (2097,3058);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8769,7614);
+VALUES (7459,6438);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6191,5377);
+VALUES (8797,5751);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5009,6238);
+VALUES (5515,2873);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (904,6925);
+VALUES (5061,2863);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9970,6707);
+VALUES (709,9789);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6940,3817);
+VALUES (2883,1509);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6517,5766);
+VALUES (7585,9629);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4097,5470);
+VALUES (2247,1076);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8253,9076);
+VALUES (9902,4714);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4668,5000);
+VALUES (4795,2150);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9057,9037);
+VALUES (1010,5373);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6636,1261);
+VALUES (7866,4917);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3242,3334);
+VALUES (70,3142);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6704,9569);
+VALUES (4570,6002);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (871,4032);
+VALUES (3718,1055);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9756,8220);
+VALUES (72,5288);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (204,2352);
+VALUES (5142,3278);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3637,1623);
+VALUES (9920,2946);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2221,9482);
+VALUES (9576,1679);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7318,2280);
+VALUES (3811,7707);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (572,3603);
+VALUES (6632,1021);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4068,2092);
+VALUES (4451,7687);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2667,7616);
+VALUES (9793,9652);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1125,4656);
+VALUES (8993,4601);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3162,794);
+VALUES (3289,4968);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1992,9785);
+VALUES (3421,517);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5776,383);
+VALUES (1215,2460);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5140,8511);
+VALUES (2893,2141);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6718,8672);
+VALUES (450,2238);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7362,4178);
+VALUES (853,2577);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2537,7082);
+VALUES (4421,1200);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6123,1463);
+VALUES (8077,7814);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2317,4560);
+VALUES (9555,2937);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9202,791);
+VALUES (6053,3231);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (916,4389);
+VALUES (1929,5258);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (108,6838);
+VALUES (7378,3067);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4577,3265);
+VALUES (7194,338);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7591,1875);
+VALUES (8086,9919);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7354,2197);
+VALUES (2219,5657);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1138,2143);
+VALUES (5774,2965);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9462,6254);
+VALUES (2528,615);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6593,2155);
+VALUES (75,4133);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8439,7490);
+VALUES (1134,6983);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8440,6066);
+VALUES (1763,617);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6693,9662);
+VALUES (8558,7190);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4718,8041);
+VALUES (9216,7678);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7177,935);
+VALUES (5479,9075);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (726,8863);
+VALUES (2648,696);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6771,9709);
+VALUES (1001,5503);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9129,4038);
+VALUES (9923,5175);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9880,3383);
+VALUES (6000,4034);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3217,9929);
+VALUES (400,3046);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8995,162);
+VALUES (6269,4520);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9574,9696);
+VALUES (3989,1983);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6296,6367);
+VALUES (5463,1486);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (607,4972);
+VALUES (8222,4937);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7513,1265);
+VALUES (3326,9658);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7239,4490);
+VALUES (8533,9034);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8493,7168);
+VALUES (2102,4173);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7705,3983);
+VALUES (3656,8222);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (948,6865);
+VALUES (7575,8143);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2585,7239);
+VALUES (6245,4928);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8263,6043);
+VALUES (8986,6987);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9340,7151);
+VALUES (8764,632);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5725,2277);
+VALUES (5698,1904);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7580,9609);
+VALUES (4657,7392);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3771,5709);
+VALUES (1576,2408);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5998,9601);
+VALUES (6391,8536);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5171,8542);
+VALUES (5473,308);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6192,9886);
+VALUES (8148,8019);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3765,1371);
+VALUES (1296,8748);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (181,2887);
+VALUES (3250,8662);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3527,592);
+VALUES (9698,413);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4958,1556);
+VALUES (1885,9220);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7387,5472);
+VALUES (7078,8156);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (606,9936);
+VALUES (1987,950);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2007,2001);
+VALUES (876,1425);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7734,7784);
+VALUES (5242,9343);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6700,7123);
+VALUES (4420,2773);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9481,1149);
+VALUES (2255,3293);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7978,6369);
+VALUES (6283,1841);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (736,3112);
+VALUES (5049,4202);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6019,8203);
+VALUES (779,1699);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5833,1214);
+VALUES (1587,7271);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (813,6291);
+VALUES (408,2447);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3586,9117);
+VALUES (9274,2167);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6373,5292);
+VALUES (9285,9283);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7677,1423);
+VALUES (8969,2632);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7992,5479);
+VALUES (7919,1359);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8962,2451);
+VALUES (3946,2894);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6780,1350);
+VALUES (5504,1482);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8982,6941);
+VALUES (4431,3289);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3961,6289);
+VALUES (9015,6836);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2394,6430);
+VALUES (3508,1619);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5335,5132);
+VALUES (8688,9629);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6527,7517);
+VALUES (2453,2226);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7639,4587);
+VALUES (7169,3428);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4788,1413);
+VALUES (7988,7362);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3440,1970);
+VALUES (5324,4329);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8309,3958);
+VALUES (8846,814);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4155,6011);
+VALUES (1138,238);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (506,9941);
+VALUES (2378,732);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1587,8923);
+VALUES (5465,1152);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6328,1815);
+VALUES (2317,5521);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1777,268);
+VALUES (3998,1623);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3943,7055);
+VALUES (9934,7472);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2598,4799);
+VALUES (1884,4399);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2738,2741);
+VALUES (5958,8872);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6913,23);
+VALUES (2720,1170);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6420,681);
+VALUES (2519,2468);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4506,5416);
+VALUES (2732,1732);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5363,2983);
+VALUES (2038,3806);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6859,2887);
+VALUES (4120,7462);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8703,4108);
+VALUES (672,7183);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8106,1516);
+VALUES (6263,203);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (18,9963);
+VALUES (8828,594);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9014,2756);
+VALUES (3470,4868);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7713,2325);
+VALUES (916,1890);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7444,8706);
+VALUES (7268,9827);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7691,396);
+VALUES (7823,6429);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5767,3570);
+VALUES (8975,6280);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (688,1947);
+VALUES (8274,2565);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4412,5175);
+VALUES (622,9703);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4330,2114);
+VALUES (844,7397);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2786,7743);
+VALUES (505,6682);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7934,7249);
+VALUES (7084,4293);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6138,7624);
+VALUES (383,4359);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7225,9391);
+VALUES (4353,3938);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5925,4000);
+VALUES (1124,5701);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7434,1845);
+VALUES (4756,663);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4564,3110);
+VALUES (1522,1334);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9495,8038);
+VALUES (8025,8723);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9907,2381);
+VALUES (9569,5500);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6305,3757);
+VALUES (7118,4765);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8085,4030);
+VALUES (838,2346);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3130,3102);
+VALUES (7944,9661);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4977,7828);
+VALUES (8631,9851);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3885,6825);
+VALUES (9877,7632);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7014,836);
+VALUES (426,5755);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (279,3304);
+VALUES (2973,8159);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2404,3379);
+VALUES (7398,1132);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7144,1171);
+VALUES (2916,3131);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5235,7588);
+VALUES (1593,2332);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5032,942);
+VALUES (1887,9096);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2107,5649);
+VALUES (5919,6849);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7561,6441);
+VALUES (4967,7921);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4901,3977);
+VALUES (5534,6848);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3809,3979);
+VALUES (7471,2012);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3579,5375);
+VALUES (2537,7602);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (858,4879);
+VALUES (7661,5563);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (314,8327);
+VALUES (398,6314);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8644,502);
+VALUES (5967,8966);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5551,168);
+VALUES (760,5745);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8448,8546);
+VALUES (950,4330);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4654,6332);
+VALUES (5708,6020);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2513,6504);
+VALUES (5984,7658);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1237,6964);
+VALUES (1446,3944);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4962,7639);
+VALUES (4572,6247);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3300,4855);
+VALUES (8371,4023);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1628,804);
+VALUES (2363,7880);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5133,4275);
+VALUES (7221,9619);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4472,1120);
+VALUES (6969,2078);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1733,5453);
+VALUES (433,3569);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (430,4471);
+VALUES (8633,8328);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9860,5251);
+VALUES (9680,3193);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6756,6895);
+VALUES (7179,3523);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2744,5014);
+VALUES (5349,4597);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4411,8899);
+VALUES (6872,1054);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4656,7853);
+VALUES (5782,8952);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6533,4023);
+VALUES (7416,7490);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5916,8611);
+VALUES (9677,6113);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5905,4169);
+VALUES (7185,593);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2004,5060);
+VALUES (2143,7055);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3685,6469);
+VALUES (8553,7040);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6656,8115);
+VALUES (8398,6284);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8986,2356);
+VALUES (8189,522);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3985,357);
+VALUES (3387,2428);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5635,4932);
+VALUES (5720,1213);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6685,2724);
+VALUES (4748,4214);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7957,8935);
+VALUES (7324,8337);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2416,7507);
+VALUES (5617,9156);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (497,1280);
+VALUES (3328,4829);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3258,6366);
+VALUES (7377,7168);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5169,6158);
+VALUES (5928,4736);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1138,7744);
+VALUES (6362,1722);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4349,4925);
+VALUES (763,3159);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6113,2141);
+VALUES (7537,2498);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7213,734);
+VALUES (6090,6839);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5514,5882);
+VALUES (654,5777);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4510,9801);
+VALUES (3426,9611);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6308,8698);
+VALUES (6187,6117);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8766,8566);
+VALUES (8248,8361);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6875,3027);
+VALUES (879,8913);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4944,8805);
+VALUES (1652,5882);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (867,1367);
+VALUES (31,7454);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9755,8106);
+VALUES (8340,6695);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5831,9923);
+VALUES (3091,2726);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4149,3821);
+VALUES (9286,455);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5062,1165);
+VALUES (6349,7766);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4339,6943);
+VALUES (3564,6081);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8991,7177);
+VALUES (7437,7908);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2013,1306);
+VALUES (5235,1988);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (983,3890);
+VALUES (9753,6278);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9306,9900);
+VALUES (9622,4932);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7194,9272);
+VALUES (326,7441);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9238,4319);
+VALUES (884,3308);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2112,6098);
+VALUES (5586,5733);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5005,7142);
+VALUES (8788,874);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8143,5046);
+VALUES (7808,6410);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3971,4220);
+VALUES (365,835);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6338,3637);
+VALUES (9990,465);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3481,6066);
+VALUES (6017,8003);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7374,1684);
+VALUES (1863,9027);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9028,2602);
+VALUES (3612,2069);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4507,5255);
+VALUES (7230,8668);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9240,4086);
+VALUES (7669,1784);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5064,6332);
+VALUES (3945,7248);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7037,5897);
+VALUES (6555,6511);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9458,7542);
+VALUES (7976,5056);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5662,1519);
+VALUES (7546,7356);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2361,995);
+VALUES (7784,8222);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4119,9871);
+VALUES (7161,5298);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8125,3362);
+VALUES (8759,1098);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6165,1979);
+VALUES (5035,458);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3155,8286);
+VALUES (454,5125);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9485,6750);
+VALUES (2330,6039);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3923,5716);
+VALUES (1160,1039);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4319,8183);
+VALUES (2387,5258);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2068,5336);
+VALUES (4082,8689);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2840,2488);
+VALUES (524,3609);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3478,3794);
+VALUES (1009,5121);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (880,9313);
+VALUES (8139,5092);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (199,5614);
+VALUES (9400,9827);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7965,1388);
+VALUES (8382,7110);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1176,3347);
+VALUES (2462,1746);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2796,115);
+VALUES (1981,7759);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7743,4196);
+VALUES (5345,4183);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6996,3556);
+VALUES (5480,6593);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8130,6261);
+VALUES (3748,2089);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9691,8299);
+VALUES (1757,6927);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5872,692);
+VALUES (7862,3125);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5512,6959);
+VALUES (7607,6825);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1595,960);
+VALUES (4868,1536);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2607,6869);
+VALUES (834,7332);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4848,3919);
+VALUES (112,9227);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2806,7328);
+VALUES (8085,5949);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8310,3223);
+VALUES (9378,6489);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3825,8311);
+VALUES (2069,3700);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3891,9059);
+VALUES (943,8118);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9169,6693);
+VALUES (6970,4955);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4352,3553);
+VALUES (6130,3803);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4211,5806);
+VALUES (8775,1488);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8065,3381);
+VALUES (6043,1673);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1810,9219);
+VALUES (8029,3411);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8945,2277);
+VALUES (7563,6550);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3923,6264);
+VALUES (7307,4137);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4384,3678);
+VALUES (1397,1550);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7656,3286);
+VALUES (9756,9172);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8150,5542);
+VALUES (9029,8924);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5264,6718);
+VALUES (8896,6754);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2974,1589);
+VALUES (1149,9027);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6757,1608);
+VALUES (1823,3509);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3905,1433);
+VALUES (2672,9989);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8601,2796);
+VALUES (6766,7696);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8524,9968);
+VALUES (3852,7200);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6405,1138);
+VALUES (6590,9340);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6052,9226);
+VALUES (7367,9315);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9037,8429);
+VALUES (7540,9811);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4054,388);
+VALUES (9797,6292);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1121,776);
+VALUES (4578,3021);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6734,9078);
+VALUES (1274,4229);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2295,4473);
+VALUES (790,2883);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1694,6130);
+VALUES (7524,4382);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3036,8616);
+VALUES (9068,8715);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1753,3311);
+VALUES (3748,552);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (550,7890);
+VALUES (5061,7912);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3134,6319);
+VALUES (6001,2503);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9576,5377);
+VALUES (3693,9672);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5459,7066);
+VALUES (4293,7148);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2848,4651);
+VALUES (655,1338);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6172,4865);
+VALUES (4739,8793);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8916,2517);
+VALUES (9516,6001);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5397,5658);
+VALUES (9312,4540);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1947,4459);
+VALUES (3836,1365);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5078,1448);
+VALUES (5022,9674);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8986,3541);
+VALUES (5903,6467);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9488,7711);
+VALUES (727,3491);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4962,783);
+VALUES (9082,1663);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5932,7049);
+VALUES (7535,4036);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (714,1373);
+VALUES (2956,6085);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5605,6308);
+VALUES (9307,5417);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4893,5416);
+VALUES (7553,3247);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4806,4448);
+VALUES (9886,670);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2724,2084);
+VALUES (9502,9758);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2510,9127);
+VALUES (3177,5998);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3033,1391);
+VALUES (7360,6459);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6888,3974);
+VALUES (4685,6349);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7739,9061);
+VALUES (3535,1430);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9456,2902);
+VALUES (993,5592);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5031,7291);
+VALUES (2591,8561);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5359,3573);
+VALUES (9138,9618);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3375,3796);
+VALUES (8197,619);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7068,7478);
+VALUES (3788,9905);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2770,1859);
+VALUES (1536,4042);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9037,1109);
+VALUES (3831,3451);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8158,4145);
+VALUES (7089,2619);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2299,7166);
+VALUES (4280,1222);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2033,4339);
+VALUES (8254,762);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6263,2334);
+VALUES (394,718);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1004,8681);
+VALUES (7281,2466);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3829,488);
+VALUES (9342,4308);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4616,5416);
+VALUES (4224,877);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6963,9576);
+VALUES (1094,7901);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1854,7857);
+VALUES (7029,7994);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8875,6224);
+VALUES (9239,1514);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2474,4208);
+VALUES (776,2808);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1033,876);
+VALUES (2501,2828);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (567,582);
+VALUES (22,1539);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2763,4217);
+VALUES (6933,920);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9454,3095);
+VALUES (2091,6604);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1266,9558);
+VALUES (226,1813);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3914,7721);
+VALUES (4522,1459);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5048,7006);
+VALUES (7150,6336);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7591,3608);
+VALUES (4645,5590);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1151,4753);
+VALUES (792,5923);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8527,2464);
+VALUES (3410,4484);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7921,5670);
+VALUES (9729,1657);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7877,2755);
+VALUES (1119,9638);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4477,7286);
+VALUES (4611,4131);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6877,83);
+VALUES (7422,5310);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5825,6336);
+VALUES (1103,6053);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1253,5623);
+VALUES (3024,4919);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9312,4714);
+VALUES (5621,1669);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5501,9869);
+VALUES (8862,4920);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5164,6712);
+VALUES (1560,8571);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1476,9863);
+VALUES (7324,8027);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7177,5905);
+VALUES (3804,3095);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7046,9877);
+VALUES (9616,5178);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3979,3441);
+VALUES (1370,3530);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7334,9579);
+VALUES (4701,1693);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9320,8850);
+VALUES (3926,1455);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8902,1723);
+VALUES (8507,4279);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (93,437);
+VALUES (7775,4934);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1506,3327);
+VALUES (7851,9701);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6057,7006);
+VALUES (6021,372);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6233,9393);
+VALUES (7787,793);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6782,5156);
+VALUES (4965,3717);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (326,5257);
+VALUES (3164,5860);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1354,1973);
+VALUES (1982,9750);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3640,7080);
+VALUES (5677,5226);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3966,3495);
+VALUES (9325,2918);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2345,3182);
+VALUES (3003,3925);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2508,9956);
+VALUES (7005,8591);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8776,9253);
+VALUES (5202,7031);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4243,5420);
+VALUES (6931,1383);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7047,8844);
+VALUES (7851,445);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6133,5963);
+VALUES (8932,2916);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5601,7050);
+VALUES (4244,8134);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3498,7879);
+VALUES (8925,8372);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5242,3533);
+VALUES (9532,6315);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4691,757);
+VALUES (5172,8318);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7935,5537);
+VALUES (3437,6220);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5533,9651);
+VALUES (4046,8909);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6418,6265);
+VALUES (74,5425);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (681,947);
+VALUES (3766,8881);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5665,3467);
+VALUES (292,1086);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9145,8867);
+VALUES (8727,3406);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3977,9801);
+VALUES (2417,818);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (351,8882);
+VALUES (5289,8527);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5522,2125);
+VALUES (4204,8742);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6943,1204);
+VALUES (1603,5392);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8484,1569);
+VALUES (170,3237);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6828,376);
+VALUES (2367,7615);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1863,6041);
+VALUES (8082,3679);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4619,4958);
+VALUES (5545,5866);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2505,4287);
+VALUES (5397,1064);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6655,1620);
+VALUES (2280,980);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5795,4683);
+VALUES (6712,3851);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7150,8589);
+VALUES (1023,4957);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4768,9157);
+VALUES (7107,8085);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4296,8122);
+VALUES (9287,9378);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9506,5891);
+VALUES (3404,2205);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8867,3864);
+VALUES (2586,2866);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4364,9682);
+VALUES (6339,2102);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9529,5685);
+VALUES (3036,3859);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3328,4462);
+VALUES (9609,6429);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7029,1559);
+VALUES (7589,8918);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9230,9713);
+VALUES (5676,5991);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2388,4039);
+VALUES (5408,6729);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8585,9559);
+VALUES (4877,9192);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9261,3315);
+VALUES (2343,57);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9077,9842);
+VALUES (43,2675);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9938,7860);
+VALUES (6205,4789);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3902,8622);
+VALUES (7319,6839);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1127,1656);
+VALUES (1511,7220);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (536,4901);
+VALUES (7778,3694);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3422,1815);
+VALUES (7753,4545);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9246,6282);
+VALUES (5269,9492);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3747,5612);
+VALUES (3811,4023);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (145,5492);
+VALUES (9696,4906);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1688,8044);
+VALUES (3687,8978);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1227,230);
+VALUES (1017,2305);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9952,5945);
+VALUES (9487,2808);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8205,5192);
+VALUES (8264,1450);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2051,8131);
+VALUES (1443,4663);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4408,7281);
+VALUES (2011,3812);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6227,5589);
+VALUES (8803,4935);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2537,1723);
+VALUES (6665,7761);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1841,5825);
+VALUES (8512,357);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2165,2284);
+VALUES (1210,6262);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5838,5095);
+VALUES (5605,7576);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1858,2837);
+VALUES (813,6507);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8957,2394);
+VALUES (141,9706);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9959,2006);
+VALUES (2609,8534);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6406,2734);
+VALUES (6667,5477);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4101,8540);
+VALUES (582,9165);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2976,6982);
+VALUES (1702,6351);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (323,5236);
+VALUES (9159,3746);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8573,3053);
+VALUES (3396,367);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1580,7472);
+VALUES (862,3120);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3103,3277);
+VALUES (6988,6709);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2454,4696);
+VALUES (3146,3696);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9772,4715);
+VALUES (7377,3706);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9720,4654);
+VALUES (1642,2889);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2740,2824);
+VALUES (7838,2506);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7389,5907);
+VALUES (3325,7121);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (409,9955);
+VALUES (8784,6590);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3738,354);
+VALUES (9546,1852);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6032,4501);
+VALUES (9249,4291);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4010,1769);
+VALUES (2761,9302);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7624,7491);
+VALUES (1507,707);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6919,3092);
+VALUES (1196,2508);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2366,1381);
+VALUES (9725,9002);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8562,4841);
+VALUES (8038,293);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9548,5176);
+VALUES (74,4682);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8750,2170);
+VALUES (6911,6831);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7390,8215);
+VALUES (2362,4090);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4982,9588);
+VALUES (846,1064);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6916,5290);
+VALUES (7405,368);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (93,2298);
+VALUES (7975,4198);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9487,9087);
+VALUES (6274,9566);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2426,6483);
+VALUES (4595,4848);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1474,4772);
+VALUES (113,2414);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (383,1049);
+VALUES (9761,2569);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5770,705);
+VALUES (5020,391);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1053,5344);
+VALUES (3462,814);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2236,8821);
+VALUES (2759,3773);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (47,1363);
+VALUES (3369,9211);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9333,4461);
+VALUES (6352,4164);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4949,9458);
+VALUES (1129,9020);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3732,7270);
+VALUES (9828,5308);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4382,2223);
+VALUES (9763,312);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1761,1636);
+VALUES (6747,3732);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3623,49);
+VALUES (327,9522);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (571,9195);
+VALUES (6560,9639);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6238,6379);
+VALUES (3138,742);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4849,3770);
+VALUES (6181,8064);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9699,5582);
+VALUES (7287,9094);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4685,8387);
+VALUES (6836,4546);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9805,5005);
+VALUES (6050,9669);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4031,8392);
+VALUES (2071,2435);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3138,712);
+VALUES (9511,1196);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5793,4488);
+VALUES (6281,2520);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4504,6886);
+VALUES (8024,2914);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5101,8457);
+VALUES (4539,2414);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7654,5596);
+VALUES (9616,2679);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4930,2126);
+VALUES (9754,4021);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8777,5564);
+VALUES (2744,6432);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4617,8805);
+VALUES (3174,9751);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9055,1617);
+VALUES (5578,6462);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4804,6521);
+VALUES (6664,3222);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4754,4081);
+VALUES (4929,8882);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (125,3186);
+VALUES (7362,7559);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (488,5316);
+VALUES (4919,8787);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3578,3319);
+VALUES (3180,7029);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8588,1882);
+VALUES (8602,2198);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2947,1392);
+VALUES (5102,3977);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4547,7315);
+VALUES (5432,3902);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (584,4460);
+VALUES (622,4067);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (21,4220);
+VALUES (9347,5819);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3737,3021);
+VALUES (2853,6552);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2370,513);
+VALUES (381,2300);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (27,8739);
+VALUES (750,1534);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8232,6567);
+VALUES (2238,7500);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9115,4440);
+VALUES (285,6053);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7078,1116);
+VALUES (3961,1891);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9160,4778);
+VALUES (9961,4717);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2790,2981);
+VALUES (1118,8917);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8098,5001);
+VALUES (8739,1062);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3627,4140);
+VALUES (8687,2296);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8043,1603);
+VALUES (2001,6195);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (692,770);
+VALUES (9288,5881);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1347,5174);
+VALUES (7840,3417);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6961,8054);
+VALUES (4368,6150);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9822,8999);
+VALUES (6419,3511);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (175,4050);
+VALUES (4362,9514);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9783,3640);
+VALUES (3705,6596);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7526,5739);
+VALUES (4816,7773);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1810,7896);
+VALUES (9831,5504);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9387,2792);
+VALUES (5447,620);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3403,3623);
+VALUES (6540,6977);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4518,7937);
+VALUES (5537,3656);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1935,5923);
+VALUES (9187,4334);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1876,4372);
+VALUES (6476,8982);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2210,8307);
+VALUES (9028,6357);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (510,9825);
+VALUES (8400,5919);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6266,8444);
+VALUES (3430,815);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8099,2950);
+VALUES (346,6558);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6085,2686);
+VALUES (3106,1751);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9149,1349);
+VALUES (6909,7309);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8217,769);
+VALUES (4512,954);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3919,556);
+VALUES (1839,4893);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6877,6096);
+VALUES (6208,4705);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7033,8318);
+VALUES (8568,9966);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1,6993);
+VALUES (2298,2028);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2408,8877);
+VALUES (5213,9872);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9884,9578);
+VALUES (7063,7933);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1054,7062);
+VALUES (2110,7356);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4455,1074);
+VALUES (2496,8078);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1747,6702);
+VALUES (5771,4319);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (953,5195);
+VALUES (183,1918);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1460,7131);
+VALUES (8197,7851);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9575,7827);
+VALUES (433,6697);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2564,7011);
+VALUES (7637,3064);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7949,4601);
+VALUES (6979,6245);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4111,1647);
+VALUES (9264,3263);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4511,8881);
+VALUES (9733,8068);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3400,694);
+VALUES (1422,6014);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9636,9421);
+VALUES (2868,4324);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1285,3268);
+VALUES (61,947);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1314,6346);
+VALUES (6230,260);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4419,1301);
+VALUES (9682,2994);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1896,129);
+VALUES (1241,5085);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9446,6175);
+VALUES (2593,3563);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2247,4072);
+VALUES (6345,5066);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8100,2860);
+VALUES (3930,8220);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (668,3569);
+VALUES (7914,3080);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9737,4318);
+VALUES (8658,7658);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3415,2212);
+VALUES (7892,1202);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5142,2204);
+VALUES (9955,5526);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1517,6961);
+VALUES (9905,9);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8262,639);
+VALUES (4007,4444);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8368,999);
+VALUES (1006,3215);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4276,6339);
+VALUES (25,2628);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3391,7768);
+VALUES (9120,415);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8554,9524);
+VALUES (5846,405);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1599,7975);
+VALUES (7343,7452);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7517,100);
+VALUES (2063,7014);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3658,5427);
+VALUES (7921,563);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1367,6050);
+VALUES (260,5258);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8956,2474);
+VALUES (4191,683);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8493,2906);
+VALUES (3128,6670);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1595,9054);
+VALUES (1789,1441);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6384,2611);
+VALUES (3832,2983);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4615,1622);
+VALUES (9749,8589);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7428,6300);
+VALUES (7318,6648);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3737,7136);
+VALUES (6024,6390);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9561,2858);
+VALUES (7273,484);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7167,2655);
+VALUES (8728,7072);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9990,3499);
+VALUES (1131,9088);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7044,1322);
+VALUES (3923,5094);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3963,1866);
+VALUES (6805,731);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2850,341);
+VALUES (2757,2294);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7632,9098);
+VALUES (4637,1918);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1985,8908);
+VALUES (3258,6508);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9558,3730);
+VALUES (6345,3319);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9283,3631);
+VALUES (5511,9665);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4071,8311);
+VALUES (523,1325);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4322,3680);
+VALUES (2199,6288);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4240,8435);
+VALUES (171,4185);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6537,8174);
+VALUES (1139,175);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4880,2316);
+VALUES (4615,5681);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3782,8635);
+VALUES (2044,9975);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3046,6496);
+VALUES (9560,2547);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2235,5031);
+VALUES (3568,4114);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3664,6174);
+VALUES (6922,8837);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8341,3558);
+VALUES (5039,7602);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9356,8456);
+VALUES (6362,5703);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7827,9000);
+VALUES (1557,7592);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1658,2576);
+VALUES (9082,8486);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4303,3925);
+VALUES (8448,8535);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1306,5619);
+VALUES (6806,8434);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2590,9100);
+VALUES (1695,5123);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8261,4679);
+VALUES (5215,7680);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (290,2766);
+VALUES (5147,2758);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8713,6705);
+VALUES (5329,7515);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (191,4136);
+VALUES (3917,155);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2561,4731);
+VALUES (499,25);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9526,7511);
+VALUES (8739,9438);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1675,6216);
+VALUES (7215,6069);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2514,5890);
+VALUES (6274,5608);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4960,1165);
+VALUES (4522,6766);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2149,3496);
+VALUES (3856,4902);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6330,7599);
+VALUES (2048,5262);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4842,6453);
+VALUES (3970,9427);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1208,4022);
+VALUES (98,2238);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5621,6558);
+VALUES (6697,5619);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9116,5448);
+VALUES (9217,1159);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7699,8370);
+VALUES (3011,5731);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1807,7407);
+VALUES (5835,5961);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2740,8321);
+VALUES (1189,9827);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8587,1789);
+VALUES (4058,7021);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2553,546);
+VALUES (6727,9466);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1453,9602);
+VALUES (3621,6005);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6955,2302);
+VALUES (4334,4011);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3615,6421);
+VALUES (5590,6508);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4327,8322);
+VALUES (4370,2308);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5227,9910);
+VALUES (6507,259);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8338,2840);
+VALUES (2733,7738);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (266,6181);
+VALUES (6176,8495);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1510,846);
+VALUES (1034,3046);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5148,6318);
+VALUES (3368,2063);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3954,5431);
+VALUES (5119,1947);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8671,7369);
+VALUES (3137,8993);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8991,9232);
+VALUES (1958,4566);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6833,6235);
+VALUES (1748,9784);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1104,4051);
+VALUES (2371,8221);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3250,5946);
+VALUES (9526,6832);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4781,5118);
+VALUES (2042,3335);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5683,9409);
+VALUES (9699,1908);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5609,2092);
+VALUES (480,2606);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1056,9303);
+VALUES (7010,1627);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8129,1486);
+VALUES (2956,4297);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4922,9360);
+VALUES (8662,4768);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2019,4839);
+VALUES (45,3893);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1993,9376);
+VALUES (76,1305);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2973,8141);
+VALUES (7144,1006);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5516,3625);
+VALUES (3227,8034);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6221,7411);
+VALUES (4676,7653);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8828,3833);
+VALUES (3313,3602);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9943,7077);
+VALUES (3254,4621);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6481,1747);
+VALUES (6075,467);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4941,10000);
+VALUES (5138,6627);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (655,6668);
+VALUES (7635,9013);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4736,890);
+VALUES (758,9872);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (28,6118);
+VALUES (1865,7805);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3924,8951);
+VALUES (5724,8782);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1546,1181);
+VALUES (4964,1605);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4047,7947);
+VALUES (4228,9246);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7330,2997);
+VALUES (2720,1232);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8183,1340);
+VALUES (7919,5827);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7802,2601);
+VALUES (3675,3173);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3337,2589);
+VALUES (9720,8129);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2753,5959);
+VALUES (2786,1446);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2350,5162);
+VALUES (7686,2712);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9186,9316);
+VALUES (8622,7255);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5864,5816);
+VALUES (7111,5185);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3094,7814);
+VALUES (5712,4153);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8445,5290);
+VALUES (3337,5722);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1209,532);
+VALUES (9527,675);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9115,7512);
+VALUES (4261,4005);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5560,5859);
+VALUES (766,8641);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (787,4618);
+VALUES (9667,3184);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4460,301);
+VALUES (4940,8968);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7805,2208);
+VALUES (5756,9231);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9446,3244);
+VALUES (372,2048);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (47,1563);
+VALUES (4447,2541);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2988,9168);
+VALUES (3501,4236);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6328,3488);
+VALUES (5497,1934);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (243,6877);
+VALUES (8000,4010);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6411,5558);
+VALUES (981,6774);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5277,3051);
+VALUES (1147,9797);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8203,5699);
+VALUES (1151,9955);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7910,8715);
+VALUES (3333,37);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6305,1916);
+VALUES (6473,6907);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6254,4599);
+VALUES (3386,6790);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2719,3460);
+VALUES (3282,4154);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9868,8519);
+VALUES (7355,3370);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7297,5183);
+VALUES (8419,872);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5652,8057);
+VALUES (8338,9927);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7687,3055);
+VALUES (7866,3161);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5798,3181);
+VALUES (1835,3386);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4014,8182);
+VALUES (1986,8620);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5598,3942);
+VALUES (4524,7224);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8560,8039);
+VALUES (3430,340);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5936,8303);
+VALUES (1707,1424);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9604,7021);
+VALUES (6979,485);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4914,1622);
+VALUES (7235,7138);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1177,5387);
+VALUES (1595,161);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7178,396);
+VALUES (9932,6099);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8006,2009);
+VALUES (6047,4819);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5752,1);
+VALUES (3441,4264);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (961,3769);
+VALUES (3911,5024);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8833,1812);
+VALUES (4151,3309);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8966,8486);
+VALUES (8967,7950);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8747,6766);
+VALUES (2428,4100);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6351,1629);
+VALUES (4660,1946);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1882,5459);
+VALUES (872,7900);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9308,2055);
+VALUES (3625,3423);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2285,9836);
+VALUES (7756,5856);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9201,2888);
+VALUES (6851,5223);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6285,2326);
+VALUES (2622,7878);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9191,4932);
+VALUES (2764,9469);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5882,7773);
+VALUES (7644,2726);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3503,4015);
+VALUES (1968,6792);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1731,629);
+VALUES (3191,2537);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3932,1492);
+VALUES (2967,1889);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1249,2713);
+VALUES (7573,5636);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8811,1811);
+VALUES (8310,3416);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2458,745);
+VALUES (2137,1572);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6762,2371);
+VALUES (7607,352);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7137,4445);
+VALUES (2192,7491);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7295,5814);
+VALUES (3673,2244);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7479,4153);
+VALUES (7863,4663);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1813,9126);
+VALUES (9652,7264);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7271,2779);
+VALUES (6503,1619);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3743,4165);
+VALUES (463,2186);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8634,7055);
+VALUES (8060,7595);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (568,9148);
+VALUES (3386,9930);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4321,5368);
+VALUES (5974,4487);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5128,1131);
+VALUES (9542,1157);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7669,593);
+VALUES (2612,30);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9311,7528);
+VALUES (9856,4104);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3125,9880);
+VALUES (4145,1256);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (276,7688);
+VALUES (7132,1503);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7720,8622);
+VALUES (2815,5330);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8962,3627);
+VALUES (3505,1313);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3571,7172);
+VALUES (4118,8412);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4352,6423);
+VALUES (894,2808);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (328,2528);
+VALUES (1287,5834);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2576,4805);
+VALUES (692,145);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5113,7888);
+VALUES (6761,6378);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3605,149);
+VALUES (552,7894);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8940,3977);
+VALUES (7415,8490);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9235,2252);
+VALUES (4206,8940);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9421,5710);
+VALUES (4023,7953);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2629,864);
+VALUES (3782,699);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5485,8045);
+VALUES (2789,1339);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5186,163);
+VALUES (1751,676);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9019,7143);
+VALUES (5519,7423);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9930,2901);
+VALUES (661,3966);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4201,6031);
+VALUES (381,3704);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4669,5744);
+VALUES (1072,7039);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (459,701);
+VALUES (5872,1905);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3573,4195);
+VALUES (6681,9093);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8216,842);
+VALUES (1751,7680);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2409,8467);
+VALUES (6038,9828);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2133,9955);
+VALUES (8473,9673);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5273,6224);
+VALUES (5831,8759);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1386,968);
+VALUES (5214,6621);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2340,2610);
+VALUES (6126,9644);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3296,5884);
+VALUES (6698,5118);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9617,5558);
+VALUES (9448,3171);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3543,3471);
+VALUES (4057,306);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5648,9227);
+VALUES (8112,272);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6401,797);
+VALUES (956,3832);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5496,7517);
+VALUES (4017,8026);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1271,7769);
+VALUES (4187,1159);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6647,1624);
+VALUES (1149,7636);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2906,2771);
+VALUES (1998,1613);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3139,2855);
+VALUES (2201,8098);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9001,5613);
+VALUES (26,5573);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5569,7992);
+VALUES (6047,8178);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5207,7752);
+VALUES (8708,227);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8779,3888);
+VALUES (1063,8856);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7162,7241);
+VALUES (5382,8681);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4080,7925);
+VALUES (9439,6363);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3770,4118);
+VALUES (2825,8720);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3566,4963);
+VALUES (7389,343);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7207,4644);
+VALUES (8620,9907);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2062,1450);
+VALUES (4202,3819);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8735,3881);
+VALUES (4336,5923);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9540,6296);
+VALUES (2651,5198);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1670,9170);
+VALUES (5711,3443);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3332,8629);
+VALUES (9517,5991);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5708,5337);
+VALUES (6915,7548);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4608,7063);
+VALUES (8433,454);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5302,6551);
+VALUES (251,6396);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (532,511);
+VALUES (6840,3023);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6668,4934);
+VALUES (5414,6518);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2728,5414);
+VALUES (9023,2210);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9227,2449);
+VALUES (7221,2391);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (924,1196);
+VALUES (52,7577);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6919,7084);
+VALUES (7235,1363);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1544,8044);
+VALUES (5836,5755);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7045,2528);
+VALUES (891,7372);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1942,218);
+VALUES (1251,7383);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4521,1273);
+VALUES (505,8209);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5655,1907);
+VALUES (4822,2100);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1842,2290);
+VALUES (9954,5188);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (477,9333);
+VALUES (2713,47);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8717,5761);
+VALUES (782,6540);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (701,2439);
+VALUES (7927,4616);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (869,4600);
+VALUES (8368,6755);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5457,9144);
+VALUES (6915,8703);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4680,4704);
+VALUES (9152,1540);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9476,2982);
+VALUES (9125,6871);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3300,8915);
+VALUES (4054,6174);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5978,7493);
+VALUES (5146,6501);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5156,6883);
+VALUES (5607,8482);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (194,7911);
+VALUES (7857,257);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9683,4304);
+VALUES (5564,3694);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (227,1494);
+VALUES (3214,9408);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6215,8705);
+VALUES (4434,6129);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7716,6755);
+VALUES (3692,3934);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7327,4821);
+VALUES (3139,25);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6890,2172);
+VALUES (3975,1416);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4307,5238);
+VALUES (803,1097);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3292,678);
+VALUES (818,1293);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9469,2838);
+VALUES (8796,6767);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3728,4074);
+VALUES (6699,2816);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9703,266);
+VALUES (4880,4045);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1095,9484);
+VALUES (3510,6042);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6628,2962);
+VALUES (5811,9151);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1058,8892);
+VALUES (9398,9260);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (96,6671);
+VALUES (1776,1445);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9373,2024);
+VALUES (8918,7492);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3234,3037);
+VALUES (775,235);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7834,359);
+VALUES (9932,3194);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7748,4735);
+VALUES (9940,2031);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8746,5224);
+VALUES (2283,3000);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (344,5594);
+VALUES (4216,3871);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8831,6314);
+VALUES (9579,6750);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8706,5249);
+VALUES (896,9551);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6053,7028);
+VALUES (2803,6827);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1995,8354);
+VALUES (16,1118);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (46,5223);
+VALUES (5678,95);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8416,9669);
+VALUES (9543,9766);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (373,7158);
+VALUES (5598,1977);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8342,4652);
+VALUES (7113,9781);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (579,969);
+VALUES (7033,4460);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2931,5475);
+VALUES (3093,8465);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7018,974);
+VALUES (5284,8594);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4596,9197);
+VALUES (6572,6794);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8056,8730);
+VALUES (2279,5211);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5892,2095);
+VALUES (574,5628);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2243,4185);
+VALUES (843,9013);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1045,6920);
+VALUES (1305,1494);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2821,196);
+VALUES (9588,6009);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (741,3693);
+VALUES (1707,8693);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9531,4369);
+VALUES (2049,7851);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (951,4697);
+VALUES (6572,5218);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3022,5384);
+VALUES (612,1712);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6940,471);
+VALUES (5006,3226);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (594,1643);
+VALUES (8673,9698);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3040,1833);
+VALUES (9120,4582);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3363,2089);
+VALUES (6268,9081);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5626,7654);
+VALUES (2150,8807);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4844,950);
+VALUES (4502,777);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9536,9604);
+VALUES (822,7081);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8133,7830);
+VALUES (5574,4365);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1552,7301);
+VALUES (135,9805);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3148,9796);
+VALUES (2011,6820);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5494,9677);
+VALUES (5590,3719);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9808,3568);
+VALUES (6844,6321);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6155,3236);
+VALUES (8115,7127);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8841,494);
+VALUES (1514,8086);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5178,1840);
+VALUES (9129,326);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8709,829);
+VALUES (2536,6131);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7330,7582);
+VALUES (7018,8707);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8401,668);
+VALUES (7032,2332);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5389,3015);
+VALUES (6183,5846);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1890,605);
+VALUES (3619,4334);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7593,8396);
+VALUES (9761,5345);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6790,3148);
+VALUES (90,9844);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7421,3975);
+VALUES (1712,17);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2614,2303);
+VALUES (7674,2544);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8379,2219);
+VALUES (2906,3563);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8989,390);
+VALUES (5577,7130);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4596,3435);
+VALUES (7874,5750);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4731,7209);
+VALUES (9728,84);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5937,4812);
+VALUES (8458,9963);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2548,1487);
+VALUES (3908,7451);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (440,8897);
+VALUES (1693,177);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (22,2686);
+VALUES (803,3913);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7073,4040);
+VALUES (8183,3496);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5704,8539);
+VALUES (1159,6595);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8968,2858);
+VALUES (9789,8463);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7668,954);
+VALUES (1640,7054);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2752,7072);
+VALUES (424,1805);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7866,237);
+VALUES (6255,8796);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4935,4481);
+VALUES (6894,3738);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7146,1587);
+VALUES (4863,6294);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4405,5472);
+VALUES (1927,4807);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2917,6629);
+VALUES (5052,9413);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8372,4877);
+VALUES (2408,8672);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5964,8934);
+VALUES (9890,5943);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4483,9237);
+VALUES (7925,4162);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3604,9229);
+VALUES (468,3883);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3165,7940);
+VALUES (2552,4643);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7791,3744);
+VALUES (4303,9611);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3026,6845);
+VALUES (495,8335);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (834,3690);
+VALUES (7125,810);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7361,871);
+VALUES (8305,555);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4253,9114);
+VALUES (666,4520);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6768,5085);
+VALUES (1518,1309);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3206,3092);
+VALUES (6101,9143);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5351,6180);
+VALUES (7940,3804);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1084,5269);
+VALUES (4986,3989);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6567,7937);
+VALUES (9991,9714);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7641,9585);
+VALUES (2651,9556);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (704,1306);
+VALUES (82,2180);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3548,1517);
+VALUES (8392,2067);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1650,7121);
+VALUES (5538,238);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1450,2414);
+VALUES (4944,7028);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8020,609);
+VALUES (204,1687);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5511,2785);
+VALUES (2565,2933);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1619,9566);
+VALUES (826,8366);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6377,1044);
+VALUES (9202,719);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8821,9574);
+VALUES (8489,1221);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7813,200);
+VALUES (9986,4076);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6422,6642);
+VALUES (896,1641);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3886,4822);
+VALUES (6521,5671);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4981,5451);
+VALUES (8431,3047);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5128,9217);
+VALUES (8032,5754);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4667,6180);
+VALUES (1274,8469);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4875,4140);
+VALUES (511,7276);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3199,4880);
+VALUES (9312,5322);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8078,8414);
+VALUES (3662,4226);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4703,9752);
+VALUES (3427,3038);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8443,5655);
+VALUES (7212,8644);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7020,137);
+VALUES (3340,3396);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4454,1178);
+VALUES (4338,4282);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (737,1367);
+VALUES (7167,8787);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7155,9594);
+VALUES (750,3344);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (228,7943);
+VALUES (5277,3869);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9570,5622);
+VALUES (3665,6974);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8868,5090);
+VALUES (7932,229);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6775,9273);
+VALUES (5603,1415);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (585,706);
+VALUES (2559,5722);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6014,8624);
+VALUES (3199,3375);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9676,7175);
+VALUES (8746,1700);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4799,349);
+VALUES (8987,41);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (510,1328);
+VALUES (665,5293);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9455,9110);
+VALUES (6220,6519);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4703,1030);
+VALUES (5728,3865);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8338,651);
+VALUES (5844,4530);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9297,5552);
+VALUES (4847,4735);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1281,1120);
+VALUES (1280,2707);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5104,259);
+VALUES (9626,7622);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9715,266);
+VALUES (7328,4965);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5847,4615);
+VALUES (9396,5599);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9863,2354);
+VALUES (2476,6866);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6997,7488);
+VALUES (2634,421);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9030,9498);
+VALUES (1252,2901);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6408,1231);
+VALUES (1785,5237);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2184,2566);
+VALUES (325,9440);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4086,8270);
+VALUES (8631,2570);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6011,3668);
+VALUES (9447,2430);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4460,1022);
+VALUES (7489,399);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1419,1210);
+VALUES (9967,6781);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4942,2081);
+VALUES (9488,1208);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1982,2031);
+VALUES (4394,5041);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7334,4047);
+VALUES (4777,2238);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7894,4761);
+VALUES (7929,7849);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2218,9425);
+VALUES (1665,5648);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5531,6620);
+VALUES (3982,8110);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3382,45);
+VALUES (5517,7924);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4118,9130);
+VALUES (3356,4198);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5591,205);
+VALUES (7077,4613);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4527,9795);
+VALUES (3100,4086);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2545,177);
+VALUES (8827,2371);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5520,8646);
+VALUES (9716,1244);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3635,1705);
+VALUES (4469,1632);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (232,7424);
+VALUES (5151,7566);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8436,1289);
+VALUES (5803,3969);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1116,5628);
+VALUES (56,3916);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3402,6470);
+VALUES (3846,2764);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3563,7394);
+VALUES (8860,7555);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9453,427);
+VALUES (7174,6112);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8388,301);
+VALUES (1025,238);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9913,1301);
+VALUES (8920,2495);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1344,671);
+VALUES (6566,3743);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1408,7676);
+VALUES (8839,5648);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6676,3636);
+VALUES (5276,1637);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (198,8129);
+VALUES (3743,9119);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6621,2177);
+VALUES (2448,6289);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5537,8767);
+VALUES (8681,3530);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6975,2119);
+VALUES (2358,8018);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9678,3810);
+VALUES (9370,4103);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1289,7612);
+VALUES (7382,7533);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2555,9401);
+VALUES (929,9280);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6942,5307);
+VALUES (7578,8482);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2673,8407);
+VALUES (1608,3068);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5877,5431);
+VALUES (4357,50);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2988,52);
+VALUES (2472,7972);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3925,369);
+VALUES (7526,7292);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2689,654);
+VALUES (8636,1365);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2226,4454);
+VALUES (3867,8635);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2857,1680);
+VALUES (4371,3119);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2865,6678);
+VALUES (101,3512);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3081,7712);
+VALUES (1845,5049);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7940,7850);
+VALUES (5370,4721);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (581,8951);
+VALUES (8158,3123);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (303,8935);
+VALUES (8882,3859);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3499,3168);
+VALUES (8973,8804);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5619,9702);
+VALUES (3696,3877);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (685,7820);
+VALUES (3955,9856);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (193,1546);
+VALUES (1280,4152);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (193,2986);
+VALUES (4141,4115);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6967,3926);
+VALUES (3891,4473);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1871,1142);
+VALUES (1080,5146);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5756,3763);
+VALUES (8876,2656);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8057,6121);
+VALUES (3082,3722);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7692,1499);
+VALUES (4488,5206);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9939,4945);
+VALUES (5908,378);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2106,5749);
+VALUES (198,6013);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4836,3763);
+VALUES (8701,6148);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3241,4326);
+VALUES (9457,633);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3541,1139);
+VALUES (2072,3813);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7882,5955);
+VALUES (5137,4956);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3193,478);
+VALUES (8442,7440);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4666,2138);
+VALUES (9669,2413);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9533,3265);
+VALUES (9506,3464);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9405,9410);
+VALUES (1759,7532);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9713,2071);
+VALUES (3410,7075);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9304,9102);
+VALUES (6997,3188);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8100,6361);
+VALUES (6043,2539);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1630,2232);
+VALUES (5924,4622);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9433,4934);
+VALUES (7352,8872);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6259,1268);
+VALUES (8769,2643);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1446,8897);
+VALUES (5267,4788);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9102,6109);
+VALUES (9425,46);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4855,3072);
+VALUES (3874,77);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3851,5821);
+VALUES (5997,1267);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9717,2506);
+VALUES (8842,6835);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1896,9314);
+VALUES (2957,1030);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1635,9508);
+VALUES (8357,2393);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6619,9575);
+VALUES (226,7638);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8404,8912);
+VALUES (2416,6827);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7400,5828);
+VALUES (4080,6104);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7976,4867);
+VALUES (8452,759);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (611,9783);
+VALUES (57,8292);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1223,2429);
+VALUES (1814,9133);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2441,6443);
+VALUES (9277,6718);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6923,9881);
+VALUES (5534,1705);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8097,732);
+VALUES (4917,6409);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (987,8354);
+VALUES (5344,5753);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5381,9964);
+VALUES (9445,6666);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1447,1867);
+VALUES (5095,2942);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2383,2850);
+VALUES (9530,8856);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7574,7858);
+VALUES (1907,7997);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7704,758);
+VALUES (8942,4345);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9711,6539);
+VALUES (6311,3109);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6031,6001);
+VALUES (1001,9933);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1428,8655);
+VALUES (4407,4358);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6553,8452);
+VALUES (2252,1417);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5329,9708);
+VALUES (3762,681);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1098,8858);
+VALUES (7400,8191);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8325,3159);
+VALUES (107,7895);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6963,7345);
+VALUES (4570,7715);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8573,1916);
+VALUES (497,324);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6829,9312);
+VALUES (5323,3646);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8250,2929);
+VALUES (806,1399);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2434,1907);
+VALUES (6005,7520);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6267,978);
+VALUES (6050,952);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6032,9744);
+VALUES (2768,7470);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7200,472);
+VALUES (3944,7135);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8216,9883);
+VALUES (7781,3921);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3953,5784);
+VALUES (3218,9201);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7774,9114);
+VALUES (2203,8684);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5559,7513);
+VALUES (2456,1542);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4147,8528);
+VALUES (3038,9449);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9954,5390);
+VALUES (1065,15);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9747,5549);
+VALUES (8348,6967);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9968,7618);
+VALUES (9344,8858);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9228,201);
+VALUES (4813,3140);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2945,9361);
+VALUES (2971,8782);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2977,8627);
+VALUES (3822,938);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7077,1373);
+VALUES (4956,4416);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8684,6108);
+VALUES (6792,9284);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2290,8503);
+VALUES (4510,7930);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (196,3471);
+VALUES (4144,7498);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8604,2186);
+VALUES (1930,1349);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6836,8861);
+VALUES (9282,1331);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2677,6079);
+VALUES (6328,433);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5701,5495);
+VALUES (2216,2990);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5142,5551);
+VALUES (8510,9416);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8997,6614);
+VALUES (3435,307);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6470,7343);
+VALUES (6172,1681);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9361,220);
+VALUES (2772,803);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2498,4810);
+VALUES (1534,1736);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8032,2263);
+VALUES (9662,6612);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4459,5755);
+VALUES (6584,9170);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2822,8924);
+VALUES (9025,9526);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1072,3246);
+VALUES (418,2476);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1759,1251);
+VALUES (5477,6787);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4811,6548);
+VALUES (6338,7042);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2506,6563);
+VALUES (1302,5861);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (201,9178);
+VALUES (8926,8102);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5896,5351);
+VALUES (1297,8728);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4048,8758);
+VALUES (706,5916);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2074,1044);
+VALUES (2047,7102);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (209,1034);
+VALUES (3752,1306);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7270,5788);
+VALUES (6863,9012);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1892,4363);
+VALUES (1666,7680);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9646,315);
+VALUES (3778,641);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (102,6657);
+VALUES (8524,5927);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4709,5055);
+VALUES (2102,9240);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3280,74);
+VALUES (2125,4802);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8903,7987);
+VALUES (8712,5157);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (247,5302);
+VALUES (9433,1819);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7758,3249);
+VALUES (7999,1946);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9285,9251);
+VALUES (8496,4907);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3766,932);
+VALUES (6961,9219);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (517,9923);
+VALUES (7141,3759);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (227,5062);
+VALUES (2059,1927);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4372,9052);
+VALUES (3199,1276);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4428,986);
+VALUES (838,1365);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1901,66);
+VALUES (3078,2967);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9373,7689);
+VALUES (4627,637);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4715,2500);
+VALUES (6693,5846);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3657,5337);
+VALUES (1743,3187);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (872,7408);
+VALUES (5231,3524);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6896,4569);
+VALUES (6063,8634);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7360,6386);
+VALUES (5413,8689);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3318,5677);
+VALUES (1168,4771);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9190,1199);
+VALUES (2113,3748);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (776,3386);
+VALUES (9033,7006);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8652,4703);
+VALUES (9052,4947);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2440,8714);
+VALUES (4638,3316);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7064,8853);
+VALUES (5582,3936);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (223,6207);
+VALUES (4137,7834);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2831,6212);
+VALUES (8076,9474);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8305,7549);
+VALUES (5210,8632);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9998,9107);
+VALUES (5263,5037);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5011,8782);
+VALUES (2721,4942);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4634,3749);
+VALUES (8370,8940);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7065,1413);
+VALUES (5232,4459);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7056,9311);
+VALUES (2888,4127);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1699,6600);
+VALUES (6634,5968);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2164,2991);
+VALUES (6358,2149);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3551,1106);
+VALUES (7444,1081);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6239,6820);
+VALUES (4700,4524);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8707,6099);
+VALUES (2089,5579);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1608,9909);
+VALUES (9700,4093);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9341,6891);
+VALUES (2823,5301);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5558,3032);
+VALUES (8440,314);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5222,232);
+VALUES (8741,420);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4954,1089);
+VALUES (2598,1321);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4538,177);
+VALUES (1336,1305);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1961,2339);
+VALUES (8576,6582);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1675,591);
+VALUES (3077,9473);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6657,3453);
+VALUES (698,6940);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4539,7867);
+VALUES (7443,5312);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1699,7995);
+VALUES (4686,135);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1869,8992);
+VALUES (7096,7528);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7008,5572);
+VALUES (2111,8966);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2708,7117);
+VALUES (7766,4945);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2530,1890);
+VALUES (3490,4808);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3424,3527);
+VALUES (3297,6533);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7705,5687);
+VALUES (1038,1381);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4717,9429);
+VALUES (7231,5360);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6265,3921);
+VALUES (9982,9411);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9860,7305);
+VALUES (3279,4528);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7152,610);
+VALUES (3157,9239);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4495,7023);
+VALUES (1029,6069);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6236,3410);
+VALUES (8301,2057);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7031,3851);
+VALUES (2891,6415);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8319,7046);
+VALUES (2274,9933);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (317,5415);
+VALUES (6040,4450);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6222,2985);
+VALUES (9755,858);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9415,4606);
+VALUES (2307,376);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4662,1148);
+VALUES (6561,1820);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4101,4653);
+VALUES (1955,919);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1820,5260);
+VALUES (2775,8452);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (916,5366);
+VALUES (6049,2085);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6707,6550);
+VALUES (6312,8272);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3600,4823);
+VALUES (255,384);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7945,5153);
+VALUES (6551,9575);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3564,126);
+VALUES (6503,2206);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5082,3059);
+VALUES (7321,2472);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1164,1882);
+VALUES (2742,3348);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3905,4735);
+VALUES (688,9050);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2160,2607);
+VALUES (2177,5666);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7142,5856);
+VALUES (8569,1955);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (953,6106);
+VALUES (3925,836);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2138,9128);
+VALUES (6987,385);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2633,4028);
+VALUES (5093,6984);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4706,1677);
+VALUES (7425,7260);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (311,6408);
+VALUES (9649,4283);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2998,6691);
+VALUES (2605,6289);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1030,7541);
+VALUES (8050,8507);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1745,9116);
+VALUES (6111,5129);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8379,6354);
+VALUES (753,5979);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5022,5990);
+VALUES (1464,7458);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6537,8282);
+VALUES (8479,9856);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2669,8854);
+VALUES (3070,2929);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8794,6171);
+VALUES (9682,8577);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6833,2279);
+VALUES (4650,9267);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (439,1960);
+VALUES (2839,1406);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8618,137);
+VALUES (6442,4111);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (132,4647);
+VALUES (3410,7);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1160,2341);
+VALUES (1357,4702);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (386,9089);
+VALUES (9362,1060);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3094,1462);
+VALUES (7772,9667);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2298,6457);
+VALUES (6332,5695);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9934,9979);
+VALUES (1056,7452);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3790,9066);
+VALUES (1874,9852);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8589,914);
+VALUES (2927,4575);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4909,5034);
+VALUES (2601,9923);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8618,6999);
+VALUES (5709,8716);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6103,2840);
+VALUES (8623,3958);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4531,7764);
+VALUES (4784,3622);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5873,6323);
+VALUES (9997,4849);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (611,8800);
+VALUES (466,6661);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8729,9152);
+VALUES (1951,9975);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5047,9210);
+VALUES (3066,7155);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8958,6631);
+VALUES (6115,2843);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7687,9173);
+VALUES (8439,2576);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5458,2644);
+VALUES (1502,2576);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8133,9996);
+VALUES (1591,8490);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6096,7015);
+VALUES (9695,7827);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9592,8805);
+VALUES (8546,5781);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6989,3332);
+VALUES (5881,8313);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6131,6380);
+VALUES (8536,7286);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7741,6425);
+VALUES (5802,3792);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9290,8611);
+VALUES (6120,6302);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9610,1960);
+VALUES (255,5288);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6916,9549);
+VALUES (4302,538);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4529,9532);
+VALUES (5044,9498);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2476,3799);
+VALUES (1683,2053);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9486,7150);
+VALUES (2171,4904);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (927,7494);
+VALUES (3453,4500);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1287,1119);
+VALUES (8666,8723);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (994,5428);
+VALUES (8744,3719);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9834,1878);
+VALUES (2090,7567);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5667,5722);
+VALUES (207,4865);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4281,3264);
+VALUES (409,5470);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6786,5016);
+VALUES (6111,3383);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2610,5140);
+VALUES (5477,9999);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (987,5743);
+VALUES (3052,2621);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4222,2850);
+VALUES (789,8145);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (701,346);
+VALUES (7204,41);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2894,8491);
+VALUES (8720,9589);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8492,8587);
+VALUES (6933,532);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7523,966);
+VALUES (1843,6110);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3830,4237);
+VALUES (4018,8400);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5592,4182);
+VALUES (7428,1666);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6030,1463);
+VALUES (4959,3112);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1631,1111);
+VALUES (5258,2311);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6621,5050);
+VALUES (3284,1540);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1177,3009);
+VALUES (9548,5989);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9168,2486);
+VALUES (2955,2675);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4091,604);
+VALUES (3851,1086);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7085,9850);
+VALUES (7031,3419);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1166,6815);
+VALUES (3176,8388);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (522,8312);
+VALUES (1664,8889);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (581,4338);
+VALUES (1092,6236);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6996,2588);
+VALUES (6840,1534);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7748,4725);
+VALUES (6864,7151);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7963,6720);
+VALUES (7055,1009);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6240,9506);
+VALUES (1228,2505);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4517,4372);
+VALUES (3324,6204);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1826,2689);
+VALUES (3898,6020);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4629,1177);
+VALUES (2786,780);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7588,6745);
+VALUES (2505,3569);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6249,9624);
+VALUES (7436,3326);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1998,288);
+VALUES (5891,9955);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5482,2943);
+VALUES (275,2537);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3002,4575);
+VALUES (5123,1820);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6104,6779);
+VALUES (488,8429);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5015,2256);
+VALUES (2471,3101);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1378,3650);
+VALUES (9959,9279);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1959,719);
+VALUES (9815,2993);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3337,8823);
+VALUES (7935,7908);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3367,7777);
+VALUES (6901,2637);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3198,7366);
+VALUES (6589,4965);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6772,1314);
+VALUES (4170,5795);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (600,8711);
+VALUES (579,3971);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5389,3020);
+VALUES (5590,2420);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (350,6372);
+VALUES (3971,7592);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3873,6239);
+VALUES (6189,4213);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5124,9669);
+VALUES (3864,3159);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4257,7741);
+VALUES (2566,9031);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9620,230);
+VALUES (2048,2048);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8387,8062);
+VALUES (5975,9563);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4285,5562);
+VALUES (9399,5640);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5517,5471);
+VALUES (269,6055);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7299,1385);
+VALUES (5827,2452);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9642,1669);
+VALUES (3398,9262);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8274,2414);
+VALUES (6522,8122);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7309,7853);
+VALUES (5586,5624);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3138,248);
+VALUES (3293,1309);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5024,8117);
+VALUES (484,9610);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8106,6440);
+VALUES (2085,3301);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2124,9364);
+VALUES (3671,1531);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3771,7425);
+VALUES (2446,4607);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5455,3598);
+VALUES (8574,1353);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2745,2597);
+VALUES (3875,1075);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5784,4656);
+VALUES (4891,4482);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3647,2765);
+VALUES (1354,1049);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6459,1110);
+VALUES (5065,9164);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (122,5868);
+VALUES (8757,7666);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5379,4273);
+VALUES (6128,4247);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9527,7335);
+VALUES (7055,1653);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8693,2854);
+VALUES (8038,9624);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9044,9766);
+VALUES (2359,7148);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8634,1431);
+VALUES (1520,7324);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2935,2364);
+VALUES (9966,8755);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8707,2534);
+VALUES (7484,2399);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (743,7586);
+VALUES (5364,7381);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6026,5236);
+VALUES (4805,3666);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8036,9031);
+VALUES (675,7482);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4387,1387);
+VALUES (3813,2485);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2975,3389);
+VALUES (2279,7740);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6834,2345);
+VALUES (1418,4361);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5511,7195);
+VALUES (7634,706);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (193,308);
+VALUES (9358,9586);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9430,2946);
+VALUES (2922,929);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5679,6219);
+VALUES (383,9845);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3621,9719);
+VALUES (7930,7693);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6856,3903);
+VALUES (4449,6868);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4466,3630);
+VALUES (1249,4079);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6215,3126);
+VALUES (32,8317);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3019,43);
+VALUES (8408,74);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6902,7138);
+VALUES (340,2162);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4196,927);
+VALUES (3932,892);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7027,1959);
+VALUES (7793,4882);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9633,8042);
+VALUES (8515,9511);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1725,1213);
+VALUES (4691,5520);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3193,1260);
+VALUES (5908,6022);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9809,5816);
+VALUES (7562,2063);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9939,3698);
+VALUES (5738,9812);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2159,6139);
+VALUES (1626,9279);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1871,5665);
+VALUES (1107,3755);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (394,5210);
+VALUES (7631,1118);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7981,3664);
+VALUES (8352,5723);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2128,649);
+VALUES (6040,8051);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1073,433);
+VALUES (6846,2433);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6203,4663);
+VALUES (210,657);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (735,8436);
+VALUES (4234,6930);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4677,5274);
+VALUES (6908,2222);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (936,3807);
+VALUES (407,7970);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6775,8746);
+VALUES (7933,8821);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2541,4650);
+VALUES (9629,5250);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5102,1879);
+VALUES (4744,3577);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6564,8616);
+VALUES (413,2659);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6320,6767);
+VALUES (7865,5326);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2577,749);
+VALUES (1265,2784);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8271,9825);
+VALUES (8318,8261);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (85,1053);
+VALUES (4110,8111);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7658,6001);
+VALUES (2997,2674);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2712,6853);
+VALUES (9404,3912);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6077,8474);
+VALUES (9166,7634);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9849,6129);
+VALUES (2834,8522);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4727,5124);
+VALUES (7043,578);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5675,5394);
+VALUES (3890,8217);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3442,5853);
+VALUES (4974,7301);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2956,164);
+VALUES (5498,924);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (14,8351);
+VALUES (8691,4295);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4769,3606);
+VALUES (3451,2246);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1765,2321);
+VALUES (2937,7549);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6777,3553);
+VALUES (5647,503);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7175,5982);
+VALUES (7406,3579);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9114,318);
+VALUES (7216,6235);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2228,6807);
+VALUES (2646,1557);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3897,7000);
+VALUES (9553,8845);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7228,9202);
+VALUES (9672,4670);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8161,8564);
+VALUES (3434,673);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5046,5097);
+VALUES (3048,5050);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5793,5421);
+VALUES (1900,2561);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (364,6313);
+VALUES (2294,7850);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3394,9762);
+VALUES (730,8764);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1233,7844);
+VALUES (6666,4508);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6174,6964);
+VALUES (8489,5711);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8649,8164);
+VALUES (4039,5090);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7093,8433);
+VALUES (5556,435);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8372,6269);
+VALUES (1712,8788);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1367,1299);
+VALUES (6161,1954);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7274,7175);
+VALUES (1377,6790);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1731,220);
+VALUES (2470,981);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8694,8058);
+VALUES (3853,724);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6666,5893);
+VALUES (2016,2033);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (106,2673);
+VALUES (415,1588);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4286,4040);
+VALUES (9598,6534);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6594,3337);
+VALUES (2295,3560);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5846,701);
+VALUES (4848,3547);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1997,7000);
+VALUES (9456,6114);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7252,1128);
+VALUES (9429,2685);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3210,5048);
+VALUES (7623,5209);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7921,4855);
+VALUES (8134,8171);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9001,5109);
+VALUES (4654,4724);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5566,1440);
+VALUES (6598,5401);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1140,7412);
+VALUES (7105,9873);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5497,3875);
+VALUES (5199,9208);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3040,6847);
+VALUES (4375,3746);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2212,4491);
+VALUES (841,4928);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2123,7390);
+VALUES (3617,6593);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7895,8343);
+VALUES (1934,2350);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5418,6217);
+VALUES (7246,6563);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6692,6230);
+VALUES (9175,6135);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (544,1340);
+VALUES (2812,784);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2553,371);
+VALUES (4508,7777);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9626,659);
+VALUES (1232,9550);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2155,5824);
+VALUES (6737,406);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6199,5170);
+VALUES (560,6620);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6019,4658);
+VALUES (7953,3181);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3672,1440);
+VALUES (2428,114);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9253,3281);
+VALUES (8104,3414);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1335,8494);
+VALUES (1357,3689);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2108,235);
+VALUES (438,8530);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2800,7030);
+VALUES (8463,916);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (917,9705);
+VALUES (2544,2887);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5018,9825);
+VALUES (7804,9143);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (643,1329);
+VALUES (4564,7818);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5948,9419);
+VALUES (8559,3610);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4584,5367);
+VALUES (1492,4561);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8886,1356);
+VALUES (7763,6580);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2997,9978);
+VALUES (2288,3382);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6807,2554);
+VALUES (8020,6105);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2524,5183);
+VALUES (7770,6921);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3934,318);
+VALUES (2194,540);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8839,3072);
+VALUES (7087,5428);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5590,639);
+VALUES (1188,6277);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (374,4497);
+VALUES (944,2221);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3296,829);
+VALUES (8657,3428);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6742,6535);
+VALUES (3574,5108);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8285,6533);
+VALUES (4390,7942);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6845,349);
+VALUES (9132,5036);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2855,1993);
+VALUES (7746,6014);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8406,70);
+VALUES (4061,8315);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9919,9917);
+VALUES (2874,5126);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1073,8300);
+VALUES (2233,7023);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2020,8309);
+VALUES (4344,3191);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1698,4704);
+VALUES (1368,8964);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (191,9135);
+VALUES (1293,5484);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (325,3457);
+VALUES (872,3464);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5811,2311);
+VALUES (5460,9300);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5780,7533);
+VALUES (8281,2931);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5416,6546);
+VALUES (2749,5060);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3091,8878);
+VALUES (8478,3900);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9031,966);
+VALUES (557,4006);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2056,8082);
+VALUES (3385,5132);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1874,4979);
+VALUES (8478,6824);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1604,1172);
+VALUES (2412,4100);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1705,2615);
+VALUES (4275,8075);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1166,2943);
+VALUES (3049,3574);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4889,359);
+VALUES (927,5157);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1980,1345);
+VALUES (6488,4038);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9562,9393);
+VALUES (7865,7139);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8777,204);
+VALUES (5545,2349);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6565,6201);
+VALUES (8395,5484);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9206,831);
+VALUES (3771,6735);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1024,6220);
+VALUES (2299,6659);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1159,1098);
+VALUES (1303,8886);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3539,1982);
+VALUES (2594,4235);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7848,7953);
+VALUES (6238,4337);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (253,3528);
+VALUES (1748,1429);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3092,3285);
+VALUES (6549,2610);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1994,955);
+VALUES (4363,3887);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7791,7588);
+VALUES (6972,6578);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (807,1313);
+VALUES (4538,4975);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9906,6957);
+VALUES (8754,437);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6421,7816);
+VALUES (3356,9215);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9901,8369);
+VALUES (2389,8868);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2776,5056);
+VALUES (9770,643);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1466,9922);
+VALUES (223,8900);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2293,1874);
+VALUES (4487,16);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (291,6843);
+VALUES (7172,2623);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1943,4264);
+VALUES (517,7342);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2296,9300);
+VALUES (3626,7237);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5612,6507);
+VALUES (9443,9217);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4839,6854);
+VALUES (6317,8062);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5979,5810);
+VALUES (1353,3790);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9305,3341);
+VALUES (6301,3282);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (293,5362);
+VALUES (7285,1033);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1042,6732);
+VALUES (8495,1034);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4443,2342);
+VALUES (296,7252);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5531,8269);
+VALUES (1312,9884);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (98,1633);
+VALUES (9504,4942);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5295,3014);
+VALUES (9284,8658);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6697,4784);
+VALUES (7651,7768);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9830,2717);
+VALUES (4987,7293);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3146,4894);
+VALUES (8737,7979);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8329,4642);
+VALUES (3137,6303);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8705,4280);
+VALUES (2222,7802);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (333,1529);
+VALUES (9522,9364);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6455,2356);
+VALUES (1409,70);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3604,4140);
+VALUES (4223,4548);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6411,4959);
+VALUES (867,7130);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3012,4118);
+VALUES (1496,3129);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5748,2462);
+VALUES (9000,7201);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2238,8791);
+VALUES (1969,8670);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4642,6196);
+VALUES (9076,2736);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8988,4509);
+VALUES (3679,7883);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6087,5941);
+VALUES (7436,8143);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6823,9940);
+VALUES (6841,1957);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1449,8094);
+VALUES (1385,9746);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9868,8285);
+VALUES (2813,9862);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5132,4763);
+VALUES (8250,4063);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3049,3594);
+VALUES (5488,7310);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1692,6744);
+VALUES (8600,5878);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6662,7237);
+VALUES (1324,2807);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8060,524);
+VALUES (6776,9889);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2514,5269);
+VALUES (6244,3904);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1444,2647);
+VALUES (8313,4431);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (626,5128);
+VALUES (4117,3902);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3577,8356);
+VALUES (6511,4896);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6254,412);
+VALUES (7016,9148);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2686,9604);
+VALUES (8454,9688);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2765,2422);
+VALUES (3835,2005);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7812,2535);
+VALUES (6856,8288);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9534,6746);
+VALUES (2719,3954);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9180,1946);
+VALUES (7876,2051);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9334,2251);
+VALUES (1558,3479);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (820,902);
+VALUES (6288,1673);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4375,5625);
+VALUES (230,3423);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1500,9695);
+VALUES (3990,5315);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9051,8070);
+VALUES (6612,231);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3941,5627);
+VALUES (584,5913);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1340,9203);
+VALUES (4088,3178);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1799,8422);
+VALUES (1395,4984);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8958,465);
+VALUES (3782,7528);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7587,1468);
+VALUES (2049,2323);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3157,4622);
+VALUES (6746,1702);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9848,1464);
+VALUES (3101,8450);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3964,4351);
+VALUES (4534,4079);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8524,6363);
+VALUES (2974,7320);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2086,6283);
+VALUES (7332,7354);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6005,2083);
+VALUES (3570,2403);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4593,1024);
+VALUES (5424,2607);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1009,3144);
+VALUES (8828,5190);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7130,3449);
+VALUES (343,5878);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8852,6048);
+VALUES (4169,8570);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8605,6176);
+VALUES (1381,2195);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6337,3446);
+VALUES (5070,8318);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2939,5302);
+VALUES (846,4277);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3373,6508);
+VALUES (5524,6754);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1495,2668);
+VALUES (5819,8259);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5505,4789);
+VALUES (5989,8445);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8063,7302);
+VALUES (3654,3003);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3506,1785);
+VALUES (3015,1910);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (935,6645);
+VALUES (3282,661);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3445,8084);
+VALUES (8779,3912);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2774,6989);
+VALUES (7660,2473);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6034,3598);
+VALUES (1613,6680);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4535,185);
+VALUES (9422,1494);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5884,6022);
+VALUES (1685,9229);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4546,2204);
+VALUES (3371,1296);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3203,1897);
+VALUES (960,9761);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1877,6682);
+VALUES (302,7927);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1780,1676);
+VALUES (5310,7787);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5040,4178);
+VALUES (8341,3335);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5724,738);
+VALUES (6277,6698);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7384,3073);
+VALUES (880,5842);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4485,350);
+VALUES (290,1185);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7632,2720);
+VALUES (2109,8030);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4460,3124);
+VALUES (7206,3080);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (91,8240);
+VALUES (2677,20);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5656,8013);
+VALUES (6196,9989);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2993,3726);
+VALUES (3502,2118);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (813,5079);
+VALUES (4179,1296);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2041,1290);
+VALUES (7258,6850);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9011,7316);
+VALUES (7970,4022);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7036,3258);
+VALUES (8418,3669);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9109,7470);
+VALUES (98,6462);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6361,6515);
+VALUES (5863,1335);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2116,1806);
+VALUES (7405,3160);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8827,1186);
+VALUES (1943,18);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6674,6129);
+VALUES (8814,2420);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3762,5791);
+VALUES (1921,4269);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (164,4772);
+VALUES (814,4159);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7346,4233);
+VALUES (7490,2542);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1674,6204);
+VALUES (6565,8629);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5703,3387);
+VALUES (8753,4797);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6263,5060);
+VALUES (5170,5214);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2832,354);
+VALUES (2577,4900);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (268,4383);
+VALUES (6850,3958);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7682,1263);
+VALUES (4209,7589);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8151,8302);
+VALUES (3721,7945);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6027,3790);
+VALUES (6518,7745);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7744,1148);
+VALUES (3964,6124);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8205,9332);
+VALUES (4817,9945);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3644,4722);
+VALUES (7661,5020);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2642,8343);
+VALUES (7736,5840);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7843,5591);
+VALUES (5817,7238);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2211,374);
+VALUES (1801,6845);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (810,6461);
+VALUES (5188,4317);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3550,4129);
+VALUES (5568,4202);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3538,3033);
+VALUES (9198,1092);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7295,8352);
+VALUES (1950,9443);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8871,8110);
+VALUES (4258,5886);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5506,1499);
+VALUES (1262,3429);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8722,2928);
+VALUES (4833,9260);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (375,6309);
+VALUES (9536,6571);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5451,1600);
+VALUES (218,7081);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2462,6005);
+VALUES (149,2630);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7915,7919);
+VALUES (1541,3603);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3079,5981);
+VALUES (8564,9101);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3248,5074);
+VALUES (4302,284);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5085,2428);
+VALUES (7571,8002);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9380,2166);
+VALUES (4025,6937);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1174,666);
+VALUES (2230,9870);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6188,8865);
+VALUES (6626,7838);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1551,7045);
+VALUES (7316,6069);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1038,5868);
+VALUES (3532,1052);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5631,7903);
+VALUES (2653,4004);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9649,6608);
+VALUES (9872,5788);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2588,4119);
+VALUES (1523,2466);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2557,4896);
+VALUES (7418,62);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3973,1584);
+VALUES (8258,5796);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7219,6322);
+VALUES (9142,9402);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8649,1894);
+VALUES (4331,6724);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8630,9208);
+VALUES (4524,1383);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1043,7423);
+VALUES (8493,6003);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5976,7428);
+VALUES (1079,1804);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4070,6563);
+VALUES (709,7442);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7300,2274);
+VALUES (1644,2366);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (771,7290);
+VALUES (3458,1506);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9998,7113);
+VALUES (7790,3839);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8095,8720);
+VALUES (878,9539);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5871,9419);
+VALUES (5313,7761);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6495,7279);
+VALUES (2016,4497);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1200,855);
+VALUES (2319,4216);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1612,8160);
+VALUES (6854,9050);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (473,2202);
+VALUES (9428,6228);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1195,6303);
+VALUES (2558,9294);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8516,657);
+VALUES (5672,6063);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9180,3388);
+VALUES (6073,9796);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3349,5680);
+VALUES (6128,2346);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6062,6252);
+VALUES (7579,962);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4144,2274);
+VALUES (3760,7106);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9350,8654);
+VALUES (6055,2590);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2117,3277);
+VALUES (2670,7163);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9320,3128);
+VALUES (1254,7943);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6249,636);
+VALUES (4796,770);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8719,7290);
+VALUES (7039,713);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3210,8523);
+VALUES (4732,5054);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4980,6252);
+VALUES (6129,8731);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1433,6779);
+VALUES (3519,2782);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5934,8916);
+VALUES (137,3051);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2614,8719);
+VALUES (2299,8613);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3091,352);
+VALUES (948,163);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7862,7736);
+VALUES (2683,1685);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6431,6505);
+VALUES (216,4318);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7674,1252);
+VALUES (9702,8300);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4564,7447);
+VALUES (4073,2926);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8452,6443);
+VALUES (5457,7296);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4009,8057);
+VALUES (5714,7883);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4842,6924);
+VALUES (9283,7460);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5622,1972);
+VALUES (3693,4697);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8747,1473);
+VALUES (1524,3898);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7687,9671);
+VALUES (3818,3722);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4271,3196);
+VALUES (1610,6693);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2316,1161);
+VALUES (7079,7539);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6431,1942);
+VALUES (4285,636);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1579,149);
+VALUES (3238,2304);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9406,1809);
+VALUES (4079,34);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3401,3295);
+VALUES (2911,669);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5177,396);
+VALUES (67,3653);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6543,9559);
+VALUES (6835,8559);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4851,5544);
+VALUES (220,105);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3932,4779);
+VALUES (6499,5798);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9547,4433);
+VALUES (6509,7013);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1486,6519);
+VALUES (4621,4362);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4100,6700);
+VALUES (7883,6937);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5908,1094);
+VALUES (3351,3511);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9008,3934);
+VALUES (9622,5512);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7339,1243);
+VALUES (4646,7341);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3755,9374);
+VALUES (6777,1525);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (599,9641);
+VALUES (2271,6271);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1803,4477);
+VALUES (4216,8178);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (141,4187);
+VALUES (6222,1053);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4529,5913);
+VALUES (9790,9501);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2172,4962);
+VALUES (7457,8139);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5481,2592);
+VALUES (8245,6679);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9846,5563);
+VALUES (9761,986);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7000,4944);
+VALUES (7158,6619);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (983,8431);
+VALUES (6333,3001);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9755,2554);
+VALUES (2175,4674);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5012,953);
+VALUES (6861,2000);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8217,2661);
+VALUES (5395,1184);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4941,6733);
+VALUES (3651,6072);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8710,3773);
+VALUES (1953,5322);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3907,6263);
+VALUES (7368,8594);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (560,2019);
+VALUES (980,334);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6632,5289);
+VALUES (2293,9264);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4934,6008);
+VALUES (2325,7592);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3223,2238);
+VALUES (5243,1613);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1734,7258);
+VALUES (4646,6982);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9485,5440);
+VALUES (4667,3430);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6235,7806);
+VALUES (3012,7821);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9037,9635);
+VALUES (9034,1867);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7810,9326);
+VALUES (8814,1758);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1169,5484);
+VALUES (1383,5436);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5544,1625);
+VALUES (9894,8307);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (530,3507);
+VALUES (1809,4092);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6921,5887);
+VALUES (8536,7593);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1145,5583);
+VALUES (3920,7923);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2898,3894);
+VALUES (7232,7175);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7192,2365);
+VALUES (2361,2914);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7353,8971);
+VALUES (8458,1953);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8275,9421);
+VALUES (271,6221);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7653,7638);
+VALUES (8739,7428);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8613,5593);
+VALUES (1750,2424);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1531,8496);
+VALUES (6533,1511);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4442,5085);
+VALUES (8325,5559);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9668,8405);
+VALUES (6644,3622);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6246,2313);
+VALUES (5161,345);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4103,3660);
+VALUES (3328,7465);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4712,6733);
+VALUES (9367,9901);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (789,6852);
+VALUES (3031,9001);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1225,6008);
+VALUES (8951,2430);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2335,6358);
+VALUES (9832,2380);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2829,4208);
+VALUES (5562,9403);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8482,8746);
+VALUES (2767,5147);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6871,4867);
+VALUES (5314,6662);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1197,5650);
+VALUES (7642,9930);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7976,7405);
+VALUES (123,726);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9974,2476);
+VALUES (790,5061);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4784,7694);
+VALUES (2497,7332);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6992,2698);
+VALUES (8483,346);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (389,5919);
+VALUES (4563,2014);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4360,7472);
+VALUES (6262,4151);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8730,7667);
+VALUES (7856,3811);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6638,3958);
+VALUES (7607,3470);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1139,5887);
+VALUES (786,3332);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1746,1219);
+VALUES (5989,1246);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7433,8342);
+VALUES (525,7765);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4301,6946);
+VALUES (7530,9885);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8670,7092);
+VALUES (2204,8640);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6800,1399);
+VALUES (33,7162);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8800,1865);
+VALUES (954,8543);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3635,2565);
+VALUES (4383,8399);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7101,9591);
+VALUES (2214,4790);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5795,45);
+VALUES (6357,2545);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6121,7610);
+VALUES (5453,2232);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1421,706);
+VALUES (8959,5158);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4177,6926);
+VALUES (198,4296);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4636,6011);
+VALUES (1929,927);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4955,2357);
+VALUES (7020,6754);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8425,3303);
+VALUES (9426,5604);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5394,9717);
+VALUES (5782,7263);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2916,3243);
+VALUES (7028,1214);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5460,3690);
+VALUES (7119,9201);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7385,5962);
+VALUES (1899,1580);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (757,3535);
+VALUES (356,7226);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8112,2472);
+VALUES (4909,2359);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4544,3577);
+VALUES (7710,2061);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5501,2174);
+VALUES (5226,9828);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7230,8206);
+VALUES (4555,5180);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2541,5239);
+VALUES (9786,6357);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5829,9804);
+VALUES (3525,3561);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1553,8415);
+VALUES (9770,1433);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1216,2462);
+VALUES (1878,4587);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7442,8314);
+VALUES (1901,2727);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1151,6113);
+VALUES (48,3898);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9478,1958);
+VALUES (9434,1206);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2523,4144);
+VALUES (7173,9942);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4555,8165);
+VALUES (3212,1342);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (687,8571);
+VALUES (8971,9712);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3416,7785);
+VALUES (7019,3537);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4828,6899);
+VALUES (3731,6668);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4986,9547);
+VALUES (6893,341);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4628,9067);
+VALUES (6978,8715);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2000,4448);
+VALUES (2555,3075);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1045,264);
+VALUES (9421,2633);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4083,3253);
+VALUES (9653,2453);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4815,8843);
+VALUES (5323,7056);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1051,9342);
+VALUES (7517,5344);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7715,4675);
+VALUES (5291,1401);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9657,4019);
+VALUES (3020,2943);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1814,1404);
+VALUES (5631,9139);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6082,5679);
+VALUES (4303,6620);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (947,6385);
+VALUES (5387,2967);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9860,208);
+VALUES (3186,7402);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1422,2100);
+VALUES (7057,8233);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5243,8244);
+VALUES (3936,4309);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6705,4571);
+VALUES (5209,5943);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6327,8822);
+VALUES (316,6929);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8717,2964);
+VALUES (1771,5656);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1526,4772);
+VALUES (599,2670);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7095,5422);
+VALUES (6632,1566);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5938,9867);
+VALUES (660,5149);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8492,3600);
+VALUES (8151,3290);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (772,667);
+VALUES (7948,4912);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4008,7385);
+VALUES (1534,3889);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7467,8280);
+VALUES (8560,1292);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (25,4639);
+VALUES (157,4964);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8639,7579);
+VALUES (6887,3987);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7583,447);
+VALUES (2205,4327);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3168,877);
+VALUES (86,9971);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4645,6084);
+VALUES (4145,3128);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5967,9354);
+VALUES (1625,7670);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6021,886);
+VALUES (2878,1690);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6527,2298);
+VALUES (8863,3520);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5915,451);
+VALUES (9705,1312);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6676,758);
+VALUES (8523,4378);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3288,1020);
+VALUES (6273,9564);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7733,8236);
+VALUES (4288,3577);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3480,1773);
+VALUES (4329,9689);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7938,154);
+VALUES (3856,553);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2235,9076);
+VALUES (4139,4399);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4851,1248);
+VALUES (6009,5963);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7147,4218);
+VALUES (5678,4005);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2718,6231);
+VALUES (5945,6319);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5815,5882);
+VALUES (5276,7916);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (183,4797);
+VALUES (5208,8632);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3476,4088);
+VALUES (6279,5011);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8228,6158);
+VALUES (6482,3689);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8500,3950);
+VALUES (671,747);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2382,1728);
+VALUES (505,392);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6546,7838);
+VALUES (327,4471);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5965,7144);
+VALUES (127,8343);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8405,3735);
+VALUES (6285,9299);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7266,3426);
+VALUES (9317,136);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2781,9621);
+VALUES (3215,1917);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1877,6352);
+VALUES (2322,7304);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1024,1234);
+VALUES (4069,3356);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7846,1656);
+VALUES (7722,368);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8728,7884);
+VALUES (3539,2483);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8554,6377);
+VALUES (742,2645);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8872,9752);
+VALUES (930,2597);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8323,9569);
+VALUES (8515,2141);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1821,9321);
+VALUES (4222,1157);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6176,2547);
+VALUES (8208,9053);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4740,4475);
+VALUES (1532,2999);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2640,9214);
+VALUES (1898,1637);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2160,4086);
+VALUES (2432,7072);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5590,7989);
+VALUES (7913,6256);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8399,4037);
+VALUES (3838,2546);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9178,4683);
+VALUES (6698,2822);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9235,611);
+VALUES (7955,7247);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5307,4238);
+VALUES (9003,5957);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1305,7611);
+VALUES (6402,2031);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2303,3575);
+VALUES (9667,2304);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8776,3380);
+VALUES (8848,7486);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7531,3971);
+VALUES (5735,2847);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4191,4542);
+VALUES (1507,2254);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8663,8242);
+VALUES (1958,4579);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1853,3427);
+VALUES (5362,7165);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3080,4052);
+VALUES (5662,9797);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1363,411);
+VALUES (8943,3757);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4058,4895);
+VALUES (5575,9081);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8906,1643);
+VALUES (2635,3778);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1002,1629);
+VALUES (2767,6267);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9499,4984);
+VALUES (2543,986);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5183,6089);
+VALUES (6811,6848);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3606,5855);
+VALUES (3103,5049);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3899,8753);
+VALUES (1820,7624);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7627,5716);
+VALUES (5513,5780);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7351,3837);
+VALUES (2845,1768);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8563,6955);
+VALUES (719,6535);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2401,3857);
+VALUES (6189,3463);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6245,6838);
+VALUES (1250,3614);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1400,8087);
+VALUES (180,7141);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5727,9429);
+VALUES (9108,2679);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4385,4535);
+VALUES (7747,4585);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9769,9915);
+VALUES (660,5761);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7101,5063);
+VALUES (9991,828);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9036,7066);
+VALUES (1959,6990);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8161,5891);
+VALUES (3710,4426);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3100,1547);
+VALUES (2619,4634);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1517,3822);
+VALUES (7013,1363);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8312,8695);
+VALUES (5514,3555);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6410,409);
+VALUES (2159,7372);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3100,6941);
+VALUES (7752,9990);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6025,3615);
+VALUES (6021,3);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8069,6608);
+VALUES (9789,4862);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3222,107);
+VALUES (6233,2715);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6465,8374);
+VALUES (452,4815);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7874,8338);
+VALUES (6668,6015);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6298,3869);
+VALUES (1751,5678);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7165,1531);
+VALUES (7887,1001);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (123,9685);
+VALUES (1821,1253);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4761,9105);
+VALUES (5769,2110);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6251,6112);
+VALUES (4318,8059);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3616,6699);
+VALUES (3356,792);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5814,7088);
+VALUES (1564,8487);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8658,5999);
+VALUES (1435,205);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8652,6614);
+VALUES (4712,3140);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5648,7770);
+VALUES (6605,6662);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9535,4050);
+VALUES (5092,4343);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5123,7946);
+VALUES (6057,2480);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8856,4748);
+VALUES (3529,2036);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5937,3041);
+VALUES (1689,9921);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1830,4824);
+VALUES (2291,7990);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (509,2208);
+VALUES (3975,6593);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (493,6704);
+VALUES (4792,394);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6373,1634);
+VALUES (8483,9860);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1604,4317);
+VALUES (9079,4308);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8992,8405);
+VALUES (420,1598);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8054,822);
+VALUES (1635,7826);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4405,5303);
+VALUES (2279,176);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (190,9731);
+VALUES (4394,391);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3397,5428);
+VALUES (2871,5301);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8460,5605);
+VALUES (3154,7519);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8071,1565);
+VALUES (5954,8918);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4680,5597);
+VALUES (3643,6760);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6289,6763);
+VALUES (2856,5358);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8548,3287);
+VALUES (1175,8144);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2841,7251);
+VALUES (7929,4744);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2732,5451);
+VALUES (8369,1215);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4063,8866);
+VALUES (3911,9813);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2646,8902);
+VALUES (5941,2342);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2582,2525);
+VALUES (2022,7549);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3128,9146);
+VALUES (7740,9266);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3406,140);
+VALUES (6125,8773);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7822,198);
+VALUES (2362,1094);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5303,9775);
+VALUES (1198,579);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7825,2356);
+VALUES (2646,80);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7864,225);
+VALUES (1014,9755);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2424,1159);
+VALUES (5926,915);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7824,2894);
+VALUES (3579,9690);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8445,4248);
+VALUES (1420,9526);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4700,5059);
+VALUES (3851,5897);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1370,3786);
+VALUES (9841,4982);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2242,4721);
+VALUES (1805,4027);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7107,591);
+VALUES (8134,9981);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2618,5149);
+VALUES (4432,3863);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4652,1381);
+VALUES (5311,4047);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1514,6316);
+VALUES (5713,2166);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (870,2541);
+VALUES (1577,3855);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8605,8257);
+VALUES (7753,722);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5154,1627);
+VALUES (6374,3883);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4377,2091);
+VALUES (7876,7669);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4067,195);
+VALUES (1006,6013);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6262,5865);
+VALUES (1437,5764);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (152,7917);
+VALUES (5714,2434);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5172,370);
+VALUES (8115,889);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5949,333);
+VALUES (8346,4812);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1956,8593);
+VALUES (1504,5177);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7198,9067);
+VALUES (8958,5559);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8121,5875);
+VALUES (6936,2745);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9687,1670);
+VALUES (4118,9361);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6369,8267);
+VALUES (4824,507);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7730,9408);
+VALUES (952,2127);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5610,5612);
+VALUES (1290,5393);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3997,3231);
+VALUES (528,5313);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4563,2642);
+VALUES (7189,1682);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3066,7652);
+VALUES (9658,2972);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (328,454);
+VALUES (2696,8972);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8916,8467);
+VALUES (2977,8601);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (171,6855);
+VALUES (1391,8327);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3341,8372);
+VALUES (6995,1675);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8160,7004);
+VALUES (1356,4033);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (373,8629);
+VALUES (8734,4793);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1588,2362);
+VALUES (540,8845);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6184,9549);
+VALUES (3946,6112);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4086,3552);
+VALUES (9154,9802);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7603,7021);
+VALUES (9281,5811);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1539,5508);
+VALUES (3259,8862);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9478,474);
+VALUES (4276,6227);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1721,7248);
+VALUES (1433,7074);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3293,4213);
+VALUES (9039,9703);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5771,9845);
+VALUES (3528,3450);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7561,4529);
+VALUES (9907,5453);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8702,1473);
+VALUES (1060,2598);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1241,2342);
+VALUES (1404,8581);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6030,9648);
+VALUES (5856,7164);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5751,8673);
+VALUES (2766,2588);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2105,6657);
+VALUES (3156,5346);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (512,4948);
+VALUES (5790,5926);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4329,4219);
+VALUES (4572,5720);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (368,3941);
+VALUES (9838,3570);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3151,2174);
+VALUES (3676,263);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8609,8967);
+VALUES (6064,7551);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9517,4282);
+VALUES (1012,4313);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5734,7758);
+VALUES (1394,6549);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4525,636);
+VALUES (7420,5219);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8086,6834);
+VALUES (6988,3174);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8660,9067);
+VALUES (8958,4436);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4471,9864);
+VALUES (1228,2193);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6516,4841);
+VALUES (5422,6198);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1682,3258);
+VALUES (2961,224);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1939,4716);
+VALUES (9820,4070);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5776,6072);
+VALUES (4879,9650);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5260,15);
+VALUES (4469,6379);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5665,3822);
+VALUES (222,7409);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3212,4320);
+VALUES (1135,1675);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8007,9310);
+VALUES (990,3239);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (509,1866);
+VALUES (6016,5085);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2498,1804);
+VALUES (6810,557);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6122,4564);
+VALUES (5743,3646);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5282,688);
+VALUES (809,7193);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (262,9411);
+VALUES (8522,7058);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4453,6009);
+VALUES (8931,6887);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6026,8659);
+VALUES (7858,9835);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8367,2119);
+VALUES (26,1701);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9881,3517);
+VALUES (5643,2469);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9350,734);
+VALUES (7218,9018);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6041,5506);
+VALUES (4300,5688);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7912,3022);
+VALUES (3829,6527);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8122,5912);
+VALUES (1959,6470);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7820,8109);
+VALUES (231,4479);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5637,2232);
+VALUES (6145,8842);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4609,60);
+VALUES (5211,3284);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (661,8794);
+VALUES (7877,3848);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4661,1058);
+VALUES (5068,4695);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6056,4731);
+VALUES (7059,9929);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5375,3011);
+VALUES (9645,166);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9254,1462);
+VALUES (3489,2911);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7971,9865);
+VALUES (2666,4813);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7306,6020);
+VALUES (3149,8572);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5917,9022);
+VALUES (4215,5774);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1992,8004);
+VALUES (6727,1615);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4297,3237);
+VALUES (4339,5761);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9169,8763);
+VALUES (4888,1568);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3646,5113);
+VALUES (3746,3672);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7526,9294);
+VALUES (616,2504);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1368,3155);
+VALUES (7625,5128);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2873,3359);
+VALUES (8728,778);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1227,6059);
+VALUES (7860,571);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (266,390);
+VALUES (6450,4267);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6782,7114);
+VALUES (5906,299);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9847,5153);
+VALUES (7499,2243);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1564,3931);
+VALUES (9075,1561);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4093,2048);
+VALUES (8573,8776);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2121,1264);
+VALUES (952,9221);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1638,9366);
+VALUES (9577,7857);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8944,4858);
+VALUES (581,257);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9667,8138);
+VALUES (640,675);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4693,7787);
+VALUES (5366,4586);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5811,3787);
+VALUES (4570,9253);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5369,9514);
+VALUES (9587,4354);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7496,7703);
+VALUES (2255,1719);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7244,8696);
+VALUES (3960,7080);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1787,9997);
+VALUES (3865,9294);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9680,1297);
+VALUES (4161,5550);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (32,9202);
+VALUES (8272,6931);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1279,2431);
+VALUES (9136,716);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8518,8844);
+VALUES (6580,6057);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8843,2781);
+VALUES (2927,736);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1766,7721);
+VALUES (3637,7011);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7566,4870);
+VALUES (4666,7630);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4532,3690);
+VALUES (5385,7637);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7066,3989);
+VALUES (8762,9206);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7462,1460);
+VALUES (2544,9595);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6474,757);
+VALUES (7487,6061);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9828,3120);
+VALUES (6195,8172);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2794,1064);
+VALUES (3576,729);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (841,1376);
+VALUES (7003,2624);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8009,6720);
+VALUES (8672,4643);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2561,5804);
+VALUES (4806,8837);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7150,7116);
+VALUES (2465,7593);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9378,5223);
+VALUES (465,529);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8456,4745);
+VALUES (8480,3484);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5172,4362);
+VALUES (9079,8647);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (732,5528);
+VALUES (3986,3208);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3344,27);
+VALUES (2921,250);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8336,8538);
+VALUES (5780,2650);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5375,6011);
+VALUES (3833,4275);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5484,7877);
+VALUES (8101,7971);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8067,7896);
+VALUES (3147,6598);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3347,7262);
+VALUES (7994,8150);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (556,2778);
+VALUES (2341,2491);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2922,2569);
+VALUES (5898,6568);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4351,3819);
+VALUES (4338,1792);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (422,3859);
+VALUES (1686,9779);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (811,3342);
+VALUES (5428,2695);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8814,3969);
+VALUES (2526,4444);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6678,2077);
+VALUES (7494,7874);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4452,8493);
+VALUES (659,6623);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3863,9736);
+VALUES (7771,1797);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7833,8372);
+VALUES (7942,4478);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7472,3487);
+VALUES (9989,1088);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5950,327);
+VALUES (2228,78);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2411,8979);
+VALUES (4951,6478);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9160,9690);
+VALUES (1894,2042);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8356,3148);
+VALUES (6924,9989);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1159,1291);
+VALUES (6100,8515);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9289,3744);
+VALUES (8683,322);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8562,4675);
+VALUES (6241,2586);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8032,6911);
+VALUES (2347,2821);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7988,8573);
+VALUES (8184,3572);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9208,7601);
+VALUES (8669,3600);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9880,9029);
+VALUES (3853,5159);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7337,6446);
+VALUES (4530,2835);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6234,9589);
+VALUES (2724,830);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6065,5106);
+VALUES (608,1484);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5783,8121);
+VALUES (3731,8615);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4433,6641);
+VALUES (2562,3785);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6573,1993);
+VALUES (3825,5635);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6936,5433);
+VALUES (7280,9289);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6063,2701);
+VALUES (7084,2530);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5205,4490);
+VALUES (2271,9671);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9065,8888);
+VALUES (4027,7938);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4778,8581);
+VALUES (7609,5797);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9659,2383);
+VALUES (323,6691);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8304,4655);
+VALUES (2688,4340);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6910,9986);
+VALUES (8831,3914);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4494,6301);
+VALUES (9576,6313);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3333,1638);
+VALUES (8601,7619);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7248,8810);
+VALUES (1043,1888);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3896,3883);
+VALUES (5001,4399);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6753,4625);
+VALUES (3368,1588);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6308,1427);
+VALUES (1601,7414);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4568,1724);
+VALUES (3576,3704);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6156,8777);
+VALUES (288,6660);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7396,367);
+VALUES (7123,6894);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (583,8837);
+VALUES (3179,3578);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3280,1037);
+VALUES (7509,6499);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8969,3432);
+VALUES (4003,6842);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1953,6674);
+VALUES (4959,2397);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (359,3103);
+VALUES (8141,4676);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4550,930);
+VALUES (8418,1518);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1733,6621);
+VALUES (2510,163);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5203,7349);
+VALUES (5562,6314);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8581,5620);
+VALUES (951,1098);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5317,1539);
+VALUES (9268,3537);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3935,9165);
+VALUES (944,4849);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1310,8763);
+VALUES (8925,1552);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (92,3319);
+VALUES (6226,4618);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9308,8563);
+VALUES (909,2609);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8216,4025);
+VALUES (3342,402);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8731,3951);
+VALUES (2671,8143);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3799,2914);
+VALUES (6771,6981);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7621,6881);
+VALUES (7575,8232);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8888,9013);
+VALUES (9080,2062);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (484,5973);
+VALUES (1169,664);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (812,1977);
+VALUES (4115,2098);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9909,5086);
+VALUES (1454,2307);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4659,9274);
+VALUES (2754,6059);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4999,1603);
+VALUES (5798,4957);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9445,7464);
+VALUES (2769,6445);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2390,4238);
+VALUES (6870,311);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5706,2530);
+VALUES (6924,4897);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7451,4121);
+VALUES (5355,3401);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (656,8267);
+VALUES (7068,435);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2147,9713);
+VALUES (2292,6013);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5564,6245);
+VALUES (7055,3971);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2951,4350);
+VALUES (9247,7575);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9124,8817);
+VALUES (3253,5997);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3561,9304);
+VALUES (5176,635);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2557,1974);
+VALUES (3383,6489);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7724,981);
+VALUES (1333,2678);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7066,1387);
+VALUES (6743,1938);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5908,8410);
+VALUES (7598,244);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3799,5681);
+VALUES (8111,1493);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6137,1249);
+VALUES (2510,7321);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6930,2515);
+VALUES (2171,9067);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4908,8164);
+VALUES (8491,9671);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5771,3951);
+VALUES (8140,3869);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2557,5890);
+VALUES (9292,1178);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5152,9372);
+VALUES (2491,6400);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7629,9948);
+VALUES (9477,797);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9370,1733);
+VALUES (3554,7994);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6067,7077);
+VALUES (7099,6564);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (203,7703);
+VALUES (8458,9468);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7187,5203);
+VALUES (1937,2696);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (509,9110);
+VALUES (9210,1968);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9879,182);
+VALUES (4591,2872);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9580,3762);
+VALUES (8326,9054);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4579,9912);
+VALUES (6470,4145);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3784,6252);
+VALUES (4897,6171);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7579,4308);
+VALUES (8965,5835);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2395,1918);
+VALUES (1433,9720);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3519,5710);
+VALUES (6836,1592);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (53,5388);
+VALUES (2649,2432);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9098,6581);
+VALUES (9628,5431);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (554,7837);
+VALUES (1559,6357);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4344,233);
+VALUES (3049,7794);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6752,8274);
+VALUES (5586,4426);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (33,3150);
+VALUES (7480,8042);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1408,6812);
+VALUES (4241,5211);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1024,8351);
+VALUES (1032,9914);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6502,3278);
+VALUES (1840,2578);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (348,6964);
+VALUES (8233,5554);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6136,5874);
+VALUES (6647,8505);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6738,814);
+VALUES (5380,3104);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9364,5706);
+VALUES (4800,6029);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3372,4084);
+VALUES (9819,9463);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1136,666);
+VALUES (2118,2402);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9508,2772);
+VALUES (9526,6569);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7510,1552);
+VALUES (5693,3939);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4447,3514);
+VALUES (1984,1389);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (171,8196);
+VALUES (7743,1933);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5889,9884);
+VALUES (5486,5241);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9866,2865);
+VALUES (8423,3304);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5940,8538);
+VALUES (6246,6326);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4592,2761);
+VALUES (7101,2420);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7732,7133);
+VALUES (2783,5486);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8031,144);
+VALUES (7257,6863);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (198,8070);
+VALUES (1155,1224);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1047,3099);
+VALUES (2829,7498);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1981,9979);
+VALUES (3771,1634);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3220,5653);
+VALUES (4854,293);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6649,9499);
+VALUES (9457,4743);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3397,1964);
+VALUES (7613,7170);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4611,19);
+VALUES (618,2249);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (762,3346);
+VALUES (4108,3433);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8998,1291);
+VALUES (1631,1096);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (602,9206);
+VALUES (1103,4385);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9246,3969);
+VALUES (8214,4582);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1535,6051);
+VALUES (8606,327);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8003,5256);
+VALUES (2666,7352);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8549,2756);
+VALUES (7196,2754);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2038,5685);
+VALUES (4143,448);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7729,9156);
+VALUES (3870,5584);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6618,5484);
+VALUES (5037,8121);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6602,123);
+VALUES (9013,7626);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7912,3013);
+VALUES (9033,1306);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6233,7498);
+VALUES (3080,5508);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8436,1834);
+VALUES (6277,1171);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5484,4832);
+VALUES (6642,3772);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9784,7818);
+VALUES (5110,86);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9367,1279);
+VALUES (162,2845);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7080,4210);
+VALUES (8626,9302);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2246,7468);
+VALUES (2640,5191);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1932,7779);
+VALUES (3379,7393);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8682,2364);
+VALUES (2204,135);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8586,554);
+VALUES (2927,2825);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1832,2015);
+VALUES (7297,6950);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1554,1597);
+VALUES (6055,7813);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5712,6456);
+VALUES (4983,2268);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1186,3964);
+VALUES (32,2847);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7642,1820);
+VALUES (9265,7276);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2785,4469);
+VALUES (7097,9995);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6923,8874);
+VALUES (6184,5835);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5698,2754);
+VALUES (6582,5452);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9064,1248);
+VALUES (4286,302);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1763,3826);
+VALUES (65,7877);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5794,4974);
+VALUES (3461,8143);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5273,2503);
+VALUES (665,2573);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6462,7102);
+VALUES (214,8390);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7325,2419);
+VALUES (5585,3810);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7098,9807);
+VALUES (4690,1851);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4813,2522);
+VALUES (2587,1860);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (505,3604);
+VALUES (2408,665);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5307,4783);
+VALUES (1922,5707);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7247,888);
+VALUES (8754,1924);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1333,7679);
+VALUES (2933,3440);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7966,8262);
+VALUES (3346,9348);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (347,1818);
+VALUES (3269,4819);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (195,2897);
+VALUES (4316,8274);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9438,6882);
+VALUES (4110,600);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8617,6581);
+VALUES (1422,2874);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4693,8299);
+VALUES (9071,6011);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2137,3020);
+VALUES (4269,6901);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3761,7387);
+VALUES (1368,580);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9275,843);
+VALUES (3444,5131);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4871,3280);
+VALUES (7785,8760);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9768,1851);
+VALUES (1130,5908);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (154,2562);
+VALUES (4378,2975);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9425,4046);
+VALUES (4341,3851);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (559,5914);
+VALUES (4973,2174);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6201,2853);
+VALUES (750,4551);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6867,1562);
+VALUES (6250,819);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3984,5799);
+VALUES (2967,124);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8514,6490);
+VALUES (8290,2955);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3899,4789);
+VALUES (1289,6498);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4068,3022);
+VALUES (9292,2136);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2845,6770);
+VALUES (4916,1550);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4160,9552);
+VALUES (6320,1064);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4744,6161);
+VALUES (4509,886);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5201,905);
+VALUES (7435,1904);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8808,1267);
+VALUES (1893,7558);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3617,1692);
+VALUES (7152,9125);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8811,339);
+VALUES (6269,926);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5350,5441);
+VALUES (5564,2632);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3994,9803);
+VALUES (4117,611);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3388,1662);
+VALUES (1026,4143);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9847,3828);
+VALUES (1008,6942);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4911,1340);
+VALUES (2811,1369);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4542,3939);
+VALUES (9439,5490);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2796,1700);
+VALUES (462,4341);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8580,5552);
+VALUES (6079,6917);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (25,1049);
+VALUES (7404,2773);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6109,9277);
+VALUES (1747,8088);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5660,5037);
+VALUES (6115,9280);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4578,6386);
+VALUES (2803,8978);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5299,3385);
+VALUES (3306,4952);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6823,3089);
+VALUES (7143,4511);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (518,6264);
+VALUES (3979,1694);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6816,2266);
+VALUES (4974,496);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6836,7938);
+VALUES (4209,9216);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7448,9318);
+VALUES (1637,8313);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4505,4411);
+VALUES (7802,4306);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3666,7207);
+VALUES (7231,8213);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4006,3895);
+VALUES (3078,5032);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7991,7472);
+VALUES (8198,7636);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (107,7988);
+VALUES (6568,4773);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7126,1419);
+VALUES (2340,584);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5334,4472);
+VALUES (9500,5005);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4874,4592);
+VALUES (1595,6870);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6771,3538);
+VALUES (3237,2994);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1428,3185);
+VALUES (1259,1867);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9593,1069);
+VALUES (6945,6816);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9413,8696);
+VALUES (4239,7595);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3584,5624);
+VALUES (8690,7678);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8038,3284);
+VALUES (8222,7364);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7900,32);
+VALUES (340,1217);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4597,9444);
+VALUES (2926,2359);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8082,1134);
+VALUES (898,1898);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7153,8241);
+VALUES (3673,9492);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2324,7078);
+VALUES (3536,2410);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9164,7765);
+VALUES (4541,5718);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8084,3771);
+VALUES (1960,3415);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8616,2453);
+VALUES (533,3536);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5598,2898);
+VALUES (1229,7491);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4526,4512);
+VALUES (2190,4379);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9367,554);
+VALUES (4278,7732);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3165,8724);
+VALUES (8851,1368);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (642,3822);
+VALUES (6215,6670);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3833,3233);
+VALUES (3378,5368);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8738,3471);
+VALUES (6807,1935);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (480,3461);
+VALUES (1710,8108);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9989,2527);
+VALUES (3257,6566);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5182,7971);
+VALUES (9936,993);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4800,9041);
+VALUES (5711,9088);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3547,9462);
+VALUES (3124,6080);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1552,5103);
+VALUES (8104,6907);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7510,9084);
+VALUES (5746,9237);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8857,2028);
+VALUES (3430,806);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5065,5385);
+VALUES (2388,3055);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (962,755);
+VALUES (7644,1498);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1572,8848);
+VALUES (8090,1198);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6129,6567);
+VALUES (5377,7181);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8584,4930);
+VALUES (7692,3099);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (537,503);
+VALUES (286,5106);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9060,6076);
+VALUES (9542,818);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2716,9179);
+VALUES (1666,671);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2473,7250);
+VALUES (4668,9356);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7012,6457);
+VALUES (1467,6923);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (510,2971);
+VALUES (5568,3913);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2319,4190);
+VALUES (3933,2932);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5885,7565);
+VALUES (88,6795);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5093,6511);
+VALUES (1387,5617);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4114,1785);
+VALUES (3978,8046);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1145,8194);
+VALUES (769,7733);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (167,7401);
+VALUES (942,4483);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1656,5043);
+VALUES (3198,678);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8723,6207);
+VALUES (3123,5581);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9244,5670);
+VALUES (8821,8913);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9223,1654);
+VALUES (2756,8043);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4269,7227);
+VALUES (7948,6594);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8859,16);
+VALUES (9067,340);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (847,1152);
+VALUES (3415,9179);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9748,8771);
+VALUES (4443,3796);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9661,2745);
+VALUES (2106,1337);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (306,3549);
+VALUES (3392,4328);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6661,9611);
+VALUES (2988,8818);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2400,453);
+VALUES (1692,4183);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7620,5237);
+VALUES (3882,580);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1251,1666);
+VALUES (9229,2218);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2154,147);
+VALUES (6711,5643);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9863,8047);
+VALUES (2065,30);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5373,2520);
+VALUES (7390,2352);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6287,6086);
+VALUES (958,9733);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8669,4975);
+VALUES (7705,363);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2610,9700);
+VALUES (1718,5512);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1134,6641);
+VALUES (5802,6535);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3475,3139);
+VALUES (5129,1744);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7151,4137);
+VALUES (9447,4841);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9965,2242);
+VALUES (2670,8986);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1249,3979);
+VALUES (1352,9784);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7212,7566);
+VALUES (6255,7061);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7985,9521);
+VALUES (5455,2791);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5107,7373);
+VALUES (2743,5159);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8894,9292);
+VALUES (4209,5203);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4405,9705);
+VALUES (7181,5565);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7219,8127);
+VALUES (5689,8199);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7292,7732);
+VALUES (8522,2214);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7288,4586);
+VALUES (3065,2384);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4427,6761);
+VALUES (2368,2367);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4885,3058);
+VALUES (198,6877);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (678,3710);
+VALUES (5474,1206);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6312,6308);
+VALUES (6470,1075);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7938,2048);
+VALUES (7216,1497);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (353,7411);
+VALUES (4184,8553);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9290,9916);
+VALUES (8289,9140);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8450,7692);
+VALUES (8479,1361);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4175,887);
+VALUES (446,1274);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3066,5985);
+VALUES (7956,9365);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6567,8930);
+VALUES (3451,3926);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6184,5444);
+VALUES (3791,726);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4887,1844);
+VALUES (3285,2028);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1873,2066);
+VALUES (6668,7853);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4626,172);
+VALUES (9243,4280);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6783,25);
+VALUES (9448,9660);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8193,2897);
+VALUES (7611,1653);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (238,5547);
+VALUES (1322,1339);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5494,1094);
+VALUES (9091,2741);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2725,9236);
+VALUES (3327,9254);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9456,7264);
+VALUES (479,8593);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1763,706);
+VALUES (4770,8795);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6847,2934);
+VALUES (2718,4739);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1835,7238);
+VALUES (7996,8523);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8899,2911);
+VALUES (4492,8311);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (830,9519);
+VALUES (2419,2242);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1503,4613);
+VALUES (6506,7752);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7660,1967);
+VALUES (9640,1686);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (848,7201);
+VALUES (1768,5679);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7042,4336);
+VALUES (6908,9844);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8988,1096);
+VALUES (871,5474);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6031,6790);
+VALUES (6614,2354);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1226,9223);
+VALUES (5489,6167);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9410,998);
+VALUES (9085,3258);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8727,9183);
+VALUES (7528,6926);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8743,2876);
+VALUES (4356,3450);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9426,3104);
+VALUES (5414,8670);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1984,9526);
+VALUES (9811,2635);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3117,7516);
+VALUES (3598,6699);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1831,1929);
+VALUES (9886,8805);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7647,8192);
+VALUES (4475,3921);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3441,8026);
+VALUES (346,1451);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (911,9466);
+VALUES (507,3146);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9519,3335);
+VALUES (3986,1984);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1688,3862);
+VALUES (9365,4409);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2175,3015);
+VALUES (2794,164);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2760,6798);
+VALUES (6383,9843);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3805,1169);
+VALUES (3702,8932);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1464,4947);
+VALUES (7781,5668);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6907,480);
+VALUES (6203,6452);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6454,4406);
+VALUES (6238,9488);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7796,9547);
+VALUES (4748,6992);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1168,5502);
+VALUES (1154,8163);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7012,6373);
+VALUES (4058,712);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7429,1369);
+VALUES (3802,8055);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2633,2798);
+VALUES (1302,755);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1303,2132);
+VALUES (4578,2862);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9956,9524);
+VALUES (7902,1025);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4523,8932);
+VALUES (1129,259);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3050,2652);
+VALUES (7955,5533);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8003,7400);
+VALUES (7134,109);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1808,6915);
+VALUES (4146,681);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3925,5156);
+VALUES (8441,6326);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3038,4562);
+VALUES (6078,9543);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9072,6002);
+VALUES (8634,5065);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7396,1045);
+VALUES (6177,6215);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4017,140);
+VALUES (7172,4300);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9352,1943);
+VALUES (3510,8695);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9839,4183);
+VALUES (9485,7158);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5441,1304);
+VALUES (7584,7591);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6671,7153);
+VALUES (35,5736);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5475,5218);
+VALUES (392,1192);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8054,6379);
+VALUES (103,3946);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (915,7184);
+VALUES (9272,3590);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8858,3926);
+VALUES (164,9332);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9451,5565);
+VALUES (378,9879);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8016,6051);
+VALUES (4563,5099);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (403,5414);
+VALUES (4166,854);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6666,6514);
+VALUES (9394,7664);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9050,6308);
+VALUES (6173,502);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5033,7028);
+VALUES (6463,9507);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1524,7560);
+VALUES (2950,8208);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8246,9088);
+VALUES (7739,483);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8057,7737);
+VALUES (8146,8247);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4848,8737);
+VALUES (6075,2607);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4708,5938);
+VALUES (8390,5446);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3988,6637);
+VALUES (1063,9803);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3501,9596);
+VALUES (1599,406);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8256,3264);
+VALUES (1739,8205);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6503,6252);
+VALUES (9219,7326);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4295,6145);
+VALUES (178,9818);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5326,2402);
+VALUES (9344,1850);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4488,6379);
+VALUES (1361,9804);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7034,1901);
+VALUES (641,5535);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6398,8398);
+VALUES (1736,1793);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5341,2888);
+VALUES (1422,7139);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7205,6929);
+VALUES (1251,5539);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8155,6083);
+VALUES (5131,5789);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7841,5467);
+VALUES (7446,3393);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9907,6017);
+VALUES (2027,2268);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5257,5891);
+VALUES (6733,7317);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8478,8775);
+VALUES (579,303);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (974,9918);
+VALUES (89,6821);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4166,1577);
+VALUES (9361,2237);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9095,2613);
+VALUES (9370,521);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4825,8951);
+VALUES (5098,7029);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8616,4117);
+VALUES (3308,3962);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3860,7158);
+VALUES (3631,3117);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4895,2281);
+VALUES (5226,118);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2661,3358);
+VALUES (4481,6888);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7088,9005);
+VALUES (4354,8378);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2160,3010);
+VALUES (2401,8842);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8565,9245);
+VALUES (5120,9039);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4433,9929);
+VALUES (8698,845);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9196,9153);
+VALUES (9110,876);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3234,8936);
+VALUES (6552,8725);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5032,4384);
+VALUES (1929,9654);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1707,5240);
+VALUES (6743,5681);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (839,9987);
+VALUES (3453,9904);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5939,232);
+VALUES (9111,1658);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2841,8558);
+VALUES (9130,2979);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8477,894);
+VALUES (5076,284);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2118,1806);
+VALUES (8812,4588);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5067,7158);
+VALUES (5294,7797);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4771,1499);
+VALUES (174,8594);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4531,6704);
+VALUES (7554,8108);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2130,3102);
+VALUES (8174,7814);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8539,2433);
+VALUES (9509,6003);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9603,9125);
+VALUES (1753,2664);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7355,5231);
+VALUES (1678,4630);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6399,2025);
+VALUES (109,4379);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4301,2271);
+VALUES (9961,7667);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (276,7997);
+VALUES (2289,3141);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5356,4840);
+VALUES (3182,4140);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (796,3329);
+VALUES (6554,5425);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6561,2919);
+VALUES (4864,9509);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9249,4545);
+VALUES (7778,6200);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8293,9681);
+VALUES (9943,3097);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9919,9858);
+VALUES (778,6005);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9856,3597);
+VALUES (1423,4870);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9460,384);
+VALUES (4821,8716);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9822,9642);
+VALUES (8158,3728);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3238,751);
+VALUES (5259,1904);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5113,8568);
+VALUES (8285,6229);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6778,7205);
+VALUES (2565,7124);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4629,9445);
+VALUES (5829,889);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6435,5966);
+VALUES (4423,3240);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9893,9983);
+VALUES (393,6357);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4615,5898);
+VALUES (5266,8103);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8185,5371);
+VALUES (6361,4785);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6873,114);
+VALUES (5564,4970);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7374,332);
+VALUES (1663,2729);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2668,328);
+VALUES (7025,2230);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (221,2023);
+VALUES (4740,4809);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7778,981);
+VALUES (8884,5101);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2350,2579);
+VALUES (3346,1583);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5024,8824);
+VALUES (8699,3564);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3860,9697);
+VALUES (62,2308);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5024,8629);
+VALUES (7602,524);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7827,5577);
+VALUES (454,5343);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8140,7282);
+VALUES (9438,1435);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8565,3137);
+VALUES (1790,9634);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2997,6692);
+VALUES (7246,7005);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1169,3715);
+VALUES (1128,3335);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3812,8567);
+VALUES (1808,519);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5287,5189);
+VALUES (8052,6853);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4411,3137);
+VALUES (7162,4379);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5957,8450);
+VALUES (1316,785);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4551,4944);
+VALUES (1335,8631);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1553,1952);
+VALUES (8148,6660);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2247,3159);
+VALUES (6891,223);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7892,8305);
+VALUES (1486,3660);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1694,2854);
+VALUES (5197,9252);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3055,9670);
+VALUES (815,4093);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2387,3362);
+VALUES (2232,5645);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (744,5245);
+VALUES (8323,2139);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1142,8239);
+VALUES (7004,5273);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9709,4796);
+VALUES (3594,6756);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6527,93);
+VALUES (3638,8416);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8225,5998);
+VALUES (3137,4352);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5869,7227);
+VALUES (2099,488);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7401,7105);
+VALUES (3692,3024);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7826,7647);
+VALUES (549,3625);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4012,6178);
+VALUES (7366,9164);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8058,9422);
+VALUES (3953,3108);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7231,994);
+VALUES (8749,3523);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4650,8789);
+VALUES (7380,106);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8870,564);
+VALUES (120,9332);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5113,4266);
+VALUES (8420,3050);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4682,1265);
+VALUES (2232,2442);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2272,6070);
+VALUES (8676,9395);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2547,2587);
+VALUES (6121,3607);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3216,2430);
+VALUES (6160,5431);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1206,1612);
+VALUES (530,3389);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9363,1986);
+VALUES (1032,3484);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8779,9699);
+VALUES (9318,1324);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5006,9073);
+VALUES (8486,4534);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8937,3518);
+VALUES (1527,4169);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5702,7746);
+VALUES (9188,9457);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1912,1957);
+VALUES (309,6432);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6678,3052);
+VALUES (3385,4569);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7326,2790);
+VALUES (7427,5800);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8914,8501);
+VALUES (8894,3722);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9431,1541);
+VALUES (1053,7344);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2784,833);
+VALUES (9096,383);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5914,627);
+VALUES (7571,7484);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9468,2574);
+VALUES (6335,3122);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (80,7839);
+VALUES (6743,1494);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1314,2991);
+VALUES (8589,9605);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9999,6553);
+VALUES (4680,8080);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3961,334);
+VALUES (2808,7533);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5242,89);
+VALUES (6195,7944);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6591,5304);
+VALUES (8884,3793);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8445,846);
+VALUES (8130,7268);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (793,7878);
+VALUES (9254,6115);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1204,65);
+VALUES (4634,7184);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3334,9017);
+VALUES (9446,9298);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9239,3819);
+VALUES (2984,9609);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1246,6158);
+VALUES (841,8344);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4893,3974);
+VALUES (7644,6929);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7864,4446);
+VALUES (486,8158);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1256,7195);
+VALUES (8786,2669);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6825,1975);
+VALUES (9580,217);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5563,4062);
+VALUES (2553,3998);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4044,6896);
+VALUES (3719,4523);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4137,2370);
+VALUES (8057,3241);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1400,9326);
+VALUES (1309,9911);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3129,3600);
+VALUES (3459,7147);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5593,2922);
+VALUES (3142,7311);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7550,9660);
+VALUES (7346,7939);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (706,7139);
+VALUES (8632,2687);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8411,6879);
+VALUES (8416,7192);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9128,5413);
+VALUES (2097,1623);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9202,223);
+VALUES (6056,1537);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3727,4304);
+VALUES (515,95);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9132,4482);
+VALUES (8130,4055);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9579,1525);
+VALUES (969,8213);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7693,2672);
+VALUES (2180,2225);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3539,19);
+VALUES (5308,3245);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (247,5103);
+VALUES (495,7967);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2065,4647);
+VALUES (333,6960);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3155,4668);
+VALUES (8853,2068);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3786,8671);
+VALUES (6053,8169);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6600,3212);
+VALUES (5189,1827);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1228,2151);
+VALUES (3948,143);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6205,109);
+VALUES (7429,2520);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (559,7594);
+VALUES (7423,8023);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1320,7156);
+VALUES (5317,3355);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8126,3676);
+VALUES (5275,1004);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4617,7171);
+VALUES (8292,32);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9331,332);
+VALUES (6670,337);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4038,6719);
+VALUES (6790,3438);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3194,9945);
+VALUES (9856,7850);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3849,3043);
+VALUES (6004,2510);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3069,5017);
+VALUES (927,1337);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4055,5529);
+VALUES (6218,2653);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2829,2356);
+VALUES (7466,6468);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1305,4483);
+VALUES (3935,4341);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2260,796);
+VALUES (524,6206);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2224,5383);
+VALUES (2553,7953);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1385,1660);
+VALUES (3247,7134);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5637,671);
+VALUES (3697,5899);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6007,2956);
+VALUES (2476,9410);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8774,6087);
+VALUES (7892,9918);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5801,6323);
+VALUES (2602,2318);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6137,3712);
+VALUES (5118,390);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9434,5350);
+VALUES (7800,7110);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8557,4493);
+VALUES (1628,7029);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9186,3801);
+VALUES (2039,3889);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8722,5851);
+VALUES (5069,3077);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4698,5291);
+VALUES (66,8292);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6290,3428);
+VALUES (2879,1279);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4078,1175);
+VALUES (8979,848);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1710,8887);
+VALUES (8835,8225);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8022,7776);
+VALUES (8068,1694);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1965,5492);
+VALUES (2705,8021);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6687,1255);
+VALUES (8227,9760);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (921,9474);
+VALUES (5811,7439);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4429,1696);
+VALUES (3570,7237);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (638,9748);
+VALUES (6153,7850);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2381,6097);
+VALUES (8232,1080);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9808,3558);
+VALUES (3112,3049);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4126,1973);
+VALUES (7516,301);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8203,4294);
+VALUES (7073,8990);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (814,9477);
+VALUES (3558,1631);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1647,5602);
+VALUES (6590,3425);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4069,6819);
+VALUES (2381,365);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6395,5773);
+VALUES (4622,6950);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9261,1358);
+VALUES (1938,4270);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (543,6012);
+VALUES (3603,9033);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (780,934);
+VALUES (9019,3698);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5541,7159);
+VALUES (4855,2290);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7995,1671);
+VALUES (8365,9122);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1777,5440);
+VALUES (9352,6426);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8999,9704);
+VALUES (3269,9982);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2800,1785);
+VALUES (9068,7394);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1106,157);
+VALUES (1671,1702);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4738,1571);
+VALUES (8619,4042);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8394,6505);
+VALUES (8414,7830);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (887,9985);
+VALUES (1643,7585);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2387,1811);
+VALUES (1733,2047);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (148,2966);
+VALUES (5658,5706);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9142,5151);
+VALUES (59,1726);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2589,7479);
+VALUES (2120,5879);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3409,6944);
+VALUES (9159,3977);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4937,1849);
+VALUES (2642,989);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8055,3731);
+VALUES (662,109);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3841,9575);
+VALUES (4456,6864);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3730,7591);
+VALUES (5972,4297);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8981,1819);
+VALUES (3961,8540);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (52,7173);
+VALUES (117,2003);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7286,779);
+VALUES (3254,917);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1124,1069);
+VALUES (9289,6121);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1174,5166);
+VALUES (1002,4512);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3854,485);
+VALUES (8720,2153);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6869,9137);
+VALUES (9888,1079);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4359,6622);
+VALUES (8686,4293);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8861,8854);
+VALUES (3934,1712);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7448,2967);
+VALUES (8046,9180);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9223,399);
+VALUES (9780,3404);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1092,5730);
+VALUES (5009,8669);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3644,1109);
+VALUES (4578,8131);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7539,3690);
+VALUES (9997,6862);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8693,9099);
+VALUES (1101,4243);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6338,86);
+VALUES (7115,4552);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2720,9975);
+VALUES (8068,662);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8461,9304);
+VALUES (4510,6637);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5301,7620);
+VALUES (9732,851);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9992,6952);
+VALUES (6089,7587);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2989,9113);
+VALUES (4903,2956);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6552,4241);
+VALUES (2590,3884);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7508,6913);
+VALUES (8343,483);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2788,8683);
+VALUES (28,1431);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1057,2555);
+VALUES (7156,4905);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4071,7158);
+VALUES (3608,2231);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4048,52);
+VALUES (8771,1066);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4758,1450);
+VALUES (5221,6120);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (288,384);
+VALUES (8154,2925);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4480,7358);
+VALUES (2465,1063);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5499,7138);
+VALUES (2124,2003);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5102,9486);
+VALUES (8265,7612);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1219,1628);
+VALUES (731,9437);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1436,1084);
+VALUES (9315,8839);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (788,9570);
+VALUES (4619,969);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2150,4405);
+VALUES (1516,3630);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6738,4798);
+VALUES (8825,8969);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7654,7461);
+VALUES (638,2143);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3164,3622);
+VALUES (8016,4002);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6519,7855);
+VALUES (3075,7332);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2044,6686);
+VALUES (8532,8435);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6294,6546);
+VALUES (4224,4277);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1224,305);
+VALUES (5071,6559);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9296,8564);
+VALUES (699,5529);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5571,6321);
+VALUES (756,4420);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7521,3081);
+VALUES (6951,3423);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (142,1753);
+VALUES (5716,658);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1617,6976);
+VALUES (8711,6700);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2332,9072);
+VALUES (3741,8410);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9832,3608);
+VALUES (5016,7052);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6170,6752);
+VALUES (5051,6971);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8018,9931);
+VALUES (9087,8935);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9896,1184);
+VALUES (2743,170);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4659,1418);
+VALUES (196,2092);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9103,5615);
+VALUES (5161,5337);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8636,9861);
+VALUES (8855,4011);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3836,7708);
+VALUES (6997,1232);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9324,4462);
+VALUES (8848,1782);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9783,9796);
+VALUES (432,2812);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5605,5687);
+VALUES (7704,3648);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7082,7776);
+VALUES (7570,9181);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7077,8300);
+VALUES (7188,8489);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2335,7165);
+VALUES (133,115);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9281,8334);
+VALUES (426,1773);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1886,3080);
+VALUES (7797,2030);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (20,3115);
+VALUES (7093,2288);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (36,8743);
+VALUES (8667,4767);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2624,4961);
+VALUES (2482,1809);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9207,2845);
+VALUES (7286,1570);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1913,4161);
+VALUES (4287,3607);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2346,7961);
+VALUES (4988,5115);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5183,7129);
+VALUES (8558,9143);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5756,5641);
+VALUES (6057,37);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2448,6202);
+VALUES (4264,141);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3015,2754);
+VALUES (9030,3203);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1819,678);
+VALUES (56,3857);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8245,9950);
+VALUES (4127,6892);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6003,5770);
+VALUES (645,6856);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (154,1826);
+VALUES (6903,3141);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3141,1950);
+VALUES (3304,4720);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7411,7899);
+VALUES (3173,6643);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5101,3190);
+VALUES (6853,8634);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8714,9738);
+VALUES (3639,3347);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3247,2932);
+VALUES (8369,3049);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1046,3445);
+VALUES (1494,9099);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1368,6565);
+VALUES (7208,9383);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7603,6654);
+VALUES (1332,2011);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6509,9032);
+VALUES (8104,6060);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (458,202);
+VALUES (6492,7346);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6104,1764);
+VALUES (8649,6807);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1637,3994);
+VALUES (8434,5091);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (466,2153);
+VALUES (2184,2870);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4521,8792);
+VALUES (7601,2909);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (137,2062);
+VALUES (1861,7555);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9872,9312);
+VALUES (3645,5044);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5996,3167);
+VALUES (4662,2789);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8764,1345);
+VALUES (1301,8383);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6473,6478);
+VALUES (5596,1709);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (628,7315);
+VALUES (6113,3429);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (373,5705);
+VALUES (6135,5786);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1424,9774);
+VALUES (8857,805);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2158,6020);
+VALUES (7789,8413);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1148,8494);
+VALUES (2362,5316);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8628,3972);
+VALUES (5877,744);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6734,3475);
+VALUES (9803,8684);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5379,2570);
+VALUES (7837,35);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2772,6000);
+VALUES (9233,6900);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5085,637);
+VALUES (1644,7010);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1043,9762);
+VALUES (1892,5747);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4381,4483);
+VALUES (6471,9852);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2102,134);
+VALUES (7502,6283);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8167,747);
+VALUES (3075,5669);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6506,9903);
+VALUES (6126,9014);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6198,58);
+VALUES (2241,9219);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8955,7248);
+VALUES (6124,6216);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8516,9947);
+VALUES (5645,6316);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1472,9622);
+VALUES (3586,2030);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9487,2224);
+VALUES (6401,7143);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (933,6712);
+VALUES (364,4711);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7382,1675);
+VALUES (6234,8536);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (539,9537);
+VALUES (8367,2664);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6050,281);
+VALUES (253,744);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6615,8872);
+VALUES (6547,1302);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7897,8174);
+VALUES (2368,5169);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3661,7016);
+VALUES (3520,5867);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3190,9835);
+VALUES (2963,2322);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4481,9858);
+VALUES (6006,9710);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2498,3682);
+VALUES (6581,9569);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4521,5680);
+VALUES (8646,6055);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8192,643);
+VALUES (9625,8994);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5928,9611);
+VALUES (1831,6763);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2116,1743);
+VALUES (6524,7752);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6430,5218);
+VALUES (7564,6636);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6456,2267);
+VALUES (4265,9033);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6723,8342);
+VALUES (9271,6331);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8710,8388);
+VALUES (1551,4339);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3430,5407);
+VALUES (4080,7802);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4247,1425);
+VALUES (5446,2936);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7204,6171);
+VALUES (1617,6347);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8641,2600);
+VALUES (2303,1196);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6953,9993);
+VALUES (528,5832);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (980,6556);
+VALUES (7309,5358);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5398,697);
+VALUES (158,5756);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1638,6679);
+VALUES (7369,3583);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9053,2415);
+VALUES (9374,8929);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8563,7509);
+VALUES (2748,4410);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7075,5194);
+VALUES (8474,8363);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (598,5319);
+VALUES (8626,2905);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2351,2158);
+VALUES (8048,9234);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2294,2212);
+VALUES (3131,5987);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3997,5016);
+VALUES (2321,1829);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5840,8648);
+VALUES (2869,483);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8481,1332);
+VALUES (8598,4684);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (627,3833);
+VALUES (9386,5294);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (467,7284);
+VALUES (4,6881);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (383,6838);
+VALUES (9817,1220);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4080,2175);
+VALUES (3247,8518);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1725,1056);
+VALUES (7027,1592);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8018,1051);
+VALUES (5271,8110);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2970,5393);
+VALUES (2502,9607);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5055,1447);
+VALUES (7507,1610);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8845,4174);
+VALUES (5426,8688);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5793,8754);
+VALUES (9937,7383);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8723,9586);
+VALUES (7759,4124);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5358,9195);
+VALUES (9824,7225);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3757,126);
+VALUES (6171,6714);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8791,6590);
+VALUES (409,406);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9590,2972);
+VALUES (5088,7672);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8022,5279);
+VALUES (1122,9239);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1051,9922);
+VALUES (772,7611);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7155,5966);
+VALUES (942,7284);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9022,7989);
+VALUES (4962,3450);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1773,5091);
+VALUES (3287,3613);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3586,7259);
+VALUES (7605,490);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5556,7726);
+VALUES (285,7443);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6570,3646);
+VALUES (7086,513);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8032,8823);
+VALUES (4596,1062);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8162,7204);
+VALUES (729,628);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1535,7112);
+VALUES (9319,5026);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (735,5139);
+VALUES (830,8043);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2617,7145);
+VALUES (4946,9010);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (632,5576);
+VALUES (4394,2814);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4948,7645);
+VALUES (3565,7338);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8525,4028);
+VALUES (6281,4082);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7305,4945);
+VALUES (246,769);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1049,5660);
+VALUES (7351,6190);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7947,2240);
+VALUES (7131,1103);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1159,5582);
+VALUES (1639,4541);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8321,1619);
+VALUES (1052,6637);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6910,1906);
+VALUES (266,8397);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2332,4402);
+VALUES (9612,7806);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5139,2367);
+VALUES (1917,3647);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5647,315);
+VALUES (9688,3170);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8852,2406);
+VALUES (72,1669);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (592,9928);
+VALUES (7993,3834);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9654,6404);
+VALUES (721,9205);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8618,4915);
+VALUES (4368,3242);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6589,1405);
+VALUES (5461,9634);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6321,2922);
+VALUES (8874,3324);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3820,9394);
+VALUES (624,1329);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3364,7965);
+VALUES (8255,7884);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7640,4978);
+VALUES (5042,5186);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4058,2193);
+VALUES (499,2606);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7978,2627);
+VALUES (7838,9458);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5449,312);
+VALUES (2298,4041);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2995,1969);
+VALUES (5259,6075);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3792,1870);
+VALUES (9048,3131);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4862,5619);
+VALUES (2150,4757);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3543,2193);
+VALUES (5432,2551);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6667,530);
+VALUES (598,9366);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4640,7746);
+VALUES (2340,4071);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8491,6046);
+VALUES (5480,9632);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (526,875);
+VALUES (2610,7511);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7141,4327);
+VALUES (194,3661);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2847,5909);
+VALUES (8750,2014);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3208,5814);
+VALUES (6455,8096);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5455,2765);
+VALUES (1911,9474);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5702,2197);
+VALUES (3178,1363);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9876,2139);
+VALUES (6438,5441);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2362,177);
+VALUES (528,7805);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5356,794);
+VALUES (9692,1209);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (325,2444);
+VALUES (1365,6393);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1599,9773);
+VALUES (6302,7836);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8612,669);
+VALUES (6383,8297);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5536,9138);
+VALUES (2307,8111);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1343,8456);
+VALUES (8810,4121);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (254,9546);
+VALUES (9731,976);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8067,8656);
+VALUES (2534,4848);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1662,9485);
+VALUES (7235,52);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1110,7402);
+VALUES (3814,878);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1095,8106);
+VALUES (5560,8884);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6701,9651);
+VALUES (2203,6400);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1246,1363);
+VALUES (1829,1972);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5748,7229);
+VALUES (4536,5257);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6738,4791);
+VALUES (2449,3081);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (986,5665);
+VALUES (7527,3683);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2762,1069);
+VALUES (8195,4049);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6233,3101);
+VALUES (1100,4858);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8528,887);
+VALUES (7959,9713);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7924,6870);
+VALUES (1350,6593);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2105,4943);
+VALUES (2472,542);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (684,4450);
+VALUES (7696,8519);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5963,6717);
+VALUES (5761,1476);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (357,837);
+VALUES (8155,4224);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4380,4845);
+VALUES (7300,9774);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3269,1915);
+VALUES (3686,8922);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4324,3571);
+VALUES (5678,9487);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9599,1322);
+VALUES (1611,4718);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2547,2785);
+VALUES (8689,9741);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6602,4972);
+VALUES (285,2150);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (887,6638);
+VALUES (899,1184);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1242,1967);
+VALUES (6733,175);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (957,1973);
+VALUES (8926,7344);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2599,9761);
+VALUES (4429,8333);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2778,2971);
+VALUES (2498,221);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3028,2466);
+VALUES (5697,1458);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3869,2451);
+VALUES (1409,3626);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6801,5747);
+VALUES (9075,2623);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (397,7113);
+VALUES (3085,5032);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9280,4162);
+VALUES (7166,2159);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3819,3685);
+VALUES (2590,5709);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9495,1959);
+VALUES (3296,540);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8447,1436);
+VALUES (6281,7336);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8877,7124);
+VALUES (3763,4594);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8196,9166);
+VALUES (8272,7521);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6605,9135);
+VALUES (5653,2470);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2910,7549);
+VALUES (1592,6893);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1164,7244);
+VALUES (1644,1529);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8267,4790);
+VALUES (6196,3272);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2485,1079);
+VALUES (2866,2031);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6005,9365);
+VALUES (5427,4996);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9282,7500);
+VALUES (8010,7619);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4676,2050);
+VALUES (6088,7625);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4005,3319);
+VALUES (7375,9116);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1081,933);
+VALUES (6092,7607);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4246,2349);
+VALUES (9914,6978);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9785,3411);
+VALUES (7194,8963);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4523,3079);
+VALUES (7756,1172);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6735,8667);
+VALUES (9822,7455);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6448,9039);
+VALUES (9553,1509);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6850,5547);
+VALUES (7527,1063);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8057,8248);
+VALUES (3769,2411);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8678,5625);
+VALUES (5600,8004);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1,7044);
+VALUES (2271,6450);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7418,4329);
+VALUES (8761,7606);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3205,2210);
+VALUES (3062,740);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4002,1730);
+VALUES (7336,6930);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6480,8083);
+VALUES (9737,4844);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3647,609);
+VALUES (4450,704);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3031,3166);
+VALUES (9181,3932);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1507,7150);
+VALUES (5769,4357);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7912,4335);
+VALUES (214,6671);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3100,2659);
+VALUES (3911,3773);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6046,5160);
+VALUES (7257,8676);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7911,9969);
+VALUES (836,2672);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7107,5138);
+VALUES (3169,782);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4526,3257);
+VALUES (5650,8641);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7098,6776);
+VALUES (253,3686);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8913,5831);
+VALUES (7259,1888);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5257,5703);
+VALUES (2944,3378);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7752,4516);
+VALUES (8832,406);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (732,4218);
+VALUES (5465,254);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8627,6869);
+VALUES (8805,2428);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8068,3062);
+VALUES (1772,1107);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7495,7916);
+VALUES (3719,6011);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1637,1018);
+VALUES (4799,9164);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9584,517);
+VALUES (1869,7722);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2001,7807);
+VALUES (9551,6147);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8418,2378);
+VALUES (8280,1809);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5856,8861);
+VALUES (7153,3221);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7217,5046);
+VALUES (570,8544);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6590,3096);
+VALUES (1465,9896);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3759,8583);
+VALUES (786,9795);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1277,7103);
+VALUES (1503,3641);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (574,5588);
+VALUES (9720,5748);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3926,5447);
+VALUES (9198,2171);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4499,2234);
+VALUES (2961,6412);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5697,1408);
+VALUES (7903,5700);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1791,986);
+VALUES (3514,1594);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2790,9914);
+VALUES (6,5635);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7689,4245);
+VALUES (6477,673);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5396,8054);
+VALUES (7836,8849);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3465,8328);
+VALUES (8012,2048);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4508,8555);
+VALUES (2721,8585);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1114,8283);
+VALUES (4098,4609);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5566,4293);
+VALUES (8008,6339);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5617,3132);
+VALUES (1155,357);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4754,8182);
+VALUES (5783,9313);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (996,1844);
+VALUES (3908,2070);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2574,9338);
+VALUES (6888,1659);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4821,7634);
+VALUES (9891,6312);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8149,4400);
+VALUES (8506,1463);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4380,8740);
+VALUES (1700,8400);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7892,5486);
+VALUES (9004,4903);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2555,8645);
+VALUES (353,8588);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9400,5601);
+VALUES (9473,8185);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4494,2420);
+VALUES (2097,2752);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1395,7256);
+VALUES (3471,3365);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2378,342);
+VALUES (9697,6609);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4515,345);
+VALUES (1228,6395);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1524,18);
+VALUES (6559,2283);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8058,501);
+VALUES (9112,7315);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6416,9208);
+VALUES (423,3896);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9930,3649);
+VALUES (4007,2535);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9529,1882);
+VALUES (5852,4268);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9698,6596);
+VALUES (5307,1439);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9627,4018);
+VALUES (3533,4383);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7269,2457);
+VALUES (529,7468);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9626,7176);
+VALUES (3760,6169);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (711,8207);
+VALUES (7753,532);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5124,1475);
+VALUES (7549,1402);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (823,3632);
+VALUES (8295,851);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6369,2530);
+VALUES (9241,9039);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8955,9995);
+VALUES (1428,3110);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7112,9681);
+VALUES (7921,6865);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3771,5441);
+VALUES (9721,2912);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6557,1907);
+VALUES (8625,5788);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8459,2636);
+VALUES (386,3127);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3640,743);
+VALUES (5023,8415);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (240,2097);
+VALUES (9660,3227);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (497,7794);
+VALUES (7729,6310);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4715,1749);
+VALUES (9333,9452);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7946,3886);
+VALUES (9898,7725);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6689,3653);
+VALUES (7152,5371);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9836,3992);
+VALUES (7869,2497);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5898,668);
+VALUES (7694,5369);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7275,311);
+VALUES (5207,8586);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8514,2873);
+VALUES (4776,680);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7758,5995);
+VALUES (508,9055);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2209,2046);
+VALUES (7007,381);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7377,94);
+VALUES (7089,19);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6441,2743);
+VALUES (9966,9934);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1654,3654);
+VALUES (7732,7266);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9917,5399);
+VALUES (7655,8440);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (302,5833);
+VALUES (2545,1586);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8735,5967);
+VALUES (5998,3492);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8914,7043);
+VALUES (7793,1780);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6643,7602);
+VALUES (519,1334);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1543,7006);
+VALUES (1506,1704);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4432,4472);
+VALUES (4151,8022);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1306,4606);
+VALUES (3252,235);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6801,9358);
+VALUES (8397,9859);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8140,4015);
+VALUES (9916,8686);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3930,8297);
+VALUES (8044,2511);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (906,1796);
+VALUES (6056,1410);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4249,4542);
+VALUES (1536,4814);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1294,5866);
+VALUES (1321,400);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4327,6617);
+VALUES (7609,2266);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8839,6901);
+VALUES (1303,3413);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6824,3322);
+VALUES (4384,4288);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7372,9954);
+VALUES (1463,1607);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (687,5134);
+VALUES (9052,8433);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5704,6259);
+VALUES (8214,1605);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9712,8138);
+VALUES (866,5778);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1090,9857);
+VALUES (5584,2990);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7416,6849);
+VALUES (6377,9955);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2873,5421);
+VALUES (1139,5814);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3837,9618);
+VALUES (9088,9910);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4919,6987);
+VALUES (7678,8463);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3665,6834);
+VALUES (8078,8487);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (679,8719);
+VALUES (1512,3120);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4602,3742);
+VALUES (5531,7753);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3796,7536);
+VALUES (6181,213);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3398,6949);
+VALUES (1312,8406);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5758,4580);
+VALUES (4260,6811);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5699,8189);
+VALUES (9086,7969);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4410,6739);
+VALUES (8734,6425);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (282,8040);
+VALUES (7239,3889);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (945,7794);
+VALUES (6751,515);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7940,2309);
+VALUES (3020,60);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3229,3229);
+VALUES (7254,9533);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1137,4015);
+VALUES (7047,3117);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1388,3627);
+VALUES (7119,7508);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8876,28);
+VALUES (6260,3732);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5609,7674);
+VALUES (6222,1695);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4165,989);
+VALUES (1065,2684);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (420,978);
+VALUES (9151,6528);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3009,6192);
+VALUES (7511,6);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9622,791);
+VALUES (7527,6042);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9819,5562);
+VALUES (9392,3776);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7756,2076);
+VALUES (9958,6204);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7381,965);
+VALUES (9678,2298);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1209,2537);
+VALUES (6361,3510);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4247,6328);
+VALUES (738,9402);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6162,1070);
+VALUES (3097,4971);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2429,7365);
+VALUES (9551,9036);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (918,1591);
+VALUES (8129,4491);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7372,3553);
+VALUES (5785,9094);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8237,3449);
+VALUES (9185,699);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3404,2717);
+VALUES (2522,637);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7673,612);
+VALUES (6491,9020);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4857,7827);
+VALUES (4175,9952);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6513,5502);
+VALUES (9378,1759);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3651,5889);
+VALUES (9201,8127);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5567,7916);
+VALUES (1551,5103);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6328,3800);
+VALUES (3061,63);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3369,6465);
+VALUES (6636,5493);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3912,8704);
+VALUES (4856,4362);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4220,146);
+VALUES (9378,1736);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9130,2929);
+VALUES (1262,392);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (992,6456);
+VALUES (6931,9690);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4001,6217);
+VALUES (8633,8197);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6635,5287);
+VALUES (3510,3153);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9426,1577);
+VALUES (1899,8430);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1470,6789);
+VALUES (4101,7265);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5641,478);
+VALUES (2386,1406);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7075,5765);
+VALUES (4842,8447);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7671,1628);
+VALUES (2815,6413);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1061,4644);
+VALUES (2443,988);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2797,2158);
+VALUES (9830,4976);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4492,9803);
+VALUES (5761,174);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7256,5560);
+VALUES (2664,1974);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1147,1154);
+VALUES (8864,2764);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4876,1613);
+VALUES (7245,1131);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7450,1730);
+VALUES (2803,9139);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6514,8443);
+VALUES (3793,3277);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3944,541);
+VALUES (4653,6454);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7369,4643);
+VALUES (2216,4349);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4402,9998);
+VALUES (3364,6184);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1356,1873);
+VALUES (5279,9031);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1902,8719);
+VALUES (4638,3378);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (342,7410);
+VALUES (4800,4579);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6281,3166);
+VALUES (5880,6690);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5950,1977);
+VALUES (1817,8232);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8359,9019);
+VALUES (3229,4141);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5147,9394);
+VALUES (2545,2737);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2912,4665);
+VALUES (3304,651);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6794,6977);
+VALUES (702,4758);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7098,1569);
+VALUES (1611,3095);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9034,3420);
+VALUES (53,2932);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9036,8384);
+VALUES (1070,6571);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3945,2721);
+VALUES (5455,7761);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1715,8905);
+VALUES (5440,3703);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5707,227);
+VALUES (2263,3083);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8762,7130);
+VALUES (2341,8263);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (367,8898);
+VALUES (9298,8987);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8899,3807);
+VALUES (3874,6934);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6977,1086);
+VALUES (3098,2529);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7765,1069);
+VALUES (1715,3176);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4324,2133);
+VALUES (4535,1966);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8327,2035);
+VALUES (1744,5607);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5441,2688);
+VALUES (8838,6009);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5625,598);
+VALUES (3285,6487);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9501,8106);
+VALUES (3563,8984);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5099,4136);
+VALUES (9157,5103);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5603,8360);
+VALUES (7436,9516);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5184,5948);
+VALUES (5023,6248);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4305,1405);
+VALUES (8053,4534);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4795,2463);
+VALUES (431,5188);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8919,8898);
+VALUES (5369,7996);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6079,3127);
+VALUES (5056,9533);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4579,6871);
+VALUES (9937,6064);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5812,9617);
+VALUES (7083,1396);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1226,5197);
+VALUES (7652,8626);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5036,8443);
+VALUES (2871,244);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5641,542);
+VALUES (8525,6262);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5668,3161);
+VALUES (32,3236);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1597,7131);
+VALUES (4055,78);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7994,1590);
+VALUES (8388,9151);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6208,1262);
+VALUES (4629,5976);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8543,4242);
+VALUES (7170,3668);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4072,8265);
+VALUES (6601,5639);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4373,8175);
+VALUES (2183,2833);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4601,8151);
+VALUES (6684,4788);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (99,2751);
+VALUES (2748,834);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2245,1435);
+VALUES (1895,4044);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3455,2316);
+VALUES (634,8617);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2425,7829);
+VALUES (3604,899);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8861,1114);
+VALUES (7376,6065);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7494,4354);
+VALUES (6720,790);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5983,5110);
+VALUES (7978,360);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7027,5628);
+VALUES (3352,3327);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7669,7725);
+VALUES (5443,682);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (270,487);
+VALUES (4146,8289);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8871,1376);
+VALUES (4493,2407);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9294,7938);
+VALUES (6140,2846);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9821,5951);
+VALUES (6603,6932);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5539,2000);
+VALUES (5618,748);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8614,7425);
+VALUES (7646,702);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1882,7082);
+VALUES (254,1869);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1699,8004);
+VALUES (4956,4407);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6285,8225);
+VALUES (6391,5740);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9200,5717);
+VALUES (7066,3481);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5970,9500);
+VALUES (8207,2897);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (869,5141);
+VALUES (4817,4653);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3166,9535);
+VALUES (4746,5319);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5119,467);
+VALUES (9572,2382);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9524,9673);
+VALUES (2476,7760);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1162,1235);
+VALUES (934,9307);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9451,2876);
+VALUES (1876,7906);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6801,1214);
+VALUES (144,7372);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5599,2401);
+VALUES (6120,6777);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9964,4794);
+VALUES (3218,7116);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4094,6103);
+VALUES (9298,7813);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6910,1939);
+VALUES (5669,668);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3530,5996);
+VALUES (9449,1750);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2273,8800);
+VALUES (2555,1227);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5679,7682);
+VALUES (7277,7968);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5705,2731);
+VALUES (9015,757);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5074,5453);
+VALUES (1448,4703);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3506,153);
+VALUES (1655,2828);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4243,1265);
+VALUES (5454,6500);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5793,7813);
+VALUES (7007,841);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4882,1653);
+VALUES (7623,6479);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5858,7939);
+VALUES (9273,4940);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7236,600);
+VALUES (1053,5116);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6249,9754);
+VALUES (7418,9635);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8768,9493);
+VALUES (2027,6420);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (639,1324);
+VALUES (8618,420);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (444,7191);
+VALUES (9294,334);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4944,7740);
+VALUES (8709,4143);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6636,2235);
+VALUES (9590,5721);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1309,3645);
+VALUES (9696,1199);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7440,1855);
+VALUES (7997,4945);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1603,654);
+VALUES (3726,5405);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1442,8636);
+VALUES (8629,5260);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8217,4099);
+VALUES (253,8133);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3665,3289);
+VALUES (1177,1451);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9503,5409);
+VALUES (3056,1531);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (848,3662);
+VALUES (3916,8692);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (433,2926);
+VALUES (2565,7399);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5489,2204);
+VALUES (8429,6248);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4915,6323);
+VALUES (6400,6754);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5210,9042);
+VALUES (4011,4221);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4050,4905);
+VALUES (8472,2270);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4366,7404);
+VALUES (1538,6743);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3452,9009);
+VALUES (5753,7464);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9596,294);
+VALUES (1036,8265);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9614,7531);
+VALUES (2663,1911);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6512,1497);
+VALUES (7946,8532);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2899,8156);
+VALUES (6744,6004);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (444,4277);
+VALUES (8999,1409);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (162,4339);
+VALUES (8407,9223);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3019,2906);
+VALUES (5788,4681);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7812,8300);
+VALUES (4489,9555);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4211,7968);
+VALUES (3801,3384);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6446,1785);
+VALUES (4141,1542);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (157,1637);
+VALUES (5323,428);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5411,6881);
+VALUES (9345,8293);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6428,2150);
+VALUES (9314,6093);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3008,2371);
+VALUES (4969,3029);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9698,4044);
+VALUES (4727,3783);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6237,5129);
+VALUES (5445,1869);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4076,1525);
+VALUES (4787,4592);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6126,9908);
+VALUES (8039,813);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9462,4361);
+VALUES (8647,1234);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6617,3805);
+VALUES (5386,3940);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4243,2559);
+VALUES (8912,2551);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3787,8982);
+VALUES (4877,9323);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8512,8446);
+VALUES (5825,5088);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1153,3255);
+VALUES (4211,6629);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3481,6410);
+VALUES (7901,7650);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2973,1965);
+VALUES (671,3235);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6730,9142);
+VALUES (6232,8889);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9860,1928);
+VALUES (3913,6928);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2493,8534);
+VALUES (4558,8111);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2360,2053);
+VALUES (4071,5283);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5130,6306);
+VALUES (7912,9681);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7790,3722);
+VALUES (5435,5845);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2842,5643);
+VALUES (3568,6454);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6199,9970);
+VALUES (7816,611);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3167,1741);
+VALUES (5431,4606);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6961,1850);
+VALUES (4915,1848);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (612,2615);
+VALUES (6212,9927);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3707,442);
+VALUES (4378,4083);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1670,4881);
+VALUES (38,1303);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2706,7384);
+VALUES (1383,3412);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9429,6138);
+VALUES (4557,6256);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5201,2901);
+VALUES (2304,9183);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (606,7832);
+VALUES (6892,3591);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8130,5996);
+VALUES (8864,5149);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1826,5073);
+VALUES (1754,478);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9224,148);
+VALUES (6336,4826);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2888,6336);
+VALUES (571,5803);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2655,3792);
+VALUES (5615,2544);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5831,1142);
+VALUES (6040,4285);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6454,417);
+VALUES (5709,8619);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8176,2854);
+VALUES (8392,2209);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5453,8655);
+VALUES (8823,6579);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7161,2568);
+VALUES (5405,990);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (690,9776);
+VALUES (86,4746);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3445,8204);
+VALUES (7399,8069);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5254,1238);
+VALUES (720,4298);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4553,2488);
+VALUES (1538,6803);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5567,4931);
+VALUES (2386,527);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8052,6213);
+VALUES (8289,500);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5334,7763);
+VALUES (5108,780);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7758,3504);
+VALUES (5549,1186);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6710,3655);
+VALUES (1935,2787);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2571,2352);
+VALUES (1937,2653);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8092,4244);
+VALUES (3679,5915);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7393,9963);
+VALUES (4070,5251);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5230,5749);
+VALUES (5193,319);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (340,8342);
+VALUES (4372,9822);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6869,8319);
+VALUES (6324,6330);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4377,7635);
+VALUES (8144,7365);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9255,6145);
+VALUES (2987,2380);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3227,414);
+VALUES (3189,3673);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3455,3895);
+VALUES (847,930);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9450,6074);
+VALUES (9473,6044);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7953,3139);
+VALUES (5201,6209);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3942,6632);
+VALUES (1071,8643);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1895,3802);
+VALUES (1489,8423);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1636,5616);
+VALUES (2450,2339);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4244,8554);
+VALUES (591,1245);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5102,6481);
+VALUES (8645,7107);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6839,5372);
+VALUES (5472,992);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7558,8772);
+VALUES (116,5822);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3071,7739);
+VALUES (7819,9630);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6176,4845);
+VALUES (4935,2311);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8912,9875);
+VALUES (8962,4825);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8401,3475);
+VALUES (6704,6208);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9940,9090);
+VALUES (7868,5694);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4269,8465);
+VALUES (1830,8383);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2616,1558);
+VALUES (6379,9639);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9105,3001);
+VALUES (1189,7775);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1459,494);
+VALUES (5384,9413);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6285,9184);
+VALUES (1892,4249);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9312,275);
+VALUES (4627,38);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2500,8605);
+VALUES (4648,2784);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1450,1053);
+VALUES (4061,6550);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9959,4172);
+VALUES (8388,4316);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4664,8077);
+VALUES (2301,3872);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (519,5339);
+VALUES (3006,5334);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9786,8242);
+VALUES (9736,7061);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5859,8667);
+VALUES (3533,7726);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2674,3668);
+VALUES (9734,3687);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8410,9924);
+VALUES (9646,38);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4824,7861);
+VALUES (9101,1594);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5739,4622);
+VALUES (9016,7907);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2014,9193);
+VALUES (7008,1607);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6863,3768);
+VALUES (1621,4358);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8361,9414);
+VALUES (2090,2570);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4540,494);
+VALUES (671,8774);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8812,2498);
+VALUES (729,1915);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9686,9685);
+VALUES (5979,1842);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4805,2020);
+VALUES (6067,1140);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (348,7026);
+VALUES (7623,7812);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5153,2796);
+VALUES (6934,9401);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1689,9154);
+VALUES (1633,6774);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6718,7815);
+VALUES (7507,7276);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4831,5025);
+VALUES (3543,9700);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6569,8384);
+VALUES (68,5863);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3059,2603);
+VALUES (7448,6884);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2215,9645);
+VALUES (1426,4539);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2543,9763);
+VALUES (2933,1742);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7912,2372);
+VALUES (6792,485);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5782,7454);
+VALUES (7329,8252);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2509,3455);
+VALUES (382,4751);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8433,155);
+VALUES (197,212);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5711,5116);
+VALUES (2907,78);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1448,9398);
+VALUES (4477,7199);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9389,9187);
+VALUES (1996,9755);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7203,431);
+VALUES (3531,2421);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4512,8020);
+VALUES (5221,6555);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8112,5435);
+VALUES (7976,1220);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1491,9764);
+VALUES (1668,4325);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8029,6513);
+VALUES (6893,7681);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6636,7995);
+VALUES (776,6965);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1087,5822);
+VALUES (7649,7394);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8764,3706);
+VALUES (4488,3918);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9151,5810);
+VALUES (1316,3940);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2386,1432);
+VALUES (5238,7659);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2328,6161);
+VALUES (7077,2590);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2909,5597);
+VALUES (8734,2341);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8001,9489);
+VALUES (9223,1393);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7039,7940);
+VALUES (5426,8428);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5773,4419);
+VALUES (1433,7033);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9156,9831);
+VALUES (8037,9340);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4301,5589);
+VALUES (6544,5559);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4546,8887);
+VALUES (5636,4750);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (498,7995);
+VALUES (9202,5700);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2670,7929);
+VALUES (7307,2966);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6650,4913);
+VALUES (4470,1222);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9316,6862);
+VALUES (9725,8539);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8815,6476);
+VALUES (6967,1445);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9979,914);
+VALUES (5011,9737);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1730,1508);
+VALUES (9565,5225);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5074,9334);
+VALUES (2278,2351);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9081,1003);
+VALUES (1283,6085);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3373,6573);
+VALUES (2857,8528);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4284,263);
+VALUES (59,2804);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3219,5684);
+VALUES (1123,3679);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (32,5036);
+VALUES (487,8447);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8256,3199);
+VALUES (659,5134);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (402,981);
+VALUES (867,327);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5414,1895);
+VALUES (8417,5786);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3163,4184);
+VALUES (238,9596);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2946,9440);
+VALUES (1527,5717);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6387,5625);
+VALUES (6111,4403);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2339,7832);
+VALUES (5821,8170);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5193,5669);
+VALUES (982,3138);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8113,5609);
+VALUES (9388,1012);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6599,8883);
+VALUES (276,1970);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7023,7234);
+VALUES (1831,4238);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3465,7795);
+VALUES (1590,62);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7585,4837);
+VALUES (5027,683);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1591,3386);
+VALUES (3911,8731);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1828,9262);
+VALUES (6452,4879);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2623,2135);
+VALUES (5881,1715);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3866,1930);
+VALUES (8362,3164);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4418,7465);
+VALUES (1088,2093);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7521,6566);
+VALUES (2789,479);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1518,910);
+VALUES (8753,8174);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5732,8274);
+VALUES (3939,2951);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5144,4922);
+VALUES (8058,4300);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5092,9689);
+VALUES (9208,5569);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1145,1866);
+VALUES (5488,325);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5737,9169);
+VALUES (3976,2055);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2943,6366);
+VALUES (8929,351);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9296,479);
+VALUES (1290,716);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9723,674);
+VALUES (8088,2840);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3658,8602);
+VALUES (8064,3997);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (164,8809);
+VALUES (4523,5411);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2364,2359);
+VALUES (3653,1493);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1798,6365);
+VALUES (9631,9845);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5480,5618);
+VALUES (3561,7862);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5069,1778);
+VALUES (2930,3009);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4870,6770);
+VALUES (8551,1955);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1523,535);
+VALUES (652,2085);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2829,14);
+VALUES (2033,6643);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1416,2216);
+VALUES (4106,9530);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7094,5622);
+VALUES (8914,5504);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9052,1981);
+VALUES (9004,6302);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2435,368);
+VALUES (5720,435);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9964,5010);
+VALUES (2892,132);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3989,5636);
+VALUES (1617,4214);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4826,6303);
+VALUES (1196,7674);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (946,4868);
+VALUES (6154,7441);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6094,7609);
+VALUES (7119,662);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3992,4420);
+VALUES (6105,8993);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7232,718);
+VALUES (6796,3668);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1541,4009);
+VALUES (5011,4801);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5086,5056);
+VALUES (4489,9402);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6990,1902);
+VALUES (2107,8034);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2105,4059);
+VALUES (6532,9666);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (278,5218);
+VALUES (3934,4319);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7227,1066);
+VALUES (5208,4448);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4999,8846);
+VALUES (2372,6702);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3991,2205);
+VALUES (677,9073);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2601,8980);
+VALUES (6117,6274);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1705,4934);
+VALUES (7034,4591);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2205,8209);
+VALUES (2720,423);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (394,2738);
+VALUES (5155,1906);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6459,9252);
+VALUES (6134,9352);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (486,3423);
+VALUES (6579,5739);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9557,467);
+VALUES (3207,5215);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7816,4983);
+VALUES (1633,8873);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8139,3271);
+VALUES (4324,192);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (884,2152);
+VALUES (8472,9533);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9537,9415);
+VALUES (2610,7549);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5093,320);
+VALUES (8477,8163);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (715,3147);
+VALUES (8879,6591);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9522,99);
+VALUES (3785,7765);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (832,1664);
+VALUES (6958,4163);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4956,8128);
+VALUES (9191,8047);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (407,4639);
+VALUES (9339,5295);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8030,8335);
+VALUES (8393,9581);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5545,9431);
+VALUES (8021,6607);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5828,9700);
+VALUES (4866,6507);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6502,1528);
+VALUES (4204,8459);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5171,5001);
+VALUES (3557,5614);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (188,8336);
+VALUES (8441,685);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (724,366);
+VALUES (9237,8479);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9833,6975);
+VALUES (8474,8909);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6485,4217);
+VALUES (7149,1981);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9352,1464);
+VALUES (2551,7679);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8783,2100);
+VALUES (4647,4194);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8472,6573);
+VALUES (2144,2598);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3089,7584);
+VALUES (4124,9779);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8404,8743);
+VALUES (4565,6498);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7379,2311);
+VALUES (6457,3198);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5935,6120);
+VALUES (1582,150);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3892,2347);
+VALUES (7486,4899);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3364,5658);
+VALUES (5291,5087);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7028,4422);
+VALUES (4881,6573);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3053,4040);
+VALUES (5396,1476);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8415,1681);
+VALUES (1289,9972);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8805,9271);
+VALUES (1230,4764);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1297,6170);
+VALUES (9515,7161);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (303,9027);
+VALUES (867,5262);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8014,1018);
+VALUES (6258,2869);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7580,9193);
+VALUES (4428,5364);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1384,9592);
+VALUES (5146,9078);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5523,2211);
+VALUES (3427,1265);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8568,3897);
+VALUES (6683,7328);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2359,3311);
+VALUES (7484,9341);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9944,9348);
+VALUES (5236,7097);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4050,5452);
+VALUES (4532,9314);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6995,5533);
+VALUES (5040,1624);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6289,8745);
+VALUES (1991,961);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4337,5620);
+VALUES (2365,1408);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7154,9933);
+VALUES (6754,6417);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2065,9671);
+VALUES (7580,6495);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5977,3031);
+VALUES (4697,8931);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4936,5597);
+VALUES (6909,8926);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2457,1339);
+VALUES (3946,4511);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7521,6182);
+VALUES (126,6763);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1907,2922);
+VALUES (9899,8798);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2108,6432);
+VALUES (2820,73);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3937,9569);
+VALUES (5576,4110);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3345,5884);
+VALUES (8076,695);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3845,5075);
+VALUES (8533,9403);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8823,7961);
+VALUES (2756,4079);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3102,6993);
+VALUES (414,8849);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1379,7216);
+VALUES (4678,5588);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6644,3513);
+VALUES (6104,9221);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5541,2255);
+VALUES (7189,3980);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8227,6226);
+VALUES (5855,4119);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3270,362);
+VALUES (1698,465);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7033,7374);
+VALUES (5909,5347);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8281,7462);
+VALUES (1327,8100);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1176,9143);
+VALUES (1405,8788);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1229,9305);
+VALUES (9939,2718);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5140,8939);
+VALUES (7159,9597);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3086,7033);
+VALUES (4590,8307);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9942,8251);
+VALUES (7281,2296);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8859,9746);
+VALUES (2058,3389);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1667,510);
+VALUES (9557,2661);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9783,4129);
+VALUES (1472,5863);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4370,472);
+VALUES (8235,5386);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (41,8560);
+VALUES (4872,5505);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (624,9265);
+VALUES (4735,9510);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1732,3721);
+VALUES (305,5992);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4223,2491);
+VALUES (3396,5292);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8474,8457);
+VALUES (8613,6716);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8084,1021);
+VALUES (594,8494);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1996,3509);
+VALUES (7066,2046);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1573,988);
+VALUES (1292,523);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8661,5554);
+VALUES (5453,2805);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (53,8857);
+VALUES (8151,2131);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5514,9305);
+VALUES (854,3257);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7733,4606);
+VALUES (7125,2360);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7312,1015);
+VALUES (3190,1270);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8348,694);
+VALUES (7124,2625);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1798,3074);
+VALUES (8092,8798);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7368,1976);
+VALUES (9198,3233);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7401,8340);
+VALUES (1968,8714);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1709,3578);
+VALUES (2715,7010);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1938,8710);
+VALUES (9034,3241);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6893,6556);
+VALUES (3015,198);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7756,9452);
+VALUES (4547,4855);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5513,5098);
+VALUES (8735,1856);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9219,2123);
+VALUES (4315,2609);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6167,900);
+VALUES (86,9752);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7523,2802);
+VALUES (4817,9208);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4251,3981);
+VALUES (3806,2600);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3868,294);
+VALUES (7291,9032);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4551,4024);
+VALUES (4935,7149);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4540,977);
+VALUES (5264,8196);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (504,4844);
+VALUES (4306,4586);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (436,52);
+VALUES (2051,8350);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6829,5429);
+VALUES (8888,4334);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6445,9157);
+VALUES (1903,6574);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4807,4685);
+VALUES (279,4965);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7656,2540);
+VALUES (6447,5883);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6316,5552);
+VALUES (8871,7993);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4532,8854);
+VALUES (9973,7327);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7749,1852);
+VALUES (5481,347);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4118,2373);
+VALUES (3241,4023);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9546,5936);
+VALUES (9784,6897);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1306,50);
+VALUES (1800,8324);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5480,2898);
+VALUES (1948,3373);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2792,8061);
+VALUES (8076,6809);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1316,8233);
+VALUES (1314,4030);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2924,2182);
+VALUES (752,5539);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9699,932);
+VALUES (6454,1021);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9096,4394);
+VALUES (6816,577);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7824,3506);
+VALUES (1258,1548);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2206,5728);
+VALUES (3290,4143);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2747,1589);
+VALUES (6999,2376);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7624,348);
+VALUES (8371,8936);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2758,5321);
+VALUES (5673,4944);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3324,8514);
+VALUES (5365,9176);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8308,7828);
+VALUES (6622,7736);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4579,4995);
+VALUES (9282,9815);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3407,906);
+VALUES (5386,1307);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4172,5850);
+VALUES (2109,8384);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1607,2745);
+VALUES (1274,3490);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8139,6385);
+VALUES (9767,9017);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8013,5716);
+VALUES (7860,5943);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1364,7252);
+VALUES (2642,1960);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6524,1368);
+VALUES (197,2502);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1865,1268);
+VALUES (8227,3557);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2988,9008);
+VALUES (8459,2618);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2259,5591);
+VALUES (1118,2431);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8879,1870);
+VALUES (2777,509);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2054,6559);
+VALUES (1832,644);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1813,8205);
+VALUES (4973,465);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4710,1313);
+VALUES (514,6234);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5053,9619);
+VALUES (2522,3654);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2768,348);
+VALUES (6388,9037);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6950,6863);
+VALUES (4687,2935);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6554,428);
+VALUES (7521,4890);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3545,6437);
+VALUES (46,5699);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4381,4230);
+VALUES (6114,5285);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8035,7094);
+VALUES (229,2647);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4832,1317);
+VALUES (5420,2209);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8779,83);
+VALUES (825,9312);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6947,3395);
+VALUES (8551,562);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5290,8207);
+VALUES (1004,4192);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9479,1377);
+VALUES (6613,184);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5084,7928);
+VALUES (253,2479);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6043,195);
+VALUES (4346,3746);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7485,9051);
+VALUES (1484,4733);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7812,7188);
+VALUES (7617,2147);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2519,3127);
+VALUES (5565,3101);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (441,4038);
+VALUES (4046,6511);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5478,5961);
+VALUES (3040,5556);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8073,9647);
+VALUES (9064,3573);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2004,2777);
+VALUES (888,920);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7878,5404);
+VALUES (218,8843);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4,6557);
+VALUES (6450,2629);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (880,6419);
+VALUES (3614,1207);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7814,3018);
+VALUES (9320,5335);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8752,2710);
+VALUES (2049,9514);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1332,664);
+VALUES (9917,1463);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7384,9601);
+VALUES (6110,7061);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4001,4605);
+VALUES (2600,83);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (277,9244);
+VALUES (179,5180);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3110,3115);
+VALUES (1511,4954);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6928,855);
+VALUES (2733,6267);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1592,4707);
+VALUES (5469,1504);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5165,7670);
+VALUES (9554,4710);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5607,8055);
+VALUES (4160,9975);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5624,373);
+VALUES (6347,3791);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (921,2709);
+VALUES (4630,7705);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3738,5404);
+VALUES (3204,7385);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9436,7009);
+VALUES (9577,304);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2843,2693);
+VALUES (5939,3206);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7206,715);
+VALUES (5533,5972);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9110,5646);
+VALUES (3062,9952);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8617,1368);
+VALUES (7842,9615);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9281,1094);
+VALUES (3678,4388);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5436,684);
+VALUES (9416,3848);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6686,5264);
+VALUES (9495,6390);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7343,4837);
+VALUES (1836,1298);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5271,5077);
+VALUES (4768,6982);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8122,456);
+VALUES (1037,5078);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6783,3164);
+VALUES (5926,3795);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4228,5328);
+VALUES (3779,8709);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4121,9244);
+VALUES (1917,2829);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7170,1009);
+VALUES (1468,2871);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4431,9860);
+VALUES (371,4858);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9138,3119);
+VALUES (5372,3877);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9690,7479);
+VALUES (1862,3096);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6485,3257);
+VALUES (8468,5567);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7299,9357);
+VALUES (4357,6630);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9792,2731);
+VALUES (9891,2740);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3281,932);
+VALUES (4006,8679);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8447,9079);
+VALUES (6001,5458);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3045,6473);
+VALUES (7081,5163);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2874,7350);
+VALUES (210,8512);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1053,6820);
+VALUES (4681,3833);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2979,5486);
+VALUES (7015,7378);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6385,6175);
+VALUES (2611,3152);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9744,8999);
+VALUES (1549,2727);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9395,7431);
+VALUES (3993,6056);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5189,6415);
+VALUES (2477,1010);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4549,7398);
+VALUES (1368,4423);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3556,7026);
+VALUES (3488,5427);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (697,110);
+VALUES (2295,5496);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5917,6901);
+VALUES (3920,9082);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6198,9813);
+VALUES (3930,4837);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6290,3849);
+VALUES (9400,2474);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9184,1599);
+VALUES (1141,3861);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1728,4300);
+VALUES (4621,309);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5291,4141);
+VALUES (808,6840);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7044,7203);
+VALUES (4107,9802);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6647,1280);
+VALUES (8548,8257);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9455,6485);
+VALUES (4252,4944);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8302,9769);
+VALUES (6647,544);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9750,3962);
+VALUES (9510,4038);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3071,6100);
+VALUES (1455,1037);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1234,390);
+VALUES (452,2719);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4123,5116);
+VALUES (3896,7481);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9912,7988);
+VALUES (3627,3606);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9914,9824);
+VALUES (9054,5817);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4299,3229);
+VALUES (578,6555);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3126,6718);
+VALUES (2191,1021);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5290,3778);
+VALUES (2791,4636);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3481,4250);
+VALUES (5530,1248);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9589,7795);
+VALUES (5558,7099);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1180,3907);
+VALUES (3802,5550);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4590,3960);
+VALUES (9661,827);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9339,3811);
+VALUES (7916,7406);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9868,9211);
+VALUES (2444,5788);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1964,6238);
+VALUES (3075,919);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8995,1521);
+VALUES (3233,7584);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4553,9272);
+VALUES (5727,9553);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3691,4890);
+VALUES (9406,2547);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1212,7347);
+VALUES (33,5259);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8191,5173);
+VALUES (6316,433);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6452,8997);
+VALUES (7578,2341);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2745,9451);
+VALUES (5050,4451);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9322,4097);
+VALUES (6351,3411);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7380,3408);
+VALUES (6806,8083);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6349,7685);
+VALUES (4515,8232);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4857,2069);
+VALUES (5643,5676);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2722,9385);
+VALUES (6959,596);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7198,1834);
+VALUES (5777,1988);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5528,1163);
+VALUES (8099,762);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2336,2421);
+VALUES (9657,5575);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7778,48);
+VALUES (9055,1982);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1408,5866);
+VALUES (4896,8403);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8298,3603);
+VALUES (610,3946);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2865,3182);
+VALUES (4494,6741);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7587,3930);
+VALUES (4578,4917);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (762,6236);
+VALUES (2372,9583);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8930,8521);
+VALUES (5846,7068);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2839,5494);
+VALUES (393,5923);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7346,4893);
+VALUES (1378,366);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2795,2324);
+VALUES (7196,3919);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9644,6728);
+VALUES (5173,3022);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (437,9174);
+VALUES (3190,5540);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7351,6708);
+VALUES (8813,7128);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1514,526);
+VALUES (358,2476);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1652,1098);
+VALUES (5543,7337);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3241,8345);
+VALUES (3501,6389);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4468,3493);
+VALUES (5171,2791);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6653,6717);
+VALUES (1369,7553);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1162,7607);
+VALUES (8948,2077);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8933,7115);
+VALUES (6710,3333);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2166,3046);
+VALUES (3339,8990);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1282,8160);
+VALUES (4746,4992);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (827,5793);
+VALUES (5504,9919);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (865,7841);
+VALUES (7330,4727);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9568,1505);
+VALUES (3029,4957);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (162,4979);
+VALUES (5119,5849);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1663,7822);
+VALUES (1838,704);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2487,7680);
+VALUES (6595,7993);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5530,7018);
+VALUES (6896,8616);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3783,7103);
+VALUES (2582,2232);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2369,9092);
+VALUES (1811,9010);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3315,3494);
+VALUES (6499,9198);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6376,6989);
+VALUES (3129,139);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6526,2344);
+VALUES (4843,8220);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8391,1185);
+VALUES (1941,4228);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8150,8402);
+VALUES (5914,9146);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4024,7778);
+VALUES (2225,1260);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6781,9810);
+VALUES (8366,1524);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6565,2939);
+VALUES (3621,8067);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8956,5139);
+VALUES (3488,5898);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4305,9319);
+VALUES (7792,1565);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8759,7035);
+VALUES (9708,8095);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4039,8547);
+VALUES (9974,4667);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3459,9401);
+VALUES (1545,5558);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8379,6503);
+VALUES (6171,7107);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7638,3086);
+VALUES (6023,1525);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3804,2837);
+VALUES (9625,3638);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5147,6237);
+VALUES (9800,8662);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3588,8172);
+VALUES (7340,6755);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5105,3116);
+VALUES (8558,9281);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3645,5878);
+VALUES (50,3093);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4282,5753);
+VALUES (7817,8480);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3959,1593);
+VALUES (7545,6889);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7961,4116);
+VALUES (1747,4768);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3628,2625);
+VALUES (2069,7348);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7496,8067);
+VALUES (4247,3080);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3028,1755);
+VALUES (3951,6077);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (279,3246);
+VALUES (9066,558);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3159,2684);
+VALUES (7214,2076);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5848,3602);
+VALUES (4020,4894);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (748,1514);
+VALUES (4823,1580);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (223,1836);
+VALUES (1799,6737);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4527,9916);
+VALUES (8701,8609);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9142,3333);
+VALUES (1553,5672);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4634,6217);
+VALUES (5603,8464);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9499,6493);
+VALUES (6559,3985);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9969,9910);
+VALUES (4677,3324);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8938,3655);
+VALUES (7841,3319);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2783,4923);
+VALUES (1625,585);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4493,6517);
+VALUES (8930,5785);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2866,8937);
+VALUES (3924,5303);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (310,3090);
+VALUES (7114,3898);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6295,268);
+VALUES (46,6206);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4200,3652);
+VALUES (743,691);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6244,7997);
+VALUES (9975,4947);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8281,9605);
+VALUES (3635,9489);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2766,4946);
+VALUES (9455,248);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4871,7);
+VALUES (8433,2977);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1635,6577);
+VALUES (5928,2064);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (916,6434);
+VALUES (2488,3480);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6052,7791);
+VALUES (200,7964);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1942,2230);
+VALUES (9307,8972);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5024,8132);
+VALUES (7230,6076);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (184,5715);
+VALUES (1185,9215);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2631,8043);
+VALUES (4041,9021);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (777,274);
+VALUES (8592,6295);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (719,1704);
+VALUES (4987,1593);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3008,1571);
+VALUES (4933,7526);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7960,9525);
+VALUES (3752,8143);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3503,6304);
+VALUES (8814,3746);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6480,591);
+VALUES (8539,3048);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2400,5912);
+VALUES (8289,7325);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6429,9180);
+VALUES (3479,2511);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3540,501);
+VALUES (7842,6850);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8480,4781);
+VALUES (1042,8701);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4889,7897);
+VALUES (4143,6252);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8825,3936);
+VALUES (905,8777);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3804,6029);
+VALUES (6418,6100);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3648,9301);
+VALUES (3926,6764);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2718,9567);
+VALUES (8392,1811);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1996,8492);
+VALUES (994,2056);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5559,4170);
+VALUES (8442,8256);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8549,716);
+VALUES (6311,2651);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8164,3553);
+VALUES (9537,4756);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (524,3931);
+VALUES (6212,1983);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7595,432);
+VALUES (2484,191);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (956,8939);
+VALUES (2983,8896);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4683,4634);
+VALUES (9045,5840);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8772,4813);
+VALUES (2456,1772);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7506,7454);
+VALUES (451,2794);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2591,8325);
+VALUES (4600,9520);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9646,3101);
+VALUES (9558,5887);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1495,4363);
+VALUES (2805,7293);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7976,1503);
+VALUES (9922,9314);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1565,168);
+VALUES (7808,1662);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3418,1582);
+VALUES (720,8272);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9631,3916);
+VALUES (5323,355);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9206,5418);
+VALUES (6623,6819);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6364,459);
+VALUES (1929,5114);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6141,4448);
+VALUES (4592,9347);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5401,5603);
+VALUES (1850,9497);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8443,6061);
+VALUES (7376,1475);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4433,6202);
+VALUES (3488,2326);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6316,549);
+VALUES (9975,3353);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4214,1748);
+VALUES (1443,2998);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1896,1907);
+VALUES (2809,6517);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9281,2935);
+VALUES (3797,4497);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5154,2894);
+VALUES (6592,2416);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7377,9411);
+VALUES (7907,5817);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2639,9428);
+VALUES (5327,2648);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2830,8251);
+VALUES (9973,4652);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2667,9124);
+VALUES (7507,4711);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (799,475);
+VALUES (479,8299);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9956,3717);
+VALUES (1372,7396);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3404,4312);
+VALUES (7722,9295);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3245,4192);
+VALUES (8716,3412);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5254,5237);
+VALUES (6208,1156);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7396,3162);
+VALUES (1619,9798);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (224,2491);
+VALUES (6809,7509);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4617,1527);
+VALUES (3156,2210);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2715,1763);
+VALUES (691,9667);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1833,5160);
+VALUES (2018,1975);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (484,4147);
+VALUES (5548,2568);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1261,2848);
+VALUES (3932,7094);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2205,5886);
+VALUES (6941,4290);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2405,3271);
+VALUES (9245,4452);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (345,2085);
+VALUES (9138,2565);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7076,4645);
+VALUES (5900,476);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2989,8168);
+VALUES (9414,8055);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7419,9271);
+VALUES (4954,8781);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3016,5081);
+VALUES (3646,7131);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (196,9432);
+VALUES (3370,5080);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5372,1855);
+VALUES (2145,721);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5393,6796);
+VALUES (4379,5651);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7431,4219);
+VALUES (9600,5477);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2646,8402);
+VALUES (7066,9612);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1508,5831);
+VALUES (2930,752);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2861,2628);
+VALUES (1774,3450);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4110,1697);
+VALUES (6340,9160);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5710,1345);
+VALUES (3738,73);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3539,7844);
+VALUES (1851,7337);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (708,973);
+VALUES (8715,4014);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6227,8396);
+VALUES (4413,7986);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (602,1235);
+VALUES (5884,6426);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (788,8209);
+VALUES (3560,4915);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2484,9104);
+VALUES (3584,5543);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (515,365);
+VALUES (6095,5992);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6637,4593);
+VALUES (9230,237);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2228,4043);
+VALUES (8252,5063);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9355,4154);
+VALUES (8769,1006);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7642,2345);
+VALUES (3864,8468);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6802,1081);
+VALUES (4329,2111);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (734,7679);
+VALUES (59,31);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7917,4086);
+VALUES (7614,738);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9904,3694);
+VALUES (8850,7887);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8080,9616);
+VALUES (864,9598);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4225,5498);
+VALUES (2188,5479);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7615,2831);
+VALUES (4008,7728);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5822,2929);
+VALUES (3193,5336);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2014,5925);
+VALUES (7567,3123);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9222,7514);
+VALUES (2792,4742);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (741,5176);
+VALUES (3184,6701);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7291,5715);
+VALUES (3333,5311);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7423,99);
+VALUES (4469,2519);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2911,6665);
+VALUES (1186,6043);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7037,7502);
+VALUES (2823,1237);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1630,1072);
+VALUES (3080,9398);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1416,6391);
+VALUES (6574,4587);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (784,8087);
+VALUES (9546,1791);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9865,2296);
+VALUES (8609,2292);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4380,3867);
+VALUES (9168,9938);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (728,6352);
+VALUES (1792,970);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6838,4636);
+VALUES (3593,3980);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5580,1158);
+VALUES (3143,2366);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6995,2378);
+VALUES (2652,3105);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (16,3490);
+VALUES (7288,533);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2695,9474);
+VALUES (7098,7961);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4160,2262);
+VALUES (1656,504);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8018,6325);
+VALUES (6606,9353);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9557,8846);
+VALUES (2141,2753);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1863,6847);
+VALUES (4038,5279);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9438,2930);
+VALUES (2355,7583);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (777,7142);
+VALUES (918,2683);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4757,9562);
+VALUES (3377,671);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6494,8079);
+VALUES (9185,5002);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3474,4707);
+VALUES (7199,8851);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6064,141);
+VALUES (7280,688);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (304,4750);
+VALUES (5424,961);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8549,9589);
+VALUES (703,3091);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5726,3795);
+VALUES (2614,8887);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3051,1650);
+VALUES (6065,6683);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6982,4265);
+VALUES (5108,5302);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1540,6160);
+VALUES (6530,6179);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7553,9370);
+VALUES (1477,816);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2370,4227);
+VALUES (1145,4304);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6655,8934);
+VALUES (3833,8313);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2672,5549);
+VALUES (2975,4825);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6929,1107);
+VALUES (3975,1442);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5607,7741);
+VALUES (3693,5419);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5875,521);
+VALUES (4795,4028);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8670,2404);
+VALUES (5147,6153);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4412,4918);
+VALUES (2225,5625);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7626,5681);
+VALUES (1957,8844);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1235,7323);
+VALUES (9540,1755);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1829,3305);
+VALUES (4310,931);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4821,5826);
+VALUES (566,5604);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7293,9483);
+VALUES (1694,611);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8346,2887);
+VALUES (710,7339);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8678,2588);
+VALUES (6196,9505);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7644,989);
+VALUES (8106,3688);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4612,7526);
+VALUES (6824,1893);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9267,5903);
+VALUES (7929,464);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6488,721);
+VALUES (4517,9116);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4396,2853);
+VALUES (1220,2075);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (893,9132);
+VALUES (2012,42);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6054,2359);
+VALUES (153,8757);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2341,6233);
+VALUES (1308,6307);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5961,2121);
+VALUES (9235,3275);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3941,9375);
+VALUES (4112,2353);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5011,9347);
+VALUES (4211,4809);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8442,909);
+VALUES (3712,677);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6942,8221);
+VALUES (1116,2988);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8167,9326);
+VALUES (6493,224);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7915,1583);
+VALUES (3804,5007);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1293,3567);
+VALUES (698,1747);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7260,1289);
+VALUES (3179,3803);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5746,555);
+VALUES (5264,4059);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8123,2424);
+VALUES (4351,1582);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3496,5);
+VALUES (2305,3109);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8012,401);
+VALUES (1687,6326);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4915,2137);
+VALUES (7063,9581);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9565,1161);
+VALUES (5739,9146);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (941,9535);
+VALUES (654,4039);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3648,5146);
+VALUES (4913,6968);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8140,6452);
+VALUES (5447,8138);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7295,3646);
+VALUES (750,2726);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7164,9803);
+VALUES (5277,9215);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (416,3225);
+VALUES (8452,9635);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1299,2708);
+VALUES (6639,9904);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9887,2494);
+VALUES (9920,7121);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (700,7343);
+VALUES (8964,3560);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6501,267);
+VALUES (8323,4380);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1200,1104);
+VALUES (9184,3604);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5092,4730);
+VALUES (9311,8577);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8017,1053);
+VALUES (5343,4066);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2235,4293);
+VALUES (9083,7032);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7385,5100);
+VALUES (8818,3280);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5376,6938);
+VALUES (7038,6682);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3500,2787);
+VALUES (5461,6111);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (249,983);
+VALUES (1473,1549);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5753,1745);
+VALUES (8114,8700);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9888,8203);
+VALUES (2696,9339);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (799,817);
+VALUES (5913,4503);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5778,4732);
+VALUES (8399,5184);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8145,4180);
+VALUES (7243,7746);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5230,7126);
+VALUES (9557,2096);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7834,630);
+VALUES (1424,548);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5045,8794);
+VALUES (8254,9548);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7291,9253);
+VALUES (9865,9560);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7560,8671);
+VALUES (7578,728);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6638,8451);
+VALUES (9112,576);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3085,5854);
+VALUES (9129,8702);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5020,1849);
+VALUES (7794,52);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6031,4064);
+VALUES (1389,1675);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5294,8186);
+VALUES (8367,2853);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3033,7356);
+VALUES (1521,5292);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8763,9796);
+VALUES (7368,2661);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6633,4739);
+VALUES (5662,956);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9316,8959);
+VALUES (2751,2378);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7568,7183);
+VALUES (8483,9744);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2177,6437);
+VALUES (8042,1149);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6290,3689);
+VALUES (9672,4548);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6192,6208);
+VALUES (7394,7156);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6316,9071);
+VALUES (5882,1334);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3557,4376);
+VALUES (1791,787);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5603,5998);
+VALUES (3174,4809);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7729,1063);
+VALUES (3988,8402);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1328,5101);
+VALUES (2238,9899);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7494,4273);
+VALUES (6390,6570);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7049,1245);
+VALUES (3041,2100);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3929,9443);
+VALUES (7099,944);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4303,8645);
+VALUES (5489,6524);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9520,776);
+VALUES (6919,7624);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4443,7767);
+VALUES (998,7793);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1073,9811);
+VALUES (8935,9512);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7577,1982);
+VALUES (2880,5916);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9234,3011);
+VALUES (9856,1975);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7217,1797);
+VALUES (8691,3180);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8214,868);
+VALUES (1781,5704);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3908,7628);
+VALUES (3072,9998);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9977,3296);
+VALUES (1217,1670);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9239,7641);
+VALUES (8012,8785);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7339,134);
+VALUES (5189,2800);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3952,5447);
+VALUES (4515,2634);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3156,6566);
+VALUES (8987,3513);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (715,4381);
+VALUES (1942,5559);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (830,3453);
+VALUES (1140,2988);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5366,2371);
+VALUES (8447,9965);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3131,2859);
+VALUES (9091,7720);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3728,474);
+VALUES (7031,2259);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9360,6378);
+VALUES (7315,3821);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1061,6151);
+VALUES (1290,1550);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9691,205);
+VALUES (7262,8358);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8191,9817);
+VALUES (8722,3555);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9855,6911);
+VALUES (4927,3237);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (884,9895);
+VALUES (4856,5875);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8304,6545);
+VALUES (6533,991);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (842,5521);
+VALUES (8873,8095);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (707,1083);
+VALUES (7955,73);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3307,4968);
+VALUES (3578,7590);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9787,9171);
+VALUES (9416,2238);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2900,9890);
+VALUES (6827,6394);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7252,7447);
+VALUES (7816,5615);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2685,3004);
+VALUES (6268,4509);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8957,3201);
+VALUES (9482,8305);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2984,5581);
+VALUES (5969,438);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6642,231);
+VALUES (2979,6790);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8439,3964);
+VALUES (823,9011);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7908,1181);
+VALUES (3662,3654);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8065,1894);
+VALUES (1963,9971);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2291,1201);
+VALUES (1868,2586);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1158,9272);
+VALUES (4568,5241);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1233,2180);
+VALUES (7187,5462);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5617,5420);
+VALUES (2770,8744);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9227,6425);
+VALUES (2632,7782);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (539,147);
+VALUES (75,1693);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9856,7574);
+VALUES (7778,6289);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4108,6643);
+VALUES (8384,7731);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6039,69);
+VALUES (6533,279);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7020,310);
+VALUES (7,133);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8410,8159);
+VALUES (7071,221);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1824,9376);
+VALUES (6051,318);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9076,6734);
+VALUES (2604,7262);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3597,4636);
+VALUES (1661,9068);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7789,820);
+VALUES (3532,2246);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1931,4700);
+VALUES (5173,546);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9732,5227);
+VALUES (5484,4467);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6090,1691);
+VALUES (8926,1773);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5779,6696);
+VALUES (8704,2749);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3308,404);
+VALUES (6710,7010);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3158,7431);
+VALUES (2146,9122);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5987,5758);
+VALUES (557,1753);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (46,1730);
+VALUES (6914,118);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1367,6211);
+VALUES (3894,3529);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (663,1965);
+VALUES (2127,7229);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3340,9312);
+VALUES (6589,1592);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4371,4653);
+VALUES (2509,4762);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8902,5785);
+VALUES (6221,6708);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7309,2182);
+VALUES (569,1896);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1442,7235);
+VALUES (3503,7629);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8820,7464);
+VALUES (1073,2243);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (11,3161);
+VALUES (9203,5284);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6721,9681);
+VALUES (4830,2846);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4531,4528);
+VALUES (1906,4159);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (824,701);
+VALUES (8182,5988);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3401,5834);
+VALUES (2267,8391);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6235,4365);
+VALUES (232,3505);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6306,6100);
+VALUES (3060,5287);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6385,5657);
+VALUES (8703,1205);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9295,5801);
+VALUES (5384,5604);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4935,8088);
+VALUES (8582,1495);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7536,7131);
+VALUES (843,5296);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7867,1319);
+VALUES (2810,1328);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1201,6870);
+VALUES (769,620);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1255,2918);
+VALUES (8039,8277);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2833,1133);
+VALUES (8937,4126);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8408,7790);
+VALUES (1689,7516);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3480,7437);
+VALUES (7393,8843);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5796,7070);
+VALUES (3361,7430);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (379,2826);
+VALUES (4941,32);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5119,111);
+VALUES (2521,7745);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1137,1079);
+VALUES (649,9353);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4871,48);
+VALUES (9108,9342);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (253,9797);
+VALUES (1866,1806);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2165,2376);
+VALUES (534,1180);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3354,8295);
+VALUES (9980,7236);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8833,9748);
+VALUES (4496,2610);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7675,864);
+VALUES (5767,1747);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5435,3319);
+VALUES (2735,8428);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6920,6975);
+VALUES (8340,7852);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2626,4786);
+VALUES (5116,9167);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2017,4331);
+VALUES (1411,7954);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8784,1248);
+VALUES (1482,9505);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5596,7620);
+VALUES (9662,3179);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8587,4645);
+VALUES (5124,8223);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9120,2560);
+VALUES (6154,6042);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7371,2602);
+VALUES (68,2580);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8519,8119);
+VALUES (9444,4786);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3463,7651);
+VALUES (1266,1575);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3859,6386);
+VALUES (7351,8142);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5027,9347);
+VALUES (2138,7813);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9353,4709);
+VALUES (2991,3343);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3815,1196);
+VALUES (1828,4874);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5051,5331);
+VALUES (4683,4762);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7759,8675);
+VALUES (5054,6528);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6172,6642);
+VALUES (4744,3574);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4272,3890);
+VALUES (3348,6200);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8466,4743);
+VALUES (9688,6243);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5241,3989);
+VALUES (315,3556);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8067,2459);
+VALUES (923,2089);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6485,1677);
+VALUES (5743,894);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9452,1442);
+VALUES (7063,220);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3737,5688);
+VALUES (431,6293);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8421,4097);
+VALUES (6672,3860);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9612,2663);
+VALUES (8615,4742);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (234,2518);
+VALUES (6956,8192);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9569,4193);
+VALUES (5776,3066);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9304,9824);
+VALUES (6896,6330);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8729,5700);
+VALUES (5065,3811);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (515,324);
+VALUES (916,276);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6233,767);
+VALUES (5972,8249);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9270,4830);
+VALUES (6885,4366);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5507,4921);
+VALUES (6795,2523);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4831,1228);
+VALUES (6132,1346);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (309,252);
+VALUES (8774,9949);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3817,8988);
+VALUES (4958,5803);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1096,4019);
+VALUES (9698,1633);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6453,5546);
+VALUES (8647,3916);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6244,416);
+VALUES (253,9293);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6420,7275);
+VALUES (9431,1359);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8057,5417);
+VALUES (7252,6805);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3273,5247);
+VALUES (4936,5579);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2409,8581);
+VALUES (1406,926);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1575,3989);
+VALUES (9605,3595);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1248,4287);
+VALUES (3187,939);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1775,2537);
+VALUES (5979,7645);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4707,3982);
+VALUES (8327,2954);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5678,1713);
+VALUES (9133,1869);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3987,6851);
+VALUES (2379,7962);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7723,4391);
+VALUES (3002,3897);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7097,4607);
+VALUES (4328,3528);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2458,5166);
+VALUES (3424,1083);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1071,4883);
+VALUES (2072,5041);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3629,1686);
+VALUES (9223,8633);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1710,1668);
+VALUES (5610,3072);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9547,993);
+VALUES (9717,3777);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2781,4696);
+VALUES (1823,7992);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2647,2026);
+VALUES (7044,7935);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7565,1429);
+VALUES (5077,9863);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8484,2518);
+VALUES (2244,4160);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5049,3198);
+VALUES (3410,2160);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (680,4678);
+VALUES (797,7607);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3157,8256);
+VALUES (8371,1211);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8594,739);
+VALUES (5215,8298);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4035,759);
+VALUES (189,5409);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7946,7534);
+VALUES (2523,4209);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1689,9202);
+VALUES (4790,9014);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8667,5785);
+VALUES (7338,6690);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7435,1505);
+VALUES (7688,3008);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7449,8195);
+VALUES (6980,4902);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1139,1342);
+VALUES (6541,8278);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3045,2316);
+VALUES (9190,8386);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1872,4509);
+VALUES (2710,1549);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1391,7408);
+VALUES (1315,4439);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9443,179);
+VALUES (2384,6865);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1794,52);
+VALUES (7511,4921);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8575,2462);
+VALUES (7419,9648);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3895,3103);
+VALUES (8302,3534);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9720,6751);
+VALUES (9635,5395);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3490,6465);
+VALUES (7566,9022);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3763,9422);
+VALUES (2927,2585);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2987,1349);
+VALUES (5053,8847);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7967,4092);
+VALUES (468,6674);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7928,1386);
+VALUES (8745,5516);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8670,2441);
+VALUES (266,97);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (782,1622);
+VALUES (5002,774);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9720,4555);
+VALUES (752,5930);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5532,282);
+VALUES (6911,2061);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4936,8233);
+VALUES (5193,3061);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5042,2059);
+VALUES (2934,3683);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8487,2702);
+VALUES (164,3932);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4723,1928);
+VALUES (6207,7345);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5575,4797);
+VALUES (7191,4567);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9045,9455);
+VALUES (9098,8243);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7841,6866);
+VALUES (8824,7925);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8518,4122);
+VALUES (220,7090);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9847,5881);
+VALUES (359,8084);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9783,6951);
+VALUES (9744,4576);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8652,6472);
+VALUES (4463,781);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9976,9858);
+VALUES (7490,7906);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9052,2869);
+VALUES (5769,6268);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8165,3126);
+VALUES (7446,9501);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4302,2569);
+VALUES (1328,231);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1660,7368);
+VALUES (4014,1503);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5232,5488);
+VALUES (9782,9162);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (285,7499);
+VALUES (54,7443);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2145,5139);
+VALUES (8402,5660);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5489,8908);
+VALUES (8310,2865);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (556,6248);
+VALUES (8003,3578);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1589,6707);
+VALUES (786,664);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1560,4037);
+VALUES (9191,4624);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2684,4079);
+VALUES (5250,7224);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5219,1142);
+VALUES (6143,7481);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6148,7202);
+VALUES (7861,3248);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (25,9419);
+VALUES (6248,5773);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1743,4053);
+VALUES (2344,3538);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9503,2474);
+VALUES (756,2233);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6676,1013);
+VALUES (2324,1208);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2238,5296);
+VALUES (4615,8485);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3421,4632);
+VALUES (112,1919);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8527,7582);
+VALUES (8547,7333);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (790,3307);
+VALUES (6193,7637);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9409,3380);
+VALUES (9376,6533);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3762,4229);
+VALUES (1672,1107);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3879,9805);
+VALUES (1297,500);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7796,6404);
+VALUES (5036,2399);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1861,8056);
+VALUES (1094,4732);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2611,9083);
+VALUES (7405,1187);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1996,6536);
+VALUES (4157,3087);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9491,4661);
+VALUES (109,8029);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8190,6745);
+VALUES (3082,9302);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6981,6088);
+VALUES (1646,3799);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2485,819);
+VALUES (6927,3233);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2637,5932);
+VALUES (7807,4791);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1222,7076);
+VALUES (5086,386);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5393,2706);
+VALUES (3230,2005);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7361,6457);
+VALUES (5511,8798);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9198,5388);
+VALUES (2098,7208);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4805,1304);
+VALUES (7379,942);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6050,4734);
+VALUES (118,8928);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (776,144);
+VALUES (10,40);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7243,4814);
+VALUES (9748,7550);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1400,9619);
+VALUES (4252,950);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6481,9084);
+VALUES (9950,2);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1679,8087);
+VALUES (1176,2712);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1043,2122);
+VALUES (9424,7952);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5767,3603);
+VALUES (2773,4982);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6049,2274);
+VALUES (4183,8404);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4114,3911);
+VALUES (9596,2641);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4991,2478);
+VALUES (6229,231);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8428,8883);
+VALUES (7298,3989);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1857,5223);
+VALUES (6977,6304);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3384,1864);
+VALUES (5742,2585);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2385,8126);
+VALUES (4081,9568);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3028,5047);
+VALUES (4326,2020);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1811,3031);
+VALUES (6130,4881);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4593,3315);
+VALUES (4062,4246);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (524,9417);
+VALUES (4929,1854);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9821,686);
+VALUES (120,9645);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9451,9685);
+VALUES (5348,7554);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7535,2636);
+VALUES (3969,2487);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6965,6972);
+VALUES (2670,9336);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5269,7484);
+VALUES (5419,6583);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4384,872);
+VALUES (1856,2073);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2724,977);
+VALUES (8426,4569);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1437,4107);
+VALUES (7852,9153);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3545,6413);
+VALUES (5571,1858);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3417,4539);
+VALUES (736,6252);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5993,136);
+VALUES (8005,5421);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2482,4650);
+VALUES (9618,9264);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6234,7782);
+VALUES (9623,3874);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6295,5792);
+VALUES (581,7923);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5844,7016);
+VALUES (1523,5514);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9775,6364);
+VALUES (8059,5690);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6736,3612);
+VALUES (8948,7570);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (237,3549);
+VALUES (1883,5598);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1494,9215);
+VALUES (426,5537);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4358,2791);
+VALUES (6391,8083);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9803,1483);
+VALUES (4390,3060);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5496,7768);
+VALUES (1058,1451);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2738,6525);
+VALUES (4769,5813);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5263,8833);
+VALUES (5001,7990);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3560,9367);
+VALUES (652,6237);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7760,8705);
+VALUES (8884,3838);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (695,2448);
+VALUES (6874,1703);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5142,9048);
+VALUES (7066,2104);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6399,2300);
+VALUES (2826,1103);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4683,7686);
+VALUES (1768,2800);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4487,334);
+VALUES (5096,1183);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3028,5191);
+VALUES (1472,6617);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6121,291);
+VALUES (7888,8530);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (687,5422);
+VALUES (9539,2568);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7833,6223);
+VALUES (7711,9110);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2924,59);
+VALUES (1342,3963);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6171,7533);
+VALUES (9746,932);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2667,6540);
+VALUES (4852,7168);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9525,3872);
+VALUES (9259,8952);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5154,583);
+VALUES (1061,4963);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9986,1736);
+VALUES (4340,5024);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5318,9566);
+VALUES (2682,2872);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7279,4800);
+VALUES (2447,46);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1459,4439);
+VALUES (6451,5546);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5279,3594);
+VALUES (6165,697);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6439,2281);
+VALUES (7947,2389);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4111,6932);
+VALUES (9198,5555);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5770,5625);
+VALUES (119,5048);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1763,474);
+VALUES (7588,7266);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (432,380);
+VALUES (7554,968);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8453,3087);
+VALUES (7793,4196);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6627,4452);
+VALUES (6155,3966);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7992,479);
+VALUES (6078,5544);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3249,1874);
+VALUES (5729,203);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7056,2981);
+VALUES (6218,3113);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1956,9336);
+VALUES (8505,3537);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5745,8824);
+VALUES (1516,6888);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3096,7276);
+VALUES (9708,7743);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2936,2532);
+VALUES (9649,4453);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8796,6943);
+VALUES (686,5499);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (172,5303);
+VALUES (9558,9242);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6906,9699);
+VALUES (5573,3327);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3617,5396);
+VALUES (7662,3835);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2871,3781);
+VALUES (6149,8670);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9327,2010);
+VALUES (3817,2241);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7397,3874);
+VALUES (2255,1288);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4417,5193);
+VALUES (1655,5525);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8067,7858);
+VALUES (6008,1795);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6161,2866);
+VALUES (9904,3240);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3589,9250);
+VALUES (6946,8432);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2755,1142);
+VALUES (2438,630);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6541,6806);
+VALUES (5052,8608);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8578,4476);
+VALUES (75,4095);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4749,2571);
+VALUES (4299,1087);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2676,363);
+VALUES (5064,8079);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7131,3897);
+VALUES (1534,7642);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (820,8230);
+VALUES (5307,5958);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3535,5045);
+VALUES (7814,4895);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (830,9759);
+VALUES (1634,6594);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4699,5391);
+VALUES (946,4715);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2,6520);
+VALUES (7699,8647);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4511,28);
+VALUES (4759,4848);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5589,3656);
+VALUES (6289,9225);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2206,9805);
+VALUES (5987,3682);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4461,2006);
+VALUES (3794,7377);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1075,6501);
+VALUES (5169,6949);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7679,6268);
+VALUES (7842,1777);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7517,2366);
+VALUES (6128,111);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7708,8738);
+VALUES (8639,2847);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1964,7362);
+VALUES (6143,5373);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (928,1720);
+VALUES (5022,8146);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3993,2502);
+VALUES (3188,4249);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7958,9252);
+VALUES (1817,516);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9022,1182);
+VALUES (5957,5933);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4616,3315);
+VALUES (594,4291);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2472,8371);
+VALUES (2495,831);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8274,7152);
+VALUES (8690,6112);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8515,6065);
+VALUES (9793,5281);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7070,1464);
+VALUES (2641,1492);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6927,5769);
+VALUES (748,5625);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1225,6707);
+VALUES (1499,9930);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6317,9205);
+VALUES (7129,7432);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7479,8417);
+VALUES (1450,4649);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3641,1540);
+VALUES (8032,8989);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8642,3566);
+VALUES (7898,3654);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8710,9311);
+VALUES (1087,1580);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8120,3314);
+VALUES (336,7313);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5013,5519);
+VALUES (5483,1972);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3552,8730);
+VALUES (2549,3478);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8431,5615);
+VALUES (3572,1560);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5159,5163);
+VALUES (2008,9745);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (325,601);
+VALUES (3652,6346);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9720,3477);
+VALUES (3075,1451);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6029,5395);
+VALUES (9351,5444);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2923,6980);
+VALUES (2534,7127);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5560,8866);
+VALUES (6580,3519);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9527,9281);
+VALUES (6830,7002);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7214,6208);
+VALUES (9424,7800);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8470,787);
+VALUES (2477,893);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7998,2376);
+VALUES (1583,1168);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7205,8527);
+VALUES (3833,1673);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8645,1818);
+VALUES (3234,1022);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4902,2567);
+VALUES (7872,3859);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (856,1795);
+VALUES (6139,3508);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1862,6875);
+VALUES (7921,4917);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9361,3906);
+VALUES (7706,5558);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3616,7519);
+VALUES (1576,24);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9133,3765);
+VALUES (2848,5301);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5593,1587);
+VALUES (3737,2278);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5023,4808);
+VALUES (4243,6355);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9338,7157);
+VALUES (9891,9981);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2169,4659);
+VALUES (5109,9653);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7260,1622);
+VALUES (1631,3163);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2182,5601);
+VALUES (295,8366);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5632,9396);
+VALUES (9006,7213);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9759,2254);
+VALUES (7646,6367);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (788,6761);
+VALUES (4312,5499);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7081,4082);
+VALUES (7112,5468);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2469,7979);
+VALUES (917,5486);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3822,2069);
+VALUES (3223,9854);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4977,1780);
+VALUES (8796,2289);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1353,5127);
+VALUES (4487,2263);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7655,3771);
+VALUES (7443,1537);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3283,2335);
+VALUES (8142,9719);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6598,274);
+VALUES (9252,2464);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6134,2786);
+VALUES (4901,1265);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5549,3945);
+VALUES (5054,4181);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (825,5397);
+VALUES (4270,6493);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7179,3477);
+VALUES (7340,6547);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7298,5414);
+VALUES (191,8232);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8901,5054);
+VALUES (8188,2658);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8303,1129);
+VALUES (9726,7389);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1741,6719);
+VALUES (3621,2937);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9393,4698);
+VALUES (6583,2711);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3842,6941);
+VALUES (260,4679);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6063,6133);
+VALUES (1950,1615);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1132,1739);
+VALUES (1897,5946);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4915,2739);
+VALUES (2396,3547);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2494,6601);
+VALUES (3171,2992);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4061,8110);
+VALUES (1847,2105);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2540,3579);
+VALUES (7161,7354);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7252,9720);
+VALUES (6549,1551);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7869,499);
+VALUES (9533,5217);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3189,613);
+VALUES (5548,3594);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2143,9368);
+VALUES (1506,3543);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1626,921);
+VALUES (8979,9465);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8004,2727);
+VALUES (6758,2188);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9042,2816);
+VALUES (376,7440);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8854,6640);
+VALUES (2130,2459);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (51,1936);
+VALUES (8414,2737);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5737,4394);
+VALUES (2201,1719);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6805,5229);
+VALUES (9936,6150);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3104,9473);
+VALUES (1334,4012);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8468,4254);
+VALUES (1947,625);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6269,5871);
+VALUES (1104,5084);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8698,5803);
+VALUES (2533,8435);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4987,9723);
+VALUES (4132,4747);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5931,5091);
+VALUES (2526,7819);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (463,9783);
+VALUES (4103,7816);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2905,4347);
+VALUES (5375,3542);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (123,3325);
+VALUES (3700,9161);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9716,5240);
+VALUES (5353,9635);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6286,4979);
+VALUES (808,5245);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4864,5769);
+VALUES (6349,6341);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5444,296);
+VALUES (7045,5511);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2065,5159);
+VALUES (940,3707);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5886,7748);
+VALUES (8784,3437);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3529,4880);
+VALUES (7457,1038);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1940,8283);
+VALUES (3944,6849);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9871,2313);
+VALUES (1501,1626);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1334,5973);
+VALUES (2436,3668);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (415,6284);
+VALUES (3363,9073);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4901,2116);
+VALUES (9315,2247);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3234,8212);
+VALUES (6414,1853);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3837,3662);
+VALUES (7723,9253);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8591,74);
+VALUES (2159,6008);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8820,9317);
+VALUES (7807,7210);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3264,3065);
+VALUES (5271,9544);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6883,9937);
+VALUES (8287,9439);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7997,4374);
+VALUES (6773,7684);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9932,6433);
+VALUES (5030,2331);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6570,7058);
+VALUES (4417,3412);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2337,5239);
+VALUES (8101,8703);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5086,3675);
+VALUES (5703,2444);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8396,2876);
+VALUES (1368,348);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5331,6979);
+VALUES (6542,3670);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8687,5531);
+VALUES (3028,7870);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5679,3405);
+VALUES (1396,4442);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5833,276);
+VALUES (2190,5787);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9816,2928);
+VALUES (6767,6999);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3029,6267);
+VALUES (224,3849);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8326,6012);
+VALUES (9884,6082);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7602,2279);
+VALUES (7596,3261);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (54,2338);
+VALUES (1141,8392);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1573,6614);
+VALUES (7651,6318);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9435,54);
+VALUES (2812,3762);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1527,3358);
+VALUES (8130,2332);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4036,7734);
+VALUES (323,324);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7508,3537);
+VALUES (5595,3721);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3942,1333);
+VALUES (9116,4526);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (937,2596);
+VALUES (3802,5225);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8099,6628);
+VALUES (9171,9739);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3083,4668);
+VALUES (5328,6172);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8001,1183);
+VALUES (3443,7421);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8738,8699);
+VALUES (3884,3772);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8619,8351);
+VALUES (1178,5433);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3302,1470);
+VALUES (6956,2436);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3052,3655);
+VALUES (8284,8300);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3407,462);
+VALUES (5271,4423);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1909,8606);
+VALUES (6097,1464);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2621,1152);
+VALUES (1199,6484);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1223,1645);
+VALUES (6756,8570);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (138,9378);
+VALUES (3554,1722);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6840,8312);
+VALUES (2381,75);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5438,9256);
+VALUES (539,6567);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9566,5881);
+VALUES (1292,7518);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6878,9830);
+VALUES (9802,4539);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8253,3696);
+VALUES (3069,4321);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8746,3717);
+VALUES (637,9670);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5173,3590);
+VALUES (6382,4989);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4261,381);
+VALUES (837,7337);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9555,7721);
+VALUES (8465,5860);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8994,2684);
+VALUES (7924,1181);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9451,6821);
+VALUES (1898,6580);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1071,5923);
+VALUES (6784,3549);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3783,82);
+VALUES (3076,6995);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3330,6525);
+VALUES (1652,3393);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4766,8332);
+VALUES (2993,4825);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9611,3966);
+VALUES (4637,6119);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8822,1965);
+VALUES (438,7897);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9051,2784);
+VALUES (4384,6483);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (766,1286);
+VALUES (1602,4136);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1477,6586);
+VALUES (8425,2213);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2980,8116);
+VALUES (4298,2652);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8236,1866);
+VALUES (4822,358);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2120,6472);
+VALUES (5439,6086);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (351,88);
+VALUES (9846,4809);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6598,3454);
+VALUES (5851,4337);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8713,8139);
+VALUES (7576,9893);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3769,5162);
+VALUES (747,6041);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2927,8178);
+VALUES (7412,141);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4536,4643);
+VALUES (302,3031);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9291,7668);
+VALUES (9858,1152);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7281,8819);
+VALUES (4106,3804);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9939,5687);
+VALUES (1983,5962);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5724,1709);
+VALUES (4057,2119);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7557,6081);
+VALUES (9245,7617);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3026,4981);
+VALUES (4039,1346);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1792,2364);
+VALUES (5695,7063);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9280,9238);
+VALUES (1794,4371);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6333,2083);
+VALUES (7847,2751);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6734,9713);
+VALUES (2039,6701);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (874,4034);
+VALUES (3365,5937);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7514,2254);
+VALUES (9459,3252);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1689,3041);
+VALUES (8711,1723);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7924,6974);
+VALUES (293,4257);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2449,1251);
+VALUES (1009,2319);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4481,8265);
+VALUES (7123,3509);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3506,5589);
+VALUES (2021,545);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8922,4557);
+VALUES (7636,191);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4113,26);
+VALUES (5638,7505);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2366,5133);
+VALUES (5817,9736);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3955,7968);
+VALUES (7594,4696);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5260,3323);
+VALUES (8299,3801);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1313,7264);
+VALUES (3759,169);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6107,5566);
+VALUES (4275,7847);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3759,9190);
+VALUES (475,5985);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3298,9471);
+VALUES (4002,5639);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (797,7574);
+VALUES (3885,2683);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3311,6595);
+VALUES (9014,6011);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (772,3745);
+VALUES (9873,3037);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5624,1019);
+VALUES (4076,9696);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3300,8326);
+VALUES (6366,443);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (51,5410);
+VALUES (2765,2439);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1819,46);
+VALUES (9337,9736);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7678,904);
+VALUES (3688,5126);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8778,3168);
+VALUES (8165,8436);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3561,7674);
+VALUES (973,4118);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2779,4819);
+VALUES (6730,4745);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3649,8998);
+VALUES (2124,1645);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9428,9961);
+VALUES (4157,3612);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4407,5741);
+VALUES (897,5820);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4685,5940);
+VALUES (1139,9111);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1850,2215);
+VALUES (1407,3673);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7602,5446);
+VALUES (7446,2611);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5801,7038);
+VALUES (1333,4215);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7559,9478);
+VALUES (9418,1693);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9790,1600);
+VALUES (6333,4495);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7251,6502);
+VALUES (8147,2289);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9097,123);
+VALUES (1806,4515);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5688,1547);
+VALUES (7361,434);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (291,607);
+VALUES (7464,614);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6642,6906);
+VALUES (3713,331);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5198,5552);
+VALUES (5724,7610);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1796,6421);
+VALUES (6477,2254);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7267,7600);
+VALUES (250,3072);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1335,8600);
+VALUES (7578,9629);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4254,2446);
+VALUES (5549,3667);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9797,6474);
+VALUES (3719,3523);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2772,1025);
+VALUES (6574,5919);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5640,7704);
+VALUES (4091,443);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1117,2070);
+VALUES (6773,2174);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9308,8708);
+VALUES (4583,6344);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7317,1093);
+VALUES (8866,8968);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2779,7510);
+VALUES (228,7218);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4100,2651);
+VALUES (2458,5678);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8049,2782);
+VALUES (2793,491);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4748,9677);
+VALUES (7298,6987);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7178,8920);
+VALUES (3413,2066);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6294,6378);
+VALUES (3639,927);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4173,2247);
+VALUES (5372,3069);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5691,2207);
+VALUES (6790,2044);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5690,5442);
+VALUES (714,7587);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9090,7321);
+VALUES (4204,7967);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2206,7464);
+VALUES (7925,7794);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5518,3103);
+VALUES (6905,1685);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6927,2638);
+VALUES (2940,5812);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4385,2943);
+VALUES (6797,8395);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2453,8956);
+VALUES (4686,5779);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9157,2461);
+VALUES (3541,3180);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5802,1353);
+VALUES (279,5047);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4546,185);
+VALUES (7865,9191);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7956,8141);
+VALUES (5873,6005);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (118,1420);
+VALUES (3365,7641);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4535,9930);
+VALUES (6002,6041);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5711,3696);
+VALUES (1044,688);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1177,7568);
+VALUES (8826,6913);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8557,1021);
+VALUES (9807,4079);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8518,3246);
+VALUES (26,1784);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7851,2031);
+VALUES (4008,9359);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (696,8520);
+VALUES (3577,2681);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7287,2778);
+VALUES (8919,5148);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5856,148);
+VALUES (2511,4091);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6226,4931);
+VALUES (2758,916);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3375,1795);
+VALUES (9551,9400);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5105,7503);
+VALUES (9680,2859);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4062,7258);
+VALUES (5983,2341);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (536,6933);
+VALUES (7616,8810);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8913,5123);
+VALUES (4019,9436);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (503,3271);
+VALUES (26,6689);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1677,919);
+VALUES (7997,5815);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2044,8122);
+VALUES (8204,4907);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1247,4168);
+VALUES (7292,1998);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (192,5546);
+VALUES (7132,4435);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (620,6351);
+VALUES (958,4376);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4941,807);
+VALUES (4352,6766);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6295,4786);
+VALUES (5347,882);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6545,5097);
+VALUES (9851,8289);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7858,1161);
+VALUES (1131,6975);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7056,9067);
+VALUES (6711,7909);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (607,5402);
+VALUES (7975,4243);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4545,2874);
+VALUES (7297,7503);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2543,4604);
+VALUES (9695,3482);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5592,8599);
+VALUES (9350,9445);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9833,6796);
+VALUES (8535,7423);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7025,3709);
+VALUES (2640,7753);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2724,2170);
+VALUES (2597,3577);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (388,4262);
+VALUES (7562,1377);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5479,5021);
+VALUES (6040,2657);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7790,5448);
+VALUES (2323,5782);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1160,4274);
+VALUES (4206,3295);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8511,1200);
+VALUES (2007,8808);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7690,7730);
+VALUES (7119,9400);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (682,2259);
+VALUES (2551,7305);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3126,9140);
+VALUES (8937,2173);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7836,6784);
+VALUES (7837,4600);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4376,1893);
+VALUES (1969,235);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5065,5432);
+VALUES (9285,6000);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3504,5174);
+VALUES (448,2876);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4371,6951);
+VALUES (6147,6619);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4592,1756);
+VALUES (8419,7619);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7053,3026);
+VALUES (6928,8155);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2748,6008);
+VALUES (361,7648);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (866,4423);
+VALUES (3703,7795);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5650,1367);
+VALUES (8171,4592);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1573,2438);
+VALUES (7496,2808);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9704,4856);
+VALUES (1034,360);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9432,1597);
+VALUES (9012,7330);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8629,3453);
+VALUES (3535,1986);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4302,2351);
+VALUES (4179,1607);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (740,3681);
+VALUES (1236,7743);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6341,2349);
+VALUES (1498,33);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4656,4618);
+VALUES (1660,1985);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7576,1506);
+VALUES (2761,5602);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4724,594);
+VALUES (8975,575);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7540,4855);
+VALUES (8342,5752);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (309,6458);
+VALUES (731,2361);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1662,8969);
+VALUES (8606,1892);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5404,5691);
+VALUES (773,741);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6197,77);
+VALUES (5616,4872);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8669,1875);
+VALUES (8544,2419);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8403,1727);
+VALUES (6727,1234);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6579,7131);
+VALUES (6791,9390);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3950,5709);
+VALUES (5162,4920);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5446,4139);
+VALUES (1504,7527);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1444,3327);
+VALUES (2310,1394);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6737,8077);
+VALUES (5958,2162);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1286,7994);
+VALUES (6108,7733);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7873,6289);
+VALUES (2576,8514);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8383,6214);
+VALUES (6887,6492);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4130,4230);
+VALUES (6456,1353);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8162,1005);
+VALUES (1892,6284);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8424,5355);
+VALUES (3461,9633);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9392,7402);
+VALUES (9973,157);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5781,8764);
+VALUES (8838,5371);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2077,9440);
+VALUES (7051,1508);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9162,8266);
+VALUES (4000,665);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2731,6101);
+VALUES (2354,6997);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5553,8546);
+VALUES (2998,4564);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2306,2475);
+VALUES (9573,103);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5622,9195);
+VALUES (566,1978);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5090,6585);
+VALUES (476,3743);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5118,8599);
+VALUES (8737,6984);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4234,4666);
+VALUES (6303,8744);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1839,6054);
+VALUES (6520,3276);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1152,5104);
+VALUES (7644,1811);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4609,758);
+VALUES (4974,4318);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1969,7341);
+VALUES (780,2634);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8976,7271);
+VALUES (4763,5036);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6104,706);
+VALUES (8536,6543);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5707,4881);
+VALUES (9502,4681);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6201,9479);
+VALUES (6220,6046);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1650,3799);
+VALUES (399,8455);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2407,7519);
+VALUES (2578,1812);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9174,5716);
+VALUES (5180,2192);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1376,1242);
+VALUES (190,2947);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1346,6207);
+VALUES (7921,7998);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5658,1479);
+VALUES (2108,2331);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7914,6087);
+VALUES (2381,7608);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3985,2170);
+VALUES (6463,478);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9823,9608);
+VALUES (755,707);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4999,7891);
+VALUES (439,1395);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5718,8622);
+VALUES (5536,7735);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7034,8404);
+VALUES (6259,9987);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7671,152);
+VALUES (8588,3594);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6831,7427);
+VALUES (3697,8118);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3541,6220);
+VALUES (455,2663);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1079,7504);
+VALUES (340,9029);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7335,6212);
+VALUES (9434,4286);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5983,7692);
+VALUES (4152,7159);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9214,5461);
+VALUES (4230,5706);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9501,4834);
+VALUES (2024,4012);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (718,1448);
+VALUES (9483,7132);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8821,8306);
+VALUES (809,7454);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5614,4238);
+VALUES (7556,5349);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4439,7574);
+VALUES (3560,6817);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9777,8012);
+VALUES (9656,4318);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5861,9835);
+VALUES (5758,8820);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8740,5694);
+VALUES (8843,5141);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6605,4721);
+VALUES (8008,7482);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4821,4540);
+VALUES (6810,1476);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (100,5366);
+VALUES (1376,8556);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3966,9710);
+VALUES (4440,5932);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (428,8959);
+VALUES (8590,2782);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2954,161);
+VALUES (6149,3697);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6377,9267);
+VALUES (602,2071);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6155,972);
+VALUES (531,686);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2221,7015);
+VALUES (8144,98);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4721,804);
+VALUES (2570,3334);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (571,6573);
+VALUES (1283,9172);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4176,940);
+VALUES (5327,5185);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2852,183);
+VALUES (4879,9273);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8584,931);
+VALUES (7523,9584);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8015,2567);
+VALUES (2102,6212);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6429,7868);
+VALUES (1896,9300);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8686,9922);
+VALUES (1177,4625);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2089,7283);
+VALUES (3154,6859);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8462,1311);
+VALUES (5218,3409);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1437,1849);
+VALUES (825,4778);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4481,5957);
+VALUES (7941,6247);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4392,1584);
+VALUES (2993,8709);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3454,2695);
+VALUES (4525,1504);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2376,2302);
+VALUES (4570,9651);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8275,5347);
+VALUES (2564,4062);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3941,2152);
+VALUES (9359,5228);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1679,5646);
+VALUES (7286,1771);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (242,2573);
+VALUES (84,44);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2746,721);
+VALUES (5168,4770);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2495,6854);
+VALUES (5048,5115);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2393,7462);
+VALUES (3370,4633);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8024,3279);
+VALUES (2580,621);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8427,7349);
+VALUES (6065,7539);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6902,5366);
+VALUES (4743,3104);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5682,4160);
+VALUES (3036,1928);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2270,5107);
+VALUES (9373,920);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4912,9209);
+VALUES (9415,8731);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6234,956);
+VALUES (330,7890);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9968,2488);
+VALUES (1566,551);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4500,9134);
+VALUES (9020,142);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4570,648);
+VALUES (6206,3783);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9066,1599);
+VALUES (8641,3161);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3293,3070);
+VALUES (208,9962);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2489,2175);
+VALUES (7683,5700);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (530,7697);
+VALUES (4518,6763);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7456,7736);
+VALUES (1057,5121);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7889,4258);
+VALUES (4602,9777);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8941,5896);
+VALUES (743,2142);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4472,8193);
+VALUES (8804,2713);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (176,9678);
+VALUES (5634,8451);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7806,8034);
+VALUES (1057,578);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6097,5930);
+VALUES (2904,64);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9255,6936);
+VALUES (2526,8709);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2048,7550);
+VALUES (8765,6763);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4932,1219);
+VALUES (4938,7747);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2513,2824);
+VALUES (5885,2488);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3475,8625);
+VALUES (2716,6511);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (985,5549);
+VALUES (4827,6225);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5036,360);
+VALUES (2705,578);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7008,1096);
+VALUES (1248,3032);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2241,9709);
+VALUES (5801,3362);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4132,1873);
+VALUES (7260,2694);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7480,792);
+VALUES (3580,5269);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2999,5039);
+VALUES (1304,2342);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8199,7180);
+VALUES (49,2079);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4849,4050);
+VALUES (7794,9661);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (751,1148);
+VALUES (7762,5518);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3791,2054);
+VALUES (1266,5451);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6056,6064);
+VALUES (170,5588);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2835,1388);
+VALUES (9978,4018);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5756,7536);
+VALUES (4993,5959);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4886,9244);
+VALUES (2939,804);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7402,9005);
+VALUES (314,1761);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1334,9461);
+VALUES (9352,7750);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1114,514);
+VALUES (9877,2025);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8496,2261);
+VALUES (1501,1103);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1082,2771);
+VALUES (2100,7911);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (544,8255);
+VALUES (4121,3243);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1012,1185);
+VALUES (6919,2810);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8856,5496);
+VALUES (6519,6891);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (247,8460);
+VALUES (3877,4524);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8912,8089);
+VALUES (2519,5133);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3662,5983);
+VALUES (7184,9112);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3971,2305);
+VALUES (6884,1730);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1084,4384);
+VALUES (4110,5325);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3625,6129);
+VALUES (7443,9638);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8169,7567);
+VALUES (6831,7161);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4603,9666);
+VALUES (6644,1662);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7289,3237);
+VALUES (6881,3850);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4674,8079);
+VALUES (7485,3543);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4447,4932);
+VALUES (5900,4338);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (495,5776);
+VALUES (5786,888);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5822,2476);
+VALUES (9463,6662);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3747,159);
+VALUES (6049,3611);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4624,6250);
+VALUES (1672,9408);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (859,651);
+VALUES (8097,6267);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1987,4465);
+VALUES (6741,7807);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1326,5547);
+VALUES (7692,5396);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (761,2563);
+VALUES (2328,8760);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (313,7990);
+VALUES (9244,8846);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8601,3179);
+VALUES (354,2440);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1526,946);
+VALUES (9529,7875);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1358,871);
+VALUES (3168,4928);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8212,2229);
+VALUES (5289,652);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8144,3420);
+VALUES (6820,5947);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7471,5273);
+VALUES (2506,5466);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9111,5686);
+VALUES (85,8814);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7000,1234);
+VALUES (2516,2587);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3551,9717);
+VALUES (2496,45);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5515,9458);
+VALUES (9099,6459);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4232,2737);
+VALUES (2371,2385);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7026,9311);
+VALUES (5420,2504);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1522,2469);
+VALUES (5815,5020);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2772,3474);
+VALUES (7535,3644);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4106,3669);
+VALUES (8716,5537);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4298,8738);
+VALUES (4731,3506);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2871,9188);
+VALUES (9965,3721);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5913,2171);
+VALUES (3156,3830);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2849,7275);
+VALUES (9843,9460);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9408,945);
+VALUES (459,9987);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7636,8549);
+VALUES (13,5565);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9643,2777);
+VALUES (257,2772);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9557,1304);
+VALUES (7607,2549);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (465,9257);
+VALUES (180,6011);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1929,152);
+VALUES (6045,4433);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9560,9129);
+VALUES (7756,5909);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6957,7897);
+VALUES (3148,5140);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3576,3067);
+VALUES (2626,3890);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (904,7623);
+VALUES (7154,9609);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1979,7291);
+VALUES (5975,2216);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6409,4823);
+VALUES (8356,4735);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5647,9698);
+VALUES (9870,3666);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5367,6302);
+VALUES (3321,2880);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6079,4905);
+VALUES (776,861);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9183,5510);
+VALUES (5969,7933);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9171,8322);
+VALUES (7404,2877);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1725,413);
+VALUES (8795,6360);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5076,8426);
+VALUES (1415,1468);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5695,1341);
+VALUES (1210,8852);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8107,858);
+VALUES (8887,1626);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1131,756);
+VALUES (8495,9189);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1395,8161);
+VALUES (7053,2285);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4038,7865);
+VALUES (8257,8685);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7603,177);
+VALUES (9444,1926);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4347,7446);
+VALUES (6624,1884);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1206,3300);
+VALUES (9830,7266);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4123,6270);
+VALUES (5078,8493);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (153,3127);
+VALUES (6873,8391);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5363,9106);
+VALUES (2918,510);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5373,8014);
+VALUES (3200,4013);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4561,371);
+VALUES (4579,6258);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7241,1581);
+VALUES (3098,7102);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5067,8535);
+VALUES (2735,1585);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2007,7697);
+VALUES (5577,5083);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7127,4160);
+VALUES (4239,1889);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8211,184);
+VALUES (1103,7622);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6598,7573);
+VALUES (1945,4803);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8235,2144);
+VALUES (1464,4974);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4168,8792);
+VALUES (3470,32);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8672,2285);
+VALUES (9000,3411);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3462,8078);
+VALUES (6929,6202);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8273,7731);
+VALUES (6420,7351);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6745,8549);
+VALUES (8820,5916);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4099,5620);
+VALUES (2060,788);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1116,5881);
+VALUES (1441,4055);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4620,9727);
+VALUES (6106,6604);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9790,5359);
+VALUES (3448,4641);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9897,6783);
+VALUES (4221,8042);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9853,3015);
+VALUES (142,1246);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1636,6208);
+VALUES (992,3235);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1889,85);
+VALUES (5447,5667);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7709,502);
+VALUES (5618,2951);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7915,4809);
+VALUES (238,3522);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4188,8137);
+VALUES (530,1024);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4494,950);
+VALUES (4991,8446);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5868,2607);
+VALUES (8473,4250);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1053,9081);
+VALUES (7224,8383);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2457,7647);
+VALUES (5875,8258);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9437,4112);
+VALUES (1565,735);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8532,47);
+VALUES (3380,8156);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (927,579);
+VALUES (8652,8738);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1233,5747);
+VALUES (4803,6680);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8222,1191);
+VALUES (5067,9277);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3574,132);
+VALUES (4072,3298);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4585,1410);
+VALUES (5587,7504);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3042,3458);
+VALUES (1114,2960);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3715,987);
+VALUES (1862,7427);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8413,5633);
+VALUES (8625,7080);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7523,1990);
+VALUES (411,4360);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9780,320);
+VALUES (9017,6561);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3607,4462);
+VALUES (9205,2314);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6982,3654);
+VALUES (4791,484);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1436,4523);
+VALUES (2665,8040);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8013,3020);
+VALUES (1035,8509);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2370,7036);
+VALUES (9886,9604);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3240,2184);
+VALUES (732,1378);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1544,2530);
+VALUES (6740,7937);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5685,4949);
+VALUES (9858,2981);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4769,3715);
+VALUES (5694,3813);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1258,6409);
+VALUES (3058,6009);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3871,9842);
+VALUES (2196,9002);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (322,5584);
+VALUES (1285,9007);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7501,2037);
+VALUES (1438,3745);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7772,8356);
+VALUES (7304,7843);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (218,6965);
+VALUES (145,7345);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7874,3135);
+VALUES (2571,5101);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5138,9165);
+VALUES (1028,9336);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1586,3395);
+VALUES (253,3341);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9303,5701);
+VALUES (4815,1027);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1862,7680);
+VALUES (1341,4225);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1056,8799);
+VALUES (274,2698);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (559,710);
+VALUES (6310,7064);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4775,7637);
+VALUES (4756,9153);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2781,7330);
+VALUES (4030,8933);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1560,314);
+VALUES (5665,7644);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8090,8458);
+VALUES (188,4256);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6901,5207);
+VALUES (5697,7200);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7855,3965);
+VALUES (5004,6821);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3344,1688);
+VALUES (7399,3160);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7459,9152);
+VALUES (5126,1147);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1975,5275);
+VALUES (847,2271);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2407,6678);
+VALUES (5130,2377);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6853,9467);
+VALUES (2001,5030);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1746,503);
+VALUES (7839,7302);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7798,6634);
+VALUES (872,3381);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2413,4778);
+VALUES (4666,7865);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1151,7934);
+VALUES (701,5349);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5289,8586);
+VALUES (6762,234);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8139,1508);
+VALUES (8532,9080);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1988,6402);
+VALUES (4046,401);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3358,6813);
+VALUES (3264,9859);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9515,1183);
+VALUES (4401,9077);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9487,9589);
+VALUES (815,643);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2038,4465);
+VALUES (9740,1861);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7280,6864);
+VALUES (8520,5532);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3356,9947);
+VALUES (1781,1970);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5587,7600);
+VALUES (519,763);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7361,8829);
+VALUES (1578,9134);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2945,84);
+VALUES (3922,7292);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1569,5097);
+VALUES (3659,3364);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9387,5991);
+VALUES (1076,8482);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9431,9187);
+VALUES (9821,7339);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6164,6399);
+VALUES (5818,819);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8984,7775);
+VALUES (2978,6250);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7889,7480);
+VALUES (8784,5787);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (635,2707);
+VALUES (6716,9222);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6450,1359);
+VALUES (1824,3723);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1241,6453);
+VALUES (5090,7662);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2060,3932);
+VALUES (6545,5000);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (926,7644);
+VALUES (3304,2622);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9960,2488);
+VALUES (3553,8060);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4969,721);
+VALUES (673,6824);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8247,5950);
+VALUES (9304,515);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7529,1118);
+VALUES (7947,8478);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7158,5866);
+VALUES (4840,8696);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7842,8524);
+VALUES (2051,1537);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3450,7377);
+VALUES (5694,2945);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7974,7282);
+VALUES (4299,3450);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9716,2052);
+VALUES (663,8500);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2304,4484);
+VALUES (3522,1216);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (993,515);
+VALUES (8879,4618);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4583,3241);
+VALUES (3679,4513);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8169,5560);
+VALUES (1336,3792);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5172,4907);
+VALUES (7997,5237);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (238,2015);
+VALUES (980,871);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9065,1051);
+VALUES (2643,4943);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5451,6689);
+VALUES (7561,3148);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2983,1260);
+VALUES (8330,7674);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2206,4268);
+VALUES (1490,7596);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2138,9376);
+VALUES (2518,3441);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8565,4803);
+VALUES (1214,1957);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6791,3345);
+VALUES (9665,1730);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (103,9119);
+VALUES (6523,990);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3123,8079);
+VALUES (2471,5765);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1957,1828);
+VALUES (763,8871);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (694,2545);
+VALUES (9011,8574);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9453,8098);
+VALUES (6057,6679);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (987,3262);
+VALUES (9763,6604);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6261,4367);
+VALUES (6086,8672);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4652,4600);
+VALUES (8489,5541);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9817,9324);
+VALUES (3918,6243);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (899,8332);
+VALUES (2817,1535);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8849,440);
+VALUES (4836,2122);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8371,5232);
+VALUES (4513,7513);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4057,1517);
+VALUES (7295,8279);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6221,6752);
+VALUES (6644,2032);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8896,6060);
+VALUES (8878,1486);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8516,7816);
+VALUES (4707,8793);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3407,4775);
+VALUES (8329,9903);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7950,6105);
+VALUES (5323,4425);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2096,9685);
+VALUES (3537,9596);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4850,8809);
+VALUES (5559,6687);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8904,748);
+VALUES (9134,3210);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4511,3085);
+VALUES (4282,7467);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1628,9325);
+VALUES (5269,948);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9353,7110);
+VALUES (3940,805);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5653,7535);
+VALUES (1361,4929);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (621,4179);
+VALUES (6113,8925);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (50,3743);
+VALUES (9691,2463);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3619,9714);
+VALUES (5402,334);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5360,3316);
+VALUES (5986,8642);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9144,942);
+VALUES (3934,4901);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8146,5637);
+VALUES (9187,7605);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1425,4802);
+VALUES (8471,8711);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9349,505);
+VALUES (2606,4203);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2127,3024);
+VALUES (753,6305);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1902,8834);
+VALUES (3675,1900);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6160,5134);
+VALUES (6356,2586);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (847,9406);
+VALUES (724,3955);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7908,6963);
+VALUES (6144,7700);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5410,345);
+VALUES (638,9758);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3746,2023);
+VALUES (2191,9594);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7446,8359);
+VALUES (4850,5802);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3387,3223);
+VALUES (6489,5254);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6540,180);
+VALUES (5897,8204);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (574,5773);
+VALUES (3693,1303);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3950,8337);
+VALUES (2380,374);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3468,2258);
+VALUES (8431,2729);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7312,5623);
+VALUES (4048,7785);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6312,5600);
+VALUES (2152,6547);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (56,3920);
+VALUES (4480,354);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1261,946);
+VALUES (698,8134);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1134,1520);
+VALUES (466,1960);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6100,2895);
+VALUES (5667,498);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8073,7938);
+VALUES (1736,3193);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2440,2732);
+VALUES (2323,7371);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3941,5658);
+VALUES (1716,7977);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6852,8779);
+VALUES (6854,486);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (117,7101);
+VALUES (2323,5321);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3915,8235);
+VALUES (6699,8875);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4608,1323);
+VALUES (1707,4206);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5257,1487);
+VALUES (6746,5028);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (452,2115);
+VALUES (526,2165);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3068,1442);
+VALUES (5385,1901);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5649,1196);
+VALUES (1704,9590);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9477,1670);
+VALUES (9748,1114);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6966,7302);
+VALUES (4972,3042);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (557,9968);
+VALUES (4175,974);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4865,1236);
+VALUES (8230,7026);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3453,6555);
+VALUES (9732,4018);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2845,8368);
+VALUES (8445,7066);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6767,1095);
+VALUES (2326,9185);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2665,408);
+VALUES (9410,9413);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4386,7024);
+VALUES (57,6593);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8450,1483);
+VALUES (263,2178);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8371,532);
+VALUES (9584,7521);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7484,4420);
+VALUES (308,573);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1846,4974);
+VALUES (7293,5626);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7853,9307);
+VALUES (4875,3921);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5211,5931);
+VALUES (6952,1021);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2453,3187);
+VALUES (2755,9846);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7521,2415);
+VALUES (2420,1081);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6499,6948);
+VALUES (361,9230);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4898,7102);
+VALUES (1337,8686);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9157,5355);
+VALUES (6139,2399);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4960,9251);
+VALUES (5400,5074);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7446,4960);
+VALUES (3246,3371);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3902,3461);
+VALUES (6426,8982);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1184,6235);
+VALUES (5861,6781);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8910,4547);
+VALUES (6261,8153);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9249,4434);
+VALUES (7523,5913);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7743,8445);
+VALUES (3742,2784);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8820,3457);
+VALUES (3774,7118);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2787,4908);
+VALUES (3324,2840);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4571,1915);
+VALUES (3636,5640);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7466,5377);
+VALUES (6251,6627);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3937,396);
+VALUES (4575,4402);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (440,5530);
+VALUES (7076,4045);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2881,1555);
+VALUES (3190,3960);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (249,8268);
+VALUES (8665,4529);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6342,1899);
+VALUES (9343,8384);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5688,5381);
+VALUES (3256,3271);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6619,8049);
+VALUES (8330,1933);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8807,304);
+VALUES (5943,6115);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7663,981);
+VALUES (1929,8634);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4947,6052);
+VALUES (4696,7221);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3222,4070);
+VALUES (8933,1845);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8068,5833);
+VALUES (788,5646);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6562,2591);
+VALUES (642,562);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8156,9699);
+VALUES (2493,8214);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8738,2288);
+VALUES (9317,4907);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7155,6977);
+VALUES (2695,7177);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3581,8088);
+VALUES (5759,1169);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1577,9234);
+VALUES (6539,3122);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6265,8956);
+VALUES (733,5414);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2191,5018);
+VALUES (1331,3484);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3897,9383);
+VALUES (5374,4094);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (854,228);
+VALUES (5637,699);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5636,9231);
+VALUES (209,1431);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9535,1321);
+VALUES (5597,934);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9192,9440);
+VALUES (8436,6515);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2166,8909);
+VALUES (2661,1453);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2288,2084);
+VALUES (9912,5753);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4219,8054);
+VALUES (6446,8981);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (862,6470);
+VALUES (8589,8902);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2764,9226);
+VALUES (31,4326);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3061,5480);
+VALUES (7780,2922);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8646,1956);
+VALUES (5680,9278);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (218,6172);
+VALUES (3322,675);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9297,468);
+VALUES (2693,5961);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4467,6051);
+VALUES (7223,5486);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7569,4604);
+VALUES (6511,3337);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8774,27);
+VALUES (6670,9954);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9883,8228);
+VALUES (5407,5198);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6202,796);
+VALUES (3286,971);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5868,8282);
+VALUES (9226,9977);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2593,8165);
+VALUES (2216,1877);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5033,714);
+VALUES (575,9763);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7920,2739);
+VALUES (802,4462);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3119,4510);
+VALUES (4399,3329);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (436,176);
+VALUES (319,5874);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (125,9639);
+VALUES (8165,1301);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3471,4971);
+VALUES (2436,4558);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3855,9800);
+VALUES (6753,8546);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (302,4201);
+VALUES (4444,9919);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1577,2136);
+VALUES (1977,6774);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (929,1655);
+VALUES (886,6946);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5871,6675);
+VALUES (1750,372);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8817,7272);
+VALUES (9150,5808);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8714,5846);
+VALUES (4101,2928);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6949,8415);
+VALUES (190,9945);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9480,1494);
+VALUES (6042,7240);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4035,8374);
+VALUES (4370,2531);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2474,3234);
+VALUES (9090,6320);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1461,9266);
+VALUES (1527,6416);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1129,6295);
+VALUES (4552,2702);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9097,2431);
+VALUES (9698,9217);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7771,8942);
+VALUES (5816,9138);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (687,1391);
+VALUES (6470,6186);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6959,6821);
+VALUES (8909,4285);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5090,5667);
+VALUES (5825,8133);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7695,9521);
+VALUES (2493,7381);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4156,1135);
+VALUES (8326,3393);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3956,4276);
+VALUES (9761,9475);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3182,68);
+VALUES (1410,3754);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2562,5684);
+VALUES (5906,6297);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3400,3476);
+VALUES (7572,8030);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8932,1354);
+VALUES (4874,8765);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1464,3681);
+VALUES (3872,8909);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2225,7382);
+VALUES (5347,4032);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7946,1311);
+VALUES (3394,6299);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2749,4938);
+VALUES (4332,6544);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8026,9378);
+VALUES (1217,4537);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1689,8195);
+VALUES (5953,4966);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2803,4637);
+VALUES (1802,8819);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4186,3862);
+VALUES (1402,6938);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3373,3035);
+VALUES (6258,4933);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3686,6705);
+VALUES (6429,2381);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6640,18);
+VALUES (2580,514);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1599,3282);
+VALUES (9188,9084);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2664,2697);
+VALUES (8975,1416);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2753,8392);
+VALUES (1199,4407);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3848,9513);
+VALUES (2895,8932);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1224,6487);
+VALUES (291,9488);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1850,407);
+VALUES (1775,8525);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4069,4092);
+VALUES (3609,4307);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4082,6577);
+VALUES (40,9836);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5804,953);
+VALUES (3278,1085);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9982,3818);
+VALUES (3982,7483);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6471,9449);
+VALUES (614,9351);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (827,5014);
+VALUES (5271,5285);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7804,5309);
+VALUES (7088,5807);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4926,855);
+VALUES (2063,9773);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6278,6712);
+VALUES (1877,4352);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6054,6418);
+VALUES (3394,8698);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2327,3725);
+VALUES (6958,3295);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4751,3851);
+VALUES (4023,447);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5359,5981);
+VALUES (9204,3980);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7820,6274);
+VALUES (8249,8140);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8965,2970);
+VALUES (8794,5806);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2226,639);
+VALUES (5398,4609);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7668,7850);
+VALUES (1748,5677);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (520,3876);
+VALUES (8200,6140);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7035,1437);
+VALUES (5403,2774);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7954,8017);
+VALUES (469,7074);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5836,1631);
+VALUES (8041,4681);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3142,8939);
+VALUES (9103,3111);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4267,7466);
+VALUES (7665,873);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8148,7327);
+VALUES (453,9329);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1976,5305);
+VALUES (968,9329);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3120,9500);
+VALUES (5035,9245);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4547,8223);
+VALUES (8286,4826);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3300,4081);
+VALUES (1635,3559);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8940,8665);
+VALUES (3432,4152);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3156,841);
+VALUES (421,8213);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8909,5142);
+VALUES (575,5869);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2835,3465);
+VALUES (2845,9490);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (582,1174);
+VALUES (105,6825);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9194,7115);
+VALUES (905,4821);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6032,2396);
+VALUES (3469,9336);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4297,6138);
+VALUES (5573,3335);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1501,8339);
+VALUES (9867,7857);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5259,15);
+VALUES (5774,7246);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4145,2857);
+VALUES (7577,4554);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8296,826);
+VALUES (2116,8605);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9124,2872);
+VALUES (3124,989);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1795,3112);
+VALUES (7713,1557);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3566,863);
+VALUES (1864,8019);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4804,1113);
+VALUES (2694,1878);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9397,2690);
+VALUES (9161,8896);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5000,3812);
+VALUES (9635,6743);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4918,1528);
+VALUES (603,3253);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9739,8420);
+VALUES (2150,3338);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9122,5117);
+VALUES (8210,6176);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1471,9870);
+VALUES (1161,9676);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (819,4477);
+VALUES (9168,155);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6366,6868);
+VALUES (6130,4224);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4998,4306);
+VALUES (6136,4522);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (344,5382);
+VALUES (6973,8670);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5868,7577);
+VALUES (4572,8270);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4519,176);
+VALUES (3584,4191);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7473,3493);
+VALUES (2164,6477);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3876,8636);
+VALUES (3040,9460);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7845,9595);
+VALUES (9262,6429);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7763,7791);
+VALUES (4071,102);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8196,1824);
+VALUES (7118,7313);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1904,3192);
+VALUES (6207,1801);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (397,2068);
+VALUES (8870,9757);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5931,3995);
+VALUES (3538,3261);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7817,8136);
+VALUES (7468,1124);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9191,2661);
+VALUES (1477,5852);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7843,4934);
+VALUES (2512,402);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4276,9759);
+VALUES (8091,8886);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4343,2528);
+VALUES (1325,8199);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7891,7621);
+VALUES (8138,3465);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6934,9433);
+VALUES (3310,7430);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6613,1207);
+VALUES (3090,2056);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6064,3806);
+VALUES (6656,325);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4021,9250);
+VALUES (6032,2749);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6498,2331);
+VALUES (8239,3174);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2030,9357);
+VALUES (1777,8150);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2562,2772);
+VALUES (8611,453);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9004,7964);
+VALUES (3996,6176);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5400,6399);
+VALUES (1413,2277);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2808,3593);
+VALUES (8849,6680);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8894,1860);
+VALUES (1793,5521);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1666,6102);
+VALUES (304,8897);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6346,4398);
+VALUES (1905,1940);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6133,7467);
+VALUES (2822,7414);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4756,5288);
+VALUES (6488,6427);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4961,4840);
+VALUES (7465,3072);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3634,9478);
+VALUES (6904,6540);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4022,7066);
+VALUES (6750,871);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1394,4370);
+VALUES (7264,3779);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8360,5082);
+VALUES (8209,7082);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9157,462);
+VALUES (2209,4939);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2868,309);
+VALUES (6523,4387);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6613,9985);
+VALUES (3934,1933);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7534,3432);
+VALUES (2329,3260);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6135,6685);
+VALUES (2944,1293);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7841,7572);
+VALUES (4014,9996);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1954,4692);
+VALUES (5721,849);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7924,3065);
+VALUES (3271,8113);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (98,9682);
+VALUES (5909,2066);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7542,5791);
+VALUES (9732,5350);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1881,8452);
+VALUES (1685,5491);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1424,821);
+VALUES (361,1359);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9926,2611);
+VALUES (5609,9845);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5590,4414);
+VALUES (8524,903);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (256,1853);
+VALUES (2833,816);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2307,1172);
+VALUES (7911,5041);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4111,1597);
+VALUES (5846,3198);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3236,2080);
+VALUES (962,4797);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7900,6016);
+VALUES (2267,8542);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7162,633);
+VALUES (401,2776);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (73,5509);
+VALUES (9537,3121);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2104,8477);
+VALUES (5774,8411);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3042,2150);
+VALUES (6652,3730);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4325,6498);
+VALUES (6020,7027);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3844,6144);
+VALUES (6608,9339);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1153,5360);
+VALUES (8129,5170);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3005,2677);
+VALUES (7338,479);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5504,4294);
+VALUES (4362,9152);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6718,8070);
+VALUES (4151,1116);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8211,9780);
+VALUES (6832,1042);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (325,627);
+VALUES (1289,437);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5026,2733);
+VALUES (6411,4862);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (900,2660);
+VALUES (5899,6487);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1294,975);
+VALUES (959,889);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3037,9718);
+VALUES (4875,8834);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4871,5374);
+VALUES (6035,5891);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6493,9964);
+VALUES (3331,5936);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9055,3022);
+VALUES (9629,7982);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6605,3018);
+VALUES (7159,391);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8884,2985);
+VALUES (373,856);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7471,1210);
+VALUES (9804,7071);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3964,7641);
+VALUES (7365,3389);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6857,1850);
+VALUES (4339,6403);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1436,3344);
+VALUES (2917,2236);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7997,904);
+VALUES (6438,8773);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2896,3517);
+VALUES (4812,9257);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2225,2857);
+VALUES (747,3334);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3372,2428);
+VALUES (3264,7843);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3850,2857);
+VALUES (6600,4560);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2650,3085);
+VALUES (9286,433);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6633,8964);
+VALUES (5661,5134);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4385,6059);
+VALUES (1829,1867);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6806,4053);
+VALUES (2328,8099);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3499,1099);
+VALUES (8066,664);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1596,6539);
+VALUES (7220,7108);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2367,2605);
+VALUES (7550,3989);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2881,7398);
+VALUES (6471,6098);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5384,7572);
+VALUES (4045,6195);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4166,4237);
+VALUES (1029,6943);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9683,9647);
+VALUES (1592,8697);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1129,4739);
+VALUES (9684,3229);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4746,9936);
+VALUES (8296,3641);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4283,9586);
+VALUES (8636,7111);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4131,6005);
+VALUES (1587,6234);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1423,4493);
+VALUES (2671,7744);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7598,7622);
+VALUES (7422,445);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3726,8938);
+VALUES (2484,7816);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8098,2657);
+VALUES (6935,894);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9826,3144);
+VALUES (2008,6384);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5559,6808);
+VALUES (7793,9112);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9136,3788);
+VALUES (9060,3284);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2214,9387);
+VALUES (7290,1143);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7654,8540);
+VALUES (4814,3104);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2985,3626);
+VALUES (9425,8405);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5895,3344);
+VALUES (2129,4106);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (342,368);
+VALUES (5883,5440);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7632,2228);
+VALUES (6385,2133);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8645,8674);
+VALUES (2369,8216);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2867,5435);
+VALUES (3199,7623);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6958,6829);
+VALUES (3991,770);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9652,7543);
+VALUES (9497,602);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8897,9442);
+VALUES (87,8622);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6288,5155);
+VALUES (6009,8735);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (476,9816);
+VALUES (3593,7510);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6710,5895);
+VALUES (9480,2461);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5205,3430);
+VALUES (2108,189);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4824,2645);
+VALUES (7926,7747);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6923,5080);
+VALUES (5433,2582);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9145,763);
+VALUES (6264,2933);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1048,2685);
+VALUES (1364,1326);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3814,828);
+VALUES (4722,4661);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5201,1964);
+VALUES (8847,7418);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9084,8775);
+VALUES (2977,2663);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5992,2857);
+VALUES (1070,7541);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (391,7394);
+VALUES (2255,9648);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6034,8331);
+VALUES (751,8352);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5494,5126);
+VALUES (6892,7273);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3622,3865);
+VALUES (610,4710);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1102,5247);
+VALUES (8718,7181);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4434,6867);
+VALUES (3855,7537);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7950,6137);
+VALUES (9663,6669);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9319,3514);
+VALUES (758,4677);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7013,36);
+VALUES (7700,9255);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5005,6357);
+VALUES (5180,3702);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1896,4309);
+VALUES (1413,5456);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2356,3351);
+VALUES (7255,1445);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4666,4118);
+VALUES (4645,7819);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (379,2992);
+VALUES (9414,6720);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3897,7947);
+VALUES (4189,2836);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8730,9926);
+VALUES (9796,5928);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6587,6577);
+VALUES (6332,819);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4829,6576);
+VALUES (3751,4727);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7628,196);
+VALUES (4541,2554);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4818,2054);
+VALUES (7474,1890);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4350,3419);
+VALUES (257,6142);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5903,7595);
+VALUES (5668,3045);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2484,894);
+VALUES (7848,7932);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9763,8492);
+VALUES (9071,3634);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9424,3680);
+VALUES (2671,4307);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8234,2731);
+VALUES (6981,5334);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2289,2171);
+VALUES (9821,5139);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1317,9309);
+VALUES (9462,1738);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6976,6637);
+VALUES (2106,5461);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5926,4927);
+VALUES (5827,3183);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2812,844);
+VALUES (2414,8825);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8697,7379);
+VALUES (4408,92);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8258,357);
+VALUES (168,1398);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8898,3264);
+VALUES (1082,7078);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9048,9616);
+VALUES (1270,124);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3233,961);
+VALUES (8603,439);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5922,5700);
+VALUES (2719,8965);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5175,2878);
+VALUES (5332,6857);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6256,7992);
+VALUES (6214,1082);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (738,5618);
+VALUES (9437,5484);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9737,1685);
+VALUES (9074,4668);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6561,111);
+VALUES (6232,100);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5894,3529);
+VALUES (4794,8801);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6490,7923);
+VALUES (8567,5372);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8059,1499);
+VALUES (6294,2617);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8640,3679);
+VALUES (165,7687);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7655,2060);
+VALUES (1561,5859);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2728,10000);
+VALUES (2762,6342);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6975,2433);
+VALUES (2784,3651);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2425,4032);
+VALUES (6922,253);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2146,4529);
+VALUES (1393,3699);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6429,5938);
+VALUES (6432,6106);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2947,8825);
+VALUES (3194,7585);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2460,9153);
+VALUES (7762,671);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (87,1898);
+VALUES (629,2595);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (444,2505);
+VALUES (764,6655);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6156,3367);
+VALUES (3636,6664);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9581,8384);
+VALUES (3634,1045);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2304,4556);
+VALUES (4240,2390);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7930,7741);
+VALUES (9599,6584);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1657,1214);
+VALUES (3366,727);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5706,6954);
+VALUES (8004,6882);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1132,8620);
+VALUES (1658,4461);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6057,5128);
+VALUES (1136,9015);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2558,8880);
+VALUES (5502,2738);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7597,3661);
+VALUES (5948,2792);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8506,5718);
+VALUES (8973,1310);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6853,6479);
+VALUES (1313,7132);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3928,7846);
+VALUES (5105,4692);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7015,4088);
+VALUES (4511,7661);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (949,6131);
+VALUES (261,2001);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5846,9);
+VALUES (496,9361);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8138,6602);
+VALUES (3721,2235);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5504,4418);
+VALUES (186,8852);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3716,8224);
+VALUES (611,9971);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7872,4625);
+VALUES (4551,7137);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3265,7356);
+VALUES (3169,901);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1175,5891);
+VALUES (7112,9953);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8416,8176);
+VALUES (1712,4484);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8022,7196);
+VALUES (3827,1869);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3045,8351);
+VALUES (922,9690);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3599,5800);
+VALUES (1875,6177);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9589,6053);
+VALUES (8668,2960);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8803,2988);
+VALUES (7484,5455);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1676,1198);
+VALUES (7826,6076);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1853,6819);
+VALUES (981,9130);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1393,6229);
+VALUES (4050,8494);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1186,6771);
+VALUES (7610,9186);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9100,7484);
+VALUES (3831,4560);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1104,4937);
+VALUES (3274,7291);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9109,126);
+VALUES (420,8873);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7724,4840);
+VALUES (1212,2138);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4515,3383);
+VALUES (2599,5169);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3147,9414);
+VALUES (8393,6784);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3320,6206);
+VALUES (8184,7310);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6075,5994);
+VALUES (5555,268);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3318,5260);
+VALUES (9626,5750);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2767,1958);
+VALUES (2470,6131);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6522,4652);
+VALUES (6103,9590);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2798,6863);
+VALUES (6351,4325);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7075,739);
+VALUES (170,8906);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4480,2837);
+VALUES (1473,8594);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4864,2903);
+VALUES (805,6315);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2675,4669);
+VALUES (1949,9690);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4713,8035);
+VALUES (1796,5935);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (505,801);
+VALUES (3653,4331);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3013,7987);
+VALUES (5564,651);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6021,2096);
+VALUES (3368,3966);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (66,8063);
+VALUES (3225,3787);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8556,2713);
+VALUES (1060,3597);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1822,8320);
+VALUES (6476,629);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1306,286);
+VALUES (466,3160);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7103,3786);
+VALUES (489,1704);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1600,2339);
+VALUES (9740,7527);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5319,6304);
+VALUES (5355,3809);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4933,6114);
+VALUES (4057,5330);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7971,346);
+VALUES (2329,3517);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2076,3799);
+VALUES (1872,4605);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8923,533);
+VALUES (8251,6005);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (774,187);
+VALUES (4351,3881);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8122,919);
+VALUES (6568,9502);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7604,2265);
+VALUES (3376,872);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7317,6803);
+VALUES (7737,1074);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5095,4000);
+VALUES (3430,7630);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8700,1824);
+VALUES (7847,7095);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3624,1993);
+VALUES (5478,606);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1381,6479);
+VALUES (5899,7211);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9001,5986);
+VALUES (6261,9340);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5704,3005);
+VALUES (4974,2764);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8924,682);
+VALUES (8093,3526);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7537,4335);
+VALUES (5694,1452);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9710,1458);
+VALUES (8446,797);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9470,5556);
+VALUES (6957,2129);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5216,3701);
+VALUES (7369,8756);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9857,1736);
+VALUES (3664,2271);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9962,3307);
+VALUES (5986,8029);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7596,7226);
+VALUES (1882,3795);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5436,153);
+VALUES (9751,6925);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2775,8153);
+VALUES (472,1784);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7749,4285);
+VALUES (9976,3064);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6205,9351);
+VALUES (429,4420);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7563,5624);
+VALUES (8140,4197);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8523,7079);
+VALUES (3467,5978);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6154,726);
+VALUES (3057,6983);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8953,699);
+VALUES (7742,1512);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3520,5796);
+VALUES (1703,1621);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (272,1878);
+VALUES (3988,8186);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9788,2937);
+VALUES (8469,9425);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (105,9864);
+VALUES (9478,6511);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2322,8035);
+VALUES (784,8136);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (706,2277);
+VALUES (1213,4236);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1276,2309);
+VALUES (582,6113);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8384,9372);
+VALUES (7324,6799);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2695,3017);
+VALUES (2955,3402);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9707,7411);
+VALUES (5833,6413);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (616,4338);
+VALUES (4101,9434);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2792,3735);
+VALUES (6275,3506);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7281,5760);
+VALUES (4296,7544);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5346,8265);
+VALUES (578,9759);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2446,4721);
+VALUES (1830,5965);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7554,6664);
+VALUES (5326,5434);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6780,7266);
+VALUES (5564,8739);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4816,9417);
+VALUES (1945,2774);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (356,4453);
+VALUES (2575,9260);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1438,1157);
+VALUES (1209,4565);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9482,8398);
+VALUES (1016,8543);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (476,6843);
+VALUES (3017,9331);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1764,9237);
+VALUES (2984,5919);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7471,5041);
+VALUES (4400,8853);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2911,8169);
+VALUES (9952,9834);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1063,8485);
+VALUES (7757,1866);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2994,800);
+VALUES (8274,7078);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4452,1981);
+VALUES (884,3095);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8603,2993);
+VALUES (656,9648);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2810,3630);
+VALUES (6508,6834);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5334,1407);
+VALUES (8891,9117);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7416,3603);
+VALUES (4050,2456);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1284,4727);
+VALUES (2393,1857);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8048,3948);
+VALUES (4393,2037);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1401,7048);
+VALUES (3963,6593);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7691,874);
+VALUES (1169,8307);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5692,7624);
+VALUES (1198,3857);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5410,4712);
+VALUES (930,6576);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1151,9863);
+VALUES (4823,543);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5782,3453);
+VALUES (6602,6375);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2461,4627);
+VALUES (3064,6772);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6264,4875);
+VALUES (2126,3849);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7111,3068);
+VALUES (6655,4629);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2135,59);
+VALUES (4998,5466);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4247,3823);
+VALUES (2059,2563);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (708,132);
+VALUES (9612,3646);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2576,8851);
+VALUES (5341,5407);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7517,4666);
+VALUES (3363,8112);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3748,1208);
+VALUES (3996,373);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8057,7545);
+VALUES (758,5437);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5103,6876);
+VALUES (5778,6100);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5486,3288);
+VALUES (9988,7877);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6503,2089);
+VALUES (574,2629);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1447,1810);
+VALUES (9761,9138);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1672,2245);
+VALUES (1783,7167);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4243,855);
+VALUES (2205,3838);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (769,1943);
+VALUES (7642,8179);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2152,5663);
+VALUES (1403,862);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7821,6732);
+VALUES (7047,6847);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2892,1185);
+VALUES (9761,1911);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2700,7216);
+VALUES (4823,9636);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5627,7283);
+VALUES (4721,5179);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6264,5732);
+VALUES (2037,7009);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5425,1049);
+VALUES (2028,9112);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2000,7320);
+VALUES (8831,451);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2642,2010);
+VALUES (6127,980);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7941,5766);
+VALUES (9350,9996);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1802,5653);
+VALUES (1361,1787);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9314,473);
+VALUES (8707,1496);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3285,4838);
+VALUES (6342,511);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5703,2878);
+VALUES (3969,9170);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4530,4511);
+VALUES (1509,6966);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8283,559);
+VALUES (5939,2917);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8212,8540);
+VALUES (5897,3699);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6496,4961);
+VALUES (7079,8900);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1879,2363);
+VALUES (9010,1382);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1477,6763);
+VALUES (380,7044);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7444,778);
+VALUES (863,9413);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7198,9638);
+VALUES (1813,4618);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8770,7802);
+VALUES (6450,1731);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5281,2274);
+VALUES (6815,3587);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (975,9890);
+VALUES (4827,7052);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7525,4858);
+VALUES (730,197);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5274,1385);
+VALUES (7563,9559);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6877,6782);
+VALUES (3212,6507);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4774,7762);
+VALUES (2416,511);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (926,6473);
+VALUES (6420,1400);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2545,4377);
+VALUES (7478,1745);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2141,4919);
+VALUES (1424,2631);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9648,7552);
+VALUES (3566,3810);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9879,5817);
+VALUES (6410,9319);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5635,9722);
+VALUES (1039,6732);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2993,1698);
+VALUES (1749,5923);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1536,3558);
+VALUES (8105,777);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4296,2873);
+VALUES (7615,1996);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2805,1760);
+VALUES (5096,5346);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (392,5050);
+VALUES (439,8948);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8466,5979);
+VALUES (1632,3579);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7067,9303);
+VALUES (6187,6508);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9197,3534);
+VALUES (9629,4934);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5492,8223);
+VALUES (1829,1236);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2934,7115);
+VALUES (5101,9436);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5244,5936);
+VALUES (9010,2771);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3681,8542);
+VALUES (8165,5936);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6875,7847);
+VALUES (6982,7700);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1823,1826);
+VALUES (8882,5903);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (838,5455);
+VALUES (2747,8265);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3730,8569);
+VALUES (1909,8238);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1250,3452);
+VALUES (2748,4363);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3384,133);
+VALUES (5066,218);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1256,3598);
+VALUES (4178,6182);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1128,3282);
+VALUES (7671,3220);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (591,1734);
+VALUES (6772,743);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7349,7496);
+VALUES (5773,1023);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1759,959);
+VALUES (469,8831);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8832,8057);
+VALUES (5994,7434);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2947,191);
+VALUES (5996,5379);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7592,6815);
+VALUES (2990,9641);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7341,9113);
+VALUES (5801,7775);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9083,6067);
+VALUES (3636,4566);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5273,7817);
+VALUES (9722,1957);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3976,8349);
+VALUES (5703,153);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1320,9270);
+VALUES (2998,2282);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5998,5944);
+VALUES (5820,1389);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5052,2856);
+VALUES (5159,9339);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4801,746);
+VALUES (3862,355);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4905,4458);
+VALUES (7593,943);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9703,15);
+VALUES (7214,8734);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8904,1980);
+VALUES (7359,8990);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3745,8374);
+VALUES (2896,6771);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7244,5899);
+VALUES (5200,4174);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2381,6746);
+VALUES (9760,7751);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (900,9465);
+VALUES (7677,3962);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5769,3881);
+VALUES (5449,546);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1438,4712);
+VALUES (3575,6542);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6527,1244);
+VALUES (3935,3691);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8161,9838);
+VALUES (1917,9037);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6231,5559);
+VALUES (4578,5927);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4313,9382);
+VALUES (2411,3594);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (782,8272);
+VALUES (2576,2260);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (585,4888);
+VALUES (3545,5560);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9337,3831);
+VALUES (3105,756);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5678,2860);
+VALUES (7478,9658);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7754,9098);
+VALUES (9215,3667);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2669,8975);
+VALUES (6101,6911);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1696,8939);
+VALUES (1415,9206);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1888,1768);
+VALUES (6583,4748);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5935,2438);
+VALUES (7058,9239);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1174,4588);
+VALUES (6547,2166);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4715,156);
+VALUES (2642,7710);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9043,1922);
+VALUES (2339,2366);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8050,4854);
+VALUES (8973,5370);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8556,2984);
+VALUES (9083,5333);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1383,6667);
+VALUES (7563,614);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6670,9034);
+VALUES (3379,8492);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4087,9646);
+VALUES (3224,5710);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (986,2850);
+VALUES (2139,9787);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6425,3476);
+VALUES (9637,3827);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5900,3414);
+VALUES (3852,6538);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8915,2644);
+VALUES (3808,2071);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1270,9836);
+VALUES (552,6167);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2591,5213);
+VALUES (7661,2772);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6735,6709);
+VALUES (8332,2407);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4209,2364);
+VALUES (5602,5668);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (900,77);
+VALUES (7707,4197);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (199,8750);
+VALUES (1242,7787);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2484,9031);
+VALUES (7118,2234);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (83,6278);
+VALUES (9486,7456);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7700,8815);
+VALUES (942,8939);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4945,7593);
+VALUES (8944,4684);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (472,8180);
+VALUES (8741,1682);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5099,4785);
+VALUES (6973,2416);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9612,1699);
+VALUES (3592,2450);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9045,5284);
+VALUES (7040,4925);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1424,3285);
+VALUES (8456,1339);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4848,154);
+VALUES (8486,1396);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (173,8672);
+VALUES (6562,6228);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9009,6644);
+VALUES (7577,8099);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9940,7227);
+VALUES (4311,4319);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8377,2018);
+VALUES (7977,3816);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6875,1557);
+VALUES (5209,6663);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9997,2522);
+VALUES (8563,1930);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1599,3274);
+VALUES (9634,6227);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3642,1782);
+VALUES (2103,424);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5534,9745);
+VALUES (5606,8882);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9278,7295);
+VALUES (9894,687);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5189,4841);
+VALUES (25,2379);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7877,7694);
+VALUES (2632,8350);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6311,3408);
+VALUES (6911,3430);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2576,6364);
+VALUES (7178,8875);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2494,7372);
+VALUES (6492,477);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (768,244);
+VALUES (9945,7445);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1607,1725);
+VALUES (9670,165);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4163,2796);
+VALUES (8748,5551);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6304,7524);
+VALUES (9675,1546);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7791,3317);
+VALUES (4451,3133);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (960,4679);
+VALUES (4501,4238);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6355,6960);
+VALUES (1942,7062);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3040,4304);
+VALUES (6533,4192);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (630,4339);
+VALUES (6948,345);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5057,3230);
+VALUES (1739,1348);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (488,2378);
+VALUES (3035,639);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5569,6839);
+VALUES (7941,7982);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (496,4672);
+VALUES (8608,3252);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1359,920);
+VALUES (5524,5341);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1575,6768);
+VALUES (6940,2697);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3498,4435);
+VALUES (9711,4107);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9083,1162);
+VALUES (7166,9686);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9270,1098);
+VALUES (8055,2354);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7034,7005);
+VALUES (7655,2985);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8792,5281);
+VALUES (180,8227);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (458,5938);
+VALUES (782,2475);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2480,7417);
+VALUES (458,8115);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1780,2351);
+VALUES (3921,6865);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9796,5354);
+VALUES (1987,1239);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9801,2836);
+VALUES (2372,7237);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4531,1215);
+VALUES (9346,8584);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9240,1508);
+VALUES (6410,2469);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5844,3895);
+VALUES (8787,2757);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9318,620);
+VALUES (6716,1919);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9685,8931);
+VALUES (4727,682);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5132,7970);
+VALUES (3442,191);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5360,9412);
+VALUES (4890,5617);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7319,6595);
+VALUES (8981,8445);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2955,489);
+VALUES (5684,3736);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8925,4529);
+VALUES (7371,9052);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7456,6124);
+VALUES (8877,7588);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5942,8968);
+VALUES (971,9020);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1618,3429);
+VALUES (1396,215);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1143,5580);
+VALUES (3041,6993);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (488,8570);
+VALUES (7363,355);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (86,392);
+VALUES (3279,1305);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6876,4566);
+VALUES (8425,6677);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2049,7406);
+VALUES (8130,728);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1851,1130);
+VALUES (9013,5682);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6670,7572);
+VALUES (6278,943);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6067,2020);
+VALUES (1210,5444);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3248,6572);
+VALUES (4596,7287);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (68,5303);
+VALUES (929,4711);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1590,7532);
+VALUES (6075,6356);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5138,8154);
+VALUES (7887,8539);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7874,4834);
+VALUES (7285,1536);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1484,9071);
+VALUES (1625,1287);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1630,438);
+VALUES (9356,7281);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9121,45);
+VALUES (8263,7659);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9879,3799);
+VALUES (9844,4337);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7831,6239);
+VALUES (9418,1828);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9172,3879);
+VALUES (6040,1028);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3811,6364);
+VALUES (5431,6673);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (162,4349);
+VALUES (3037,9897);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (92,116);
+VALUES (7751,6950);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4788,510);
+VALUES (6258,8793);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6872,4804);
+VALUES (8834,8218);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2317,7604);
+VALUES (426,2873);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3588,9138);
+VALUES (1608,6428);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (501,3484);
+VALUES (9121,9198);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7016,735);
+VALUES (379,6303);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2342,5619);
+VALUES (5665,9111);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7574,694);
+VALUES (4779,2936);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8177,2402);
+VALUES (4763,9649);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2884,7022);
+VALUES (8584,3258);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3556,1035);
+VALUES (4650,6775);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6277,5668);
+VALUES (746,488);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8407,1042);
+VALUES (9788,2722);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9825,4619);
+VALUES (9369,1794);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (759,7583);
+VALUES (8785,6386);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (474,9348);
+VALUES (9100,1922);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9242,74);
+VALUES (3711,3021);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8583,4635);
+VALUES (6892,6883);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8735,4685);
+VALUES (453,6820);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7965,308);
+VALUES (3300,6027);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7544,6504);
+VALUES (7145,4750);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (462,4264);
+VALUES (4135,1606);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5654,8645);
+VALUES (9372,9087);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (719,3344);
+VALUES (4639,3649);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3856,5059);
+VALUES (5408,8045);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1017,1578);
+VALUES (6947,6936);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (442,8646);
+VALUES (4519,9350);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2654,5278);
+VALUES (4523,7701);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1522,3253);
+VALUES (6136,1717);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2325,1221);
+VALUES (8583,880);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6717,2210);
+VALUES (6113,5713);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8627,997);
+VALUES (3612,7082);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5845,4465);
+VALUES (8421,4659);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4609,6924);
+VALUES (7875,2369);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1330,8302);
+VALUES (4895,1154);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5108,8617);
+VALUES (6431,500);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (837,2998);
+VALUES (1226,2809);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8878,9466);
+VALUES (842,2552);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6470,1779);
+VALUES (8044,9795);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3567,7751);
+VALUES (6570,8118);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7116,2912);
+VALUES (323,6044);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5443,5137);
+VALUES (7410,1989);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9543,3771);
+VALUES (7126,4606);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1737,2750);
+VALUES (1758,6353);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5202,1660);
+VALUES (6904,4871);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1460,5046);
+VALUES (9786,4318);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8949,9068);
+VALUES (1042,8618);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1498,4352);
+VALUES (7885,6229);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8517,349);
+VALUES (1309,2349);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (849,4221);
+VALUES (7686,5602);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (381,1669);
+VALUES (3970,5710);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4936,7440);
+VALUES (5691,2443);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7245,2682);
+VALUES (8639,484);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3900,6535);
+VALUES (8793,479);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5576,9516);
+VALUES (6105,7225);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3866,1373);
+VALUES (721,4112);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1843,857);
+VALUES (7246,8564);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8968,5035);
+VALUES (3411,2344);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7367,1364);
+VALUES (5694,1363);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (102,3043);
+VALUES (4345,8461);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2075,306);
+VALUES (2034,8587);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5743,7404);
+VALUES (2221,9152);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (308,7409);
+VALUES (4632,8575);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5973,3902);
+VALUES (8745,7378);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4945,6910);
+VALUES (1654,8508);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7989,2787);
+VALUES (4110,8715);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4413,4787);
+VALUES (7855,6751);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3146,7958);
+VALUES (9308,2673);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3073,42);
+VALUES (537,4546);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2326,6772);
+VALUES (1579,1021);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3714,5114);
+VALUES (5556,3206);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5620,4819);
+VALUES (1290,6560);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (258,3346);
+VALUES (3851,1687);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1300,2901);
+VALUES (1412,5205);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4734,5147);
+VALUES (3556,2282);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2500,7351);
+VALUES (1639,1413);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (309,439);
+VALUES (5323,1321);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5429,7648);
+VALUES (4849,7755);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5007,7850);
+VALUES (6319,4440);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1067,9282);
+VALUES (5082,5422);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5671,3289);
+VALUES (7066,7920);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4653,7720);
+VALUES (1601,4879);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8961,129);
+VALUES (3319,9821);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7790,252);
+VALUES (1087,8331);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2196,4643);
+VALUES (5030,890);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1836,3903);
+VALUES (842,3085);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2343,4098);
+VALUES (2049,1788);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4097,5083);
+VALUES (9983,512);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8729,6253);
+VALUES (288,720);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4963,5205);
+VALUES (8996,7881);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4442,4332);
+VALUES (7173,8097);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1064,9179);
+VALUES (2404,2616);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9099,8233);
+VALUES (6601,9932);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3116,6816);
+VALUES (2520,3984);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4560,2726);
+VALUES (183,8947);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1762,3610);
+VALUES (7566,704);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (889,452);
+VALUES (5196,502);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3770,2213);
+VALUES (132,5781);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1889,2724);
+VALUES (6355,3440);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4807,5757);
+VALUES (2234,4294);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5163,2773);
+VALUES (15,2844);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6764,4406);
+VALUES (9353,1054);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6468,1136);
+VALUES (272,9128);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5027,6879);
+VALUES (9880,6856);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8818,1134);
+VALUES (605,9602);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1121,6821);
+VALUES (7323,6774);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5068,1339);
+VALUES (9358,5795);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6256,173);
+VALUES (6370,3308);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6700,3341);
+VALUES (780,5277);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6098,2336);
+VALUES (1028,7667);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7643,1463);
+VALUES (9960,84);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2027,8822);
+VALUES (8498,7550);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6231,54);
+VALUES (8749,2694);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8652,2543);
+VALUES (6806,7880);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1723,8105);
+VALUES (1991,2992);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (843,7417);
+VALUES (5691,7953);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3169,1657);
+VALUES (7683,5333);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8760,3652);
+VALUES (4174,4062);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6523,4893);
+VALUES (1672,7174);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5515,2879);
+VALUES (4893,4306);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9984,5535);
+VALUES (6331,7381);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3900,9243);
+VALUES (4209,8156);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9597,2100);
+VALUES (1801,1739);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9346,3763);
+VALUES (2195,4155);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1529,9689);
+VALUES (9478,6971);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6616,8663);
+VALUES (4015,308);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7211,187);
+VALUES (2675,8245);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8331,9730);
+VALUES (8868,9465);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3430,9395);
+VALUES (9742,5197);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (292,2948);
+VALUES (7510,7037);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2158,4406);
+VALUES (7033,1194);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8766,8653);
+VALUES (1705,8668);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5570,9320);
+VALUES (8862,4450);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (856,1337);
+VALUES (7472,7938);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7078,5028);
+VALUES (6784,4223);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3481,8943);
+VALUES (1019,2097);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3835,3397);
+VALUES (3495,9999);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9386,1572);
+VALUES (2630,5435);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1306,7736);
+VALUES (5965,238);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5692,8332);
+VALUES (2366,5338);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6440,4441);
+VALUES (8763,2458);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8305,8726);
+VALUES (1499,9989);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6787,2350);
+VALUES (4413,3178);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6785,8491);
+VALUES (9272,8313);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8484,5461);
+VALUES (7403,1520);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4406,7758);
+VALUES (4175,6555);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5481,4256);
+VALUES (7578,3961);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8453,7209);
+VALUES (8690,9208);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (860,9565);
+VALUES (578,5607);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4995,1930);
+VALUES (8994,897);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5095,702);
+VALUES (4126,9901);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7228,2314);
+VALUES (6259,1176);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5690,3969);
+VALUES (7560,4669);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9716,8258);
+VALUES (6367,8943);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2328,2666);
+VALUES (7891,7677);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4053,2382);
+VALUES (2417,4276);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5708,9571);
+VALUES (7249,5151);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1368,3798);
+VALUES (1533,7090);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9777,2397);
+VALUES (9027,2142);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5589,2597);
+VALUES (134,1519);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1225,1137);
+VALUES (8559,1910);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (731,8123);
+VALUES (4977,924);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4529,3969);
+VALUES (9853,5233);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6288,1089);
+VALUES (9850,8794);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (602,5339);
+VALUES (8107,3303);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4135,6458);
+VALUES (3926,5137);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5965,1746);
+VALUES (631,3863);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8,3972);
+VALUES (4972,9161);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (863,8744);
+VALUES (4525,7167);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9111,9206);
+VALUES (5781,3512);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (829,4576);
+VALUES (1484,8567);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7352,9259);
+VALUES (2544,6921);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1295,366);
+VALUES (1513,9396);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3741,1786);
+VALUES (337,1297);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7764,3904);
+VALUES (7785,8524);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9382,945);
+VALUES (9864,7279);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8396,5376);
+VALUES (4958,3877);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8518,9232);
+VALUES (9638,3828);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5235,6702);
+VALUES (346,8450);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9667,84);
+VALUES (1535,6930);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2426,386);
+VALUES (7917,7526);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (197,3170);
+VALUES (6118,7333);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8990,8758);
+VALUES (3233,3950);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1388,9123);
+VALUES (9553,1197);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8359,9892);
+VALUES (3820,342);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6809,9827);
+VALUES (9963,1832);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (897,7639);
+VALUES (7078,4872);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2148,8458);
+VALUES (8914,4194);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8342,7389);
+VALUES (6867,8368);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8154,1215);
+VALUES (4329,3686);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6383,6437);
+VALUES (6542,1366);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7221,6815);
+VALUES (5186,8478);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2119,7025);
+VALUES (872,9120);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9170,378);
+VALUES (1808,8274);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6076,2380);
+VALUES (3818,5956);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7312,1199);
+VALUES (1279,3303);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1027,352);
+VALUES (6556,7922);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2080,6105);
+VALUES (8,1843);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1797,6460);
+VALUES (7955,7690);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (961,4746);
+VALUES (5129,5313);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3262,9228);
+VALUES (3931,3225);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (119,5766);
+VALUES (4086,2898);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9880,2219);
+VALUES (1673,1786);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2612,4116);
+VALUES (653,8093);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5289,5185);
+VALUES (4864,7429);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9256,5891);
+VALUES (1758,1348);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1858,1784);
+VALUES (8589,6517);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1849,2598);
+VALUES (8553,2636);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2612,585);
+VALUES (2306,3613);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3956,9811);
+VALUES (7414,2199);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2511,3531);
+VALUES (9823,3422);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6860,5018);
+VALUES (4348,7862);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9246,2016);
+VALUES (5778,2431);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6804,5558);
+VALUES (2068,5472);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (51,8786);
+VALUES (61,9716);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3032,1655);
+VALUES (4967,2569);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (443,8762);
+VALUES (542,8015);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (517,3591);
+VALUES (8673,71);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4977,4391);
+VALUES (7682,4652);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (191,8454);
+VALUES (6523,2268);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5334,238);
+VALUES (9528,675);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3348,7936);
+VALUES (8791,9187);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7885,9236);
+VALUES (4179,6123);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3694,5351);
+VALUES (8194,4637);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6733,7452);
+VALUES (834,1204);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4310,2493);
+VALUES (1816,4802);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4350,9964);
+VALUES (3019,4368);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2511,2115);
+VALUES (3444,6020);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2782,1331);
+VALUES (3866,7576);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5081,4569);
+VALUES (747,827);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8104,4612);
+VALUES (498,7768);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7424,1693);
+VALUES (7498,5629);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8308,7272);
+VALUES (8437,329);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (317,8614);
+VALUES (3249,6817);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1976,4000);
+VALUES (2904,8723);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4449,9038);
+VALUES (219,7276);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1855,83);
+VALUES (4482,7742);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8091,7881);
+VALUES (6371,8104);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8021,1772);
+VALUES (8884,2709);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9913,6125);
+VALUES (5795,6862);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (455,2768);
+VALUES (415,5654);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3151,7785);
+VALUES (9476,2234);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2183,2873);
+VALUES (7729,5082);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2702,5450);
+VALUES (6668,2192);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7201,2168);
+VALUES (8348,7616);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5732,7756);
+VALUES (1055,544);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4287,6014);
+VALUES (1170,9618);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3730,7204);
+VALUES (4644,4736);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3436,5150);
+VALUES (2977,396);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6464,2895);
+VALUES (9087,5418);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7706,1494);
+VALUES (9159,5967);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9002,1775);
+VALUES (852,6862);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7701,2133);
+VALUES (48,1250);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9973,7174);
+VALUES (6495,8891);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1222,7736);
+VALUES (2908,3649);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1278,7453);
+VALUES (2062,8770);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5771,8364);
+VALUES (3914,6858);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2019,1311);
+VALUES (6248,2705);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (488,7269);
+VALUES (1434,4575);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1175,5237);
+VALUES (117,8623);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (70,6322);
+VALUES (9763,2820);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5017,1280);
+VALUES (8885,5457);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6745,723);
+VALUES (1747,8378);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2147,3398);
+VALUES (8724,4939);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (182,411);
+VALUES (1924,9953);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8706,1011);
+VALUES (5757,4270);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4776,9356);
+VALUES (1555,6766);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1093,8887);
+VALUES (6884,9729);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9295,9268);
+VALUES (396,650);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8508,4749);
+VALUES (5018,2208);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3205,2131);
+VALUES (1704,8488);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1550,4073);
+VALUES (9644,2939);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7694,611);
+VALUES (2572,677);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (39,3188);
+VALUES (7748,9333);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2796,7861);
+VALUES (3825,5274);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7493,5346);
+VALUES (6733,1818);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4575,3406);
+VALUES (5341,1747);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4765,7786);
+VALUES (286,4979);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9413,2392);
+VALUES (7428,9757);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1600,5240);
+VALUES (9119,4169);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3906,5818);
+VALUES (4408,8902);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (602,7499);
+VALUES (7986,4674);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (380,5078);
+VALUES (9982,6227);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1954,5619);
+VALUES (6813,8058);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6435,9264);
+VALUES (5900,7530);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7997,1316);
+VALUES (8736,9450);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4386,8702);
+VALUES (5875,4409);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3940,3997);
+VALUES (4857,9982);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2827,3065);
+VALUES (9701,1582);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4737,7087);
+VALUES (2468,3995);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9215,563);
+VALUES (5101,5399);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8564,3137);
+VALUES (9300,8065);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5837,4588);
+VALUES (9765,3410);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5706,8125);
+VALUES (4970,9640);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6535,6370);
+VALUES (1148,1009);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1417,8479);
+VALUES (549,995);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2841,8317);
+VALUES (1078,5590);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2720,62);
+VALUES (7353,8731);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2183,4530);
+VALUES (5681,7631);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6891,8148);
+VALUES (7600,1069);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3751,4702);
+VALUES (8405,3545);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7379,4556);
+VALUES (6612,3727);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8960,1580);
+VALUES (8528,726);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5594,4681);
+VALUES (6263,4178);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5771,7885);
+VALUES (4677,2888);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3274,7261);
+VALUES (5550,494);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5014,4144);
+VALUES (3548,832);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2460,7362);
+VALUES (7013,8569);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4709,9559);
+VALUES (5904,3591);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9268,1856);
+VALUES (9186,9782);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9160,4978);
+VALUES (3958,3764);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3141,9062);
+VALUES (6749,5056);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8918,5601);
+VALUES (7391,8007);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1724,4834);
+VALUES (3419,2604);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8495,5026);
+VALUES (7209,2526);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (268,2916);
+VALUES (6572,1989);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8383,8144);
+VALUES (3622,1700);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (848,1068);
+VALUES (7499,3877);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8474,8342);
+VALUES (5089,1429);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9899,7823);
+VALUES (9648,8099);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7971,89);
+VALUES (7756,9132);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6081,399);
+VALUES (1253,7121);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1915,8608);
+VALUES (6872,3290);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8728,5959);
+VALUES (4438,8910);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5786,1661);
+VALUES (3648,7916);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (729,8699);
+VALUES (3271,7367);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1836,1372);
+VALUES (3941,4933);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5247,1330);
+VALUES (9727,4497);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4111,3710);
+VALUES (9448,7819);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4033,4576);
+VALUES (2647,1809);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (411,5616);
+VALUES (65,9869);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7300,4911);
+VALUES (1736,1427);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4087,5018);
+VALUES (8068,532);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3164,2087);
+VALUES (8369,1506);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4175,2197);
+VALUES (2560,2114);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2231,4511);
+VALUES (3544,3345);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4857,1993);
+VALUES (7698,9819);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (269,7692);
+VALUES (5763,4674);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9965,6457);
+VALUES (919,9130);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7844,1693);
+VALUES (5105,7189);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8014,7050);
+VALUES (5680,5619);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9180,3695);
+VALUES (5241,6600);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9050,31);
+VALUES (9324,475);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4398,228);
+VALUES (6531,9179);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5516,806);
+VALUES (14,8845);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4155,685);
+VALUES (5047,8175);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8517,2140);
+VALUES (7583,5604);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7822,7825);
+VALUES (3267,3015);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6027,5083);
+VALUES (5733,7396);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8218,7959);
+VALUES (2661,899);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5254,5235);
+VALUES (2518,7196);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6997,7985);
+VALUES (8548,8854);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7303,2243);
+VALUES (629,9320);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2889,5646);
+VALUES (2419,3856);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4353,3233);
+VALUES (3933,5045);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6803,1946);
+VALUES (7894,1179);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1280,9969);
+VALUES (7901,687);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8776,8495);
+VALUES (5465,4101);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8552,1407);
+VALUES (5063,7733);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7549,5069);
+VALUES (7095,917);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5075,3041);
+VALUES (8844,3375);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (861,210);
+VALUES (547,7129);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2940,7453);
+VALUES (2816,77);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5475,3039);
+VALUES (6029,7510);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4262,450);
+VALUES (9495,4827);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (759,2467);
+VALUES (3645,6683);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8662,1821);
+VALUES (2702,7907);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6680,4706);
+VALUES (2331,5013);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5301,4014);
+VALUES (5024,5048);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6771,8813);
+VALUES (6534,531);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6411,9136);
+VALUES (6317,6536);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3294,1907);
+VALUES (7459,1181);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6250,7243);
+VALUES (4280,4684);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5917,6467);
+VALUES (4321,2161);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9077,8607);
+VALUES (8758,7606);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3590,3520);
+VALUES (1955,9004);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3060,5070);
+VALUES (6728,6004);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7041,9152);
+VALUES (4290,8894);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4270,1334);
+VALUES (4888,5560);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5471,5346);
+VALUES (1493,4754);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2420,8663);
+VALUES (2581,3028);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2985,1630);
+VALUES (2523,7850);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6781,8986);
+VALUES (8945,4587);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4410,3717);
+VALUES (6096,2091);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2583,4923);
+VALUES (5195,2604);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2221,4532);
+VALUES (46,9766);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7184,1505);
+VALUES (9723,5817);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9515,6867);
+VALUES (4977,9012);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5307,3773);
+VALUES (4312,5228);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2040,5781);
+VALUES (2370,1586);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7282,1168);
+VALUES (7489,183);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3712,1385);
+VALUES (7858,699);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6093,5813);
+VALUES (6806,3501);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3908,6944);
+VALUES (5159,8202);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9779,2734);
+VALUES (8918,6317);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9572,5087);
+VALUES (4771,3737);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (230,4950);
+VALUES (5555,6388);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9791,3147);
+VALUES (4379,9453);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2233,2869);
+VALUES (8005,2664);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1682,8456);
+VALUES (4445,8053);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6464,3635);
+VALUES (5678,5611);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1695,385);
+VALUES (3097,2973);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6789,30);
+VALUES (603,1961);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2698,3119);
+VALUES (5229,3933);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8178,8597);
+VALUES (5620,5770);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9692,6446);
+VALUES (5500,756);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3748,7526);
+VALUES (6074,2264);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (646,7338);
+VALUES (6287,8023);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1352,4064);
+VALUES (6865,3498);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8394,4381);
+VALUES (3642,8209);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4074,7499);
+VALUES (4315,1373);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3057,171);
+VALUES (346,6102);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2800,5662);
+VALUES (1382,3079);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9076,4731);
+VALUES (6426,468);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3270,9180);
+VALUES (901,7119);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9068,5093);
+VALUES (5276,7867);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8752,7235);
+VALUES (8692,2204);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5345,2607);
+VALUES (6516,5012);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3242,7906);
+VALUES (4176,4003);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7191,4845);
+VALUES (7044,1139);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2644,4819);
+VALUES (1078,9599);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4554,8386);
+VALUES (8887,6641);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5110,8314);
+VALUES (3903,4023);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8425,7435);
+VALUES (6939,5050);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8586,949);
+VALUES (4470,6889);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2282,5429);
+VALUES (9493,4807);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3275,3860);
+VALUES (2975,5568);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6021,317);
+VALUES (8278,2723);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8858,7048);
+VALUES (5841,6641);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3370,5183);
+VALUES (2449,2644);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5334,2014);
+VALUES (4092,6069);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8363,8193);
+VALUES (9871,5916);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7551,9524);
+VALUES (4111,4093);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5590,4117);
+VALUES (721,5761);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4284,6389);
+VALUES (1653,5026);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5430,2405);
+VALUES (5156,5394);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8226,3836);
+VALUES (5279,9395);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2400,3233);
+VALUES (7232,8579);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9972,1653);
+VALUES (2397,9189);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5017,2879);
+VALUES (4771,1319);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7510,5125);
+VALUES (4223,6000);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (990,9331);
+VALUES (9137,5952);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4131,4326);
+VALUES (4464,2935);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9001,2523);
+VALUES (1325,7228);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2794,9534);
+VALUES (1144,188);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1401,3169);
+VALUES (2634,4261);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2316,8069);
+VALUES (1921,1152);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (307,5919);
+VALUES (8495,1674);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5183,8891);
+VALUES (329,3352);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4609,2155);
+VALUES (4086,8503);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (358,6899);
+VALUES (3724,9252);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6668,6704);
+VALUES (7064,5922);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3658,3313);
+VALUES (247,1068);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2806,8313);
+VALUES (1243,6371);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2025,3935);
+VALUES (155,551);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1288,2277);
+VALUES (9986,6392);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (722,4499);
+VALUES (4827,8463);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9629,9702);
+VALUES (6282,6144);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3156,4842);
+VALUES (8711,6772);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2877,5639);
+VALUES (8337,485);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2401,2575);
+VALUES (456,907);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4035,938);
+VALUES (6322,4741);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (48,9813);
+VALUES (7878,3535);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3520,2716);
+VALUES (5828,4453);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4550,1994);
+VALUES (9078,3000);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6911,7028);
+VALUES (3070,2630);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3405,9804);
+VALUES (5307,3676);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8217,2049);
+VALUES (4928,5223);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1480,4997);
+VALUES (6051,2696);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4888,8268);
+VALUES (8321,8963);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9628,7708);
+VALUES (4547,1114);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5653,5339);
+VALUES (216,279);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1411,1073);
+VALUES (2666,1924);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1031,331);
+VALUES (8869,2043);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (544,1672);
+VALUES (2877,7428);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4363,5889);
+VALUES (1139,2474);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (865,768);
+VALUES (9405,9547);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8891,7588);
+VALUES (147,1261);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4000,1436);
+VALUES (9964,5118);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8495,2252);
+VALUES (9464,8822);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2740,426);
+VALUES (2760,213);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4997,7711);
+VALUES (1436,6956);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6558,4108);
+VALUES (4066,8775);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8285,6033);
+VALUES (9549,2876);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1068,7456);
+VALUES (6192,742);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2207,121);
+VALUES (5593,217);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5860,4338);
+VALUES (5482,7129);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6203,9086);
+VALUES (4681,9124);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3132,6770);
+VALUES (7821,2344);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5648,2556);
+VALUES (9446,9629);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1483,9432);
+VALUES (1367,844);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4525,426);
+VALUES (2927,3299);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4760,7416);
+VALUES (6389,524);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9709,8296);
+VALUES (9883,3658);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3777,6313);
+VALUES (6062,3632);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1197,1161);
+VALUES (2570,2386);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5589,512);
+VALUES (1339,5002);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6957,4554);
+VALUES (6986,5654);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5350,3937);
+VALUES (3481,9433);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5441,4226);
+VALUES (2447,2485);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1188,1964);
+VALUES (3889,93);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5245,2040);
+VALUES (6878,8238);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3892,9221);
+VALUES (4391,5696);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4918,294);
+VALUES (9066,6836);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1581,2929);
+VALUES (926,6801);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2667,6507);
+VALUES (7575,2548);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (335,8875);
+VALUES (2000,9988);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (654,7834);
+VALUES (8548,8453);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (49,35);
+VALUES (272,898);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1985,8364);
+VALUES (3924,3501);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4242,9232);
+VALUES (1658,8297);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (117,3730);
+VALUES (2045,8623);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1934,2323);
+VALUES (7791,6926);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5094,3492);
+VALUES (2958,5309);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7166,4778);
+VALUES (2663,2967);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1371,149);
+VALUES (6120,96);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9726,3627);
+VALUES (1466,2771);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6500,2290);
+VALUES (8496,7925);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7951,1718);
+VALUES (5067,9065);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4751,9478);
+VALUES (2928,3448);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7030,3126);
+VALUES (9612,1735);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1284,1465);
+VALUES (1874,3881);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1025,178);
+VALUES (6686,7694);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4537,8901);
+VALUES (6989,7419);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2885,7856);
+VALUES (7744,6397);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6346,8963);
+VALUES (9951,9976);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6478,5235);
+VALUES (3530,141);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2450,3007);
+VALUES (3448,104);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8476,9668);
+VALUES (3537,106);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4111,4507);
+VALUES (3818,7441);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4751,5573);
+VALUES (682,8657);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4346,8958);
+VALUES (3255,665);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (569,8012);
+VALUES (2143,7695);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6334,7289);
+VALUES (3215,8072);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7599,9890);
+VALUES (4248,9361);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4764,5073);
+VALUES (2831,5120);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1307,4817);
+VALUES (8139,5992);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8047,235);
+VALUES (9311,4292);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3957,7467);
+VALUES (1884,8696);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1239,9456);
+VALUES (2702,8519);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3691,9016);
+VALUES (5233,7280);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4419,7156);
+VALUES (2373,1069);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (69,4701);
+VALUES (5559,622);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8408,6328);
+VALUES (3940,7290);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1775,6539);
+VALUES (2803,9579);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2852,7082);
+VALUES (703,6790);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9592,1835);
+VALUES (6867,1145);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (801,8782);
+VALUES (4268,7744);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4235,3779);
+VALUES (3368,660);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4165,7326);
+VALUES (7435,1478);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8268,1980);
+VALUES (5805,3953);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1841,9893);
+VALUES (565,5595);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2204,8426);
+VALUES (3892,7333);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7718,2826);
+VALUES (4300,6809);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5912,689);
+VALUES (8933,3325);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1031,3505);
+VALUES (7054,147);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5256,6775);
+VALUES (4370,9275);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1851,3609);
+VALUES (4512,2773);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8101,2374);
+VALUES (6502,2174);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5904,3510);
+VALUES (9339,1736);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5915,9394);
+VALUES (6953,4092);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7800,9231);
+VALUES (2518,5128);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7684,6539);
+VALUES (9512,5297);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9390,734);
+VALUES (5672,4549);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9640,776);
+VALUES (9245,830);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7624,123);
+VALUES (1936,4089);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9887,3500);
+VALUES (2319,9457);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3004,3117);
+VALUES (7159,9966);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4868,9955);
+VALUES (6760,1607);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5769,7030);
+VALUES (3147,4233);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (270,7681);
+VALUES (7480,4835);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9998,8345);
+VALUES (5473,6120);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4772,462);
+VALUES (9217,564);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5001,2962);
+VALUES (8907,9816);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9057,2226);
+VALUES (5790,9766);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9654,4941);
+VALUES (6713,4294);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1382,2056);
+VALUES (926,2294);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (633,5011);
+VALUES (5257,6866);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3581,5348);
+VALUES (687,7917);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3555,6082);
+VALUES (4845,4888);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2263,5978);
+VALUES (3510,848);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5949,7185);
+VALUES (8640,7346);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7229,3001);
+VALUES (5887,1329);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4850,2674);
+VALUES (6328,5518);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (972,267);
+VALUES (9788,7799);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9979,2530);
+VALUES (2275,1560);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7863,1578);
+VALUES (9171,7492);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8464,9826);
+VALUES (7155,9146);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (611,5199);
+VALUES (9783,3650);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6513,3508);
+VALUES (2035,5845);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7322,2202);
+VALUES (1054,3756);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5440,5386);
+VALUES (4433,6516);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2985,6582);
+VALUES (9910,8844);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1992,5517);
+VALUES (8697,8719);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4773,9138);
+VALUES (2941,3572);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1616,9779);
+VALUES (3219,4784);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2234,3492);
+VALUES (5067,9873);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4061,2901);
+VALUES (8092,7363);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9388,2824);
+VALUES (7788,754);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (893,9354);
+VALUES (531,1687);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3707,4185);
+VALUES (1244,7340);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7822,8480);
+VALUES (4010,316);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7349,3449);
+VALUES (9441,8939);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2344,4069);
+VALUES (266,5867);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8554,2901);
+VALUES (6639,9654);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (33,8150);
+VALUES (3905,6972);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9054,1471);
+VALUES (3124,7392);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7432,9937);
+VALUES (3256,6616);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4750,8170);
+VALUES (8271,3771);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9609,2472);
+VALUES (7254,490);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9645,5813);
+VALUES (6902,9209);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4214,896);
+VALUES (1319,5538);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (116,3456);
+VALUES (2227,7910);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1853,8154);
+VALUES (141,4894);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (701,6878);
+VALUES (9047,583);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2039,970);
+VALUES (3256,1361);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4036,6339);
+VALUES (9426,7163);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (772,2905);
+VALUES (2100,8649);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1144,7196);
+VALUES (9796,288);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6332,6376);
+VALUES (3499,2340);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3075,2567);
+VALUES (344,3995);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6519,6788);
+VALUES (5898,3006);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4210,1954);
+VALUES (9697,3329);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2944,2095);
+VALUES (415,5387);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (703,809);
+VALUES (2513,107);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1034,1276);
+VALUES (318,3395);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9309,1525);
+VALUES (7639,6919);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3229,4607);
+VALUES (183,1333);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2476,5503);
+VALUES (9060,9998);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6631,6975);
+VALUES (6493,6129);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6099,6260);
+VALUES (7653,9909);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (852,5435);
+VALUES (692,9774);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5985,1166);
+VALUES (8285,7573);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6976,7706);
+VALUES (855,227);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3312,5840);
+VALUES (6300,7295);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6939,2989);
+VALUES (2469,6269);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9297,5058);
+VALUES (1195,1634);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3095,2996);
+VALUES (202,5443);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9671,2511);
+VALUES (754,8528);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (77,5471);
+VALUES (7431,2394);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4086,3855);
+VALUES (1262,726);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9186,2293);
+VALUES (4753,7901);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6409,5548);
+VALUES (2325,5671);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (113,9116);
+VALUES (8926,4787);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4499,5448);
+VALUES (7582,9589);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6679,2425);
+VALUES (5156,1395);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8418,1764);
+VALUES (9974,9838);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9589,5218);
+VALUES (8502,2573);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4864,6097);
+VALUES (5424,6508);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5603,9445);
+VALUES (261,7004);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2437,8919);
+VALUES (2400,9252);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5258,2077);
+VALUES (1463,3064);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7839,1486);
+VALUES (3569,9881);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3984,6880);
+VALUES (317,4664);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2977,4511);
+VALUES (4522,8412);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5047,4373);
+VALUES (7897,5939);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7969,5713);
+VALUES (1246,4574);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9345,1625);
+VALUES (7709,3988);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8396,7693);
+VALUES (316,8228);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6865,8932);
+VALUES (8020,6784);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5829,1198);
+VALUES (189,9357);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (770,7956);
+VALUES (8865,599);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (830,6622);
+VALUES (6578,6811);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3047,3559);
+VALUES (8060,7542);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (783,1443);
+VALUES (953,5161);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2047,9580);
+VALUES (6506,4992);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1085,5178);
+VALUES (2555,3614);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4813,1535);
+VALUES (3052,4425);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3496,9793);
+VALUES (9103,7234);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2173,4200);
+VALUES (9396,1880);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1673,1881);
+VALUES (3553,9652);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3381,971);
+VALUES (235,20);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5490,8402);
+VALUES (149,2168);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7730,8956);
+VALUES (3641,8968);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2865,4947);
+VALUES (6193,623);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5566,7375);
+VALUES (2238,163);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (512,6905);
+VALUES (3879,9281);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6872,8778);
+VALUES (4798,303);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (503,7321);
+VALUES (6571,8506);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7858,9012);
+VALUES (2651,522);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4794,9398);
+VALUES (9318,3738);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4456,4742);
+VALUES (7652,4598);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9555,8388);
+VALUES (4858,3430);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5967,5687);
+VALUES (9488,5683);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4743,7322);
+VALUES (2288,2976);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1366,6973);
+VALUES (9673,1386);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (966,4609);
+VALUES (1927,3265);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7227,6558);
+VALUES (2109,7396);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9744,9146);
+VALUES (6847,6301);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9909,8247);
+VALUES (9111,3093);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4394,2856);
+VALUES (9141,4273);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (392,7653);
+VALUES (4272,6959);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1235,1706);
+VALUES (9239,2288);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5743,2728);
+VALUES (1647,2847);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1743,7484);
+VALUES (1785,4532);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4648,3953);
+VALUES (8010,8110);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (12,8232);
+VALUES (2435,4435);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1069,9723);
+VALUES (9513,7832);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7279,4886);
+VALUES (2160,9334);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2776,6707);
+VALUES (7945,6806);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8793,7580);
+VALUES (396,8664);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1340,1790);
+VALUES (1630,3327);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9922,522);
+VALUES (1402,4986);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2074,551);
+VALUES (3014,5749);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2255,9077);
+VALUES (1548,1687);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3611,1843);
+VALUES (6997,9632);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2293,8069);
+VALUES (5376,7049);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6275,7570);
+VALUES (6312,2175);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2647,3259);
+VALUES (9847,8310);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4290,5722);
+VALUES (8810,9000);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4396,2245);
+VALUES (2926,1790);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4379,3422);
+VALUES (8805,1644);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1516,5755);
+VALUES (2835,9853);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8515,2695);
+VALUES (5023,2750);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1788,8195);
+VALUES (3732,4442);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3531,246);
+VALUES (6604,9733);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9456,2100);
+VALUES (2839,3378);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6176,7054);
+VALUES (6990,4725);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (837,3511);
+VALUES (278,8175);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1055,3672);
+VALUES (7473,9828);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6115,8900);
+VALUES (2815,7327);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6640,4313);
+VALUES (8500,2402);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (420,3989);
+VALUES (2360,2924);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6686,9370);
+VALUES (2559,4159);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8716,4119);
+VALUES (9809,9475);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2001,3237);
+VALUES (7386,6441);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2423,6146);
+VALUES (8611,3189);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4376,1551);
+VALUES (8283,525);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8669,1398);
+VALUES (9343,1219);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7761,872);
+VALUES (3181,827);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5523,9385);
+VALUES (498,5391);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2151,2106);
+VALUES (6548,7853);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (521,2158);
+VALUES (7108,1062);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6282,8750);
+VALUES (1952,4352);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5420,8366);
+VALUES (3438,2325);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7435,9050);
+VALUES (1014,8392);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1544,8957);
+VALUES (1511,6280);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (386,988);
+VALUES (1839,3434);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8406,4480);
+VALUES (8435,8376);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7613,8548);
+VALUES (8928,2620);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5049,340);
+VALUES (5194,8130);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7476,5171);
+VALUES (7053,1958);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9013,7548);
+VALUES (268,2599);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4458,4597);
+VALUES (2972,4882);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9124,6528);
+VALUES (773,8994);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9387,835);
+VALUES (5768,3547);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1274,8843);
+VALUES (2212,4114);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7586,4982);
+VALUES (4454,9390);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6743,6202);
+VALUES (1559,2226);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2543,3191);
+VALUES (8550,8198);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3751,9165);
+VALUES (1050,1876);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7303,9666);
+VALUES (5632,8248);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8538,3037);
+VALUES (9184,5290);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9443,3348);
+VALUES (8604,7685);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8679,7631);
+VALUES (5570,7921);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1572,3197);
+VALUES (3254,5858);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1291,8097);
+VALUES (7815,631);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8880,4772);
+VALUES (2351,8896);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7323,1029);
+VALUES (9912,5113);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8107,6827);
+VALUES (7017,9850);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2739,7121);
+VALUES (1611,669);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3771,1973);
+VALUES (2250,1317);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9790,2108);
+VALUES (8242,3249);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4170,9839);
+VALUES (8780,5010);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (421,3017);
+VALUES (4096,231);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9219,7279);
+VALUES (9411,9290);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7013,8248);
+VALUES (5175,4985);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8085,4388);
+VALUES (2071,1117);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1033,8275);
+VALUES (5985,1117);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1777,5453);
+VALUES (3178,7379);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2272,1377);
+VALUES (1056,970);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6513,9613);
+VALUES (2634,782);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3655,4620);
+VALUES (1655,6785);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6526,6078);
+VALUES (1941,837);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2699,7873);
+VALUES (5532,9753);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8651,1677);
+VALUES (1617,7751);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3082,2245);
+VALUES (9695,7742);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5508,4215);
+VALUES (2743,684);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6687,4672);
+VALUES (300,9524);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2021,8154);
+VALUES (2457,4833);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4790,9701);
+VALUES (7731,1381);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6765,2027);
+VALUES (9558,782);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6626,8795);
+VALUES (577,5958);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2819,1777);
+VALUES (3698,7303);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7144,6514);
+VALUES (2742,8854);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2974,6776);
+VALUES (5583,9677);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1026,3);
+VALUES (8615,2389);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7558,7114);
+VALUES (7469,3712);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7751,7880);
+VALUES (355,2386);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1565,5373);
+VALUES (7277,9914);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7190,13);
+VALUES (1203,954);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3074,8566);
+VALUES (1857,7135);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1568,3357);
+VALUES (9743,1488);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1639,2522);
+VALUES (9287,7805);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6486,8625);
+VALUES (6239,2610);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1115,8062);
+VALUES (7185,3341);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2204,1980);
+VALUES (3999,1064);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7582,6025);
+VALUES (2103,7925);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6719,8742);
+VALUES (281,7794);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2597,9381);
+VALUES (6514,6028);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9549,1002);
+VALUES (9765,3539);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3106,2426);
+VALUES (5379,4350);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7760,1036);
+VALUES (3864,2972);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1395,2899);
+VALUES (7953,5650);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6474,221);
+VALUES (8200,7939);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8253,2548);
+VALUES (8628,5611);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5624,7539);
+VALUES (7303,7450);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3126,351);
+VALUES (4464,8113);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4466,1044);
+VALUES (9057,1613);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1932,3026);
+VALUES (661,1668);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7687,9772);
+VALUES (8785,4869);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3192,7694);
+VALUES (3995,5512);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2620,6904);
+VALUES (4456,5574);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4427,7431);
+VALUES (9849,7105);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1118,6677);
+VALUES (6672,1345);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3830,2728);
+VALUES (9852,7646);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7264,6236);
+VALUES (7869,7552);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6825,4412);
+VALUES (5470,7093);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2289,1792);
+VALUES (3340,2107);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7765,7025);
+VALUES (8743,7129);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3668,9615);
+VALUES (3359,1137);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9727,2656);
+VALUES (1040,2099);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6939,3505);
+VALUES (5886,1841);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9137,4269);
+VALUES (6550,1590);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6893,5979);
+VALUES (7633,1049);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3910,4934);
+VALUES (2326,9928);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5139,370);
+VALUES (9008,8513);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (862,1645);
+VALUES (9874,3909);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1305,3647);
+VALUES (3944,8468);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (567,1861);
+VALUES (2158,8859);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8809,5068);
+VALUES (7363,7916);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8012,8669);
+VALUES (2645,2700);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9727,5151);
+VALUES (9603,1439);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2965,7714);
+VALUES (3607,3220);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3263,8842);
+VALUES (2018,330);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9178,5390);
+VALUES (9836,2965);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2564,2726);
+VALUES (7689,9115);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5655,175);
+VALUES (3090,4225);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (822,1180);
+VALUES (5603,5529);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4619,1843);
+VALUES (2781,1607);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6666,9761);
+VALUES (4509,3303);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7999,5602);
+VALUES (2919,5801);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5337,593);
+VALUES (5219,5302);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8452,6717);
+VALUES (9792,2841);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4018,3042);
+VALUES (1700,1833);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (441,7444);
+VALUES (9521,8860);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8351,3679);
+VALUES (3898,4476);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5935,2805);
+VALUES (9081,5046);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8411,7804);
+VALUES (2917,8582);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1445,5168);
+VALUES (3336,4527);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5651,384);
+VALUES (7800,2);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3617,4266);
+VALUES (1488,2612);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9508,4347);
+VALUES (7187,199);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8544,3120);
+VALUES (6136,1867);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8909,9910);
+VALUES (7918,912);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4351,6426);
+VALUES (1980,3679);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4417,2166);
+VALUES (7366,8181);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1112,8520);
+VALUES (3297,5878);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8440,6824);
+VALUES (4929,9813);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3987,7779);
+VALUES (5011,6596);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2380,5393);
+VALUES (7132,6862);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4761,6475);
+VALUES (7126,9533);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1952,5054);
+VALUES (1804,9195);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4830,7272);
+VALUES (5240,3363);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4928,5123);
+VALUES (2365,7531);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (873,2072);
+VALUES (7661,9805);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8809,712);
+VALUES (7815,4533);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1516,1977);
+VALUES (762,8287);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4908,7978);
+VALUES (6930,5965);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1881,7494);
+VALUES (6442,5267);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5332,5114);
+VALUES (6432,9575);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4866,6419);
+VALUES (7448,602);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8616,601);
+VALUES (4504,7538);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2400,7309);
+VALUES (5515,802);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6590,7732);
+VALUES (8944,9704);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5694,1013);
+VALUES (2926,4944);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9384,8981);
+VALUES (7018,8073);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4586,2010);
+VALUES (6648,1812);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6290,1389);
+VALUES (9227,1273);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7490,7967);
+VALUES (6022,1624);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8402,2988);
+VALUES (6894,4637);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8366,7696);
+VALUES (8292,4304);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1199,8374);
+VALUES (1003,7157);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3819,3173);
+VALUES (7535,3696);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (930,988);
+VALUES (1691,4858);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3786,930);
+VALUES (8858,2585);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9651,5524);
+VALUES (141,8567);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6210,8098);
+VALUES (624,5550);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8675,3215);
+VALUES (8736,5680);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1198,8445);
+VALUES (8467,7796);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5099,9102);
+VALUES (8649,3480);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6961,3928);
+VALUES (2807,9907);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2861,1897);
+VALUES (2749,4648);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6250,5355);
+VALUES (8618,756);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1415,56);
+VALUES (4780,5627);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8088,4535);
+VALUES (7108,9258);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2052,9406);
+VALUES (5788,4883);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9027,1385);
+VALUES (7975,7391);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (138,4474);
+VALUES (1893,6302);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3154,8446);
+VALUES (4400,8823);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4207,4511);
+VALUES (8639,2185);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8658,8582);
+VALUES (2421,4865);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (340,284);
+VALUES (3599,1302);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3607,8003);
+VALUES (9985,5819);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3881,4334);
+VALUES (5371,6023);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8319,5705);
+VALUES (2560,6891);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1375,8099);
+VALUES (6356,1145);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9956,1444);
+VALUES (7991,4487);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9137,5262);
+VALUES (6910,8175);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8203,6862);
+VALUES (4109,3847);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9561,3324);
+VALUES (8236,4069);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4260,8434);
+VALUES (8960,2085);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4080,6821);
+VALUES (8100,3021);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1059,228);
+VALUES (7067,9556);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1077,9379);
+VALUES (3735,9312);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1217,6134);
+VALUES (2857,852);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7914,9309);
+VALUES (1386,5966);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3041,6495);
+VALUES (5760,2180);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8712,1227);
+VALUES (5432,1988);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1582,6284);
+VALUES (2104,1061);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (344,7277);
+VALUES (2552,7441);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6555,3988);
+VALUES (2193,7942);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9222,1741);
+VALUES (7209,9702);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5184,7801);
+VALUES (7819,2565);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (19,2889);
+VALUES (1354,7160);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6849,5273);
+VALUES (139,6636);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4256,7040);
+VALUES (1942,3175);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (197,8811);
+VALUES (7219,982);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8394,9822);
+VALUES (6628,8011);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2097,9333);
+VALUES (7036,5301);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8415,8648);
+VALUES (9250,3483);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (860,88);
+VALUES (1422,8007);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3142,2607);
+VALUES (8640,5063);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (763,7063);
+VALUES (2237,8518);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2890,7398);
+VALUES (4083,7000);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9765,3438);
+VALUES (8019,1029);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2894,7547);
+VALUES (3102,4118);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9560,3355);
+VALUES (3476,7953);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1534,213);
+VALUES (5198,1759);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8458,6517);
+VALUES (3711,7313);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8468,3104);
+VALUES (8589,4411);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9363,7205);
+VALUES (8462,9328);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (96,5133);
+VALUES (1757,2241);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9903,4984);
+VALUES (6088,3471);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2211,6771);
+VALUES (9131,5411);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5576,7228);
+VALUES (3464,1220);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5627,4137);
+VALUES (7843,5275);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3894,6937);
+VALUES (2335,5124);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8569,2168);
+VALUES (6652,7368);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2713,7179);
+VALUES (7489,8895);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (985,8668);
+VALUES (3746,9655);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9194,397);
+VALUES (5039,3316);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9793,9484);
+VALUES (4801,3600);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5314,3510);
+VALUES (2206,2092);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (240,2557);
+VALUES (3843,2514);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5702,5016);
+VALUES (4851,7193);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4107,773);
+VALUES (1841,1386);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4265,3186);
+VALUES (9082,8168);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5234,6291);
+VALUES (3660,9288);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5367,3366);
+VALUES (1630,9746);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5770,574);
+VALUES (4586,6602);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1664,3643);
+VALUES (359,4689);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7056,8134);
+VALUES (3574,7357);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5774,4534);
+VALUES (9497,4378);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8176,7295);
+VALUES (876,4858);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7530,5573);
+VALUES (5894,9695);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2290,184);
+VALUES (5190,3243);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6512,9683);
+VALUES (3895,4071);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7828,863);
+VALUES (3808,1027);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4920,6774);
+VALUES (2964,6998);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5382,3854);
+VALUES (3822,8363);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (729,8929);
+VALUES (6453,3007);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2063,4098);
+VALUES (4456,4096);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8884,9911);
+VALUES (4366,6372);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4090,4364);
+VALUES (727,8313);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9846,367);
+VALUES (2332,7699);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9760,4491);
+VALUES (3439,4433);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1887,3172);
+VALUES (9996,4845);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6381,5466);
+VALUES (2976,9420);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3448,2490);
+VALUES (2170,4152);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8936,6746);
+VALUES (740,3489);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5589,648);
+VALUES (858,1341);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2096,9388);
+VALUES (1831,7827);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5240,44);
+VALUES (2677,3203);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7856,2025);
+VALUES (1083,7363);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1785,8233);
+VALUES (3132,999);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9786,4340);
+VALUES (5907,9294);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7413,5730);
+VALUES (3845,9901);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9186,248);
+VALUES (9735,6883);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7461,4885);
+VALUES (5585,2125);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8236,1324);
+VALUES (8662,8958);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8819,2083);
+VALUES (1939,247);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1702,9296);
+VALUES (7560,7510);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4782,2728);
+VALUES (170,4940);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3233,8114);
+VALUES (8328,119);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (895,6359);
+VALUES (7626,6193);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2497,1362);
+VALUES (8810,6672);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6543,6041);
+VALUES (1208,8665);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7761,5247);
+VALUES (9778,821);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8330,5831);
+VALUES (3966,8197);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4745,4745);
+VALUES (4680,9617);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1114,934);
+VALUES (8215,3858);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2457,9338);
+VALUES (7157,7385);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2082,375);
+VALUES (716,9612);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2235,7925);
+VALUES (2012,5445);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5850,4982);
+VALUES (182,5086);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1255,3610);
+VALUES (3474,4193);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8530,6759);
+VALUES (3598,3740);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2993,6663);
+VALUES (8289,2148);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3002,4795);
+VALUES (954,5909);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1848,4741);
+VALUES (5991,1437);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5322,1811);
+VALUES (6296,496);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3879,8553);
+VALUES (4216,4436);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1283,470);
+VALUES (2675,3918);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9888,2333);
+VALUES (5415,496);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (418,2719);
+VALUES (1570,1925);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6407,356);
+VALUES (5477,1782);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8735,3714);
+VALUES (651,2722);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4721,553);
+VALUES (2717,395);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2783,8144);
+VALUES (4964,7841);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (588,6843);
+VALUES (7339,1552);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2890,8727);
+VALUES (7936,7462);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4253,1699);
+VALUES (8985,2139);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1094,6177);
+VALUES (2807,4969);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6210,9791);
+VALUES (6410,3760);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5933,1705);
+VALUES (3797,781);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6164,9264);
+VALUES (676,1819);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6226,8131);
+VALUES (5249,6556);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (983,1800);
+VALUES (2069,4963);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (852,8713);
+VALUES (2167,7247);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6670,6887);
+VALUES (9343,7418);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9727,9329);
+VALUES (8810,2344);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9543,8712);
+VALUES (4819,8210);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9363,7728);
+VALUES (3166,5106);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4677,5875);
+VALUES (494,6940);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (992,4771);
+VALUES (2315,9794);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9181,2514);
+VALUES (528,4462);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5705,9573);
+VALUES (3059,8694);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9066,9747);
+VALUES (6361,2854);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4089,1658);
+VALUES (7676,5154);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9888,264);
+VALUES (6714,2065);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1466,252);
+VALUES (8467,8663);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7239,2537);
+VALUES (1895,6257);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9143,9695);
+VALUES (7234,8579);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (539,8914);
+VALUES (5956,8220);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1213,2661);
+VALUES (4546,782);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8063,5994);
+VALUES (8993,6713);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2546,9882);
+VALUES (5843,8679);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3765,2216);
+VALUES (5899,7039);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1894,898);
+VALUES (3060,5743);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8837,682);
+VALUES (5114,9293);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1125,948);
+VALUES (6942,810);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1565,2431);
+VALUES (5267,5971);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (752,7021);
+VALUES (8589,7777);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7836,7332);
+VALUES (1111,4451);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1114,8117);
+VALUES (5324,3638);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5755,9368);
+VALUES (6466,4772);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (996,7477);
+VALUES (9001,4107);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5075,6113);
+VALUES (3978,3248);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (916,2610);
+VALUES (5715,9620);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2212,7876);
+VALUES (27,3518);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7581,8046);
+VALUES (9420,8378);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7866,9751);
+VALUES (4318,3743);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9296,9565);
+VALUES (3581,3999);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (576,2820);
+VALUES (7345,7666);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1130,2157);
+VALUES (5225,95);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4705,5940);
+VALUES (4380,2184);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5728,474);
+VALUES (8230,8837);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6214,3932);
+VALUES (864,5600);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8124,4055);
+VALUES (6924,6522);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4498,1465);
+VALUES (584,1794);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (850,3075);
+VALUES (3589,9311);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9640,7203);
+VALUES (41,6468);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4382,840);
+VALUES (8335,6592);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5154,2343);
+VALUES (8273,1617);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4376,3591);
+VALUES (8614,975);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3278,9686);
+VALUES (9663,8995);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5363,6453);
+VALUES (1036,2886);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6477,529);
+VALUES (3685,3102);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5773,3262);
+VALUES (6764,5903);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4173,4867);
+VALUES (9474,8331);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (222,4590);
+VALUES (7387,8275);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7389,4570);
+VALUES (2462,4348);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6424,5533);
+VALUES (735,2977);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1627,6638);
+VALUES (3947,1021);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4710,2315);
+VALUES (9775,5869);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5778,1046);
+VALUES (7716,9230);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6889,9310);
+VALUES (148,2110);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4035,3575);
+VALUES (5589,8547);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (862,8925);
+VALUES (8450,8330);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9823,1709);
+VALUES (7383,3074);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4771,8386);
+VALUES (8526,6709);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9081,7250);
+VALUES (1562,5163);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (691,3937);
+VALUES (8425,8960);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1619,3947);
+VALUES (7414,1953);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8075,3813);
+VALUES (4943,897);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7483,1774);
+VALUES (288,4880);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4013,8970);
+VALUES (3791,7903);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9019,1235);
+VALUES (4963,3690);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2237,8741);
+VALUES (5222,1081);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9137,6955);
+VALUES (8688,2649);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3711,5541);
+VALUES (8478,3731);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7795,3322);
+VALUES (559,4333);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (215,5518);
+VALUES (6189,7093);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8726,545);
+VALUES (5538,7890);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7513,1790);
+VALUES (8038,5607);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7964,1021);
+VALUES (49,1742);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3013,5319);
+VALUES (489,9397);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3790,8527);
+VALUES (1522,6153);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8921,7181);
+VALUES (2100,4931);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4164,8340);
+VALUES (6892,7994);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8382,7836);
+VALUES (8100,2368);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5880,2679);
+VALUES (4734,6090);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9500,477);
+VALUES (8227,6124);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (860,6420);
+VALUES (9926,6756);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8648,2321);
+VALUES (5123,1734);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4451,6661);
+VALUES (1599,2904);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2892,4126);
+VALUES (6546,2255);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2157,5064);
+VALUES (3140,4187);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8124,1752);
+VALUES (6802,5008);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3231,8496);
+VALUES (9343,1938);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2886,1291);
+VALUES (6747,3820);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (280,5658);
+VALUES (3024,756);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (809,8238);
+VALUES (3022,1997);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3441,5217);
+VALUES (6196,3984);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5149,8633);
+VALUES (526,227);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4889,1210);
+VALUES (7364,7324);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1990,2341);
+VALUES (8827,7374);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6836,7666);
+VALUES (9288,3078);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5005,6464);
+VALUES (1906,1027);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1999,2308);
+VALUES (6471,3680);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6485,4664);
+VALUES (6647,5933);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8914,5467);
+VALUES (8661,2290);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1153,1521);
+VALUES (7490,9569);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2990,836);
+VALUES (8730,1705);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9760,8810);
+VALUES (9220,9098);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8593,8173);
+VALUES (5514,8);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9772,9166);
+VALUES (4729,6830);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9250,2224);
+VALUES (4939,124);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9559,181);
+VALUES (8868,1809);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6726,2621);
+VALUES (6408,1171);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7580,5311);
+VALUES (1526,7479);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1281,6009);
+VALUES (8929,4293);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7000,1099);
+VALUES (8844,3765);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2839,6516);
+VALUES (9842,7710);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4135,1821);
+VALUES (6099,7847);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2655,1985);
+VALUES (702,6320);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7912,5032);
+VALUES (4034,970);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5115,856);
+VALUES (9280,5127);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6909,6318);
+VALUES (8480,7428);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7805,7700);
+VALUES (7721,3286);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9038,1326);
+VALUES (8957,2418);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9263,7553);
+VALUES (4335,3335);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8916,3442);
+VALUES (7983,5002);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5852,2385);
+VALUES (6379,2778);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3139,7478);
+VALUES (2583,7564);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3086,4789);
+VALUES (4992,4769);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8678,1417);
+VALUES (7142,3714);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2151,2313);
+VALUES (8244,8278);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (130,9506);
+VALUES (8019,3423);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (144,3177);
+VALUES (4055,2690);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7024,9461);
+VALUES (8810,5608);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4698,8689);
+VALUES (1166,2576);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8815,5711);
+VALUES (6508,1944);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8642,4191);
+VALUES (6675,4588);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4630,6256);
+VALUES (4729,145);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8332,1487);
+VALUES (957,8535);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5588,144);
+VALUES (9169,7860);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2319,4016);
+VALUES (9450,2085);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1679,6835);
+VALUES (4793,2443);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (624,3564);
+VALUES (248,6868);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2558,7380);
+VALUES (5211,6242);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (563,1189);
+VALUES (6021,4149);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (772,1107);
+VALUES (833,3122);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1683,4849);
+VALUES (463,2251);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7960,6286);
+VALUES (1897,438);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4910,8246);
+VALUES (9309,303);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9387,3710);
+VALUES (3710,1468);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4592,2747);
+VALUES (1253,6885);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (707,6755);
+VALUES (8343,2333);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7159,9447);
+VALUES (9853,3040);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9135,7142);
+VALUES (3358,4019);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6115,5180);
+VALUES (5785,5093);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3086,3034);
+VALUES (8972,2352);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4894,747);
+VALUES (463,7800);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6093,626);
+VALUES (2145,9790);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1959,9475);
+VALUES (9816,5000);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5045,9380);
+VALUES (1320,4032);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2111,4105);
+VALUES (5962,3515);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9744,1309);
+VALUES (245,8696);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2365,2069);
+VALUES (162,6792);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9809,3634);
+VALUES (2611,8238);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (425,5347);
+VALUES (4568,5943);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7313,4505);
+VALUES (510,5232);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5674,436);
+VALUES (7146,1929);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7634,5231);
+VALUES (9809,3777);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (508,8516);
+VALUES (481,5439);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6665,7770);
+VALUES (8208,5242);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4475,2605);
+VALUES (4973,9778);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7012,87);
+VALUES (9644,9709);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2822,4868);
+VALUES (2657,7692);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1845,1895);
+VALUES (2474,8732);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7332,7416);
+VALUES (4672,4402);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5823,3431);
+VALUES (1479,326);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8896,2159);
+VALUES (7883,9350);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7920,5614);
+VALUES (3935,9707);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1209,5633);
+VALUES (8297,9537);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8900,9036);
+VALUES (4654,8552);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5152,536);
+VALUES (3524,2952);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8327,9652);
+VALUES (4386,3910);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5581,586);
+VALUES (2904,2468);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7248,3487);
+VALUES (8789,5063);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (883,6742);
+VALUES (4910,3749);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6246,9659);
+VALUES (2452,1992);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1069,192);
+VALUES (4517,5578);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6267,5394);
+VALUES (3905,1461);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5042,8600);
+VALUES (3298,811);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1977,5180);
+VALUES (3569,1240);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5410,1140);
+VALUES (112,4057);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8123,3582);
+VALUES (1540,4716);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (513,3402);
+VALUES (7745,7014);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3059,288);
+VALUES (4965,8220);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4887,3889);
+VALUES (910,2370);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1572,7040);
+VALUES (1938,4132);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8629,7428);
+VALUES (5562,5873);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7459,2533);
+VALUES (7324,7227);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4385,2192);
+VALUES (2511,7526);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2512,441);
+VALUES (3882,7523);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7386,26);
+VALUES (3427,5809);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6380,4175);
+VALUES (2228,6704);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3280,4256);
+VALUES (9746,7410);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3156,7647);
+VALUES (2470,820);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8028,3911);
+VALUES (1166,6992);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4800,9382);
+VALUES (1408,9252);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4903,3253);
+VALUES (708,2921);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8762,6306);
+VALUES (5795,995);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3793,7778);
+VALUES (9105,8016);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5947,3298);
+VALUES (9288,5285);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7723,1506);
+VALUES (4817,713);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5395,8632);
+VALUES (3356,4865);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4279,6126);
+VALUES (5514,1751);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6,6108);
+VALUES (2321,3062);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2742,8185);
+VALUES (8768,4352);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4251,6348);
+VALUES (2965,8456);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7536,4417);
+VALUES (1773,3723);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8742,1326);
+VALUES (4438,7968);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3332,5375);
+VALUES (5711,8644);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2158,3897);
+VALUES (6565,6003);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6276,247);
+VALUES (2724,4315);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6629,6863);
+VALUES (3234,3354);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5970,3774);
+VALUES (508,7600);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1832,7939);
+VALUES (1391,9245);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5813,7637);
+VALUES (5616,594);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3935,5677);
+VALUES (2481,5504);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5049,9387);
+VALUES (5505,2688);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6797,4634);
+VALUES (9162,3049);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1478,1166);
+VALUES (81,5140);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4332,8405);
+VALUES (2893,7251);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5424,4367);
+VALUES (233,1234);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7283,7012);
+VALUES (7877,1501);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4838,9386);
+VALUES (1338,9900);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6703,9731);
+VALUES (4452,7822);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7116,215);
+VALUES (6586,1358);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9623,9596);
+VALUES (78,6021);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4064,1196);
+VALUES (6253,874);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2560,1145);
+VALUES (9521,8696);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8780,4507);
+VALUES (2702,5088);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6648,2944);
+VALUES (7643,2406);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8490,7940);
+VALUES (1799,6539);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8981,8738);
+VALUES (1085,1022);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3293,6540);
+VALUES (556,8403);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3287,815);
+VALUES (7248,1780);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4719,3840);
+VALUES (4651,2424);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1968,3064);
+VALUES (9520,5572);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3558,156);
+VALUES (5408,7396);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1042,1774);
+VALUES (2194,8991);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7931,6826);
+VALUES (4835,3924);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6374,1365);
+VALUES (6830,3676);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5444,7363);
+VALUES (5127,8984);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7208,1353);
+VALUES (3357,4046);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (32,4023);
+VALUES (7946,3658);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4256,672);
+VALUES (1543,9122);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1427,4211);
+VALUES (1974,9530);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7075,4863);
+VALUES (9412,7683);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9709,8752);
+VALUES (5763,7967);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1127,8827);
+VALUES (6261,7585);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5751,6669);
+VALUES (9456,1318);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5132,1576);
+VALUES (9907,7543);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (130,5056);
+VALUES (1009,1235);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5585,6304);
+VALUES (4899,6289);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6505,5457);
+VALUES (7847,1307);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8005,8138);
+VALUES (1151,2087);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5418,3834);
+VALUES (8831,4772);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9641,3391);
+VALUES (4216,6047);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (119,994);
+VALUES (3061,9554);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2695,225);
+VALUES (4326,2308);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1284,6290);
+VALUES (3950,2499);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4894,6785);
+VALUES (1988,8972);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5713,4139);
+VALUES (8501,1170);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (197,4721);
+VALUES (7919,8088);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (646,403);
+VALUES (3390,9122);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4158,9824);
+VALUES (7427,4626);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5995,4376);
+VALUES (4078,6534);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (156,2904);
+VALUES (939,2686);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1777,2524);
+VALUES (7425,3381);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8408,4498);
+VALUES (515,1240);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1056,5345);
+VALUES (5123,5554);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7699,8267);
+VALUES (9939,7274);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4313,9534);
+VALUES (4565,230);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7060,1302);
+VALUES (4419,154);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9048,8806);
+VALUES (5169,496);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2138,3983);
+VALUES (2865,892);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (803,5623);
+VALUES (8579,8577);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8595,7545);
+VALUES (452,1260);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5173,9334);
+VALUES (8128,6857);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6521,1723);
+VALUES (3269,559);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1919,3036);
+VALUES (7123,2915);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7431,7136);
+VALUES (9117,281);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2578,9009);
+VALUES (9697,2393);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8082,8370);
+VALUES (1412,6912);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6408,4779);
+VALUES (1375,8076);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3914,1759);
+VALUES (2492,5604);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1415,4245);
+VALUES (55,4932);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6922,4961);
+VALUES (2834,1945);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3817,1053);
+VALUES (3569,536);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4380,6237);
+VALUES (1569,2996);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4026,387);
+VALUES (9643,9226);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (971,738);
+VALUES (7722,9714);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2032,1561);
+VALUES (3605,4042);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6417,9334);
+VALUES (6079,6372);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6879,7930);
+VALUES (3286,8057);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2212,2045);
+VALUES (6997,9288);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8576,3932);
+VALUES (9656,3418);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2944,8775);
+VALUES (2824,3805);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1602,8831);
+VALUES (1299,8762);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5230,8461);
+VALUES (5482,4137);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8512,3574);
+VALUES (2399,1169);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8873,6704);
+VALUES (2453,6546);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6911,3136);
+VALUES (3288,4982);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5485,9633);
+VALUES (8366,9071);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (937,2384);
+VALUES (8070,6774);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5552,9042);
+VALUES (8579,9453);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4540,1974);
+VALUES (6380,1072);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6055,2036);
+VALUES (3267,6242);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2137,7125);
+VALUES (9931,1573);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (624,1714);
+VALUES (2212,7343);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5993,9832);
+VALUES (478,3267);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (497,2160);
+VALUES (4472,7602);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5225,8947);
+VALUES (7954,3431);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4320,8002);
+VALUES (6416,2663);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2815,5098);
+VALUES (252,2748);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6477,672);
+VALUES (4606,6203);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (874,4309);
+VALUES (2101,1012);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4546,7744);
+VALUES (9095,7242);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7991,2994);
+VALUES (4537,414);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5645,9268);
+VALUES (3625,2293);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6384,5485);
+VALUES (8737,623);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6025,6522);
+VALUES (5956,1502);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1458,5577);
+VALUES (2331,2081);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6521,3224);
+VALUES (8626,3898);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (606,3338);
+VALUES (517,2876);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9510,3609);
+VALUES (6627,3755);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8397,5498);
+VALUES (1842,5824);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4188,8586);
+VALUES (4251,4029);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8950,3131);
+VALUES (2244,8778);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9665,4111);
+VALUES (7516,6019);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6673,2590);
+VALUES (8940,7431);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4564,4128);
+VALUES (3932,9489);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9099,5468);
+VALUES (6051,3272);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6970,7489);
+VALUES (1322,3717);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9041,8481);
+VALUES (463,6655);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5409,4750);
+VALUES (3614,8444);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1657,2833);
+VALUES (5544,6706);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6928,5664);
+VALUES (6631,474);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7161,9841);
+VALUES (8562,2330);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6,5042);
+VALUES (6047,7351);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4439,2022);
+VALUES (1750,2954);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7532,5550);
+VALUES (8590,3503);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4392,6061);
+VALUES (9978,8225);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7826,3521);
+VALUES (7903,9259);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9838,5236);
+VALUES (154,7287);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3929,1281);
+VALUES (2851,990);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4303,1448);
+VALUES (4625,2031);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1243,6091);
+VALUES (5398,2060);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4707,4359);
+VALUES (4686,3224);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4978,2707);
+VALUES (3410,3497);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3772,9867);
+VALUES (5533,6172);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (52,5325);
+VALUES (1650,2104);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5155,1190);
+VALUES (769,6172);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7652,2187);
+VALUES (9597,1718);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7280,1787);
+VALUES (7460,2083);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8319,3947);
+VALUES (3366,6434);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2896,7795);
+VALUES (9410,4241);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1529,7210);
+VALUES (8219,4840);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6042,2344);
+VALUES (8120,1212);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5282,1899);
+VALUES (5186,7365);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9926,8504);
+VALUES (3236,5095);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8142,4404);
+VALUES (7723,9053);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8463,6448);
+VALUES (5939,3722);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5120,2297);
+VALUES (4631,3400);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1888,9362);
+VALUES (5242,125);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8574,9732);
+VALUES (2007,575);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8698,9033);
+VALUES (4448,7223);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7315,4344);
+VALUES (3146,7771);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2613,6816);
+VALUES (6980,6430);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6670,2807);
+VALUES (3629,3330);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (995,2208);
+VALUES (7986,3138);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8684,2449);
+VALUES (3855,3433);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1729,4580);
+VALUES (8166,1323);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5088,985);
+VALUES (6108,4424);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7738,6593);
+VALUES (2522,4318);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7760,9671);
+VALUES (1787,8041);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5062,5532);
+VALUES (2680,5772);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5518,6474);
+VALUES (6571,5381);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5247,4689);
+VALUES (1356,4678);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3081,5975);
+VALUES (8207,4548);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9329,5374);
+VALUES (9921,2941);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6845,7686);
+VALUES (5258,6204);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6863,9537);
+VALUES (1488,7865);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2824,5989);
+VALUES (7625,2988);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8387,3765);
+VALUES (4544,4266);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8210,7007);
+VALUES (4716,2912);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2417,5967);
+VALUES (4756,7232);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5491,5132);
+VALUES (1162,4691);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (40,1583);
+VALUES (1073,9385);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8394,1426);
+VALUES (1569,6741);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (474,8241);
+VALUES (1278,9472);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1393,3758);
+VALUES (8315,1308);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8509,5365);
+VALUES (6575,7141);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8672,3027);
+VALUES (4690,4400);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1207,5262);
+VALUES (7090,3651);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2439,3989);
+VALUES (1470,873);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7555,9781);
+VALUES (9077,877);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5427,7355);
+VALUES (6251,8686);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (241,2963);
+VALUES (7965,2798);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2710,871);
+VALUES (6391,929);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7750,765);
+VALUES (8918,9876);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2044,5522);
+VALUES (3314,3343);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8391,1867);
+VALUES (4391,3838);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9616,1511);
+VALUES (4715,1448);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5337,9153);
+VALUES (5466,9743);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6692,7819);
+VALUES (3255,7381);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4271,3297);
+VALUES (352,5913);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1317,2528);
+VALUES (1647,6861);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3549,3241);
+VALUES (8406,5711);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1932,7131);
+VALUES (4699,7355);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (173,9951);
+VALUES (6885,4207);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6259,7951);
+VALUES (5601,9600);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4070,8383);
+VALUES (4981,6724);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1062,1916);
+VALUES (9718,2810);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2499,2765);
+VALUES (6907,5980);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7268,3711);
+VALUES (1523,5273);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (667,3524);
+VALUES (7025,8452);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7993,7795);
+VALUES (9542,7566);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3686,5574);
+VALUES (2520,7632);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2606,3741);
+VALUES (9590,8831);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (632,9095);
+VALUES (9272,9314);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8760,4432);
+VALUES (8470,5960);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2674,7771);
+VALUES (3852,3959);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6647,6072);
+VALUES (3911,320);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1683,9576);
+VALUES (4244,7013);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9790,228);
+VALUES (7788,6915);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2024,9510);
+VALUES (910,3548);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9881,2499);
+VALUES (4905,9380);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4707,6826);
+VALUES (7362,4075);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6755,5184);
+VALUES (8004,7091);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8828,9695);
+VALUES (7012,8794);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5940,8035);
+VALUES (3579,6345);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5476,8582);
+VALUES (4913,71);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1708,2857);
+VALUES (8117,1766);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (25,4971);
+VALUES (3323,9550);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4910,5093);
+VALUES (5819,2032);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4520,5392);
+VALUES (3149,7588);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9183,1227);
+VALUES (9951,7845);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3734,3776);
+VALUES (463,7421);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6889,1851);
+VALUES (9688,3390);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6729,8720);
+VALUES (8827,2362);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4491,2351);
+VALUES (3199,1369);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4494,7792);
+VALUES (7929,2021);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2747,2527);
+VALUES (9792,9509);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8120,7249);
+VALUES (5026,3027);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3133,8582);
+VALUES (6383,3796);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7364,8586);
+VALUES (5902,1177);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7278,5962);
+VALUES (1374,8242);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2236,5101);
+VALUES (972,7253);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9188,4138);
+VALUES (9218,9145);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (676,261);
+VALUES (135,6010);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9686,146);
+VALUES (7304,1231);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3838,1382);
+VALUES (541,8699);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (661,2357);
+VALUES (1422,1737);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3155,4805);
+VALUES (6416,6133);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3563,3143);
+VALUES (5936,5398);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8380,5697);
+VALUES (10000,4334);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4437,5915);
+VALUES (7615,2270);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8788,1432);
+VALUES (4555,106);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8698,8674);
+VALUES (8455,2693);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7265,5266);
+VALUES (5462,588);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2549,5063);
+VALUES (4384,9701);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2749,6652);
+VALUES (689,5239);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1173,1983);
+VALUES (3878,741);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5883,7330);
+VALUES (7133,6902);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4709,2577);
+VALUES (7016,4807);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4047,7354);
+VALUES (8095,3951);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5369,1182);
+VALUES (4694,4518);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2848,9165);
+VALUES (2111,1467);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3654,3721);
+VALUES (5613,2195);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1276,8173);
+VALUES (1000,5433);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2720,9686);
+VALUES (2754,9268);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (764,9539);
+VALUES (9917,8139);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4117,3411);
+VALUES (6743,5166);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7673,1421);
+VALUES (4131,6866);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (814,7964);
+VALUES (2990,2235);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8412,3550);
+VALUES (7533,7824);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2101,668);
+VALUES (3443,7797);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3505,232);
+VALUES (9610,5200);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4330,1239);
+VALUES (5725,3496);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8736,8229);
+VALUES (2278,7928);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1558,520);
+VALUES (7692,7924);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9286,9732);
+VALUES (9170,2551);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9476,896);
+VALUES (9108,1051);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8065,2216);
+VALUES (2285,7257);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8815,5618);
+VALUES (4885,7187);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4579,9287);
+VALUES (9019,2096);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5589,1087);
+VALUES (2726,6641);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5925,6765);
+VALUES (663,4518);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1610,8854);
+VALUES (713,2344);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7513,7210);
+VALUES (2387,2887);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5622,3732);
+VALUES (1189,5897);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1261,3675);
+VALUES (6714,9496);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6325,5998);
+VALUES (3686,5568);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5347,6467);
+VALUES (4700,1636);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (253,5571);
+VALUES (6846,270);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1363,6000);
+VALUES (4393,7245);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1789,7572);
+VALUES (4072,4532);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5713,3477);
+VALUES (7159,3823);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5964,9834);
+VALUES (1925,8557);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6930,4944);
+VALUES (3203,977);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4505,1655);
+VALUES (2047,7582);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6826,8035);
+VALUES (4594,9104);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2566,6109);
+VALUES (7798,3558);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3680,4020);
+VALUES (8875,3387);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5261,5484);
+VALUES (7083,2806);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7029,7637);
+VALUES (542,7126);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8236,976);
+VALUES (9185,6782);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6446,7107);
+VALUES (8749,1332);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8534,1328);
+VALUES (5205,6023);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2754,6302);
+VALUES (4500,9614);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5798,6632);
+VALUES (2780,5952);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6125,5155);
+VALUES (5594,5313);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8805,4754);
+VALUES (3860,4016);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1017,6562);
+VALUES (4489,9482);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1270,123);
+VALUES (209,2665);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (467,5785);
+VALUES (3494,6521);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2099,9471);
+VALUES (4738,8483);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5836,6834);
+VALUES (4740,4524);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5712,9259);
+VALUES (5421,2818);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6581,6167);
+VALUES (2510,2396);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8402,9474);
+VALUES (666,6612);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9638,3429);
+VALUES (4435,3199);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8783,973);
+VALUES (9252,2313);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (870,7999);
+VALUES (4554,1595);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5631,534);
+VALUES (6420,7189);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6247,3866);
+VALUES (2932,7577);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8748,8431);
+VALUES (5064,665);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1794,6314);
+VALUES (8737,4070);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7755,4173);
+VALUES (9632,3307);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8911,4434);
+VALUES (3615,4723);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (111,9973);
+VALUES (9266,7473);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2523,4951);
+VALUES (6010,2893);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4289,8808);
+VALUES (5203,9285);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5956,3301);
+VALUES (3650,4901);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5452,777);
+VALUES (2968,2510);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9738,5199);
+VALUES (4720,460);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3961,1217);
+VALUES (6699,530);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6069,8133);
+VALUES (673,988);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7450,9210);
+VALUES (6085,3533);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7329,2278);
+VALUES (8817,610);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2423,2076);
+VALUES (9344,4690);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7049,4903);
+VALUES (9634,6131);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4069,9639);
+VALUES (5829,248);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6422,4859);
+VALUES (5744,974);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9938,5222);
+VALUES (5519,9905);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1455,8369);
+VALUES (3386,9543);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5521,2777);
+VALUES (8980,6935);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9069,6392);
+VALUES (947,1734);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9086,7998);
+VALUES (9360,2408);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (429,3980);
+VALUES (8055,1418);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1813,91);
+VALUES (9424,1448);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8735,5623);
+VALUES (4753,6313);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3237,3750);
+VALUES (201,3670);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3389,6891);
+VALUES (6046,613);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (335,4124);
+VALUES (2861,1965);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8378,3919);
+VALUES (6077,6756);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (661,3211);
+VALUES (8548,3896);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4605,9347);
+VALUES (6452,5550);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8473,9385);
+VALUES (1673,5632);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3003,172);
+VALUES (7041,8494);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6051,9633);
+VALUES (3079,6944);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8856,9174);
+VALUES (5377,171);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7731,7317);
+VALUES (3898,4595);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7657,6933);
+VALUES (1069,1883);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7610,4130);
+VALUES (9604,755);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3007,5764);
+VALUES (5199,4936);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1333,4193);
+VALUES (7779,297);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4853,1083);
+VALUES (3770,5002);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5934,8567);
+VALUES (4805,3653);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (705,7463);
+VALUES (4396,9241);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1989,5293);
+VALUES (5321,20);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5911,1539);
+VALUES (2655,3134);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7046,8969);
+VALUES (7946,4872);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1353,321);
+VALUES (9555,416);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5606,9876);
+VALUES (8273,9599);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1526,418);
+VALUES (2041,4141);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2616,9156);
+VALUES (6541,8628);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8867,1778);
+VALUES (5633,1159);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2227,1644);
+VALUES (3442,9643);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3688,3927);
+VALUES (1331,9511);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4654,392);
+VALUES (1956,5820);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6674,1516);
+VALUES (2312,6362);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4124,1729);
+VALUES (8842,3783);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6764,3599);
+VALUES (2013,5975);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (857,208);
+VALUES (2158,9580);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3125,7204);
+VALUES (4849,1638);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3493,3457);
+VALUES (6633,5104);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8154,6045);
+VALUES (6001,7388);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9373,5954);
+VALUES (2902,9522);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5250,3727);
+VALUES (1230,4678);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9056,6685);
+VALUES (5296,2923);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7627,4084);
+VALUES (1641,125);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5658,4898);
+VALUES (2210,2362);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5592,6077);
+VALUES (1175,2529);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6890,1195);
+VALUES (6546,7304);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7196,5264);
+VALUES (2508,9996);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3558,1110);
+VALUES (6720,5229);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7995,1833);
+VALUES (2009,1457);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7264,6051);
+VALUES (1835,7719);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (636,4291);
+VALUES (6825,5731);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9175,3726);
+VALUES (9541,5289);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8418,4213);
+VALUES (7150,4240);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4376,9893);
+VALUES (8781,1360);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (528,906);
+VALUES (7788,3355);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5857,7151);
+VALUES (8132,121);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4388,756);
+VALUES (9633,2794);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7197,7582);
+VALUES (2390,9746);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5320,7742);
+VALUES (1780,2519);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7256,3718);
+VALUES (2681,3761);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (229,80);
+VALUES (1992,9347);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5080,7884);
+VALUES (6547,6932);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7956,233);
+VALUES (8074,9238);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2726,9080);
+VALUES (5391,8067);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (438,7665);
+VALUES (5714,1168);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6914,7324);
+VALUES (6759,7468);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8930,9888);
+VALUES (2157,4357);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8792,7055);
+VALUES (6325,1837);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4000,8664);
+VALUES (4148,4001);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2684,7891);
+VALUES (6982,5863);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7918,9464);
+VALUES (4952,8362);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2729,5783);
+VALUES (5813,2299);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3023,9087);
+VALUES (6648,4749);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (925,3815);
+VALUES (4959,6643);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2844,9478);
+VALUES (5763,4887);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7321,9354);
+VALUES (3650,7268);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5693,4486);
+VALUES (1676,4205);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2740,8421);
+VALUES (2507,5419);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3366,894);
+VALUES (6792,7457);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5699,3914);
+VALUES (593,6866);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2390,1153);
+VALUES (8691,8196);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4309,1982);
+VALUES (6103,2158);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1110,496);
+VALUES (158,1118);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6712,9266);
+VALUES (2376,6542);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4701,6897);
+VALUES (2494,3560);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3828,2807);
+VALUES (351,333);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2027,6767);
+VALUES (9958,8428);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8885,4048);
+VALUES (8104,9266);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9863,9718);
+VALUES (87,9929);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9058,8305);
+VALUES (5707,4636);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4313,4352);
+VALUES (2605,2082);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1926,8522);
+VALUES (4831,194);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7259,9784);
+VALUES (5178,8412);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9837,3403);
+VALUES (3561,6691);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6035,884);
+VALUES (4265,8676);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5049,4710);
+VALUES (2219,6152);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6726,2943);
+VALUES (6617,7500);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (863,2362);
+VALUES (7222,2764);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6508,7959);
+VALUES (4435,7319);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5055,4244);
+VALUES (6228,8605);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2908,2286);
+VALUES (6485,8483);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6414,7018);
+VALUES (6162,1939);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4385,8377);
+VALUES (3941,7849);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3637,8484);
+VALUES (7979,3637);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2284,4542);
+VALUES (4828,9285);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4791,1333);
+VALUES (7700,3508);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1094,1446);
+VALUES (2741,9062);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8040,5559);
+VALUES (4742,799);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (995,4934);
+VALUES (4076,2255);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1852,403);
+VALUES (4206,7742);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9669,8316);
+VALUES (7649,1424);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9426,6226);
+VALUES (7128,8150);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2401,4922);
+VALUES (6161,8405);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2272,9300);
+VALUES (6494,6869);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3302,7788);
+VALUES (4544,5679);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (361,245);
+VALUES (1298,9356);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3189,795);
+VALUES (3279,294);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8006,5494);
+VALUES (3334,7596);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7554,5650);
+VALUES (7362,6658);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9969,7367);
+VALUES (6207,8093);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6572,5973);
+VALUES (8043,3068);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (811,4769);
+VALUES (4880,6);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7400,1145);
+VALUES (5683,4374);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7281,9533);
+VALUES (3877,8162);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (97,1);
+VALUES (6054,8121);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3667,5975);
+VALUES (1769,1231);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9364,5541);
+VALUES (3025,3185);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (358,7675);
+VALUES (1699,1037);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2609,2186);
+VALUES (1118,1082);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (323,6160);
+VALUES (5919,9325);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5939,7306);
+VALUES (8565,8354);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9258,5367);
+VALUES (1835,6839);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2727,4342);
+VALUES (1725,7787);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7306,7453);
+VALUES (515,3209);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2435,6842);
+VALUES (2794,6033);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1792,2848);
+VALUES (7833,9458);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9427,6194);
+VALUES (7367,503);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1905,2410);
+VALUES (7568,7066);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3181,266);
+VALUES (70,9171);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (677,5266);
+VALUES (5463,4029);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5079,6701);
+VALUES (9675,2398);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5207,6132);
+VALUES (5598,3670);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5644,708);
+VALUES (9074,9969);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8417,5231);
+VALUES (5068,8106);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2206,9325);
+VALUES (8466,8624);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7844,1829);
+VALUES (2626,1958);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7944,2384);
+VALUES (8246,5043);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9428,7645);
+VALUES (6547,8825);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2882,2565);
+VALUES (1006,1635);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3153,5479);
+VALUES (7574,3340);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1920,5115);
+VALUES (1655,1016);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5284,3898);
+VALUES (9705,4545);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5059,2602);
+VALUES (945,2694);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9315,9284);
+VALUES (8622,7980);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6161,7577);
+VALUES (7125,1709);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8292,8410);
+VALUES (7740,5715);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1792,1534);
+VALUES (960,1843);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (152,924);
+VALUES (3731,2999);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3292,9634);
+VALUES (7884,577);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7490,7176);
+VALUES (6750,7197);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8036,4342);
+VALUES (8548,3478);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3639,8977);
+VALUES (5184,40);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9136,3666);
+VALUES (8892,7706);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7253,6882);
+VALUES (1665,4786);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8667,7348);
+VALUES (5425,8776);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4598,3601);
+VALUES (7225,8910);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7115,7406);
+VALUES (94,8619);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1394,5580);
+VALUES (653,7945);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1402,3363);
+VALUES (7113,6686);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8004,3770);
+VALUES (6318,2293);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6756,5574);
+VALUES (5738,6788);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1261,8267);
+VALUES (9874,8080);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1397,2054);
+VALUES (7491,2400);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1305,3874);
+VALUES (9982,6068);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5297,9603);
+VALUES (7597,3723);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4059,8020);
+VALUES (7004,2184);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (661,5083);
+VALUES (2165,2972);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7909,9983);
+VALUES (7417,8542);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (198,3547);
+VALUES (2457,1436);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4290,1754);
+VALUES (3879,4721);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7666,4438);
+VALUES (539,7878);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6135,9573);
+VALUES (8450,7840);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5755,1053);
+VALUES (2645,6637);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8883,331);
+VALUES (6391,7640);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5034,1806);
+VALUES (6369,9561);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7476,1552);
+VALUES (7242,7141);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8294,4175);
+VALUES (14,991);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (601,1600);
+VALUES (293,6804);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7608,9375);
+VALUES (9264,4021);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1085,3107);
+VALUES (2757,4490);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6536,524);
+VALUES (2998,6026);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9792,3467);
+VALUES (5470,7675);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2087,8136);
+VALUES (8987,6143);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2781,8240);
+VALUES (4571,3623);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1663,9677);
+VALUES (3637,7069);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1840,6989);
+VALUES (3196,7141);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1895,3386);
+VALUES (7815,3223);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5337,9710);
+VALUES (8068,6231);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6412,4429);
+VALUES (7987,8061);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9965,6690);
+VALUES (7619,7176);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4848,5999);
+VALUES (5522,8396);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2732,5002);
+VALUES (2264,3635);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3936,899);
+VALUES (1588,2929);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9342,8404);
+VALUES (532,5001);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1829,2504);
+VALUES (5668,2490);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5397,2926);
+VALUES (2459,1109);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9249,9552);
+VALUES (3525,146);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5749,951);
+VALUES (4402,2126);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5246,824);
+VALUES (7414,2718);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8392,4750);
+VALUES (7942,8382);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1399,6065);
+VALUES (9590,2635);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1962,8299);
+VALUES (2594,8916);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9916,4761);
+VALUES (6852,879);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (483,4122);
+VALUES (2497,5987);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8124,1562);
+VALUES (485,9444);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4190,4760);
+VALUES (6399,1180);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (361,1944);
+VALUES (5459,1402);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6136,5932);
+VALUES (7529,3788);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7457,6941);
+VALUES (4700,6180);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4106,9112);
+VALUES (6356,48);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1354,2521);
+VALUES (7497,9421);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5859,5204);
+VALUES (2365,2916);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8137,5949);
+VALUES (7639,4425);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4972,6402);
+VALUES (1935,9817);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9097,1492);
+VALUES (7552,6559);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (747,3640);
+VALUES (8975,5983);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6437,8805);
+VALUES (7467,7341);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7027,4025);
+VALUES (7197,163);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4679,4042);
+VALUES (5015,7546);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1807,7528);
+VALUES (8742,2575);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6778,4469);
+VALUES (5958,2941);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3570,2154);
+VALUES (8266,8671);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3495,7107);
+VALUES (1156,6015);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7716,5748);
+VALUES (4514,3019);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1803,219);
+VALUES (8924,6877);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8353,889);
+VALUES (1093,3695);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8437,7128);
+VALUES (7191,8340);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9271,4646);
+VALUES (6784,9815);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (83,5083);
+VALUES (3119,1666);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4044,5347);
+VALUES (7711,3940);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1310,9619);
+VALUES (696,4402);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4405,7835);
+VALUES (6179,5129);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3755,1421);
+VALUES (3631,6323);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7492,725);
+VALUES (3072,4992);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8913,169);
+VALUES (908,2345);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7116,1049);
+VALUES (1394,719);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (809,8760);
+VALUES (2745,772);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7392,7383);
+VALUES (1679,1580);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1023,4581);
+VALUES (7628,4102);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6846,4340);
+VALUES (4800,8139);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1974,9456);
+VALUES (5189,575);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (174,2344);
+VALUES (6962,1396);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8092,4191);
+VALUES (4577,819);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4173,2299);
+VALUES (5265,6591);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2652,9291);
+VALUES (6003,5093);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5342,1644);
+VALUES (1561,4006);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5696,8804);
+VALUES (8126,6031);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3968,5502);
+VALUES (4108,2688);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7145,1846);
+VALUES (7502,613);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8102,6073);
+VALUES (315,1479);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4851,6541);
+VALUES (9485,2280);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7857,4384);
+VALUES (3906,8500);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2973,8694);
+VALUES (1907,835);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1549,2991);
+VALUES (9286,5146);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4959,6960);
+VALUES (2936,2027);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5936,4595);
+VALUES (2707,5612);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6912,2624);
+VALUES (8903,98);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6548,9222);
+VALUES (5859,9295);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6418,229);
+VALUES (8889,1595);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1921,1689);
+VALUES (7856,4464);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9994,7471);
+VALUES (4576,684);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1941,4280);
+VALUES (3927,1521);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7143,6910);
+VALUES (7088,8614);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8876,3910);
+VALUES (2157,8095);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8342,9559);
+VALUES (4038,3911);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6353,3557);
+VALUES (2876,3272);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2945,4233);
+VALUES (4860,8219);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7915,323);
+VALUES (3950,3829);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3136,5937);
+VALUES (8715,8886);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9178,5938);
+VALUES (9035,1382);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1833,7648);
+VALUES (418,3057);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1682,8708);
+VALUES (2525,9479);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4334,7022);
+VALUES (5710,8189);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7961,5903);
+VALUES (6958,3533);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9647,8020);
+VALUES (9977,2654);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1916,9775);
+VALUES (8968,4161);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6917,7765);
+VALUES (4704,6765);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7661,6755);
+VALUES (4158,5940);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (838,4830);
+VALUES (9189,1440);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7009,5362);
+VALUES (3990,7242);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2353,2768);
+VALUES (7483,2339);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2897,45);
+VALUES (9119,6014);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1247,252);
+VALUES (4001,2234);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3723,7040);
+VALUES (1379,1253);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2703,5374);
+VALUES (3197,72);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2434,8415);
+VALUES (1064,163);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5819,8745);
+VALUES (273,4033);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6524,1054);
+VALUES (6756,926);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3268,3623);
+VALUES (5859,2671);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5177,6104);
+VALUES (573,9658);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1231,9210);
+VALUES (7473,5890);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1650,6204);
+VALUES (5329,4031);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1184,3401);
+VALUES (2543,1461);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5636,4809);
+VALUES (7793,5105);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5183,8866);
+VALUES (4964,2203);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5165,5672);
+VALUES (7039,9183);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7975,9963);
+VALUES (8536,5266);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (538,9520);
+VALUES (1055,215);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4411,4546);
+VALUES (7045,2461);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7620,7468);
+VALUES (3611,3406);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4722,9495);
+VALUES (7993,8462);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4024,5620);
+VALUES (8508,2315);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1213,5285);
+VALUES (4685,5387);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5393,9502);
+VALUES (3569,139);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7273,3929);
+VALUES (9772,9037);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (647,774);
+VALUES (4573,1584);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8255,5633);
+VALUES (1109,500);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9374,9641);
+VALUES (8835,6551);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9066,1468);
+VALUES (3763,2199);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3346,7991);
+VALUES (889,153);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9202,3636);
+VALUES (1280,6445);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7271,9591);
+VALUES (7530,4104);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (106,5265);
+VALUES (3580,5112);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3132,6300);
+VALUES (754,5014);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2262,7373);
+VALUES (8016,9500);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9754,3247);
+VALUES (2830,5524);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4161,8182);
+VALUES (4108,549);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3668,4900);
+VALUES (6385,36);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7063,3809);
+VALUES (3924,1949);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5319,1977);
+VALUES (756,984);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5585,4591);
+VALUES (352,2596);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1398,6471);
+VALUES (612,4094);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7938,5655);
+VALUES (8108,9276);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1618,2098);
+VALUES (6483,7902);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4505,7253);
+VALUES (6464,9727);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3567,4890);
+VALUES (7845,6613);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (634,3489);
+VALUES (7901,7344);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9580,4874);
+VALUES (7053,8459);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6887,9696);
+VALUES (1736,9708);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (414,8592);
+VALUES (7041,4100);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8134,8716);
+VALUES (782,9194);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5640,9867);
+VALUES (2855,7462);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7174,3901);
+VALUES (610,9006);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (889,5410);
+VALUES (8969,2903);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1168,6758);
+VALUES (1193,899);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3469,4102);
+VALUES (5322,4220);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4238,4205);
+VALUES (1281,5812);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6276,5108);
+VALUES (6712,6430);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (849,5769);
+VALUES (2489,4419);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2848,3850);
+VALUES (4464,5606);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1346,8721);
+VALUES (8362,2158);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2979,76);
+VALUES (8239,1731);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7484,4473);
+VALUES (4767,3235);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1551,6287);
+VALUES (962,8826);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6187,1385);
+VALUES (7164,6311);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (619,2119);
+VALUES (9220,1094);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8047,9337);
+VALUES (3546,8609);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6495,7986);
+VALUES (8909,7383);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1606,9522);
+VALUES (6290,9087);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1603,7034);
+VALUES (2296,9740);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5428,9079);
+VALUES (4895,4386);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6960,9867);
+VALUES (9769,8284);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (578,797);
+VALUES (2084,7907);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4577,3386);
+VALUES (8321,5641);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5965,9177);
+VALUES (5974,2993);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2135,4826);
+VALUES (99,5228);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9136,6310);
+VALUES (5016,3619);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5938,8565);
+VALUES (7747,2445);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (919,8826);
+VALUES (8166,7866);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5659,2786);
+VALUES (9751,4059);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (684,5295);
+VALUES (9564,9553);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6011,9196);
+VALUES (696,5155);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4492,6960);
+VALUES (1838,3311);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9132,8654);
+VALUES (3860,1051);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2899,9936);
+VALUES (1206,2051);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6887,5848);
+VALUES (6049,598);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3831,6048);
+VALUES (5055,8474);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4807,2793);
+VALUES (5058,6755);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6654,4507);
+VALUES (4691,2600);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2959,1268);
+VALUES (825,4376);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (929,2351);
+VALUES (6086,3458);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4586,8773);
+VALUES (9137,4714);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5137,191);
+VALUES (4608,8400);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8287,3395);
+VALUES (194,2131);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3205,447);
+VALUES (8620,4869);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5397,7335);
+VALUES (9250,8808);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9953,1254);
+VALUES (7847,8709);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1911,9772);
+VALUES (2940,8883);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5757,2892);
+VALUES (5331,4293);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7024,7194);
+VALUES (8883,6480);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5338,8009);
+VALUES (1226,4252);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1838,3956);
+VALUES (8868,5983);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1540,634);
+VALUES (570,870);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2053,9528);
+VALUES (3846,4756);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (410,742);
+VALUES (446,2952);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6838,9947);
+VALUES (6699,6831);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1049,3722);
+VALUES (3801,9306);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (112,7409);
+VALUES (8150,1718);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (968,479);
+VALUES (9805,4691);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6046,1927);
+VALUES (6467,354);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3780,3514);
+VALUES (306,257);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5171,6889);
+VALUES (4460,7066);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2005,5350);
+VALUES (5592,774);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6312,4185);
+VALUES (1458,7628);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1732,9850);
+VALUES (6711,4174);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1336,4863);
+VALUES (2843,3535);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9973,3403);
+VALUES (3037,5993);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6799,7115);
+VALUES (4969,9037);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8856,448);
+VALUES (5317,8782);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3451,3784);
+VALUES (9783,4943);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5543,2430);
+VALUES (4595,4642);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7531,4130);
+VALUES (4209,6512);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9769,5878);
+VALUES (4407,4676);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6796,699);
+VALUES (9429,8692);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6905,4898);
+VALUES (4803,4923);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (196,8927);
+VALUES (6800,2654);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4904,1095);
+VALUES (3668,1894);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (466,2317);
+VALUES (2786,4222);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7431,8700);
+VALUES (1088,888);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9992,2782);
+VALUES (7972,8024);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6660,5498);
+VALUES (1879,9747);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6263,3919);
+VALUES (8219,2038);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5058,7177);
+VALUES (5846,2895);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7439,8774);
+VALUES (528,8991);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5601,7472);
+VALUES (9607,9092);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (285,2953);
+VALUES (3058,848);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7966,9242);
+VALUES (9326,7109);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1554,2222);
+VALUES (7610,3915);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3493,8587);
+VALUES (6383,7042);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2583,39);
+VALUES (6538,7937);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7277,7551);
+VALUES (2698,9610);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7043,6347);
+VALUES (3907,4305);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2316,2965);
+VALUES (3400,1876);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4230,2081);
+VALUES (3248,6657);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9513,8799);
+VALUES (6719,3921);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6716,2857);
+VALUES (7191,431);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4152,5638);
+VALUES (8537,2062);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (721,1365);
+VALUES (519,1852);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (100,2210);
+VALUES (5511,6418);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9917,5477);
+VALUES (9429,8500);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1987,358);
+VALUES (4460,3129);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6310,4704);
+VALUES (9398,5176);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6723,1752);
+VALUES (3300,5849);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2971,6192);
+VALUES (1377,9991);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5125,4126);
+VALUES (9922,5484);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9622,8579);
+VALUES (8395,8659);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3860,2140);
+VALUES (7399,8872);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4911,509);
+VALUES (9840,2344);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3096,8843);
+VALUES (1834,3400);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5657,9608);
+VALUES (6586,281);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8522,2521);
+VALUES (3315,4753);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6156,3881);
+VALUES (248,6555);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (953,66);
+VALUES (4872,5866);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6657,2880);
+VALUES (332,3624);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9084,9429);
+VALUES (5864,2034);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7351,6938);
+VALUES (9206,7725);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4359,4343);
+VALUES (7872,844);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1298,7765);
+VALUES (3647,4772);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2768,4701);
+VALUES (4416,2108);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (673,9645);
+VALUES (6777,1630);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6118,3318);
+VALUES (8668,3391);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3165,8388);
+VALUES (6944,1388);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8509,7438);
+VALUES (5205,1053);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6925,8978);
+VALUES (7607,4837);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7779,868);
+VALUES (112,3840);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5907,9719);
+VALUES (65,2212);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3595,6961);
+VALUES (7024,5101);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4491,3051);
+VALUES (1375,4306);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3290,8298);
+VALUES (5543,8693);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9977,2430);
+VALUES (6510,1923);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7948,4518);
+VALUES (6372,5754);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8996,9054);
+VALUES (9942,5504);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5220,4959);
+VALUES (3959,9192);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (226,1758);
+VALUES (938,6817);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3560,2470);
+VALUES (4307,3309);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7154,1087);
+VALUES (9546,8377);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6667,7930);
+VALUES (9661,5121);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (485,5333);
+VALUES (4472,2284);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8624,1607);
+VALUES (6596,4877);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8065,4874);
+VALUES (9149,1653);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2611,5722);
+VALUES (2686,3269);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3694,4756);
+VALUES (1142,9239);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4400,1227);
+VALUES (1623,1844);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5243,4156);
+VALUES (7002,3297);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5774,5540);
+VALUES (482,9436);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3627,6319);
+VALUES (9006,3757);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1288,5871);
+VALUES (1460,9017);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5089,7110);
+VALUES (760,8807);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8544,5874);
+VALUES (7113,3965);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9011,7555);
+VALUES (2971,1642);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2247,8226);
+VALUES (5373,7200);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7409,3750);
+VALUES (1612,7393);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5850,201);
+VALUES (5683,3038);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2656,4311);
+VALUES (6202,2630);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3030,4100);
+VALUES (2967,8821);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8303,4246);
+VALUES (848,141);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1491,2298);
+VALUES (7794,8438);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4897,9375);
+VALUES (9877,2900);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (169,2461);
+VALUES (4715,879);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1297,4688);
+VALUES (7943,9862);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2766,5170);
+VALUES (9828,4965);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7841,4068);
+VALUES (2794,1298);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7210,6950);
+VALUES (3532,1730);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7770,2343);
+VALUES (522,4128);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (751,9952);
+VALUES (5672,8658);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8074,811);
+VALUES (8134,8240);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3962,1765);
+VALUES (3713,8127);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8076,625);
+VALUES (2759,1157);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2685,8536);
+VALUES (4187,4380);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8234,723);
+VALUES (9570,6353);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7073,2929);
+VALUES (415,4579);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5425,6550);
+VALUES (3444,1302);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4602,985);
+VALUES (8167,975);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7060,2);
+VALUES (3224,4491);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (655,9282);
+VALUES (8717,8062);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3441,3865);
+VALUES (3721,1800);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1987,3584);
+VALUES (500,354);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8826,5648);
+VALUES (3433,3652);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3546,8454);
+VALUES (3505,4499);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1157,3690);
+VALUES (2420,9147);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3963,58);
+VALUES (9235,7071);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5423,5181);
+VALUES (635,4621);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8463,4055);
+VALUES (6162,9891);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1740,4041);
+VALUES (4768,4851);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5843,6405);
+VALUES (621,6353);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5205,5235);
+VALUES (4755,4752);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3997,4614);
+VALUES (1266,5151);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5790,9810);
+VALUES (4429,5930);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3507,2389);
+VALUES (4296,9406);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2311,1349);
+VALUES (5233,2847);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6234,6245);
+VALUES (1456,345);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6952,4302);
+VALUES (9008,2531);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1477,6899);
+VALUES (7889,4209);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1718,4235);
+VALUES (6782,6761);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2012,9123);
+VALUES (3690,6573);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9243,7414);
+VALUES (3933,6133);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (101,7017);
+VALUES (1523,8811);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3447,3013);
+VALUES (7865,7778);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5717,8699);
+VALUES (5468,8278);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9043,7290);
+VALUES (9818,9730);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5800,4580);
+VALUES (8218,9837);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7870,9742);
+VALUES (8507,6459);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1448,2766);
+VALUES (574,5121);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6117,5704);
+VALUES (3461,2623);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4354,6352);
+VALUES (3823,3648);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3329,9466);
+VALUES (7051,1763);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5799,393);
+VALUES (578,4192);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9836,2975);
+VALUES (7389,6304);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6862,4272);
+VALUES (1782,9781);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1615,4258);
+VALUES (9087,5382);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2664,5045);
+VALUES (6707,8061);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7225,3750);
+VALUES (3950,5101);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9879,3895);
+VALUES (2034,6045);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5747,2700);
+VALUES (2242,5469);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7259,1643);
+VALUES (6301,1963);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (956,8838);
+VALUES (2563,8388);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6379,269);
+VALUES (6995,8128);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2679,8162);
+VALUES (9264,1161);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9272,8478);
+VALUES (4498,8239);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (504,6708);
+VALUES (8562,1622);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (779,572);
+VALUES (2290,2925);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8923,3819);
+VALUES (4553,132);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1515,9750);
+VALUES (78,823);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5941,7824);
+VALUES (409,1668);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1201,4304);
+VALUES (3006,8395);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5386,8181);
+VALUES (3026,6307);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (595,7003);
+VALUES (8714,8489);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7192,321);
+VALUES (9694,8399);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5438,8426);
+VALUES (7498,1052);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6294,3244);
+VALUES (8545,5747);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5818,5794);
+VALUES (9954,8754);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8831,3805);
+VALUES (6373,5020);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3737,11);
+VALUES (5820,3668);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9090,8369);
+VALUES (4601,2421);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1050,2471);
+VALUES (2276,1717);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8664,6268);
+VALUES (7632,9286);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6066,5393);
+VALUES (2483,1672);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1996,6833);
+VALUES (7880,2112);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6074,8039);
+VALUES (8647,7237);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4830,4437);
+VALUES (4286,5458);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8490,7527);
+VALUES (7719,5795);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (182,9865);
+VALUES (6948,207);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2122,1305);
+VALUES (3267,9659);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (867,3795);
+VALUES (2820,8454);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8550,4817);
+VALUES (9284,1876);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9465,5051);
+VALUES (5033,9115);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1262,9263);
+VALUES (2870,3801);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8558,2651);
+VALUES (7339,1801);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4154,5570);
+VALUES (3719,4640);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2413,7452);
+VALUES (9910,6899);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6683,4664);
+VALUES (6427,4583);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (406,3576);
+VALUES (2325,2611);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9062,662);
+VALUES (591,636);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8222,8861);
+VALUES (9766,9192);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5032,6610);
+VALUES (7628,7023);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5195,5480);
+VALUES (1267,306);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4756,7731);
+VALUES (7552,1486);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8294,3235);
+VALUES (602,2010);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5506,5517);
+VALUES (4673,2594);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2560,6586);
+VALUES (4687,8634);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1575,2126);
+VALUES (1391,889);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9147,2947);
+VALUES (5885,3345);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8919,5665);
+VALUES (5773,2600);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9428,105);
+VALUES (8931,1628);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9263,2699);
+VALUES (7014,2320);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4814,2623);
+VALUES (7936,8355);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2031,8625);
+VALUES (7274,5282);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1034,4292);
+VALUES (1387,4079);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6432,8614);
+VALUES (507,4437);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7796,483);
+VALUES (5932,8400);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6324,5092);
+VALUES (7859,8343);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7344,8348);
+VALUES (803,8420);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2348,9019);
+VALUES (7820,7085);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4759,3605);
+VALUES (595,8149);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1072,2646);
+VALUES (1793,3020);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1378,1219);
+VALUES (7683,1867);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2213,27);
+VALUES (3297,1967);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6598,2197);
+VALUES (3005,9938);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9779,9432);
+VALUES (5343,2358);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1917,6370);
+VALUES (9340,3031);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6471,574);
+VALUES (9314,9558);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3491,8509);
+VALUES (3907,4099);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1383,2299);
+VALUES (4163,8136);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7896,3023);
+VALUES (920,4139);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6531,9014);
+VALUES (1586,8878);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8463,3274);
+VALUES (4160,586);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (416,5386);
+VALUES (6859,2202);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3000,9731);
+VALUES (7681,2403);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (265,1257);
+VALUES (821,2592);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8599,3141);
+VALUES (2187,4955);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3074,381);
+VALUES (4110,4618);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5721,4789);
+VALUES (555,3387);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1020,6040);
+VALUES (512,9574);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5611,1665);
+VALUES (7316,4290);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (212,3713);
+VALUES (7586,136);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (102,1971);
+VALUES (1613,2126);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1246,8119);
+VALUES (9382,4723);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8072,4905);
+VALUES (8068,9408);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (246,3777);
+VALUES (3282,9002);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4227,9869);
+VALUES (6017,7527);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1493,3027);
+VALUES (5907,6067);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (686,5890);
+VALUES (4889,8042);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2825,9775);
+VALUES (4309,1043);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5638,3938);
+VALUES (1927,3039);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6217,9748);
+VALUES (1746,6272);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3556,1678);
+VALUES (9552,59);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7113,9343);
+VALUES (982,3013);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3543,4354);
+VALUES (8312,3856);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9883,5768);
+VALUES (4430,4688);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6001,9557);
+VALUES (1951,1570);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4526,9017);
+VALUES (8509,3761);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6746,5413);
+VALUES (3958,4112);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9980,1421);
+VALUES (7546,620);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8129,5110);
+VALUES (9805,5027);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4014,9039);
+VALUES (1397,6622);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1691,8046);
+VALUES (2662,3442);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1118,4026);
+VALUES (1346,1203);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6295,4385);
+VALUES (9386,153);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4861,1277);
+VALUES (1606,6458);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8715,8278);
+VALUES (4403,6435);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8963,9558);
+VALUES (2364,2582);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1819,9014);
+VALUES (1322,4530);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1481,1395);
+VALUES (1240,5130);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3246,8704);
+VALUES (8451,9501);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9290,3561);
+VALUES (4537,5092);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9496,1632);
+VALUES (2299,1944);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4821,8071);
+VALUES (3165,9446);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (939,5754);
+VALUES (6411,9797);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5056,312);
+VALUES (6517,1138);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2660,3957);
+VALUES (7385,8963);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6655,7679);
+VALUES (867,944);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2353,2600);
+VALUES (8985,1640);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6354,3855);
+VALUES (1880,4513);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1134,7570);
+VALUES (7391,6659);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7225,7030);
+VALUES (5801,5596);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6093,7524);
+VALUES (2074,7006);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4670,5343);
+VALUES (7151,1835);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2312,7980);
+VALUES (1753,3078);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7779,7854);
+VALUES (4600,3221);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9111,266);
+VALUES (5221,3831);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5005,216);
+VALUES (7454,8683);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2989,8542);
+VALUES (1474,2376);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5828,2524);
+VALUES (1865,9431);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1815,6263);
+VALUES (3476,9701);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (959,9627);
+VALUES (9250,8183);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6007,3049);
+VALUES (6324,5347);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5607,6011);
+VALUES (3095,3136);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4300,3131);
+VALUES (9019,3596);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (841,1296);
+VALUES (4998,1246);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8665,9745);
+VALUES (5998,248);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9723,8366);
+VALUES (7054,3410);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (226,3627);
+VALUES (3625,1022);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (766,1049);
+VALUES (8327,5995);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6559,7307);
+VALUES (9370,1169);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6213,5007);
+VALUES (9323,6758);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4516,5615);
+VALUES (2734,3436);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7186,9255);
+VALUES (4319,330);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1843,7616);
+VALUES (8202,7064);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7701,2019);
+VALUES (3465,1290);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1474,4711);
+VALUES (3862,8781);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6683,906);
+VALUES (4372,4860);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3812,7125);
+VALUES (1955,2188);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4575,6626);
+VALUES (2519,4254);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8306,6499);
+VALUES (9704,5341);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2765,205);
+VALUES (2383,8286);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (455,9628);
+VALUES (424,3611);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1833,7575);
+VALUES (4423,3535);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4913,5946);
+VALUES (5895,280);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3765,9446);
+VALUES (9962,4695);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (117,8716);
+VALUES (9879,4471);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2076,5508);
+VALUES (2494,3037);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3147,3471);
+VALUES (6236,7637);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5440,1235);
+VALUES (5616,4782);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9621,5246);
+VALUES (8239,4312);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7648,6517);
+VALUES (8894,2554);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7878,8867);
+VALUES (3794,1075);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6245,9039);
+VALUES (4454,9022);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4913,4965);
+VALUES (4748,7281);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3628,8782);
+VALUES (3279,7181);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8219,4601);
+VALUES (5223,9855);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3129,9233);
+VALUES (4783,3879);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1365,2908);
+VALUES (477,2932);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4644,4192);
+VALUES (617,3948);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7804,9417);
+VALUES (2258,9464);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2897,8366);
+VALUES (9304,2747);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7784,9616);
+VALUES (5605,9099);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2205,1747);
+VALUES (1651,9392);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9081,7965);
+VALUES (8068,7598);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6714,8718);
+VALUES (9535,3785);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9003,9897);
+VALUES (8222,3604);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3879,1421);
+VALUES (2641,1014);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2968,6959);
+VALUES (5982,1195);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (938,9234);
+VALUES (4927,5568);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7269,1161);
+VALUES (220,7944);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2838,6);
+VALUES (6371,7117);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5813,2904);
+VALUES (6147,8598);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8455,7938);
+VALUES (6067,900);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7100,4050);
+VALUES (6291,6478);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2096,5343);
+VALUES (3581,744);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2564,5536);
+VALUES (8278,2861);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9700,3629);
+VALUES (4493,8754);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6011,4512);
+VALUES (7903,1874);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8740,1656);
+VALUES (5251,4930);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9459,5522);
+VALUES (9322,1558);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1575,9714);
+VALUES (6054,5385);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2411,5820);
+VALUES (7427,8857);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6992,2899);
+VALUES (617,2883);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5895,5498);
+VALUES (1195,2964);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4590,9669);
+VALUES (9386,338);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (986,4001);
+VALUES (9512,4931);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2638,1889);
+VALUES (3974,5419);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4316,2291);
+VALUES (1117,8543);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2724,8216);
+VALUES (6193,3814);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3635,9005);
+VALUES (9121,9185);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9172,4737);
+VALUES (3785,7904);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7279,9961);
+VALUES (6367,8165);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5553,9061);
+VALUES (5573,1100);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9875,2478);
+VALUES (6595,848);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8133,256);
+VALUES (1374,8696);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6165,8678);
+VALUES (4013,5240);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8692,3859);
+VALUES (2414,8028);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3109,489);
+VALUES (9617,7387);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9318,6469);
+VALUES (8732,766);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2837,8334);
+VALUES (1321,465);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8592,3595);
+VALUES (9744,5083);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5678,2373);
+VALUES (7062,8727);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9861,7267);
+VALUES (6259,4966);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8086,5978);
+VALUES (1226,8142);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2838,2232);
+VALUES (1841,9050);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9489,5841);
+VALUES (920,2015);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2202,598);
+VALUES (8423,1636);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3206,1173);
+VALUES (6676,9367);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8590,9336);
+VALUES (2924,3552);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8202,5971);
+VALUES (7446,6695);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1430,5472);
+VALUES (8169,8336);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (266,1432);
+VALUES (7843,9813);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4253,8262);
+VALUES (3539,7085);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1588,8818);
+VALUES (202,7491);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5800,9609);
+VALUES (3132,6050);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (749,1592);
+VALUES (4293,8613);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3045,7422);
+VALUES (2556,4224);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9863,604);
+VALUES (9911,1653);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7171,3753);
+VALUES (3324,3025);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4788,6604);
+VALUES (7720,3992);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3966,505);
+VALUES (164,4537);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4996,3856);
+VALUES (6397,4862);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3552,9477);
+VALUES (6998,924);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6015,482);
+VALUES (7407,1939);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (630,7277);
+VALUES (6626,1847);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1378,4396);
+VALUES (4643,6300);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3925,9498);
+VALUES (544,9406);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9699,7173);
+VALUES (9712,9848);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5084,5302);
+VALUES (4717,5415);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8344,2040);
+VALUES (657,9205);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1553,7112);
+VALUES (3225,2748);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7276,4263);
+VALUES (4904,8575);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3668,1477);
+VALUES (7614,4758);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3872,479);
+VALUES (8293,7621);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5130,8637);
+VALUES (5208,2281);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9498,4503);
+VALUES (7803,2771);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7829,3084);
+VALUES (5170,840);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1639,8169);
+VALUES (6017,3127);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5850,16);
+VALUES (589,728);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4787,8881);
+VALUES (97,504);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3202,5611);
+VALUES (5801,573);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7638,6689);
+VALUES (8583,5125);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4376,7522);
+VALUES (882,2400);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1692,8345);
+VALUES (6206,8723);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8209,7136);
+VALUES (4404,3911);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8001,1070);
+VALUES (2131,7877);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9477,3117);
+VALUES (392,6008);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (864,311);
+VALUES (462,5473);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1399,3603);
+VALUES (1042,3103);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4247,8557);
+VALUES (4288,5198);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5137,6514);
+VALUES (4186,961);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6245,8221);
+VALUES (259,9846);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1346,2441);
+VALUES (2984,4725);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2714,7543);
+VALUES (8891,941);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9463,4085);
+VALUES (2960,773);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8316,8603);
+VALUES (9557,2869);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2344,2859);
+VALUES (7746,3251);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7005,5739);
+VALUES (5513,8101);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (1152,5533);
+VALUES (7787,947);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (891,3568);
+VALUES (6220,6271);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2633,2527);
+VALUES (6531,7355);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6424,5995);
+VALUES (1788,8115);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8529,3071);
+VALUES (4946,3256);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3775,7235);
+VALUES (6635,6702);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7739,6678);
+VALUES (1693,7390);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7993,9998);
+VALUES (3443,5709);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (5057,6767);
+VALUES (1924,8990);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (726,3896);
+VALUES (6216,71);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9929,5821);
+VALUES (4529,5610);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3386,6278);
+VALUES (7751,9092);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (9808,8406);
+VALUES (371,733);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6805,6022);
+VALUES (2914,881);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8099,4906);
+VALUES (1623,7725);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (3365,4182);
+VALUES (1299,8497);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7035,9842);
+VALUES (7155,222);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7152,2841);
+VALUES (5719,1929);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8694,2429);
+VALUES (315,2456);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (445,2461);
+VALUES (2862,2987);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4535,6077);
+VALUES (5004,943);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (250,7956);
+VALUES (6802,7857);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2437,41);
+VALUES (214,4858);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (7368,816);
+VALUES (5178,3879);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2437,4674);
+VALUES (321,3762);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8057,1537);
+VALUES (1899,2453);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (573,1248);
+VALUES (8242,907);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (8029,3022);
+VALUES (7447,4455);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (6246,1373);
+VALUES (77,911);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2113,278);
+VALUES (4202,7412);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (2301,3549);
+VALUES (8459,5718);
 
 INSERT INTO trip_routes (route_id,trip_id)
-VALUES (4409,1334);
+VALUES (6508,8829);
+
+INSERT INTO trip_routes (route_id,trip_id)
+VALUES (4785,4336);
 
