@@ -159,10 +159,6 @@ class PlaceTable(Table):
     DESCRIPTION = Field("description", TEXT, generate_callback=fake.text)
     LOCATION = Field("location", POINT,
                      generate_callback=lambda: fake.latitude() + fake.longitude())
-    AMOUNT_COMMENTS = Field("amount_comments", INT,
-                            generate_callback=lambda: str(random.randint(0, 1000)))
-    RATING_NUMERIC = Field("rating_numeric", INT,
-                           generate_callback=lambda: str(random.randint(0, 5)))
     ACCESS_ID = Field("access_id", INT,
                       reference=Reference(ACCESS_TABLE, AccessTable.ACCESS_ID, ReferenceType.MANY_TO_ONE))
 
@@ -173,8 +169,6 @@ class PlaceTable(Table):
                              self.NAME,
                              self.DESCRIPTION,
                              self.LOCATION,
-                             self.AMOUNT_COMMENTS,
-                             self.RATING_NUMERIC,
                              self.ACCESS_ID
                          ])
 

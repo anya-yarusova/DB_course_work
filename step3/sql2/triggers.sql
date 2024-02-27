@@ -1,21 +1,21 @@
--- Functions
-CREATE OR REPLACE FUNCTION check_salary()
-RETURNS TRIGGER AS $$
-BEGIN
-  IF NEW.salary < 19242 THEN
-    RAISE EXCEPTION 'Salary can not be less than (19242)';
-  END IF;
-  RETURN NEW;
-END;
-
-$$ LANGUAGE plpgsql;
+-- Triggers
 CREATE OR REPLACE FUNCTION check_dates()
 RETURNS TRIGGER AS $$
 BEGIN
-      IF NEW.start_date > NEW.end_date THEN
+      IF NEW.start_date <= NEW.end_date THEN
     RAISE EXCEPTION 'End date should be after start date';
   END IF;
   RETURN NEW;
+END;
+$$ LANGUAGE plpgsql;
+
+CREATE OR REPLACE FUNCTION check_times()
+    RETURNS TRIGGER AS $$
+BEGIN
+    IF NEW.start_time <= NEW.end_time THEN
+        RAISE EXCEPTION 'End time should be after start time';
+    END IF;
+    RETURN NEW;
 END;
 $$ LANGUAGE plpgsql;
 

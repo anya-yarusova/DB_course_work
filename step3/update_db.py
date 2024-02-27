@@ -3,31 +3,19 @@ from main import tables
 
 table_names = [i.name for i in tables]
 triggers_by_table_name = {
-#     "offer": ["""CREATE TRIGGER check_user_offer_limit_trigger
-# BEFORE INSERT ON offer
-# FOR EACH ROW
-# EXECUTE FUNCTION check_user_offer_limit();""",
-#               """CREATE TRIGGER check_offer_salary_trigger
-# BEFORE INSERT OR UPDATE ON offer
-# FOR EACH ROW
-# EXECUTE FUNCTION check_salary();""",
-#               """CREATE TRIGGER check_offerdate_trigger
-# BEFORE INSERT OR UPDATE ON offer
-# FOR EACH ROW
-# EXECUTE FUNCTION check_dates();"""],
-#     "contest": ["""CREATE TRIGGER check_contestdate_trigger
-# BEFORE INSERT OR UPDATE ON contest
-# FOR EACH ROW
-# EXECUTE FUNCTION check_dates();
-# """],
-#     "accounts": ["""CREATE TRIGGER check_password_length_trigger
-# BEFORE INSERT OR UPDATE ON accounts
-# FOR EACH ROW
-# EXECUTE FUNCTION check_password_length();"""],
-#     "techinterview": ["""CREATE TRIGGER check_user_interview_limit_trigger
-# BEFORE INSERT ON techinterview
-# FOR EACH ROW
-# EXECUTE FUNCTION check_user_interview_limit();"""]
+     "route": ["""CREATE TRIGGER check_route_time_trigger
+                BEFORE INSERT OR UPDATE ON route
+ FOR EACH ROW
+ EXECUTE FUNCTION check_times();"""],
+     "trip": ["""CREATE TRIGGER check_trip_date_trigger
+ BEFORE INSERT OR UPDATE ON trip
+ FOR EACH ROW
+ EXECUTE FUNCTION check_dates();
+ """],
+     "users": ["""CREATE TRIGGER check_password_length_trigger
+ BEFORE INSERT OR UPDATE ON users
+ FOR EACH ROW
+ EXECUTE FUNCTION check_password_length();"""]
 }
 
 if __name__ == "__main__":
@@ -38,9 +26,9 @@ if __name__ == "__main__":
         password="postgres",
         port=5432
     )
-    # with conn.cursor() as curs:
-    #     curs.execute(open(f"../sql/triggers.sql", "r").read())
-    # conn.commit()
+    with conn.cursor() as curs:
+        curs.execute(open(f"../sql/triggers.sql", "r").read())
+    conn.commit()
 
     for name in table_names:
         with conn.cursor() as curs:
