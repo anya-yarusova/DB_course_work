@@ -38,7 +38,9 @@ class RegionCapitalTable(Table):
     CAPITAL_NAME = Field("capital_name", TEXT, [NOT_NULL, UNIQUE],
                          generate_callback=capital_name_callback)
     CAPITAL_LOCATION = Field("capital_location", POINT, [NOT_NULL],
-                             generate_callback=lambda: "POINT" + "(" + str(fake.latitude()) + "," + str(fake.longitude()) + ")")
+                             generate_callback=lambda: "POINT" + "(" + str(fake.latitude()) + "," + str(
+                                 fake.longitude()) + ")")
+
     def __init__(self):
         super().__init__("capitals",
                          [
@@ -235,8 +237,8 @@ class CommentTable(Table):
     RATE_NUMERIC = Field("rate_numeric", INT,
                          generate_callback=lambda: str(random.randint(0, 5)))
     COMMENT_DATE = Field("comment_date", DATE, generate_callback=fake.date)
-    AUTHOR_ID = Field("author_id", TEXT,
-                      reference=Reference(TRIP_TABLE, TripTable.AUTHOR_LOGIN, ReferenceType.MANY_TO_ONE))
+    AUTHOR_LOGIN = Field("author_login", TEXT,
+                         reference=Reference(TRIP_TABLE, UserTable.LOGIN, ReferenceType.MANY_TO_ONE))
     PLACE_ID = Field("place_id", INT,
                      reference=Reference(PLACE_TABLE, PlaceTable.PlACE_ID, ReferenceType.MANY_TO_ONE))
     TRIP_ID = Field("trip_id", INT,
@@ -252,7 +254,7 @@ class CommentTable(Table):
                              self.DESCRIPTION,
                              self.RATE_NUMERIC,
                              self.COMMENT_DATE,
-                             self.AUTHOR_ID,
+                             self.AUTHOR_LOGIN,
                              self.PLACE_ID,
                              self.TRIP_ID,
                              self.ROUTE_ID

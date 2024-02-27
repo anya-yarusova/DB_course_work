@@ -163,7 +163,7 @@ BEGIN
         RAISE EXCEPTION 'Ошибка маршруте';
     END IF;
 
-    SELECT COUNT(*) INTO is_exist_place FROM places where places.place_id = place_id;
+    SELECT COUNT(*) INTO is_exist_place FROM places where places.place_id = p_place_id;
     IF is_exist_place <> 1 THEN
         RAISE EXCEPTION 'Ошибка в месте';
     END IF;
@@ -172,3 +172,222 @@ BEGIN
     VALUES (p_route_id, p_place_id);
 END;
 $$ LANGUAGE plpgsql;
+
+
+CREATE OR REPLACE FUNCTION mark_region_as_visited(
+    p_region_id int,
+    p_map_id int
+)
+    RETURNS VOID AS $$
+DECLARE
+    is_exist_region INTEGER;
+    is_exist_map INTEGER;
+BEGIN
+    SELECT COUNT(*) INTO is_exist_region FROM regions where regions.region_id = p_region_id;
+    IF is_exist_region <> 1 THEN
+        RAISE EXCEPTION 'Ошибка в регионе';
+    END IF;
+
+    SELECT COUNT(*) INTO is_exist_map FROM maps where maps.map_id = p_map_id;
+    IF is_exist_map <> 1 THEN
+        RAISE EXCEPTION 'Ошибка в карте';
+    END IF;
+
+    INSERT INTO visited (map_id, region_id)
+    VALUES (p_map_id, p_region_id);
+END;
+$$ LANGUAGE plpgsql;
+
+
+CREATE OR REPLACE FUNCTION change_trip_status(
+    p_trip_id int,
+    p_status_id int
+)
+    RETURNS VOID AS $$
+DECLARE
+    is_exist_trip INTEGER;
+    is_exist_status INTEGER;
+BEGIN
+    SELECT COUNT(*) INTO is_exist_trip FROM trips where trips.trip_id = p_trip_id;
+    IF is_exist_trip <> 1 THEN
+        RAISE EXCEPTION 'Ошибка в путешествии';
+    END IF;
+
+    SELECT COUNT(*) INTO is_exist_status FROM trip_statuses where trip_statuses.trip_status_id = p_status_id;
+    IF is_exist_status <> 1 THEN
+        RAISE EXCEPTION 'Ошибка в статусе поездки';
+    END IF;
+
+    UPDATE trips
+    SET status_id = p_status_id
+    WHERE trip_id = p_trip_id;
+END;
+$$ LANGUAGE plpgsql;
+
+
+CREATE OR REPLACE FUNCTION change_trip_access(
+    p_trip_id int,
+    p_access_id int
+)
+    RETURNS VOID AS $$
+DECLARE
+    is_exist_trip INTEGER;
+    is_exist_access INTEGER;
+BEGIN
+    SELECT COUNT(*) INTO is_exist_trip FROM trips where trips.trip_id = p_trip_id;
+    IF is_exist_trip <> 1 THEN
+        RAISE EXCEPTION 'Ошибка в путешествии';
+    END IF;
+
+    SELECT COUNT(*) INTO is_exist_access FROM accesses where accesses.access_id = p_access_id;
+    IF is_exist_access <> 1 THEN
+        RAISE EXCEPTION 'Ошибка в доступности маршрута';
+    END IF;
+
+    UPDATE trips
+    SET access_id = p_access_id
+    WHERE trip_id = p_trip_id;
+END;
+$$ LANGUAGE plpgsql;
+
+
+CREATE OR REPLACE FUNCTION change_route_access(
+    p_route_id int,
+    p_access_id int
+)
+    RETURNS VOID AS $$
+DECLARE
+    is_exist_route INTEGER;
+    is_exist_access INTEGER;
+BEGIN
+    SELECT COUNT(*) INTO is_exist_route FROM routes where routes.route_id = p_route_id;
+    IF is_exist_route <> 1 THEN
+        RAISE EXCEPTION 'Ошибка маршруте';
+    END IF;
+
+    SELECT COUNT(*) INTO is_exist_access FROM accesses where accesses.access_id = p_access_id;
+    IF is_exist_access <> 1 THEN
+        RAISE EXCEPTION 'Ошибка в доступности маршрута';
+    END IF;
+
+    UPDATE routes
+    SET access_id = p_access_id
+    WHERE route_id = p_route_id;
+END;
+$$ LANGUAGE plpgsql;
+
+
+CREATE OR REPLACE FUNCTION change_place_access(
+    p_place_id int,
+    p_access_id int
+)
+    RETURNS VOID AS $$
+DECLARE
+    is_exist_place INTEGER;
+    is_exist_access INTEGER;
+BEGIN
+    SELECT COUNT(*) INTO is_exist_place FROM places where places.place_id = p_place_id;
+    IF is_exist_place <> 1 THEN
+        RAISE EXCEPTION 'Ошибка в месте';
+    END IF;
+
+    SELECT COUNT(*) INTO is_exist_access FROM accesses where accesses.access_id = p_access_id;
+    IF is_exist_access <> 1 THEN
+        RAISE EXCEPTION 'Ошибка в доступности маршрута';
+    END IF;
+
+    UPDATE places
+    SET access_id = p_access_id
+    WHERE place_id = p_place_id;
+END;
+$$ LANGUAGE plpgsql;
+
+
+CREATE OR REPLACE FUNCTION add_comment_on_trip(
+    p_name text,
+    p_description text,
+    p_rate numeric,
+    p_comment_date date,
+    p_author_login int,
+    p_trip_id int
+)
+    RETURNS VOID AS $$
+DECLARE
+    is_exist_user INTEGER;
+    is_exist_trip INTEGER;
+BEGIN
+    SELECT COUNT(*) INTO is_exist_user FROM users where users.login = p_author_login;
+    IF is_exist_user <> 1 THEN
+        RAISE EXCEPTION 'Ошибка в логине пользователя';
+    END IF;
+
+    SELECT COUNT(*) INTO is_exist_trip FROM trips where trips.trip_id = p_trip_id;
+    IF is_exist_trip <> 1 THEN
+        RAISE EXCEPTION 'Ошибка в путешествии';
+    END IF;
+
+    INSERT INTO comments (name, description, rate_numeric, comment_date, author_login, trip_id)
+    VALUES (p_name, p_description, p_rate, p_comment_date, p_author_login, p_trip_id);
+END;
+$$ LANGUAGE plpgsql;
+
+
+CREATE OR REPLACE FUNCTION add_comment_on_route(
+    p_name text,
+    p_description text,
+    p_rate numeric,
+    p_comment_date date,
+    p_author_login int,
+    p_route_id int
+)
+    RETURNS VOID AS $$
+DECLARE
+    is_exist_user INTEGER;
+    is_exist_route INTEGER;
+BEGIN
+    SELECT COUNT(*) INTO is_exist_user FROM users where users.login = p_author_login;
+    IF is_exist_user <> 1 THEN
+        RAISE EXCEPTION 'Ошибка в логине пользователя';
+    END IF;
+
+    SELECT COUNT(*) INTO is_exist_route FROM routes where routes.route_id = p_route_id;
+    IF is_exist_route <> 1 THEN
+        RAISE EXCEPTION 'Ошибка маршруте';
+    END IF;
+
+    INSERT INTO comments (name, description, rate_numeric, comment_date, author_login, route_id)
+    VALUES (p_name, p_description, p_rate, p_comment_date, p_author_login, p_route_id);
+END;
+$$ LANGUAGE plpgsql;
+
+
+CREATE OR REPLACE FUNCTION add_comment_on_place(
+    p_name text,
+    p_description text,
+    p_rate numeric,
+    p_comment_date date,
+    p_author_login int,
+    p_place_id int
+)
+    RETURNS VOID AS $$
+DECLARE
+    is_exist_user INTEGER;
+    is_exist_place INTEGER;
+BEGIN
+    SELECT COUNT(*) INTO is_exist_user FROM users where users.login = p_author_login;
+    IF is_exist_user <> 1 THEN
+        RAISE EXCEPTION 'Ошибка в логине пользователя';
+    END IF;
+
+    SELECT COUNT(*) INTO is_exist_place FROM places where places.place_id = p_place_id;
+    IF is_exist_place <> 1 THEN
+        RAISE EXCEPTION 'Ошибка в месте';
+    END IF;
+
+    INSERT INTO comments (name, description, rate_numeric, comment_date, author_login, place_id)
+    VALUES (p_name, p_description, p_rate, p_comment_date, p_author_login, p_place_id);
+END;
+$$ LANGUAGE plpgsql;
+
+
+
