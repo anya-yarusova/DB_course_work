@@ -32,7 +32,7 @@ $$ LANGUAGE plpgsql;
 CREATE OR REPLACE FUNCTION check_friends_equality()
 RETURNS TRIGGER AS $$
 BEGIN
-  IF NEW.user1_login == NEW.user2_login THEN
+  IF NEW.user1_login = NEW.user2_login THEN
     RAISE EXCEPTION 'Friends should not have the same login';
   END IF;
   RETURN NEW;

@@ -78,4 +78,4 @@ if __name__ == "__main__":
     create_sql_dir_if_not_exists()
     write_all_create_sql()
     initialize_sequences()
-    generate_all_data_sql(10000, [MAP_TABLE, VISITED_TABLE])
+    generate_all_data_sql(10000, [MAP_TABLE, VISITED_TABLE, COMMENT_TABLE, PHOTO_TABLE, FRIENDS_TABLE])
