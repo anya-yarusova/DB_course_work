@@ -1,89 +1,89 @@
-Адыгея
-Республика Алтай
-Башкортостан
-Бурятия
-Дагестан
-ДНР
-Ингушетия
-Кабардино-Балкария
-Калмыкия
-Карачаево-Черкесия
-Карелия
-Республика Коми
-Республика Крым[1]
-ЛНР
-Марий Эл
-Мордовия
-Якутия
-Северная Осетия
-Татарстан
-Тыва
-Удмуртия
-Хакасия
-Чечня
-Чувашия
-Алтайский край
-Забайкальский край
-Камчатский край
-Краснодарский край
-Красноярский край
-Пермский край
-Приморский край
-Ставропольский край
-Хабаровский край
-Амурская область
-Архангельская область
-Астраханская область
-Белгородская область
-Брянская область
-Владимирская область
-Волгоградская область
-Вологодская область
-Воронежская область
-Запорожская область
-Ивановская область
-Иркутская область
-Калининградская область
-Калужская область
-Кемеровская область
-Кировская область
-Костромская область
-Курганская область
-Курская область
-Ленинградская область
-Липецкая область
-Магаданская область
-Московская область
-Мурманская область
-Нижегородская область
-Новгородская область
-Новосибирская область
-Омская область
-Оренбургская область
-Орловская область
-Пензенская область
-Псковская область
-Ростовская область
-Рязанская область
-Самарская область
-Саратовская область
-Сахалинская область
-Свердловская область
-Смоленская область
-Тамбовская область
-Тверская область
-Томская область
-Тульская область
-Тюменская область
-Ульяновская область
-Херсонская область
-Челябинская область
-Ярославская область
-Москва
-Санкт-Петербург
-Севастополь
-Еврейская автономная область
-Ненецкий автономный округ
-Ханты-Мансийский автономный округ — Югра
-Чукотский автономный округ
-Ямало-Ненецкий автономный округ
+Adygea
+Altai Republic
+Bashkortostan
+Buryatia
+Dagestan
+DPR
+Ingushetia
+Kabardino-Balkaria
+Kalmykia
+Karachay-Cherkessia
+Karelia
+Komi Republic
+Republic of Crimea
+LPR
+Mari El
+Mordovia
+Yakutia
+North Ossetia
+Tatarstan
+Tyva
+Udmurtia
+Khakassia
+Chechnya
+Chuvashia
+Altai region
+Transbaikal region
+Kamchatka Krai
+Krasnodar region
+Krasnoyarsk region
+Perm region
+Primorsky Krai
+Stavropol region
+Khabarovsk region
+Amur region
+Arhangelsk region
+Astrakhan region
+Belgorod region
+Bryansk region
+Vladimir region
+Volgograd region
+Vologda Region
+Voronezh region
+Zaporozhye region
+Ivanovo region
+Irkutsk region
+Kaliningrad region
+Kaluga region
+Kemerovo region
+Kirov region
+Kostroma region
+Kurgan region
+Kursk region
+Leningrad region
+Lipetsk region
+Magadan Region
+Moscow region
+Murmansk region
+Nizhny Novgorod Region
+Novgorod region
+Novosibirsk region
+Omsk region
+Orenburg region
+Oryol Region
+Penza region
+Pskov region
+Rostov region
+Ryazan Oblast
+Samara Region
+Saratov region
+Sakhalin region
+Sverdlovsk region
+Smolensk region
+Tambov Region
+Tver region
+Tomsk region
+Tula region
+Tyumen region
+Ulyanovsk region
+Kherson region
+Chelyabinsk region
+Yaroslavl region
+Moscow
+Saint Petersburg
+Sevastopol
+Jewish Autonomous Region
+Nenets Autonomous Okrug
+Khanty-Mansiysk Autonomous Okrug - Ugra
+Chukotka Autonomous Okrug
+Yamalo-Nenets Autonomous Okrug

@@ -1,7 +1,7 @@
 from python.base import *
 from faker import Faker
 
-fake = Faker('ru_RU')
+fake = Faker('en_En')
 
 
 def generate_bool():
