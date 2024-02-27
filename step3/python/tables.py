@@ -131,7 +131,7 @@ class RouteTable(Table):
     DESCRIPTION = Field("description", TEXT, generate_callback=fake.text)
     START_TIME = Field("start_time", TIMESTAMP, generate_callback=fake.date_time)
     END_TIME = Field("end_time", TIMESTAMP, generate_callback=fake.date_time)
-    TYPE_ID = Field("'type_id", INT,
+    TYPE_ID = Field("type_id", INT,
                     reference=Reference(ROUTE_TYPE_TABLE, RouteTypeTable.ROUTE_TYPE_ID,
                                         ReferenceType.MANY_TO_ONE))
     ACCESS_ID = Field("access_id", INT,

@@ -4,6 +4,6 @@ CREATE TABLE IF NOT EXISTS routes (
 	description TEXT,
 	start_time TIMESTAMP,
 	end_time TIMESTAMP,
-	'type_id INT,
+	type_id INT,
 	access_id INT
 );
