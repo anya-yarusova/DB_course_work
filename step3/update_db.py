@@ -27,6 +27,10 @@ triggers_by_table_name = {
  BEFORE INSERT OR UPDATE ON comments
  FOR EACH ROW
  EXECUTE FUNCTION check_comment_attachment();"""],
+    "visited": ["""CREATE TRIGGER calculate_percentage
+ AFTER INSERT OR UPDATE ON visited
+ FOR EACH ROW
+ EXECUTE FUNCTION calculate_percentage();"""],
 }
 
 if __name__ == "__main__":

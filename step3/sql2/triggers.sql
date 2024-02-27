@@ -67,8 +67,23 @@ $$ LANGUAGE plpgsql;
 
 CREATE OR REPLACE FUNCTION calculate_percentage()
     RETURNS TRIGGER AS $$
+DECLARE
+    regions_count INTEGER;
+DECLARE
+    visited_regions_count INTEGER;
 BEGIN
+    -- number of all regions
+    SELECT COUNT(*) INTO regions_count
+    FROM regions;
 
+    -- number of visited regions
+    SELECT COUNT(*) INTO visited_regions_count
+    FROM visited
+    WHERE map_id = NEW.map_id;
+
+    UPDATE maps
+    SET percent_visited = visited_regions_count / regions_count
+    WHERE map_id = NEW.map_id;
     RETURN NEW;
 END;
 $$ LANGUAGE plpgsql;
