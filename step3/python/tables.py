@@ -91,6 +91,7 @@ class MapTable(Table):
     AUTHOR_LOGIN = Field("login", TEXT, [UNIQUE, NOT_NULL],
                          reference=Reference(USER_TABLE, UserTable.LOGIN, ReferenceType.ONE_TO_ONE))
     CREATION_DATE = Field("creation_date", DATE, [NOT_NULL], generate_callback=fake.date)
+    PERCENT_VISITED = Field("percent_visited", INT, [NOT_NULL], generate_callback=lambda: str(random.randint(0, 100)))
     ACCESS_ID = Field("access_id", INT, [NOT_NULL],
                       reference=Reference(ACCESS_TABLE, AccessTable.ACCESS_ID, ReferenceType.MANY_TO_ONE))
 
@@ -100,6 +101,7 @@ class MapTable(Table):
                              self.MAP_ID,
                              self.AUTHOR_LOGIN,
                              self.CREATION_DATE,
+                             self.PERCENT_VISITED,
                              self.ACCESS_ID
                          ])
 

@@ -3,19 +3,30 @@ from main import tables
 
 table_names = [i.name for i in tables]
 triggers_by_table_name = {
-     "route": ["""CREATE TRIGGER check_route_time_trigger
-                BEFORE INSERT OR UPDATE ON route
+     "routes": ["""CREATE TRIGGER check_route_time_trigger
+                BEFORE INSERT OR UPDATE ON routes
  FOR EACH ROW
  EXECUTE FUNCTION check_times();"""],
-     "trip": ["""CREATE TRIGGER check_trip_date_trigger
- BEFORE INSERT OR UPDATE ON trip
+     "trips": ["""CREATE TRIGGER check_trip_date_trigger
+ BEFORE INSERT OR UPDATE ON trips
  FOR EACH ROW
- EXECUTE FUNCTION check_dates();
- """],
+ EXECUTE FUNCTION check_dates();"""],
      "users": ["""CREATE TRIGGER check_password_length_trigger
  BEFORE INSERT OR UPDATE ON users
  FOR EACH ROW
- EXECUTE FUNCTION check_password_length();"""]
+ EXECUTE FUNCTION check_password_length();""",
+               """CREATE TRIGGER create_map_for_user
+ AFTER INSERT ON users
+ FOR EACH ROW
+ EXECUTE FUNCTION create_map_for_user();"""],
+    "friends": ["""CREATE TRIGGER check_friends_equality
+ BEFORE INSERT OR UPDATE ON friends
+ FOR EACH ROW
+ EXECUTE FUNCTION check_friends_equality();"""],
+    "comments": ["""CREATE TRIGGER check_comment_attachment
+ BEFORE INSERT OR UPDATE ON comments
+ FOR EACH ROW
+ EXECUTE FUNCTION check_comment_attachment();"""],
 }
 
 if __name__ == "__main__":

@@ -29,39 +29,46 @@ BEGIN
 END;
 $$ LANGUAGE plpgsql;
 
-CREATE OR REPLACE FUNCTION check_user_offer_limit()
+CREATE OR REPLACE FUNCTION check_friends_equality()
 RETURNS TRIGGER AS $$
-DECLARE
-    user_offer_count INTEGER;
 BEGIN
-    -- number of offers with null status
-    SELECT COUNT(*) INTO user_offer_count
-    FROM offer
-    WHERE LOGIN = NEW.LOGIN AND STATUS IS NULL;
+  IF NEW.user1_login == NEW.user2_login THEN
+    RAISE EXCEPTION 'Friends should not have the same login';
+  END IF;
+  RETURN NEW;
+END;
+$$ LANGUAGE plpgsql;
 
-    -- Check that number of offers with null status is not more than 3
-    IF user_offer_count > 3 THEN
-        RAISE EXCEPTION 'User can not have more than 3 offers with null status';
+CREATE OR REPLACE FUNCTION check_comment_attachment()
+    RETURNS TRIGGER AS $$
+DECLARE
+    field_count INTEGER;
+BEGIN
+    field_count := (CASE WHEN NEW.trip_id IS NOT NULL THEN 1 ELSE 0 END) +
+                   (CASE WHEN NEW.place_id IS NOT NULL THEN 1 ELSE 0 END) +
+                   (CASE WHEN NEW.route_id IS NOT NULL THEN 1 ELSE 0 END);
+    -- Проверяем условие, что только одно поле должно быть задано
+    IF field_count = 1 THEN
+        RETURN NEW;
+    ELSE
+        RAISE EXCEPTION 'Comment should attach to only one area';
     END IF;
+END;
+$$ LANGUAGE plpgsql;
 
+CREATE OR REPLACE FUNCTION create_map_for_user()
+RETURNS TRIGGER AS $$
+BEGIN
+    INSERT INTO maps (login,creation_date,access_id) VALUES (NEW.login,current_timestamp,2);
     RETURN NEW;
 END;
 $$ LANGUAGE plpgsql;
 
-CREATE OR REPLACE FUNCTION check_user_interview_limit()
-RETURNS TRIGGER AS $$
-DECLARE
-    user_interview_count INTEGER;
-BEGIN
-    -- number of interviews for user
-    SELECT COUNT(*) INTO user_interview_count
-    FROM techinterview
-    WHERE LOGIN = NEW.LOGIN AND DATE = NEW.DATE ;
 
-    -- Check that user does not have multiple interviews at the same time
-    IF user_interview_count >= 1 THEN
-        RAISE EXCEPTION 'User can not have multiple interviews at the same time';
-    END IF;
+CREATE OR REPLACE FUNCTION calculate_percentage()
+    RETURNS TRIGGER AS $$
+BEGIN
+
     RETURN NEW;
 END;
 $$ LANGUAGE plpgsql;
