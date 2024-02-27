@@ -3,7 +3,5 @@ CREATE TABLE IF NOT EXISTS places (
 	name TEXT,
 	description TEXT,
 	location POINT,
-	amount_comments INT,
-	rating_numeric INT,
 	access_id INT
 );

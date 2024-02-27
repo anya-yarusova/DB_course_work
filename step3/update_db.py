@@ -20,27 +20,27 @@ triggers_by_table_name = {
 
 if __name__ == "__main__":
     conn = psycopg2.connect(
-        host="pg",
-        database="studs",
-        user="s335149",
+        host="localhost",
+        database="postgres",
+        user="postgres",
         password="postgres",
         port=5432
     )
-    with conn.cursor() as curs:
-        curs.execute(open(f"../sql/triggers.sql", "r").read())
-    conn.commit()
+    #with conn.cursor() as curs:
+     #   curs.execute(open(f"./sql/triggers.sql", "r").read())
+    #conn.commit()
 
     for name in table_names:
         with conn.cursor() as curs:
             print(f"Current table: {name}")
             curs.execute(f"DROP TABLE IF EXISTS {name} CASCADE;")
-            curs.execute(open(f"../sql/{name}.schema.sql", "r").read())
+            curs.execute(open(f"./sql/{name}.schema.sql", "r").read())
 
-            triggers = triggers_by_table_name.get(name, None)
-            if triggers:
-                for trig in triggers:
-                    curs.execute(trig)
-                conn.commit()
+            #triggers = triggers_by_table_name.get(name, None)
+            #if triggers:
+            #    for trig in triggers:
+             #       curs.execute(trig)
+             #   conn.commit()
 
-            curs.execute(open(f"../sql/{name}.data.sql", "r").read())
+            curs.execute(open(f"./sql/{name}.data.sql", "r").read())
             conn.commit()

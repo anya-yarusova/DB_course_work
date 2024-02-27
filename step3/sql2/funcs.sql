@@ -7,8 +7,8 @@ CREATE OR REPLACE FUNCTION registration(
 )
 RETURNS VOID AS $$
 BEGIN
-    INSERT INTO users (login, password, name, surname, birthdate, role_id)
-    VALUES (p_login, p_password, p_name, p_surname, p_birthdate, p_role_id);
+    INSERT INTO users (login, password, name, surname, birt_date)
+    VALUES (p_login, p_password, p_name, p_surname, p_birthdate);
 END;
 $$ LANGUAGE plpgsql;
 
@@ -68,7 +68,7 @@ BEGIN
         RAISE EXCEPTION 'Ошибка в доступности поездки';
     END IF;
 
-    INSERT INTO trips (author_login, name, start_date, end_date, description, status_id, access_id)
+    INSERT INTO trips (login, name, start_date, end_date, description, status_id, access_id)
     VALUES (p_author_login, p_name, p_start_date, p_end_date, p_description, p_status_id, p_access_id);
 END;
 $$ LANGUAGE plpgsql;
@@ -97,8 +97,33 @@ BEGIN
         RAISE EXCEPTION 'Ошибка в доступности маршрута';
     END IF;
 
-    INSERT INTO routes (name, start_date, end_date, description, type_id, access_id)
+    INSERT INTO routes (name, start_time, end_time, description, type_id, access_id)
     VALUES (p_name, p_start_date, p_end_date, p_description, p_type_id, p_access_id);
 END;
 $$ LANGUAGE plpgsql;
+
+CREATE OR REPLACE FUNCTION add_route_to_trip(
+    p_route_id int,
+    p_trip_id int
+)
+    RETURNS VOID AS $$
+DECLARE
+    is_exist_route INTEGER;
+    is_exist_trip INTEGER;
+BEGIN
+    SELECT COUNT(*) INTO is_exist_route FROM routes where routes.route_id = p_route_id;
+    IF is_exist_route <> 1 THEN
+        RAISE EXCEPTION 'Ошибка маршруте';
+    END IF;
+
+    SELECT COUNT(*) INTO is_exist_trip FROM trips where trips.trip_id = p_trip_id;
+    IF is_exist_trip <> 1 THEN
+        RAISE EXCEPTION 'Ошибка в путешествии';
+    END IF;
+
+    INSERT INTO trip_routes (route_id, trip_id)
+    VALUES (p_route_id, p_trip_id);
+END;
+$$ LANGUAGE plpgsql;
+
 

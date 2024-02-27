@@ -38,7 +38,7 @@ class RegionCapitalTable(Table):
     CAPITAL_NAME = Field("capital_name", TEXT, [NOT_NULL, UNIQUE],
                          generate_callback=capital_name_callback)
     CAPITAL_LOCATION = Field("capital_location", POINT, [NOT_NULL],
-                             generate_callback=lambda: fake.latitude() + fake.longitude())
+                             generate_callback=lambda: "POINT" + "(" + str(fake.latitude()) + "," + str(fake.longitude()) + ")")
 
     def __init__(self):
         super().__init__("capitals",
@@ -158,7 +158,7 @@ class PlaceTable(Table):
     NAME = Field("name", TEXT, generate_callback=fake.street_title)
     DESCRIPTION = Field("description", TEXT, generate_callback=fake.text)
     LOCATION = Field("location", POINT,
-                     generate_callback=lambda: fake.latitude() + fake.longitude())
+                     generate_callback=lambda: "POINT" + "(" + str(fake.latitude()) + "," + str(fake.longitude()) + ")")
     ACCESS_ID = Field("access_id", INT,
                       reference=Reference(ACCESS_TABLE, AccessTable.ACCESS_ID, ReferenceType.MANY_TO_ONE))
 
