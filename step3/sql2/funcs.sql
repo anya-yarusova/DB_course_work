@@ -391,3 +391,34 @@ $$ LANGUAGE plpgsql;
 
 
 
+CREATE OR REPLACE FUNCTION view_statistics(
+    p_user_login text
+)
+RETURNS Table(visited_regions_percentage INT, author_trips_count INT, participation_trips_count INT, routes_count INT, places_count INT) AS $$
+DECLARE
+    visited_regions_percentage  INTEGER;
+    author_trips_count INTEGER;
+    participation_trips_count INTEGER;
+    routes_count INTEGER;
+    places_count INTEGER;
+BEGIN
+    SELECT maps.percent_visited INTO visited_regions_percentage FROM maps where maps.login = p_user_login;
+
+    SELECT COUNT(*) INTO author_trips_count FROM trips where trips.login = p_user_login;
+
+    SELECT COUNT(*) INTO participation_trips_count FROM participation where participation.user_login = p_user_login;
+
+    SELECT COUNT(*) INTO routes_count
+    FROM trips
+    JOIN trip_routes on trip_routes.trip_id = trips.trip_id
+    where trips.login = p_user_login;
+
+    SELECT COUNT(*) INTO places_count
+    FROM trips
+    JOIN trip_routes on trip_routes.trip_id = trips.trip_id
+    JOIN route_places on trip_routes.trip_id = route_places.trip_id
+    where trips.login = p_user_login;
+
+    RETURN (visited_regions_percentage, author_trips_count, participation_trips_count, routes_count, places_count);
+END;
+$$ LANGUAGE plpgsql;
