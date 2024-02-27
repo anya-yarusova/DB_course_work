@@ -47,11 +47,12 @@ CREATE OR REPLACE FUNCTION add_trip(
     p_status_id int,
     p_access_id int
 )
-    RETURNS VOID AS $$
+    RETURNS INTEGER AS $$
 DECLARE
     is_exist_user INTEGER;
     is_exist_status INTEGER;
     is_exist_access INTEGER;
+    added_id INTEGER;
 BEGIN
     SELECT COUNT(*) INTO is_exist_user FROM users where users.login = p_author_login;
     IF is_exist_user <> 1 THEN
@@ -69,7 +70,9 @@ BEGIN
     END IF;
 
     INSERT INTO trips (login, name, start_date, end_date, description, status_id, access_id)
-    VALUES (p_author_login, p_name, p_start_date, p_end_date, p_description, p_status_id, p_access_id);
+    VALUES (p_author_login, p_name, p_start_date, p_end_date, p_description, p_status_id, p_access_id)
+    RETURNING trip_id into added_id;
+    return added_id;
 END;
 $$ LANGUAGE plpgsql;
 
@@ -82,10 +85,11 @@ CREATE OR REPLACE FUNCTION add_route(
     p_type_id int,
     p_access_id int
 )
-    RETURNS VOID AS $$
+    RETURNS INTEGER AS $$
 DECLARE
     is_exist_type INTEGER;
     is_exist_access INTEGER;
+    added_id INTEGER;
 BEGIN
     SELECT COUNT(*) INTO is_exist_type FROM route_types where route_types.route_type_id = p_type_id;
     IF is_exist_type <> 1 THEN
@@ -98,7 +102,9 @@ BEGIN
     END IF;
 
     INSERT INTO routes (name, start_time, end_time, description, type_id, access_id)
-    VALUES (p_name, p_start_date, p_end_date, p_description, p_type_id, p_access_id);
+    VALUES (p_name, p_start_date, p_end_date, p_description, p_type_id, p_access_id)
+    RETURNING route_id into added_id;
+    return added_id;
 END;
 $$ LANGUAGE plpgsql;
 
@@ -134,9 +140,10 @@ CREATE OR REPLACE FUNCTION add_place(
     p_location point,
     p_access_id int
 )
-    RETURNS VOID AS $$
+    RETURNS INTEGER AS $$
 DECLARE
     is_exist_access INTEGER;
+    added_id INTEGER;
 BEGIN
     SELECT COUNT(*) INTO is_exist_access FROM accesses where accesses.access_id = p_access_id;
     IF is_exist_access <> 1 THEN
@@ -144,7 +151,9 @@ BEGIN
     END IF;
 
     INSERT INTO places (name, description, location, access_id)
-    VALUES (p_name, p_description, p_location, p_access_id);
+    VALUES (p_name, p_description, p_location, p_access_id)
+    RETURNING place_id into added_id;
+    return added_id;
 END;
 $$ LANGUAGE plpgsql;
 
@@ -311,10 +320,11 @@ CREATE OR REPLACE FUNCTION add_comment_on_trip(
     p_author_login int,
     p_trip_id int
 )
-    RETURNS VOID AS $$
+    RETURNS INTEGER AS $$
 DECLARE
     is_exist_user INTEGER;
     is_exist_trip INTEGER;
+    added_id INTEGER;
 BEGIN
     SELECT COUNT(*) INTO is_exist_user FROM users where users.login = p_author_login;
     IF is_exist_user <> 1 THEN
@@ -327,7 +337,9 @@ BEGIN
     END IF;
 
     INSERT INTO comments (name, description, rate_numeric, comment_date, author_login, trip_id)
-    VALUES (p_name, p_description, p_rate, p_comment_date, p_author_login, p_trip_id);
+    VALUES (p_name, p_description, p_rate, p_comment_date, p_author_login, p_trip_id)
+    RETURNING trip_id into added_id;
+    return added_id;
 END;
 $$ LANGUAGE plpgsql;
 
@@ -340,10 +352,11 @@ CREATE OR REPLACE FUNCTION add_comment_on_route(
     p_author_login int,
     p_route_id int
 )
-    RETURNS VOID AS $$
+    RETURNS INTEGER AS $$
 DECLARE
     is_exist_user INTEGER;
     is_exist_route INTEGER;
+    added_id INTEGER;
 BEGIN
     SELECT COUNT(*) INTO is_exist_user FROM users where users.login = p_author_login;
     IF is_exist_user <> 1 THEN
@@ -356,7 +369,9 @@ BEGIN
     END IF;
 
     INSERT INTO comments (name, description, rate_numeric, comment_date, author_login, route_id)
-    VALUES (p_name, p_description, p_rate, p_comment_date, p_author_login, p_route_id);
+    VALUES (p_name, p_description, p_rate, p_comment_date, p_author_login, p_route_id)
+    RETURNING route_id into added_id;
+    return added_id;
 END;
 $$ LANGUAGE plpgsql;
 
@@ -369,10 +384,11 @@ CREATE OR REPLACE FUNCTION add_comment_on_place(
     p_author_login int,
     p_place_id int
 )
-    RETURNS VOID AS $$
+    RETURNS INTEGER AS $$
 DECLARE
     is_exist_user INTEGER;
     is_exist_place INTEGER;
+    added_id INTEGER;
 BEGIN
     SELECT COUNT(*) INTO is_exist_user FROM users where users.login = p_author_login;
     IF is_exist_user <> 1 THEN
@@ -385,16 +401,42 @@ BEGIN
     END IF;
 
     INSERT INTO comments (name, description, rate_numeric, comment_date, author_login, place_id)
-    VALUES (p_name, p_description, p_rate, p_comment_date, p_author_login, p_place_id);
+    VALUES (p_name, p_description, p_rate, p_comment_date, p_author_login, p_place_id)
+    RETURNING trip_id into added_id;
+    return added_id;
 END;
 $$ LANGUAGE plpgsql;
 
+
+CREATE OR REPLACE FUNCTION add_user_to_trip(
+    p_user_login text,
+    p_trip_id text
+)
+    RETURNS VOID AS $$
+DECLARE
+    is_exist_user INTEGER;
+    is_exist_trip INTEGER;
+BEGIN
+    SELECT COUNT(*) INTO is_exist_user FROM users where users.login = p_user_login;
+    IF is_exist_user <> 1 THEN
+        RAISE EXCEPTION 'Ошибка в логине пользователя';
+    END IF;
+
+    SELECT COUNT(*) INTO is_exist_trip FROM trips where trips.trip_id = p_trip_id;
+    IF is_exist_trip <> 1 THEN
+        RAISE EXCEPTION 'Ошибка в путешествии';
+    END IF;
+
+    INSERT INTO participation (user_login , trip_id)
+    VALUES (p_user_login, p_trip_id);
+END;
+$$ LANGUAGE plpgsql;
 
 
 CREATE OR REPLACE FUNCTION view_statistics(
     p_user_login text
 )
-RETURNS Table(visited_regions_percentage INT, author_trips_count INT, participation_trips_count INT, routes_count INT, places_count INT) AS $$
+    RETURNS Table(visited_regions_percentage INT, author_trips_count INT, participation_trips_count INT, routes_count INT, places_count INT) AS $$
 DECLARE
     visited_regions_percentage  INTEGER;
     author_trips_count INTEGER;
@@ -416,7 +458,7 @@ BEGIN
     SELECT COUNT(*) INTO places_count
     FROM trips
     JOIN trip_routes on trip_routes.trip_id = trips.trip_id
-    JOIN route_places on trip_routes.trip_id = route_places.trip_id
+    JOIN route_places on trip_routes.route_id = route_places.route_id
     where trips.login = p_user_login;
 
     RETURN (visited_regions_percentage, author_trips_count, participation_trips_count, routes_count, places_count);

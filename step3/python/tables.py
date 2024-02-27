@@ -132,8 +132,8 @@ class RouteTable(Table):
     ROUTE_ID = Field("route_id", SERIAL, [PK])
     NAME = Field("name", TEXT, generate_callback=fake.last_name)
     DESCRIPTION = Field("description", TEXT, generate_callback=fake.text)
-    START_TIME = Field("start_time", TIMESTAMP, generate_callback=fake.date_time)
-    END_TIME = Field("end_time", TIMESTAMP, generate_callback=fake.date_time)
+    START_TIME = Field("start_time", TIMESTAMP, [NOT_NULL], generate_callback=lambda: str(fake.date_time_between(start_date='-30d', end_date='-11d')))
+    END_TIME = Field("end_time", TIMESTAMP, [NOT_NULL], generate_callback=lambda: str(fake.date_time_between(start_date='-10d', end_date='-1d')))
     TYPE_ID = Field("type_id", INT,
                     reference=Reference(ROUTE_TYPE_TABLE, RouteTypeTable.ROUTE_TYPE_ID,
                                         ReferenceType.MANY_TO_ONE))
@@ -205,8 +205,8 @@ class TripTable(Table):
     AUTHOR_LOGIN = Field("login", TEXT, [NOT_NULL],
                          reference=Reference(USER_TABLE, UserTable.LOGIN, ReferenceType.MANY_TO_ONE))
     NAME = Field("name", TEXT, generate_callback=fake.first_name)
-    START_DATE = Field("start_date", DATE, generate_callback=fake.date)
-    END_DATE = Field("end_date", DATE, generate_callback=fake.date)
+    START_DATE = Field("start_date", DATE, [NOT_NULL], generate_callback=lambda: str(fake.date_time_between(start_date='-30d', end_date='-11d')))
+    END_DATE = Field("end_date", DATE, [NOT_NULL], generate_callback=lambda: str(fake.date_time_between(start_date='-10d', end_date='now')))
     DESCRIPTION = Field("description", TEXT, generate_callback=fake.text)
     STATUS_ID = Field("status_id", INT, [NOT_NULL],
                       reference=Reference(TRIP_STATUS_TABLE, TripStatusTable.TRIP_STATUS_ID, ReferenceType.MANY_TO_ONE))

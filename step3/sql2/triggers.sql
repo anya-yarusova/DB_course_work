@@ -2,7 +2,7 @@
 CREATE OR REPLACE FUNCTION check_dates()
 RETURNS TRIGGER AS $$
 BEGIN
-      IF NEW.start_date <= NEW.end_date THEN
+      IF NEW.start_date > NEW.end_date THEN
     RAISE EXCEPTION 'End date should be after start date';
   END IF;
   RETURN NEW;
@@ -12,7 +12,7 @@ $$ LANGUAGE plpgsql;
 CREATE OR REPLACE FUNCTION check_times()
     RETURNS TRIGGER AS $$
 BEGIN
-    IF NEW.start_time <= NEW.end_time THEN
+    IF NEW.start_time > NEW.end_time THEN
         RAISE EXCEPTION 'End time should be after start time';
     END IF;
     RETURN NEW;
@@ -59,7 +59,7 @@ $$ LANGUAGE plpgsql;
 CREATE OR REPLACE FUNCTION create_map_for_user()
 RETURNS TRIGGER AS $$
 BEGIN
-    INSERT INTO maps (login,creation_date,access_id) VALUES (NEW.login,current_timestamp,2);
+    INSERT INTO maps (login,creation_date,access_id,percent_visited) VALUES (NEW.login,current_timestamp,2,0);
     RETURN NEW;
 END;
 $$ LANGUAGE plpgsql;

@@ -1,3 +1,5 @@
+import os.path
+
 import psycopg2
 from main import tables
 
@@ -41,9 +43,9 @@ if __name__ == "__main__":
         password="postgres",
         port=5432
     )
-    #with conn.cursor() as curs:
-     #   curs.execute(open(f"./sql/triggers.sql", "r").read())
-    #conn.commit()
+    with conn.cursor() as curs:
+        curs.execute(open(f"./sql2/triggers.sql", "r").read())
+    conn.commit()
 
     for name in table_names:
         with conn.cursor() as curs:
@@ -51,11 +53,12 @@ if __name__ == "__main__":
             curs.execute(f"DROP TABLE IF EXISTS {name} CASCADE;")
             curs.execute(open(f"./sql/{name}.schema.sql", "r").read())
 
-            #triggers = triggers_by_table_name.get(name, None)
-            #if triggers:
-            #    for trig in triggers:
-             #       curs.execute(trig)
-             #   conn.commit()
+            triggers = triggers_by_table_name.get(name, None)
+            if triggers:
+                for trig in triggers:
+                    curs.execute(trig)
+                conn.commit()
 
-            curs.execute(open(f"./sql/{name}.data.sql", "r").read())
-            conn.commit()
+            if os.path.exists(f"./sql/{name}.data.sql"):
+                curs.execute(open(f"./sql/{name}.data.sql", "r").read())
+                conn.commit()
