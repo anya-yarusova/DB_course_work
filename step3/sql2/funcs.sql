@@ -32,7 +32,7 @@ BEGIN
         RAISE EXCEPTION 'Ошибка в логине пользователя2';
     END IF;
 
-    INSERT INTO friends (user_login1 , user_login2)
+    INSERT INTO friends (user1_login , user2_login)
     VALUES (p_user_login1, p_user_login2);
 END;
 $$ LANGUAGE plpgsql;
@@ -87,7 +87,7 @@ DECLARE
     is_exist_type INTEGER;
     is_exist_access INTEGER;
 BEGIN
-    SELECT COUNT(*) INTO is_exist_type FROM route_types where trip_statuses.route_type_id = p_type_id;
+    SELECT COUNT(*) INTO is_exist_type FROM route_types where route_types.route_type_id = p_type_id;
     IF is_exist_type <> 1 THEN
         RAISE EXCEPTION 'Ошибка в типе маршрута';
     END IF;
