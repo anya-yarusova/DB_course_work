@@ -39,7 +39,6 @@ class RegionCapitalTable(Table):
                          generate_callback=capital_name_callback)
     CAPITAL_LOCATION = Field("capital_location", POINT, [NOT_NULL],
                              generate_callback=lambda: "POINT" + "(" + str(fake.latitude()) + "," + str(fake.longitude()) + ")")
-
     def __init__(self):
         super().__init__("capitals",
                          [
@@ -92,7 +91,7 @@ class MapTable(Table):
     AUTHOR_LOGIN = Field("login", TEXT, [UNIQUE, NOT_NULL],
                          reference=Reference(USER_TABLE, UserTable.LOGIN, ReferenceType.ONE_TO_ONE))
     CREATION_DATE = Field("creation_date", DATE, [NOT_NULL], generate_callback=fake.date)
-    ACCESS_ID = Field("access_id", INT,
+    ACCESS_ID = Field("access_id", INT, [NOT_NULL],
                       reference=Reference(ACCESS_TABLE, AccessTable.ACCESS_ID, ReferenceType.MANY_TO_ONE))
 
     def __init__(self):
@@ -134,7 +133,7 @@ class RouteTable(Table):
     TYPE_ID = Field("type_id", INT,
                     reference=Reference(ROUTE_TYPE_TABLE, RouteTypeTable.ROUTE_TYPE_ID,
                                         ReferenceType.MANY_TO_ONE))
-    ACCESS_ID = Field("access_id", INT,
+    ACCESS_ID = Field("access_id", INT, [NOT_NULL],
                       reference=Reference(ACCESS_TABLE, AccessTable.ACCESS_ID, ReferenceType.MANY_TO_ONE))
 
     def __init__(self):
@@ -159,7 +158,11 @@ class PlaceTable(Table):
     DESCRIPTION = Field("description", TEXT, generate_callback=fake.text)
     LOCATION = Field("location", POINT,
                      generate_callback=lambda: "POINT" + "(" + str(fake.latitude()) + "," + str(fake.longitude()) + ")")
-    ACCESS_ID = Field("access_id", INT,
+    AMOUNT_COMMENTS = Field("amount_comments", INT,
+                            generate_callback=lambda: str(random.randint(0, 1000)))
+    RATING_NUMERIC = Field("rating_numeric", INT,
+                           generate_callback=lambda: str(random.randint(0, 5)))
+    ACCESS_ID = Field("access_id", INT, [NOT_NULL],
                       reference=Reference(ACCESS_TABLE, AccessTable.ACCESS_ID, ReferenceType.MANY_TO_ONE))
 
     def __init__(self):
@@ -169,6 +172,8 @@ class PlaceTable(Table):
                              self.NAME,
                              self.DESCRIPTION,
                              self.LOCATION,
+                             self.AMOUNT_COMMENTS,
+                             self.RATING_NUMERIC,
                              self.ACCESS_ID
                          ])
 
@@ -199,9 +204,9 @@ class TripTable(Table):
     START_DATE = Field("start_date", DATE, generate_callback=fake.date)
     END_DATE = Field("end_date", DATE, generate_callback=fake.date)
     DESCRIPTION = Field("description", TEXT, generate_callback=fake.text)
-    STATUS_ID = Field("status_id", INT,
+    STATUS_ID = Field("status_id", INT, [NOT_NULL],
                       reference=Reference(TRIP_STATUS_TABLE, TripStatusTable.TRIP_STATUS_ID, ReferenceType.MANY_TO_ONE))
-    ACCESS_ID = Field("access_id", INT,
+    ACCESS_ID = Field("access_id", INT, [NOT_NULL],
                       reference=Reference(ACCESS_TABLE, AccessTable.ACCESS_ID, ReferenceType.MANY_TO_ONE))
 
     def __init__(self):
@@ -228,7 +233,7 @@ class CommentTable(Table):
     RATE_NUMERIC = Field("rate_numeric", INT,
                          generate_callback=lambda: str(random.randint(0, 5)))
     COMMENT_DATE = Field("comment_date", DATE, generate_callback=fake.date)
-    AUTHOR_ID = Field("author_id", TEXT, [NOT_NULL],
+    AUTHOR_ID = Field("author_id", TEXT,
                       reference=Reference(TRIP_TABLE, TripTable.AUTHOR_LOGIN, ReferenceType.MANY_TO_ONE))
     PLACE_ID = Field("place_id", INT,
                      reference=Reference(PLACE_TABLE, PlaceTable.PlACE_ID, ReferenceType.MANY_TO_ONE))
@@ -259,7 +264,7 @@ class PhotoTable(Table):
     PHOTO_ID = Field("photo_id", SERIAL, [PK])
     PATH = Field("path", TEXT, [NOT_NULL],
                  generate_callback=lambda: fake.file_path(depth=3, category='image', extension='png'))
-    COMMENT_ID = Field("comment_id", INT,
+    COMMENT_ID = Field("comment_id", INT, [NOT_NULL],
                        reference=Reference(COMMENT_TABLE, CommentTable.COMMENT_ID, ReferenceType.MANY_TO_ONE))
 
     def __init__(self):

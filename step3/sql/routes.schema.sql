@@ -5,5 +5,5 @@ CREATE TABLE IF NOT EXISTS routes (
 	start_time TIMESTAMP,
 	end_time TIMESTAMP,
 	type_id INT,
-	access_id INT
+	access_id INT NOT NULL REFERENCES accesses(access_id)
 );

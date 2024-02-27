@@ -4,7 +4,7 @@ CREATE TABLE IF NOT EXISTS comments (
 	description TEXT,
 	rate_numeric INT,
 	comment_date DATE,
-	author_id TEXT NOT NULL REFERENCES trips(login),
+	author_id TEXT,
 	place_id INT,
 	trip_id INT,
 	route_id INT

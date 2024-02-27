@@ -1,267 +1,267 @@
 INSERT INTO capitals (capital_id,capital_name,capital_location)
-VALUES (1,'Майкоп',POINT(74.1751735,5.833653));
+VALUES (1,'Майкоп',POINT(-38.456640,-118.411037));
 
 INSERT INTO capitals (capital_id,capital_name,capital_location)
-VALUES (2,'Горно-Алтайск',POINT(78.1081535,-22.371958));
+VALUES (2,'Горно-Алтайск',POINT(-55.7027115,58.597094));
 
 INSERT INTO capitals (capital_id,capital_name,capital_location)
-VALUES (3,'Уфа',POINT(-73.968814,16.250057));
+VALUES (3,'Уфа',POINT(-87.8439935,174.729826));
 
 INSERT INTO capitals (capital_id,capital_name,capital_location)
-VALUES (4,'Улан-Удэ',POINT(7.261483,91.489717));
+VALUES (4,'Улан-Удэ',POINT(31.880132,-143.888891));
 
 INSERT INTO capitals (capital_id,capital_name,capital_location)
-VALUES (5,'Махачкала',POINT(81.856033,-5.774297));
+VALUES (5,'Махачкала',POINT(-43.372685,95.402683));
 
 INSERT INTO capitals (capital_id,capital_name,capital_location)
-VALUES (6,'Донецк',POINT(10.234861,-25.289800));
+VALUES (6,'Донецк',POINT(-5.8189885,-95.300566));
 
 INSERT INTO capitals (capital_id,capital_name,capital_location)
-VALUES (7,'Магас',POINT(37.3887415,-9.112277));
+VALUES (7,'Магас',POINT(-55.7840305,-151.419315));
 
 INSERT INTO capitals (capital_id,capital_name,capital_location)
-VALUES (8,'Нальчик',POINT(-14.718324,-123.259021));
+VALUES (8,'Нальчик',POINT(7.5278865,-49.296749));
 
 INSERT INTO capitals (capital_id,capital_name,capital_location)
-VALUES (9,'Элиста',POINT(60.8430555,109.544839));
+VALUES (9,'Элиста',POINT(45.1021055,106.786408));
 
 INSERT INTO capitals (capital_id,capital_name,capital_location)
-VALUES (10,'Черкесск',POINT(71.5776245,93.812570));
+VALUES (10,'Черкесск',POINT(23.611530,-116.538425));
 
 INSERT INTO capitals (capital_id,capital_name,capital_location)
-VALUES (11,'Петрозаводск',POINT(-10.9127025,-14.622918));
+VALUES (11,'Петрозаводск',POINT(-50.691758,103.593184));
 
 INSERT INTO capitals (capital_id,capital_name,capital_location)
-VALUES (12,'Сыктывкар',POINT(-6.946134,-163.763183));
+VALUES (12,'Сыктывкар',POINT(-86.4894495,-92.408121));
 
 INSERT INTO capitals (capital_id,capital_name,capital_location)
-VALUES (13,'Симферополь',POINT(79.0685025,-161.710917));
+VALUES (13,'Симферополь',POINT(81.9848495,29.028662));
 
 INSERT INTO capitals (capital_id,capital_name,capital_location)
-VALUES (14,'Луганск',POINT(6.963727,163.909957));
+VALUES (14,'Луганск',POINT(-85.659335,-3.669777));
 
 INSERT INTO capitals (capital_id,capital_name,capital_location)
-VALUES (15,'Йошкар-Ола',POINT(-27.8289475,178.044132));
+VALUES (15,'Йошкар-Ола',POINT(-1.2153905,160.777084));
 
 INSERT INTO capitals (capital_id,capital_name,capital_location)
-VALUES (16,'Саранск',POINT(22.4985835,123.160944));
+VALUES (16,'Саранск',POINT(-3.7478675,176.697536));
 
 INSERT INTO capitals (capital_id,capital_name,capital_location)
-VALUES (17,'Якутск',POINT(-52.329998,172.200590));
+VALUES (17,'Якутск',POINT(-9.7584735,20.547455));
 
 INSERT INTO capitals (capital_id,capital_name,capital_location)
-VALUES (18,'Владикавказ',POINT(16.484919,-25.926641));
+VALUES (18,'Владикавказ',POINT(81.510019,48.188351));
 
 INSERT INTO capitals (capital_id,capital_name,capital_location)
-VALUES (19,'Казань',POINT(-79.7303615,2.318118));
+VALUES (19,'Казань',POINT(-30.8534435,-41.489597));
 
 INSERT INTO capitals (capital_id,capital_name,capital_location)
-VALUES (20,'Кызыл',POINT(53.6534045,-67.798203));
+VALUES (20,'Кызыл',POINT(-3.178294,21.403397));
 
 INSERT INTO capitals (capital_id,capital_name,capital_location)
-VALUES (21,'Ижевск',POINT(75.115971,-172.990238));
+VALUES (21,'Ижевск',POINT(-60.7088295,143.341638));
 
 INSERT INTO capitals (capital_id,capital_name,capital_location)
-VALUES (22,'Абакан',POINT(-42.3591115,-153.771504));
+VALUES (22,'Абакан',POINT(57.976373,23.111426));
 
 INSERT INTO capitals (capital_id,capital_name,capital_location)
-VALUES (23,'Грозный',POINT(-88.9834015,6.824472));
+VALUES (23,'Грозный',POINT(-70.7284085,117.704616));
 
 INSERT INTO capitals (capital_id,capital_name,capital_location)
-VALUES (24,'Чебоксары',POINT(-37.401008,-53.303757));
+VALUES (24,'Чебоксары',POINT(50.044947,39.830451));
 
 INSERT INTO capitals (capital_id,capital_name,capital_location)
-VALUES (25,'Барнаул',POINT(5.237430,-20.670580));
+VALUES (25,'Барнаул',POINT(52.009549,89.365662));
 
 INSERT INTO capitals (capital_id,capital_name,capital_location)
-VALUES (26,'Чита',POINT(73.767349,-143.508445));
+VALUES (26,'Чита',POINT(71.9340065,12.172816));
 
 INSERT INTO capitals (capital_id,capital_name,capital_location)
-VALUES (27,'Петропавловск-Камчатский',POINT(59.8767375,-67.027939));
+VALUES (27,'Петропавловск-Камчатский',POINT(-18.9246835,101.211719));
 
 INSERT INTO capitals (capital_id,capital_name,capital_location)
-VALUES (28,'Краснодар',POINT(-70.718592,-121.457263));
+VALUES (28,'Краснодар',POINT(5.5046965,-90.920352));
 
 INSERT INTO capitals (capital_id,capital_name,capital_location)
-VALUES (29,'Красноярск',POINT(-5.1344265,-95.582150));
+VALUES (29,'Красноярск',POINT(22.8667635,-58.876179));
 
 INSERT INTO capitals (capital_id,capital_name,capital_location)
-VALUES (30,'Пермь',POINT(-11.6147515,-25.663353));
+VALUES (30,'Пермь',POINT(-8.6992665,57.930832));
 
 INSERT INTO capitals (capital_id,capital_name,capital_location)
-VALUES (31,'Владивосток',POINT(-81.4090045,-42.142397));
+VALUES (31,'Владивосток',POINT(-67.151368,124.208543));
 
 INSERT INTO capitals (capital_id,capital_name,capital_location)
-VALUES (32,'Ставрополь',POINT(-68.5434085,-21.878037));
+VALUES (32,'Ставрополь',POINT(77.880996,-97.233289));
 
 INSERT INTO capitals (capital_id,capital_name,capital_location)
-VALUES (33,'Хабаровск',POINT(-26.445253,-166.557032));
+VALUES (33,'Хабаровск',POINT(86.4291105,148.956580));
 
 INSERT INTO capitals (capital_id,capital_name,capital_location)
-VALUES (34,'Благовещенск',POINT(-32.9455025,-63.052057));
+VALUES (34,'Благовещенск',POINT(-41.2254565,-172.733886));
 
 INSERT INTO capitals (capital_id,capital_name,capital_location)
-VALUES (35,'Архангельск',POINT(44.315438,72.456383));
+VALUES (35,'Архангельск',POINT(18.7830715,98.587017));
 
 INSERT INTO capitals (capital_id,capital_name,capital_location)
-VALUES (36,'Астрахань',POINT(84.2817835,-26.308003));
+VALUES (36,'Астрахань',POINT(-31.168292,126.426434));
 
 INSERT INTO capitals (capital_id,capital_name,capital_location)
-VALUES (37,'Белгород',POINT(-34.7981645,125.917047));
+VALUES (37,'Белгород',POINT(-44.345978,-28.417226));
 
 INSERT INTO capitals (capital_id,capital_name,capital_location)
-VALUES (38,'Брянск',POINT(-52.566237,179.713507));
+VALUES (38,'Брянск',POINT(86.931554,173.741185));
 
 INSERT INTO capitals (capital_id,capital_name,capital_location)
-VALUES (39,'Владимир',POINT(16.7353925,-32.671640));
+VALUES (39,'Владимир',POINT(32.406912,-28.738945));
 
 INSERT INTO capitals (capital_id,capital_name,capital_location)
-VALUES (40,'Волгоград',POINT(-20.618682,-85.612740));
+VALUES (40,'Волгоград',POINT(-83.340934,-75.193413));
 
 INSERT INTO capitals (capital_id,capital_name,capital_location)
-VALUES (41,'Вологда',POINT(-49.882497,-98.535896));
+VALUES (41,'Вологда',POINT(-73.173572,-4.788825));
 
 INSERT INTO capitals (capital_id,capital_name,capital_location)
-VALUES (42,'Воронеж',POINT(67.737511,45.121829));
+VALUES (42,'Воронеж',POINT(-80.7097095,65.089816));
 
 INSERT INTO capitals (capital_id,capital_name,capital_location)
-VALUES (43,'Запорожье',POINT(66.562495,-109.994388));
+VALUES (43,'Запорожье',POINT(-65.070955,-155.325753));
 
 INSERT INTO capitals (capital_id,capital_name,capital_location)
-VALUES (44,'Иваново',POINT(-89.734717,170.534880));
+VALUES (44,'Иваново',POINT(85.817586,49.983799));
 
 INSERT INTO capitals (capital_id,capital_name,capital_location)
-VALUES (45,'Иркутск',POINT(10.421351,-159.452957));
+VALUES (45,'Иркутск',POINT(-73.736463,-147.097739));
 
 INSERT INTO capitals (capital_id,capital_name,capital_location)
-VALUES (46,'Калининград',POINT(-56.8075335,-118.297307));
+VALUES (46,'Калининград',POINT(59.916169,31.583311));
 
 INSERT INTO capitals (capital_id,capital_name,capital_location)
-VALUES (47,'Калуга',POINT(36.398847,-66.201705));
+VALUES (47,'Калуга',POINT(7.429239,73.336587));
 
 INSERT INTO capitals (capital_id,capital_name,capital_location)
-VALUES (48,'Кемерово',POINT(38.7655815,50.154837));
+VALUES (48,'Кемерово',POINT(21.971532,52.487808));
 
 INSERT INTO capitals (capital_id,capital_name,capital_location)
-VALUES (49,'Киров',POINT(76.878793,-30.987445));
+VALUES (49,'Киров',POINT(45.4912905,55.497809));
 
 INSERT INTO capitals (capital_id,capital_name,capital_location)
-VALUES (50,'Кострома',POINT(-61.9425535,-168.605607));
+VALUES (50,'Кострома',POINT(-40.057484,-123.249484));
 
 INSERT INTO capitals (capital_id,capital_name,capital_location)
-VALUES (51,'Курган',POINT(6.0437595,167.672745));
+VALUES (51,'Курган',POINT(67.344013,-129.328939));
 
 INSERT INTO capitals (capital_id,capital_name,capital_location)
-VALUES (52,'Курск',POINT(-89.620751,55.159077));
+VALUES (52,'Курск',POINT(-51.933218,-102.842737));
 
 INSERT INTO capitals (capital_id,capital_name,capital_location)
-VALUES (53,'Гатчина',POINT(-59.3729975,-47.447449));
+VALUES (53,'Гатчина',POINT(-11.4902175,-175.118732));
 
 INSERT INTO capitals (capital_id,capital_name,capital_location)
-VALUES (54,'Липецк',POINT(-38.7817775,-2.320097));
+VALUES (54,'Липецк',POINT(-10.2121265,-67.529350));
 
 INSERT INTO capitals (capital_id,capital_name,capital_location)
-VALUES (55,'Магадан',POINT(-47.9697665,-64.762500));
+VALUES (55,'Магадан',POINT(65.5479935,111.638185));
 
 INSERT INTO capitals (capital_id,capital_name,capital_location)
-VALUES (56,'Москва',POINT(-51.623491,45.092815));
+VALUES (56,'Москва',POINT(60.436470,-83.188088));
 
 INSERT INTO capitals (capital_id,capital_name,capital_location)
-VALUES (57,'Мурманск',POINT(79.7655105,178.289669));
+VALUES (57,'Мурманск',POINT(-67.5183295,75.174569));
 
 INSERT INTO capitals (capital_id,capital_name,capital_location)
-VALUES (58,'Нижний Новгород',POINT(-66.007331,-21.010803));
+VALUES (58,'Нижний Новгород',POINT(-60.2842615,114.583580));
 
 INSERT INTO capitals (capital_id,capital_name,capital_location)
-VALUES (59,'Великий Новгород',POINT(-71.4386745,88.861469));
+VALUES (59,'Великий Новгород',POINT(-56.4062085,175.846878));
 
 INSERT INTO capitals (capital_id,capital_name,capital_location)
-VALUES (60,'Новосибирск',POINT(-74.697576,112.207579));
+VALUES (60,'Новосибирск',POINT(48.2588255,62.389612));
 
 INSERT INTO capitals (capital_id,capital_name,capital_location)
-VALUES (61,'Омск',POINT(-36.125006,149.506544));
+VALUES (61,'Омск',POINT(40.320213,34.051910));
 
 INSERT INTO capitals (capital_id,capital_name,capital_location)
-VALUES (62,'Оренбург',POINT(-38.417800,-136.159167));
+VALUES (62,'Оренбург',POINT(27.1013295,96.554102));
 
 INSERT INTO capitals (capital_id,capital_name,capital_location)
-VALUES (63,'Орёл',POINT(17.0269605,-30.362395));
+VALUES (63,'Орёл',POINT(-2.3289595,135.464866));
 
 INSERT INTO capitals (capital_id,capital_name,capital_location)
-VALUES (64,'Пенза',POINT(-68.4258905,45.880680));
+VALUES (64,'Пенза',POINT(64.878815,43.510811));
 
 INSERT INTO capitals (capital_id,capital_name,capital_location)
-VALUES (65,'Псков',POINT(-37.9633235,-113.030032));
+VALUES (65,'Псков',POINT(-66.8830055,129.924051));
 
 INSERT INTO capitals (capital_id,capital_name,capital_location)
-VALUES (66,'Ростов-на-Дону',POINT(38.6385755,97.495966));
+VALUES (66,'Ростов-на-Дону',POINT(21.924023,48.389104));
 
 INSERT INTO capitals (capital_id,capital_name,capital_location)
-VALUES (67,'Рязань',POINT(53.217188,-98.407495));
+VALUES (67,'Рязань',POINT(73.518065,23.604238));
 
 INSERT INTO capitals (capital_id,capital_name,capital_location)
-VALUES (68,'Самара',POINT(22.925943,-122.474866));
+VALUES (68,'Самара',POINT(12.7642865,19.553397));
 
 INSERT INTO capitals (capital_id,capital_name,capital_location)
-VALUES (69,'Саратов',POINT(16.3533955,14.694977));
+VALUES (69,'Саратов',POINT(-1.698250,-34.135280));
 
 INSERT INTO capitals (capital_id,capital_name,capital_location)
-VALUES (70,'Южно-Сахалинск',POINT(-54.0977235,-81.680274));
+VALUES (70,'Южно-Сахалинск',POINT(-40.3463365,12.780230));
 
 INSERT INTO capitals (capital_id,capital_name,capital_location)
-VALUES (71,'Екатеринбург',POINT(68.8039525,45.190936));
+VALUES (71,'Екатеринбург',POINT(87.4516795,-109.403617));
 
 INSERT INTO capitals (capital_id,capital_name,capital_location)
-VALUES (72,'Смоленск',POINT(75.377430,-33.523682));
+VALUES (72,'Смоленск',POINT(-0.8643425,129.297764));
 
 INSERT INTO capitals (capital_id,capital_name,capital_location)
-VALUES (73,'Тамбов',POINT(81.3634805,106.636149));
+VALUES (73,'Тамбов',POINT(-23.9294535,175.800396));
 
 INSERT INTO capitals (capital_id,capital_name,capital_location)
-VALUES (74,'Тверь',POINT(-11.992566,35.426320));
+VALUES (74,'Тверь',POINT(25.433559,-178.920362));
 
 INSERT INTO capitals (capital_id,capital_name,capital_location)
-VALUES (75,'Томск',POINT(-54.6121265,-170.590008));
+VALUES (75,'Томск',POINT(-38.2800725,-143.432848));
 
 INSERT INTO capitals (capital_id,capital_name,capital_location)
-VALUES (76,'Тула',POINT(88.279853,-62.073007));
+VALUES (76,'Тула',POINT(-14.818509,134.197414));
 
 INSERT INTO capitals (capital_id,capital_name,capital_location)
-VALUES (77,'Тюмень',POINT(38.000632,173.598800));
+VALUES (77,'Тюмень',POINT(61.390887,124.910888));
 
 INSERT INTO capitals (capital_id,capital_name,capital_location)
-VALUES (78,'Ульяновск',POINT(-47.175873,-137.124535));
+VALUES (78,'Ульяновск',POINT(-51.711059,-33.734480));
 
 INSERT INTO capitals (capital_id,capital_name,capital_location)
-VALUES (79,'Херсон',POINT(-45.382273,-93.855006));
+VALUES (79,'Херсон',POINT(3.1348195,-130.909860));
 
 INSERT INTO capitals (capital_id,capital_name,capital_location)
-VALUES (80,'Челябинск',POINT(-36.706187,-141.004953));
+VALUES (80,'Челябинск',POINT(30.791788,-127.711089));
 
 INSERT INTO capitals (capital_id,capital_name,capital_location)
-VALUES (81,'Ярославль',POINT(33.115786,67.655329));
+VALUES (81,'Ярославль',POINT(-86.3290325,112.203188));
 
 INSERT INTO capitals (capital_id,capital_name,capital_location)
-VALUES (82,'г.Москва',POINT(50.530749,-119.231366));
+VALUES (82,'г.Москва',POINT(7.3561765,95.024086));
 
 INSERT INTO capitals (capital_id,capital_name,capital_location)
-VALUES (83,'Санкт-Петербург',POINT(9.8817525,-112.546311));
+VALUES (83,'Санкт-Петербург',POINT(-69.7256595,-168.264737));
 
 INSERT INTO capitals (capital_id,capital_name,capital_location)
-VALUES (84,'Севастополь',POINT(-88.8023125,137.976029));
+VALUES (84,'Севастополь',POINT(-0.5926865,-173.391674));
 
 INSERT INTO capitals (capital_id,capital_name,capital_location)
-VALUES (85,'Биробиджан',POINT(-10.096964,125.698781));
+VALUES (85,'Биробиджан',POINT(-33.534082,-169.729334));
 
 INSERT INTO capitals (capital_id,capital_name,capital_location)
-VALUES (86,'Нарьян-Мар',POINT(-83.7389195,-5.640549));
+VALUES (86,'Нарьян-Мар',POINT(68.175548,10.611307));
 
 INSERT INTO capitals (capital_id,capital_name,capital_location)
-VALUES (87,'Ханты-Мансийск',POINT(66.785640,90.571868));
+VALUES (87,'Ханты-Мансийск',POINT(-22.0356695,-141.998659));
 
 INSERT INTO capitals (capital_id,capital_name,capital_location)
-VALUES (88,'Анадырь',POINT(35.266560,47.840709));
+VALUES (88,'Анадырь',POINT(32.955200,115.560731));
 
 INSERT INTO capitals (capital_id,capital_name,capital_location)
-VALUES (89,'Салехард',POINT(-86.505736,173.184370));
+VALUES (89,'Салехард',POINT(55.861698,169.781680));
 

@@ -5,6 +5,6 @@ CREATE TABLE IF NOT EXISTS trips (
 	start_date DATE,
 	end_date DATE,
 	description TEXT,
-	status_id INT,
-	access_id INT
+	status_id INT NOT NULL REFERENCES trip_statuses(trip_status_id),
+	access_id INT NOT NULL REFERENCES accesses(access_id)
 );

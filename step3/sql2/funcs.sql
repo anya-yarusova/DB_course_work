@@ -102,6 +102,7 @@ BEGIN
 END;
 $$ LANGUAGE plpgsql;
 
+
 CREATE OR REPLACE FUNCTION add_route_to_trip(
     p_route_id int,
     p_trip_id int
@@ -127,3 +128,47 @@ END;
 $$ LANGUAGE plpgsql;
 
 
+CREATE OR REPLACE FUNCTION add_place(
+    p_name text,
+    p_description text,
+    p_location point,
+    p_access_id int
+)
+    RETURNS VOID AS $$
+DECLARE
+    is_exist_access INTEGER;
+BEGIN
+    SELECT COUNT(*) INTO is_exist_access FROM accesses where accesses.access_id = p_access_id;
+    IF is_exist_access <> 1 THEN
+        RAISE EXCEPTION 'Ошибка в доступности маршрута';
+    END IF;
+
+    INSERT INTO places (name, description, location, access_id)
+    VALUES (p_name, p_description, p_location, p_access_id);
+END;
+$$ LANGUAGE plpgsql;
+
+
+CREATE OR REPLACE FUNCTION add_place_to_route(
+    p_place_id int,
+    p_route_id int
+)
+    RETURNS VOID AS $$
+DECLARE
+    is_exist_route INTEGER;
+    is_exist_place INTEGER;
+BEGIN
+    SELECT COUNT(*) INTO is_exist_route FROM routes where routes.route_id = p_route_id;
+    IF is_exist_route <> 1 THEN
+        RAISE EXCEPTION 'Ошибка маршруте';
+    END IF;
+
+    SELECT COUNT(*) INTO is_exist_place FROM places where places.place_id = place_id;
+    IF is_exist_place <> 1 THEN
+        RAISE EXCEPTION 'Ошибка в месте';
+    END IF;
+
+    INSERT INTO route_places (route_id, place_id)
+    VALUES (p_route_id, p_place_id);
+END;
+$$ LANGUAGE plpgsql;
