@@ -47,7 +47,7 @@ BEGIN
     field_count := (CASE WHEN NEW.trip_id IS NOT NULL THEN 1 ELSE 0 END) +
                    (CASE WHEN NEW.place_id IS NOT NULL THEN 1 ELSE 0 END) +
                    (CASE WHEN NEW.route_id IS NOT NULL THEN 1 ELSE 0 END);
-    -- Проверяем условие, что только одно поле должно быть задано
+
     IF field_count = 1 THEN
         RETURN NEW;
     ELSE
