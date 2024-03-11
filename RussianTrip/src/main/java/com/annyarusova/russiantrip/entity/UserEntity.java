@@ -33,7 +33,7 @@ public class UserEntity {
     @Column(name = "birt_date", columnDefinition = "DATE")
     private LocalDate birtDate;
 
-    @ManyToMany()
+    @ManyToMany(cascade=CascadeType.ALL)
     @JoinTable(
             name = "friends",
             joinColumns = @JoinColumn(name = "user1_login", nullable = false),

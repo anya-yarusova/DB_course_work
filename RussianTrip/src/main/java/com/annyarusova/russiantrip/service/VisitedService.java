@@ -28,11 +28,11 @@ public class VisitedService {
     public List<RegionDto> getRegionRepository(String login) {
         Optional<UserEntity> user = userRepository.findByLogin(login);
         if (user.isEmpty()) {
-            throw new IllegalArgumentException("Пользователь не найден");
+            throw new IllegalArgumentException("Пользователь " + login + "не найден");
         }
         Optional<MapEntity> map = mapRepository.findByLogin(user.get());
         if (map.isEmpty()) {
-            throw new IllegalArgumentException("Карта пользователя не найдена");
+            throw new IllegalArgumentException("Карта пользователя "  + login +" не найдена");
         }
         List<RegionEntity> visitedRegions = map.get().getRegions();
         List<RegionEntity> regions = regionRepository.findAll();
@@ -43,11 +43,11 @@ public class VisitedService {
     public void visitRegion(String login, Integer regionId) {
         Optional<UserEntity> user = userRepository.findByLogin(login);
         if (user.isEmpty()) {
-            throw new IllegalArgumentException("Пользователь не найден");
+            throw new IllegalArgumentException("Пользователь " + login + "не найден");
         }
         Optional<MapEntity> map = mapRepository.findByLogin(user.get());
         if (map.isEmpty()) {
-            throw new IllegalArgumentException("Карта пользователя не найдена");
+            throw new IllegalArgumentException("Карта пользователя "  + login +" не найдена");
         }
         RegionEntity region = regionRepository.findById(regionId).orElseThrow(() -> new IllegalArgumentException("Регион не найден"));
         if (map.get().getRegions().contains(region)) {
@@ -60,11 +60,11 @@ public class VisitedService {
     public void unvisitRegion(String login, Integer regionId) {
         Optional<UserEntity> user = userRepository.findByLogin(login);
         if (user.isEmpty()) {
-            throw new IllegalArgumentException("Пользователь не найден");
+            throw new IllegalArgumentException("Пользователь " + login + "не найден");
         }
         Optional<MapEntity> map = mapRepository.findByLogin(user.get());
         if (map.isEmpty()) {
-            throw new IllegalArgumentException("Карта пользователя не найдена");
+            throw new IllegalArgumentException("Карта пользователя "  + login +" не найдена");
         }
         RegionEntity region = regionRepository.findById(regionId).orElseThrow(() -> new IllegalArgumentException("Регион не найден"));
         if (!map.get().getRegions().contains(region)) {
@@ -77,11 +77,11 @@ public class VisitedService {
     public double getVisitedPercent(String login) {
         Optional<UserEntity> user = userRepository.findByLogin(login);
         if (user.isEmpty()) {
-            throw new IllegalArgumentException("Пользователь не найден");
+            throw new IllegalArgumentException("Пользователь " + login + "не найден");
         }
         Optional<MapEntity> map = mapRepository.findByLogin(user.get());
         if (map.isEmpty()) {
-            throw new IllegalArgumentException("Карта пользователя не найдена");
+            throw new IllegalArgumentException("Карта пользователя "  + login +" не найдена");
         }
         List<RegionEntity> visitedRegions = map.get().getRegions();
         List<RegionEntity> regions = regionRepository.findAll();

@@ -15,7 +15,7 @@ public class FriendController {
     @Autowired
     private FriendService friendService;
     @PostMapping("/add")
-    public ResponseEntity registerUser(@RequestParam String user, @RequestParam String friendLogin) {
+    public ResponseEntity addFriend(@RequestParam String user, @RequestParam String friendLogin) {
         try {
             friendService.addFriend(user, friendLogin);
             return ResponseEntity.ok("Друг успешно добавлен");
