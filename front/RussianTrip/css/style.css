@@ -1,0 +1,36 @@
+body {
+  /* font-family: ; */
+  /* font-size: ; */
+  /* line-height: ; */
+  /* font-weight: ; */
+  /* font-style: ; */
+  color: var(--c-text);
+  background-color: var(--c-body);
+}
+.header{
+  height: 50px;
+  margin-top: 15px;
+}
+
+h2{
+  margin: 20px;
+}
+
+.send_friend_request{
+  border: 1px solid #212529;
+  border-radius: 0.375rem;
+  padding: 0.375rem 0.75rem;
+}
+
+.btn{
+  margin: 15px;
+}
+/* header */
+
+/* block_1 */
+
+/* block_2 */
+
+/* block_* */
+
+/* footer */

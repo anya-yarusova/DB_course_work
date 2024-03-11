@@ -1,0 +1,93 @@
+<li><input type="checkbox" name="region" id="">Адыгея</li>
+<li><input type="checkbox" name="region" id="">Республика Алтай</li>
+<li><input type="checkbox" name="region" id="">Башкортостан</li>
+<li><input type="checkbox" name="region" id="">Бурятия</li>
+<li><input type="checkbox" name="region" id="">Дагестан</li>
+<li><input type="checkbox" name="region" id="">ДНP</li>
+<li><input type="checkbox" name="region" id="">Ингушетия</li>
+<li><input type="checkbox" name="region" id="">Кабардино-Балкария</li>
+<li><input type="checkbox" name="region" id="">Калмыкия</li>
+<li><input type="checkbox" name="region" id="">Карачаево-Черкесия</li>
+<li><input type="checkbox" name="region" id="">Карелия</li>
+<li><input type="checkbox" name="region" id="">Республика Коми</li>
+<li><input type="checkbox" name="region" id="">Республика Крым[1]</li>
+<li><input type="checkbox" name="region" id="">ЛНР</li>
+<li><input type="checkbox" name="region" id="">Марий Эл</li>
+<li><input type="checkbox" name="region" id="">Мордовия</li>
+<li><input type="checkbox" name="region" id="">Якутия</li>
+<li><input type="checkbox" name="region" id="">Северная Осетия</li>
+<li><input type="checkbox" name="region" id="">Татарстан</li>
+<li><input type="checkbox" name="region" id="">Тыва</li>
+<li><input type="checkbox" name="region" id="">Удмуртия</li>
+<li><input type="checkbox" name="region" id="">Хакасия</li>
+<li><input type="checkbox" name="region" id="">Чечня</li>
+<li><input type="checkbox" name="region" id="">Чувашия</li>
+<li><input type="checkbox" name="region" id="">Алтайский край</li>
+<li><input type="checkbox" name="region" id="">Забайкальский край</li>
+<li><input type="checkbox" name="region" id="">Камчатский край</li>
+<li><input type="checkbox" name="region" id="">Краснодарский край</li>
+<li><input type="checkbox" name="region" id="">Красноярский край</li>
+
+
+<li><input type="checkbox" name="region" id="">Пермский край</li>
+<li><input type="checkbox" name="region" id="">Приморский край</li>
+<li><input type="checkbox" name="region" id="">Ставропольский край</li>
+<li><input type="checkbox" name="region" id="">Хабаровский край</li>
+<li><input type="checkbox" name="region" id="">Амурская область</li>
+<li><input type="checkbox" name="region" id="">Архангельская область</li>
+<li><input type="checkbox" name="region" id="">Астраханская область</li>
+<li><input type="checkbox" name="region" id="">Белгородская область</li>
+<li><input type="checkbox" name="region" id="">Брянская область</li>
+<li><input type="checkbox" name="region" id="">Владимирская область</li>
+<li><input type="checkbox" name="region" id="">Волгоградская область</li>
+<li><input type="checkbox" name="region" id="">Вологодская область</li>
+<li><input type="checkbox" name="region" id="">Воронежская область</li>
+<li><input type="checkbox" name="region" id="">Запорожская область</li>
+<li><input type="checkbox" name="region" id="">Ивановская область</li>
+<li><input type="checkbox" name="region" id="">Иркутская область</li>
+<li><input type="checkbox" name="region" id="">Калининградская область</li>
+<li><input type="checkbox" name="region" id="">Калужская область</li>
+<li><input type="checkbox" name="region" id="">Кемеровская область</li>
+<li><input type="checkbox" name="region" id="">Кировская область</li>
+<li><input type="checkbox" name="region" id="">Костромская область</li>
+<li><input type="checkbox" name="region" id="">Курганская область</li>
+<li><input type="checkbox" name="region" id="">Курская область</li>
+<li><input type="checkbox" name="region" id="">Ленинградская область</li>
+<li><input type="checkbox" name="region" id="">Липецкая область</li>
+<li><input type="checkbox" name="region" id="">Магаданская область</li>
+<li><input type="checkbox" name="region" id="">Московская область</li>
+
+
+<li><input type="checkbox" name="region" id="">Мурманская область</li>
+<li><input type="checkbox" name="region" id="">Нижегородская область</li>
+<li><input type="checkbox" name="region" id="">Новгородская область</li>
+<li><input type="checkbox" name="region" id="">Новосибирская область</li>
+<li><input type="checkbox" name="region" id="">Омская область</li>
+<li><input type="checkbox" name="region" id="">Оренбургская область</li>
+<li><input type="checkbox" name="region" id="">Орловская область</li>
+<li><input type="checkbox" name="region" id="">Пензенская область</li>
+<li><input type="checkbox" name="region" id="">Псковская область</li>
+<li><input type="checkbox" name="region" id="">Ростовская область</li>
+<li><input type="checkbox" name="region" id="">Рязанская область</li>
+<li><input type="checkbox" name="region" id="">Самарская область</li>
+<li><input type="checkbox" name="region" id="">Саратовская область</li>
+<li><input type="checkbox" name="region" id="">Сахалинская область</li>
+<li><input type="checkbox" name="region" id="">Свердловская область</li>
+<li><input type="checkbox" name="region" id="">Смоленская область</li>
+<li><input type="checkbox" name="region" id="">Тамбовская область</li>
+<li><input type="checkbox" name="region" id="">Тверская область</li>
+<li><input type="checkbox" name="region" id="">Томская область</li>
+<li><input type="checkbox" name="region" id="">Тульская область</li>
+<li><input type="checkbox" name="region" id="">Тюменская область</li>
+<li><input type="checkbox" name="region" id="">Ульяновская область</li>
+<li><input type="checkbox" name="region" id="">Херсонская область</li>
+<li><input type="checkbox" name="region" id="">Челябинская область</li>
+<li><input type="checkbox" name="region" id="">Ярославская область</li>
+<li><input type="checkbox" name="region" id="">Москва</li>
+<li><input type="checkbox" name="region" id="">Санкт-Петербург</li>
+<li><input type="checkbox" name="region" id="">Севастополь</li>
+<li><input type="checkbox" name="region" id="">Еврейская автономная область</li>
+<li><input type="checkbox" name="region" id="">Ненецкий автономный округ</li>
+<li><input type="checkbox" name="region" id="">Ханты-Мансийский автономный округ — Югра</li>
+<li><input type="checkbox" name="region" id="">Чукотский автономный округ</li>
+<li><input type="checkbox" name="region" id="">Ямало-Ненецкий автономный округ</li>

@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="css/bootstrap.min.css">
+  <link rel="stylesheet" href="css/normalize.css">
+  <link rel="stylesheet" href="css/reset.css">
+  <link rel="stylesheet" href="css/root.css">
+  <link rel="stylesheet" href="css/font.css">
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="stylesheet" href="css/media_style.css">
+  <!-- <script src="js/"></script> -->
+  <title>
+    title of page
+  </title>
+</head>
+<body>
+  <header>
+    <!-- Семантичный тег навигации -->
+    <nav>
+      <ul>
+        <!-- Элемент списка -->
+        <li>
+          <!-- Ссылка навигации -->
+          <a href=""></a>
+          <!-- /Ссылка навигации -->
+        </li>
+        <!-- /Элемент списка -->
+      </ul>
+    </nav>
+    <!-- /Семантичный тег навигации -->
+  </header>
+
+  <main>
+    <!-- name_section - имя секции в виде класса: hero/about/faq/contacts etc -->
+    <!-- section.section.name_section*число блоков>container>.row>.col-12 -->
+  </main>
+
+  <footer>
+  </footer>
+</body>
+</html>

@@ -1,0 +1,404 @@
+/* box-sizing */
+
+html,
+.swiper-wrapper {
+  box-sizing: border-box;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: inherit;
+}
+
+/* width & height */
+
+body {
+  min-height: 100vh;
+  scroll-behavior: smooth;
+  overflow-x: hidden;
+}
+
+img {
+  max-width: 100%;
+  object-fit: cover;
+}
+
+.h-inherit {
+  min-height: inherit;
+}
+
+/* padding & margin */
+
+*,
+h1 {
+  padding: 0;
+  margin: 0;
+}
+
+h2,
+p,
+dl,
+ol,
+ul {
+  margin-bottom: 0;
+}
+
+ol,
+ul {
+  padding-left: 0;
+}
+
+dl,
+ol,
+ul {
+  margin-top: 0;
+}
+
+.pr-0 {
+  padding-right: 0;
+}
+
+.pl-0 {
+  padding-left: 0;
+}
+
+.mr-0 {
+  margin-right: 0;
+}
+
+.ml-0 {
+  margin-left: 0;
+}
+
+/* other */
+
+ul {
+  list-style: none;
+}
+
+button,
+input,
+textarea,
+select {
+  border: none;
+  background-color: transparent;
+}
+
+textarea {
+  resize: none;
+}
+
+a {
+  text-decoration-color: aquamarine;
+  text-decoration: none;
+}
+
+button,
+a {
+  color: inherit;
+  -webkit-tap-highlight-color: rgba(255, 255, 255, 0);
+  -webkit-tap-highlight-color: transparent;
+}
+
+label,
+button,
+a {
+  cursor: pointer;
+}
+
+/* position */
+
+.relative {
+  position: relative;
+}
+
+.absolute {
+  position: absolute;
+}
+
+/* display */
+
+.block {
+  display: block;
+}
+
+.inline-block {
+  display: inline-block;
+}
+
+.flex {
+  display: flex;
+}
+
+.mob,
+.block_mob,
+.inline-block_mob,
+.flex_mob {
+  display: none;
+}
+
+/* flex */
+
+.fd-r {
+  flex-direction: row;
+}
+
+.fd-c {
+  flex-direction: column;
+}
+
+.fd-rr {
+  flex-direction: row-reverse;
+}
+
+.fd-cr {
+  flex-direction: column-reverse;
+}
+
+.fw-w {
+  flex-wrap: wrap;
+}
+
+.fw-n {
+  flex-wrap: nowrap;
+}
+
+.jc-fs {
+  justify-content: flex-start;
+}
+
+.jc-c {
+  justify-content: center;
+}
+
+.jc-fe {
+  justify-content: flex-end;
+}
+
+.jc-sb {
+  justify-content: space-between;
+}
+
+.jc-sa {
+  justify-content: space-around;
+}
+
+.ai-fs {
+  align-items: flex-start;
+}
+
+.ai-c {
+  align-items: center;
+}
+
+.ai-fe {
+  align-items: flex-end;
+}
+
+/* text center */
+
+.ta-c {
+  text-align: center;
+}
+
+/* container */
+
+.container {
+  max-width: var(--w-container);
+  margin: 0 auto;
+}
+
+/* media */
+
+@media (min-width: 992px) {
+  .pr-lg-0 {
+    padding-right: 0;
+  }
+
+  .pl-lg-0 {
+    padding-left: 0;
+  }
+
+  .mr-lg-0 {
+    margin-right: 0;
+  }
+
+  .ml-lg-0 {
+    margin-left: 0;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  .pr-md-0 {
+    padding-right: 0;
+  }
+
+  .pl-md-0 {
+    padding-left: 0;
+  }
+
+  .mr-md-0 {
+    margin-right: 0;
+  }
+
+  .ml-md-0 {
+    margin-left: 0;
+  }
+}
+
+@media (min-width: 576px) and (max-width: 767px) {
+  .pr-sm-0 {
+    padding-right: 0;
+  }
+
+  .pl-sm-0 {
+    padding-left: 0;
+  }
+
+  .mr-sm-0 {
+    margin-right: 0;
+  }
+
+  .ml-sm-0 {
+    margin-left: 0;
+  }
+}
+
+@media (max-width: 575px) {
+  /* padding & margin */
+
+  .pr-0_mob {
+    padding-right: 0;
+  }
+
+  .pl-0_mob {
+    padding-left: 0;
+  }
+
+  .mr-0_mob {
+    margin-right: 0;
+  }
+
+  .ml-0_mob {
+    margin-left: 0;
+  }
+}
+
+@media (max-width: 768px) {
+  /* width & height */
+
+  .w-100_mob {
+    width: 100%;
+  }
+
+  .h-100_mob {
+    height: 100%;
+  }
+
+  /* position */
+
+  .relative_mob {
+    position: relative;
+  }
+
+  .absolute_mob {
+    position: absolute;
+  }
+
+  /* display */
+
+  .desktop {
+    display: none;
+  }
+
+  .none_mob {
+    display: none;
+  }
+
+  .mob {
+    display: inherit;
+  }
+
+  .block_mob {
+    display: block;
+  }
+
+  .inline-block_mob {
+    display: inline-block;
+  }
+
+  .flex_mob {
+    display: flex;
+  }
+
+  /* flex */
+
+  .fd-r_mob {
+    flex-direction: row;
+  }
+
+  .fd-c_mob {
+    flex-direction: column;
+  }
+
+  .fd-rr_mob {
+    flex-direction: row-reverse;
+  }
+
+  .fd-cr_mob {
+    flex-direction: column-reverse;
+  }
+
+  .fw-w_mob {
+    flex-wrap: wrap;
+  }
+
+  .fw-n_mob {
+    flex-wrap: nowrap;
+  }
+
+  .jc-fs_mob {
+    justify-content: flex-start;
+  }
+
+  .jc-c_mob {
+    justify-content: center;
+  }
+
+  .jc-fe_mob {
+    justify-content: flex-end;
+  }
+
+  .jc-sb_mob {
+    justify-content: space-between;
+  }
+
+  .jc-sa_mob {
+    justify-content: space-around;
+  }
+
+  .ai-fs_mob {
+    align-items: flex-start;
+  }
+
+  .ai-c_mob {
+    align-items: center;
+  }
+
+  .ai-fe_mob {
+    align-items: flex-end;
+  }
+
+  /* text center */
+
+  .ta-c_mob {
+    text-align: center;
+  }
+}
+
+/* conditions */
+
+*:focus {
+  outline: none;
+}

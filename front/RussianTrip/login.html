@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="css/bootstrap.min.css">
+  <link rel="stylesheet" href="css/normalize.css">
+  <link rel="stylesheet" href="css/reset.css">
+  <link rel="stylesheet" href="css/root.css">
+  <link rel="stylesheet" href="css/font.css">
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="stylesheet" href="css/media_style.css">
+  <script src="js/login.js"></script>
+  <title>
+    RUssianTrip
+  </title>
+</head>
+<body>
+  <header class="header">
+    <div class="container jc-c text-center">
+      <h1>
+        Авторизация
+      </h1>
+    </div>
+  </header>
+
+  <main>
+    <div class="container">
+      <div class="row jc-c">
+          <div class="col-md-4 text-center">
+              <p>Введите свой логин и пароль.</p>
+              <form id="loginForm" action="index.html" method="post">
+                  <div class="form-group">
+                      <label>
+                        Логин
+                      </label>
+                      <input type="text" id="loginInput" name="login" class="form-control" required />
+                  </div>
+                  <!-- поле ввода пароля -->
+                  <div class="form-group">
+                      <label>
+                        Пароль
+                      </label>
+                      <input type="password" id="passwordInput" name="password" class="form-control" required>
+                  </div>
+                  <!-- кнопка отправки данных на сервер -->
+                  <div class="form-group">
+                      <input type="submit" name="submit" class="btn btn-primary" value="Войти" >
+                  </div>
+                  <!-- ссылка для тех, у кого ещё нет аккаунта -->
+                  <p>Нет аккаунта? <a href="register.html">Создайте его за минуту</a>.</p>
+              </form>
+          </div>
+      </div>
+    </div>
+  </main>
+
+  <footer>
+  </footer>
+</body>
+</html>

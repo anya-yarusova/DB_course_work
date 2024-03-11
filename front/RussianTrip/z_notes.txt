@@ -1,0 +1,24 @@
+Блокнот разработчика
+
+Emmet
+. - div
+.block - <div class="block"></div>
+#block - <div id="block"></div>
+element.block - <element class="block"></element>
+
+> - Вложенность section>div
+<section>
+  <div></div>
+</section>
+
++ - Сосед (общий родитель) header+main
+<header></header>
+<main></main>
+
+* - Количество p*2
+<p></p>
+<p></p>
+
+lorem - Авто текст на англ
+loremru - На русском
+lorem*3 - авто текст из трех слов
