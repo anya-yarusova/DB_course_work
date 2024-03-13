@@ -27,10 +27,12 @@
           window.location.href = 'index.html';
         } else {
           console.error('Ошибка входа:', response.statusText);
+          alert('Поизошла ошибка, чекай логи:)');
         }
       })
       .catch(error => {
         console.error('Произошла ошибка:', error);
+        alert('Поизошла ошибка, чекай логи:)');
       });
     });
   });

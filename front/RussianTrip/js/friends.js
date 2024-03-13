@@ -30,13 +30,14 @@ function sendRequestToServer(friendLogin) {
     })
     .catch(error => {
       console.error('Произошла ошибка:', error);
+      alert('Поизошла ошибка, чекай логи:)');
     });
 }
 
 
 function sendDeleteRequestToServer(friendLogin) {
   var login = localStorage.getItem('loggedInUser')
-  
+
   fetch('http://localhost:8080/friends/remove?' + new URLSearchParams({ user: login, friendLogin: friendLogin }), {
     method: 'POST',
     headers: {
@@ -85,6 +86,7 @@ function getFriends() {
     })
     .catch(error => {
       console.error('Произошла ошибка:', error);
+      alert('Поизошла ошибка, чекай логи:)');
     });
 }
 
@@ -92,7 +94,7 @@ document.addEventListener("DOMContentLoaded", function () {
   getFriends();
   const sendFriendRequestBtn = document.querySelector(".send_friend_request");
   const friendsLoginInput = document.querySelector("input[name='friends_login']");
-  
+
 
   sendFriendRequestBtn.addEventListener("click", function () {
     const friendLogin = friendsLoginInput.value.trim();

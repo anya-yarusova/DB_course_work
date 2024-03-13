@@ -1,8 +1,9 @@
 import os.path
 
+from main import tables
 import psycopg2
 
-table_names = ['maps', 'users', 'capitals', 'regions', 'accesses', 'route_types', 'routes', 'places', 'trip_statuses', 'trips', 'comments', 'photos', 'trip_routes', 'route_places', 'participation', 'visited', 'friends']
+#table_names = ['maps', 'users', 'capitals', 'regions', 'accesses', 'route_types', 'routes', 'places', 'trip_statuses', 'trips', 'comments', 'photos', 'trip_routes', 'route_places', 'participation', 'visited', 'friends']
 
 table_names = [i.name for i in tables]
 triggers_by_table_name = {

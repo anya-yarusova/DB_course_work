@@ -3,8 +3,8 @@ import os.path
 from python.tables import *
 from python.base import Table
 
-tables: List[Table] = [USER_TABLE, REGION_CAPITAL_TABLE, REGION_TABLE, ACCESS_TABLE,
-                       MAP_TABLE, ROUTE_TYPE_TABLE, ROUTE_TABLE, PLACE_TABLE,
+tables: List[Table] = [ACCESS_TABLE, MAP_TABLE, USER_TABLE, REGION_CAPITAL_TABLE, REGION_TABLE,
+                       ROUTE_TYPE_TABLE, ROUTE_TABLE, PLACE_TABLE,
                        TRIP_STATUS_TABLE, TRIP_TABLE, COMMENT_TABLE, PHOTO_TABLE,
                        TRIP_ROUTES_TABLE, ROUTE_PLACES_TABLE, PARTICIPATION_TABLE,
                        VISITED_TABLE, FRIENDS_TABLE]

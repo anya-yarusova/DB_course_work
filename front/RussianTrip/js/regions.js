@@ -15,6 +15,7 @@ function updatePercentage() {
   )
   .catch(error => {
     console.error('Произошла ошибка:', error);
+    alert('Поизошла ошибка, чекай логи:)');
   });
 }
 
@@ -42,6 +43,7 @@ function updatePercentage() {
     })
     .catch(error => {
       console.error('Произошла ошибка:', error);
+      alert('Поизошла ошибка, чекай логи:)');
     });
   }
 
@@ -64,6 +66,7 @@ function updatePercentage() {
     })
     .catch(error => {
       console.error('Произошла ошибка:', error);
+      alert('Поизошла ошибка, чекай логи:)');
     });
 
 // Обработчики событий для каждого checkbox
@@ -72,6 +75,6 @@ var checkboxes = document.querySelectorAll('input[type="checkbox"]');
 updatePercentage();
 
 checkboxes.forEach(function(checkbox) {
-  checkbox.addEventListener('change', sendData)
+  checkbox.addEventListener('change', sendData);
   checkbox.addEventListener('change', updatePercentage);
 });

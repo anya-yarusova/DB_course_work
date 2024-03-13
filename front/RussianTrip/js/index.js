@@ -6,3 +6,8 @@ function Hello(){
 function sendRequestToLogout(){
   localStorage.removeItem('loggedInUser')
 }
+
+Hello();
+var deleteButton = document.getElementById('det');
+
+deleteButton.addEventListener('click', sendRequestToLogout);

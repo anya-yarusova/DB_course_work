@@ -35,6 +35,7 @@ document.addEventListener("DOMContentLoaded", function() {
     })
     .catch(error => {
       console.error('Произошла ошибка:', error);
+      alert('Поизошла ошибка, чекай логи:)');
     });
   });
 });
